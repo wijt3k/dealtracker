@@ -570,6 +570,7 @@
             border: 1px solid var(--border);
             border-radius: 12px;
             overflow: hidden;
+            cursor: pointer;
             transition: all 0.3s ease;
             position: relative;
             display: grid;
@@ -1468,7 +1469,8 @@
                 }
 
                 return `
-                <div class="deal-card${deal.placeholder ? ' placeholder' : ''}" style="position: relative;">
+                <div class="deal-card${deal.placeholder ? ' placeholder' : ''}" style="position: relative;"
+                     data-deal-id="${deal.id}" data-deal-url="${safeUrl}" onclick="cardClick(event, this)">
                     ${isHot ? `<div class="popularity-bar" style="width: ${Math.min(popularity.views * 2, 100)}%"></div>` : ''}
                     <div class="deal-icon-col${(!deal.placeholder && deal.imageUrl) ? '' : ' no-image'}">${iconHtml}</div>
                     <div class="deal-content">
@@ -1629,9 +1631,21 @@
             const url = btn.getAttribute('data-deal-url');
             const id  = btn.getAttribute('data-deal-id');
             if (!url || url === '#') {
-                alert('Dit is een voorbeelddeal. Voeg echte deals toe via het admin panel (5× klik op logo).');
+                alert('Dit is een voorbeelddeal. Scraper voegt automatisch echte deals toe.');
                 return;
             }
+            trackClick(id);
+            window.open(url, '_blank');
+        }
+
+        // Clicking anywhere on the card opens the deal link.
+        // Ignores clicks on the button itself (already handled by viewDealBtn)
+        // and on favourite/share buttons.
+        function cardClick(event, card) {
+            if (event.target.closest('.view-deal-btn, .favorite-btn, .share-btn')) return;
+            const url = card.dataset.dealUrl;
+            const id  = card.dataset.dealId;
+            if (!url || url === '#') return;
             trackClick(id);
             window.open(url, '_blank');
         }
