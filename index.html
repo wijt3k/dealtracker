@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DealTracker - Retour & Outlet Deals met Prijsalerts</title>
-    <meta name="description" content="Volg elektronica retour en outlet deals met real-time prijsalerts. Vergelijk prijzen van Bol.com, Coolblue, MediaMarkt en meer.">
+    <meta name="description" content="Dagelijks bijgewerkte retour & outlet deals van Amazon RetourDeals en Breezy Returns. Bespaar tot 40% op elektronica, laptops, tv's en meer.">
     
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI0ZGNkIzNSIgcng9IjIwIi8+CiAgPHRleHQgeD0iNTAiIHk9IjcwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RDwvdGV4dD4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjI1IiByPSI4IiBmaWxsPSIjRjdCODAxIi8+Cjwvc3ZnPg==">
@@ -12,8 +12,8 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://dealtracker.nl/">
-    <meta property="og:title" content="DealTracker - Retour & Outlet Deals met Prijsalerts">
-    <meta property="og:description" content="Vind de beste elektronica retour en outlet deals met real-time prijsalerts. Vergelijk prijzen van Bol.com, Coolblue, MediaMarkt en meer. Bespaar tot 40%!">
+    <meta property="og:title" content="DealTracker - Retour & Outlet Deals">
+    <meta property="og:description" content="Dagelijks bijgewerkte retour & outlet deals van Amazon RetourDeals en Breezy Returns. Bespaar tot 40% op elektronica, laptops, tv's en meer.">
     <meta property="og:image" content="https://dealtracker.nl/og-image.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -23,7 +23,7 @@
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://dealtracker.nl/">
     <meta property="twitter:title" content="DealTracker - Retour & Outlet Deals">
-    <meta property="twitter:description" content="Vind de beste elektronica retour deals met prijsalerts. Bespaar tot 40%!">
+    <meta property="twitter:description" content="Dagelijks retour & outlet deals van Amazon en Breezy Returns. Bespaar tot 40% op elektronica.">
     <meta property="twitter:image" content="https://dealtracker.nl/og-image.png">
     <meta property="twitter:creator" content="@dealtracker">
 
@@ -582,8 +582,10 @@
         .deal-icon-col img {
             width: 100%;
             height: 100%;
-            object-fit: cover;
+            object-fit: contain;
             object-position: center;
+            background: #fff;
+            padding: 4px;
         }
 
         .deal-icon-col.no-image {
@@ -984,6 +986,26 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        /* On small phones: compact the trust bar to a single icon row so
+           deals appear as high as possible on screen. */
+        @media (max-width: 600px) {
+            .trust-bar {
+                padding: 0.5rem 1rem;
+            }
+            .trust-content {
+                flex-direction: row;
+                flex-wrap: nowrap;
+                gap: 1rem;
+                overflow-x: auto;
+                justify-content: flex-start;
+                scrollbar-width: none;
+            }
+            .trust-content::-webkit-scrollbar { display: none; }
+            .trust-text { display: none; }
+            .trust-item { flex-shrink: 0; }
+            .trust-icon { font-size: 1.1rem; }
+        }
         
         @media (max-width: 480px) {
             .deal-card {
@@ -995,12 +1017,18 @@
                 height: 60px;
                 font-size: 1.5rem;
                 overflow: hidden;
+                flex-shrink: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
             }
 
             .deal-icon-col img {
                 width: 100%;
                 height: 100%;
-                object-fit: cover;
+                object-fit: contain;
+                background: #fff;
+                padding: 3px;
             }
             
             .deal-content {
@@ -1173,16 +1201,6 @@
     </div>
 
     <main>
-        <!-- Newsletter Section -->
-        <div class="newsletter-section">
-            <h3>📬 Krijg prijsalerts</h3>
-            <p>Ontvang notificaties van nieuwe deals direct in je inbox!</p>
-            <div class="newsletter-form">
-                <input type="email" id="newsletterEmail" placeholder="jouw@email.com" required>
-                <button onclick="subscribeNewsletter()">Abonneren</button>
-            </div>
-        </div>
-
         <div style="padding: 0.5rem 0 1rem 0; display: flex; gap: 0.5rem; flex-wrap: wrap;">
             <span style="font-size: 0.8rem; color: var(--text-secondary); align-self: center;">Bronnen:</span>
             <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">📦 Amazon RetourDeals</span>
@@ -1249,6 +1267,16 @@
                 <p style="color: var(--text-secondary); margin-top: 1rem; max-width: 400px; margin-left: auto; margin-right: auto;">
                     Er zijn nog geen deals toegevoegd. Deals worden direct op alle bezoekers zichtbaar zodra ze zijn toegevoegd.
                 </p>
+            </div>
+        </div>
+
+        <!-- Newsletter Section — at the bottom so deals load first -->
+        <div class="newsletter-section" style="margin-top: 2rem;">
+            <h3>📬 Krijg prijsalerts</h3>
+            <p>Ontvang notificaties van nieuwe deals direct in je inbox!</p>
+            <div class="newsletter-form">
+                <input type="email" id="newsletterEmail" placeholder="jouw@email.com" required>
+                <button onclick="subscribeNewsletter()">Abonneren</button>
             </div>
         </div>
     </main>
