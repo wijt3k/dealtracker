@@ -1119,10 +1119,6 @@
     </style>
 
     <!-- Google Analytics - Replace G-XXXXXXXXXX with your actual ID -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX
-    </style>
-
-    <!-- Google Analytics - Replace G-XXXXXXXXXX with your actual ID -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -1189,9 +1185,8 @@
 
         <div style="padding: 0.5rem 0 1rem 0; display: flex; gap: 0.5rem; flex-wrap: wrap;">
             <span style="font-size: 0.8rem; color: var(--text-secondary); align-self: center;">Bronnen:</span>
-            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">🔌 Stekkerstore</span>
-            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">🔴 MediaMarkt Outlet</span>
-            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">🛒 Breezy Retourkansjes</span>
+            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">📦 Amazon RetourDeals</span>
+            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">♻️ Breezy Returns</span>
         </div>
 
         <div class="controls">
@@ -1229,9 +1224,8 @@
                 <label>Bron</label>
                 <select id="sourceFilter">
                     <option value="">Alle bronnen</option>
-                    <option value="stekkerstore">🔌 Stekkerstore</option>
-                    <option value="mediamarkt">🔴 MediaMarkt Outlet</option>
-                    <option value="bol">🛒 Breezy Retourkansjes</option>
+                    <option value="amazon retourdeals">📦 Amazon RetourDeals</option>
+                    <option value="breezy">♻️ Breezy Returns</option>
                 </select>
             </div>
             <div class="filter-group">
@@ -1452,12 +1446,68 @@
             return `${days}d geleden`;
         }
 
+        // Helper: normalise a scraped deal's fields so the rest of the code always
+        // works regardless of which naming convention was used.
+        function normaliseDeal(deal) {
+            const price         = deal.price          ?? deal.currentPrice    ?? 0;
+            const originalPrice = deal.original_price ?? deal.originalPrice   ?? null;
+            const discountPct   = deal.discount_percent ?? deal.discount      ?? 0;
+            const sourceName    = deal.sourceName ?? deal.source ?? '';
+            const sourceLogo    = deal.sourceLogo ?? getSourceLogo(deal.source ?? '');
+            const category      = (deal.category && deal.category !== 'elektronica')
+                                    ? deal.category
+                                    : getCategoryFromTitle(deal.title || '');
+            const condition     = deal.condition === deal.source
+                                    ? 'Retour'           // scraper sets condition = seller name
+                                    : (deal.condition || 'Retour');
+            const imageUrl      = deal.image || '';
+            const icon          = deal.icon || getCategoryIcon(category);
+            const timeSince     = deal.found_at
+                                    ? getTimeSince(new Date(deal.found_at).getTime())
+                                    : '';
+            return {
+                ...deal,
+                price, originalPrice, discountPct,
+                sourceName, sourceLogo, category, condition,
+                imageUrl, icon, timeSince
+            };
+        }
+
+        function getSourceLogo(source) {
+            const s = (source || '').toLowerCase();
+            if (s.includes('breezy'))  return '♻️';
+            if (s.includes('amazon')) return '📦';
+            return '🛒';
+        }
+
+        function getCategoryIcon(cat) {
+            const icons = { laptops:'💻', smartphones:'📱', tablets:'📱', audio:'🎧',
+                            gaming:'🎮', tv:'📺', huishouden:'🏠', wearables:'⌚',
+                            camera:'📷', elektronica:'⚡' };
+            return icons[cat] || '📦';
+        }
+
+        function getCategoryFromTitle(title) {
+            const t = title.toLowerCase();
+            if (/laptop|notebook|macbook|chromebook/.test(t))          return 'laptops';
+            if (/iphone|samsung galaxy|smartphone|telefoon/.test(t))    return 'smartphones';
+            if (/ipad|tablet/.test(t))                                  return 'tablets';
+            if (/airpods|headset|headphone|earphone|speaker|koptelefoon|audio/.test(t)) return 'audio';
+            if (/rtx|geforce|gaming|xbox|playstation|nintendo|gpu/.test(t)) return 'gaming';
+            if (/\btv\b|oled|qled|monitor|televisie|display/.test(t))   return 'tv';
+            if (/koelkast|wasmachine|vaatwasser|airfryer|oven|stofzuiger|robotstofzuiger|roomba|vriezer/.test(t)) return 'huishouden';
+            if (/\bwatch\b|horloge|smartwatch|fitbit|garmin/.test(t))   return 'wearables';
+            if (/camera|drone|nikon|canon|sony.*(alpha|a7)|gopro/.test(t)) return 'camera';
+            return 'elektronica';
+        }
+
         function calculateCuratorScore(deal, popularity) {
             // High discount + high clicks = curator pick
+            const discountPct = deal.discountPct ?? deal.discount_percent ?? deal.discount ?? 0;
             let score = 0;
-            if (deal.discount >= 35) score += 3;
-            else if (deal.discount >= 25) score += 2;
-            else if (deal.discount >= 15) score += 1;
+            if (discountPct >= 35) score += 3;
+            else if (discountPct >= 25) score += 2;
+            else if (discountPct >= 15) score += 1;
             
             if (popularity.views > 20) score += 2;
             else if (popularity.views > 10) score += 1;
@@ -1674,19 +1724,24 @@
                 return;
             }
 
-            dealsList.innerHTML = dealsData.map(deal => `
+            dealsList.innerHTML = dealsData.map(deal => {
+                const nd = deal.placeholder ? deal : normaliseDeal(deal);
+                const price    = nd.price       ?? nd.currentPrice    ?? '?';
+                const origP    = nd.originalPrice ?? '?';
+                const src      = nd.sourceName  ?? nd.source ?? '';
+                return `
                 <div class="deal-list-item">
                     <div class="deal-list-info">
                         <h4>${deal.title}</h4>
-                        <p>€${deal.currentPrice} (was €${deal.originalPrice}) • ${deal.sourceName}</p>
+                        <p>€${typeof price === 'number' ? price.toFixed(2) : price} (was €${typeof origP === 'number' ? origP.toFixed(2) : origP}) • ${src}</p>
                     </div>
                     <div class="deal-list-actions">
-                        <button class="btn btn-danger btn-small" onclick="deleteDeal(${deal.id})">
+                        <button class="btn btn-danger btn-small" onclick="deleteDeal('${deal.id}')">
                             🗑️ Verwijder
                         </button>
                     </div>
                 </div>
-            `).join('');
+            `;}).join('');
         }
 
         // Placeholder deals shown when no real deals exist
@@ -1711,45 +1766,63 @@
                 </div>`;
             }
 
-            html += displayDeals.map(deal => {
+            html += displayDeals.map(rawDeal => {
+                const deal = rawDeal.placeholder ? rawDeal : normaliseDeal(rawDeal);
+
                 const popularity = getPopularity(deal.id);
                 const curatorScore = calculateCuratorScore(deal, popularity);
                 const isCuratorPick = curatorScore >= 5;
                 const isHot = popularity.views > 15 || parseFloat(popularity.clickRate) > 12;
-                const timeSince = deal.id ? getTimeSince(deal.id) : '';
-                
+
+                // For placeholder deals keep original fields
+                const displayPrice    = deal.placeholder ? deal.currentPrice    : deal.price;
+                const displayOriginal = deal.placeholder ? deal.originalPrice   : deal.originalPrice;
+                const displayDiscount = deal.placeholder ? deal.discount        : deal.discountPct;
+                const displaySource   = deal.placeholder ? `${deal.sourceLogo} ${deal.sourceName}` : `${deal.sourceLogo} ${deal.sourceName}`;
+                const displayCategory = deal.placeholder ? deal.category        : deal.category;
+                const displayCondition= deal.placeholder ? deal.condition       : deal.condition;
+                const displayTimeSince= deal.placeholder ? ''                   : deal.timeSince;
+
+                // Image column: real image if available, else emoji icon
+                const iconHtml = (!deal.placeholder && deal.imageUrl)
+                    ? `<img src="${deal.imageUrl}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='${deal.icon || '📦'}';">`
+                    : (deal.icon || deal.placeholder && deal.icon || '📦');
+
+                // Safe URL for data attribute (no need to worry about quotes)
+                const safeUrl = deal.url || '#';
+
                 // Track view when rendered
                 if (!deal.placeholder) {
                     setTimeout(() => trackView(deal.id), 100);
                 }
-                
+
                 return `
                 <div class="deal-card${deal.placeholder ? ' placeholder' : ''}" style="position: relative;">
                     ${isHot ? `<div class="popularity-bar" style="width: ${Math.min(popularity.views * 2, 100)}%"></div>` : ''}
-                    <div class="deal-icon-col">${deal.icon}</div>
+                    <div class="deal-icon-col${(!deal.placeholder && deal.imageUrl) ? '' : ' no-image'}">${iconHtml}</div>
                     <div class="deal-content">
                         <div class="deal-top-row">
-                            ${deal.badge ? `<span class="deal-badge">${deal.badge}</span>` : ''}
+                            ${deal.badge ? `<span class="deal-badge">${deal.badge}</span>` : (displayDiscount >= 40 ? '<span class="deal-badge">HOT</span>' : displayDiscount >= 20 ? '<span class="deal-badge">DEAL</span>' : '')}
                             ${isCuratorPick ? '<span class="curator-badge">✨ TOP PICK</span>' : ''}
-                            <span class="deal-category-tag">${deal.category}</span>
+                            <span class="deal-category-tag">${displayCategory}</span>
                         </div>
                         <div class="deal-title">${deal.title}</div>
                         <div class="deal-bottom-row">
-                            <span class="deal-condition">${deal.condition}</span>
-                            <span class="deal-source">${deal.sourceLogo} ${deal.sourceName}</span>
+                            <span class="deal-condition">${displayCondition}</span>
+                            <span class="deal-source">${displaySource}</span>
                         </div>
                         ${!deal.placeholder ? `
                         <div class="deal-stats">
                             ${popularity.views > 0 ? `<span class="stat-item ${isHot ? 'hot' : ''}">👀 ${popularity.views}</span>` : ''}
                             ${popularity.clicks > 0 ? `<span class="stat-item">🔥 ${popularity.clicks} clicks</span>` : ''}
-                            ${timeSince ? `<span class="stat-item"><span class="time-badge">${timeSince}</span></span>` : ''}
+                            ${displayTimeSince ? `<span class="stat-item"><span class="time-badge">${displayTimeSince}</span></span>` : ''}
                         </div>` : ''}
                     </div>
                     <div class="deal-price-col">
-                        <div class="current-price">€${deal.currentPrice}</div>
-                        <div class="original-price">€${deal.originalPrice}</div>
-                        <div class="discount">-${deal.discount}%</div>
-                        <button class="view-deal-btn" onclick="viewDeal('${deal.id}', ${JSON.stringify(deal.url)})">
+                        <div class="current-price">€${typeof displayPrice === 'number' ? displayPrice.toFixed(2) : displayPrice}</div>
+                        ${displayOriginal ? `<div class="original-price">€${typeof displayOriginal === 'number' ? displayOriginal.toFixed(2) : displayOriginal}</div>` : ''}
+                        ${displayDiscount > 0 ? `<div class="discount">-${displayDiscount}%</div>` : ''}
+                        <button class="view-deal-btn" data-deal-id="${deal.id}" data-deal-url="${safeUrl}" onclick="viewDealBtn(this)">
                             Bekijk →
                         </button>
                     </div>
@@ -1759,14 +1832,6 @@
 
             dealsGrid.innerHTML = html;
             updateStats(deals);
-
-            // Update favorite buttons
-            document.querySelectorAll('.favorite-btn').forEach(btn => {
-                const dealId = parseInt(btn.onclick.toString().match(/toggleFavorite\((\d+)/)[1]);
-                if (isFavorited(dealId)) {
-                    btn.classList.add('active');
-                }
-            });
         }
 
         function updateStats(deals) {
@@ -1774,7 +1839,9 @@
             if (deals.length === 0) {
                 label.textContent = 'Voorbeelddeals – voeg echte deals toe via admin';
             } else {
-                const avgDiscount = Math.round(deals.reduce((sum, deal) => sum + deal.discount, 0) / deals.length);
+                const avgDiscount = Math.round(
+                    deals.reduce((sum, d) => sum + (d.discount_percent ?? d.discountPct ?? d.discount ?? 0), 0) / deals.length
+                );
                 label.textContent = `${deals.length} deals gevonden • gem. ${avgDiscount}% korting`;
             }
         }
@@ -1787,13 +1854,17 @@
             const maxPriceValue = maxPrice.value ? parseInt(maxPrice.value) : Infinity;
             const minDiscountValue = minDiscount.value ? parseInt(minDiscount.value) : 0;
 
-            filteredDeals = dealsData.filter(deal => {
-                const matchesSearch = deal.title.toLowerCase().includes(searchTerm) || 
-                                     deal.category.toLowerCase().includes(searchTerm);
-                const matchesCategory = !category || deal.category === category;
-                const matchesSource = !source || deal.source === source;
-                const matchesPrice = deal.currentPrice <= maxPriceValue;
-                const matchesDiscount = deal.discount >= minDiscountValue;
+            filteredDeals = dealsData.filter(rawDeal => {
+                const deal = normaliseDeal(rawDeal);
+                const dealCategory = deal.category || '';
+                const dealSource   = (rawDeal.source || rawDeal.sourceName || '').toLowerCase();
+
+                const matchesSearch    = (deal.title || '').toLowerCase().includes(searchTerm) ||
+                                         dealCategory.toLowerCase().includes(searchTerm);
+                const matchesCategory  = !category || dealCategory === category;
+                const matchesSource    = !source    || dealSource.includes(source);
+                const matchesPrice     = deal.price <= maxPriceValue;
+                const matchesDiscount  = deal.discountPct >= minDiscountValue;
 
                 return matchesSearch && matchesCategory && matchesSource && matchesPrice && matchesDiscount;
             });
@@ -1817,23 +1888,19 @@
                 alert('Dit is een voorbeelddeal. Voeg echte deals toe via het admin panel (5× klik op logo).');
                 return;
             }
-            // Track click
             trackClick(id);
-            
-            // Open affiliate link
             window.open(url, '_blank');
         }
 
-        function viewDealByBtn(btn) {
-            const url = btn.getAttribute('data-url');
+        // Called from data-attribute onclick — avoids quote-escaping issues
+        function viewDealBtn(btn) {
+            const url = btn.getAttribute('data-deal-url');
+            const id  = btn.getAttribute('data-deal-id');
             if (!url || url === '#') {
                 alert('Dit is een voorbeelddeal. Voeg echte deals toe via het admin panel (5× klik op logo).');
                 return;
             }
-            // Track click
             trackClick(id);
-            
-            // Open affiliate link
             window.open(url, '_blank');
         }
 
