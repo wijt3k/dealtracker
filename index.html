@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DealTracker - Retour & Outlet Deals met Prijsalerts</title>
-    <meta name="description" content="Dagelijks bijgewerkte retour & outlet deals van Amazon RetourDeals en Breezy Returns. Bespaar tot 40% op elektronica, laptops, tv's en meer.">
+    <meta name="description" content="Dagelijks bijgewerkte retour & outlet deals van Amazon RetourDeals, Breezy Returns, MediaMarkt Outlet en Stekkerstore. Bespaar tot 40% op elektronica, laptops, tv's en meer.">
     
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI0ZGNkIzNSIgcng9IjIwIi8+CiAgPHRleHQgeD0iNTAiIHk9IjcwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RDwvdGV4dD4KICA8Y2lyY2xlIGN4PSI4MCIgY3k9IjI1IiByPSI4IiBmaWxsPSIjRjdCODAxIi8+Cjwvc3ZnPg==">
@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://dealtracker.nl/">
     <meta property="og:title" content="DealTracker - Retour & Outlet Deals">
-    <meta property="og:description" content="Dagelijks bijgewerkte retour & outlet deals van Amazon RetourDeals en Breezy Returns. Bespaar tot 40% op elektronica, laptops, tv's en meer.">
+    <meta property="og:description" content="Dagelijks bijgewerkte retour & outlet deals van Amazon, Breezy Returns, MediaMarkt Outlet en Stekkerstore. Bespaar tot 40% op elektronica, laptops, tv's en meer.">
     <meta property="og:image" content="https://dealtracker.nl/og-image.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
@@ -23,7 +23,7 @@
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://dealtracker.nl/">
     <meta property="twitter:title" content="DealTracker - Retour & Outlet Deals">
-    <meta property="twitter:description" content="Dagelijks retour & outlet deals van Amazon en Breezy Returns. Bespaar tot 40% op elektronica.">
+    <meta property="twitter:description" content="Dagelijks retour & outlet deals van Amazon, MediaMarkt Outlet en Stekkerstore. Bespaar tot 40% op elektronica.">
     <meta property="twitter:image" content="https://dealtracker.nl/og-image.png">
     <meta property="twitter:creator" content="@dealtracker">
 
@@ -482,6 +482,34 @@
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 1rem;
             margin-bottom: 2rem;
+        }
+
+        /* ── Sort bar ───────────────────────────────────────── */
+        .sort-bar {
+            display: flex;
+            gap: 0.4rem;
+            flex-wrap: wrap;
+        }
+        .sort-btn {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            padding: 0.35rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.78rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        .sort-btn:hover {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+        .sort-btn.active {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: #fff;
+            font-weight: 600;
         }
 
         .stat-card {
@@ -1205,6 +1233,8 @@
             <span style="font-size: 0.8rem; color: var(--text-secondary); align-self: center;">Bronnen:</span>
             <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">📦 Amazon RetourDeals</span>
             <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">♻️ Breezy Returns</span>
+            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">🔴 MediaMarkt Outlet</span>
+            <span style="font-size: 0.8rem; background: var(--bg-card); border: 1px solid var(--border); padding: 0.2rem 0.7rem; border-radius: 20px; color: var(--text-secondary);">⚡ Stekkerstore</span>
         </div>
 
         <div class="controls">
@@ -1244,6 +1274,8 @@
                     <option value="">Alle bronnen</option>
                     <option value="amazon retourdeals">📦 Amazon RetourDeals</option>
                     <option value="breezy">♻️ Breezy Returns</option>
+                    <option value="mediamarkt outlet">🔴 MediaMarkt Outlet</option>
+                    <option value="stekkerstore">⚡ Stekkerstore</option>
                 </select>
             </div>
             <div class="filter-group">
@@ -1256,8 +1288,15 @@
             </div>
         </div>
 
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem;">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.75rem; flex-wrap:wrap; gap:0.5rem;">
             <span style="font-size:0.85rem; color:var(--text-secondary);" id="dealsCountLabel">Deals laden...</span>
+            <div class="sort-bar" id="sortBar">
+                <button class="sort-btn active" data-sort="score"    onclick="sortDeals('score')">⭐ Aanbevolen</button>
+                <button class="sort-btn"         data-sort="discount" onclick="sortDeals('discount')">📈 Korting</button>
+                <button class="sort-btn"         data-sort="saving"   onclick="sortDeals('saving')">💰 Besparing</button>
+                <button class="sort-btn"         data-sort="newest"   onclick="sortDeals('newest')">🆕 Nieuwste</button>
+                <button class="sort-btn"         data-sort="price"    onclick="sortDeals('price')">💸 Prijs ↑</button>
+            </div>
         </div>
 
         <div class="deals-grid" id="dealsGrid">
@@ -1570,6 +1609,7 @@
         let dealsData = [];
         let filteredDeals = [];
         let lastUpdatedAt = null;
+        let currentSort = 'score'; // aanbevolen by default
 
         // Fetch deals from deals.json (populated by the GitHub Actions scraper)
         async function fetchDeals() {
@@ -1601,7 +1641,7 @@
                 });
 
                 filteredDeals = [...dealsData];
-                renderDeals(filteredDeals);
+                renderDeals(applySort(filteredDeals));
 
                 // Show last updated time
                 if (lastUpdatedAt) {
@@ -1703,7 +1743,7 @@
             dealsData.unshift(newDeal);
             saveDeals();
             filteredDeals = [...dealsData];
-            renderDeals(filteredDeals);
+            renderDeals(applySort(filteredDeals));
             renderDealsList();
             
             document.getElementById('dealForm').reset();
@@ -1734,7 +1774,7 @@
                 dealsData = dealsData.filter(d => d.id !== id);
                 saveDeals();
                 filteredDeals = [...dealsData];
-                renderDeals(filteredDeals);
+                renderDeals(applySort(filteredDeals));
                 renderDealsList();
             }
         }
@@ -1874,6 +1914,61 @@
             }
         }
 
+        // ── Sort ─────────────────────────────────────────────
+        function dealScore(rawDeal) {
+            const d = normaliseDeal(rawDeal);
+            const korting   = d.discountPct || 0;
+            const besparing = (d.originalPrice && d.price && d.originalPrice > d.price)
+                              ? (d.originalPrice - d.price) : 0;
+            return (korting * 0.6) + (Math.min(besparing, 400) / 400 * 40);
+        }
+
+        function applySort(deals) {
+            const sorted = [...deals];
+            switch (currentSort) {
+                case 'score':
+                    sorted.sort((a, b) => dealScore(b) - dealScore(a));
+                    break;
+                case 'discount':
+                    sorted.sort((a, b) => {
+                        const da = normaliseDeal(a), db = normaliseDeal(b);
+                        return (db.discountPct || 0) - (da.discountPct || 0);
+                    });
+                    break;
+                case 'saving':
+                    sorted.sort((a, b) => {
+                        const da = normaliseDeal(a), db = normaliseDeal(b);
+                        const savA = (da.originalPrice && da.price) ? da.originalPrice - da.price : 0;
+                        const savB = (db.originalPrice && db.price) ? db.originalPrice - db.price : 0;
+                        return savB - savA;
+                    });
+                    break;
+                case 'newest':
+                    sorted.sort((a, b) => {
+                        const tA = a.found_at ? new Date(a.found_at).getTime() : 0;
+                        const tB = b.found_at ? new Date(b.found_at).getTime() : 0;
+                        return tB - tA;
+                    });
+                    break;
+                case 'price':
+                    sorted.sort((a, b) => {
+                        const da = normaliseDeal(a), db = normaliseDeal(b);
+                        return (da.price || 0) - (db.price || 0);
+                    });
+                    break;
+            }
+            return sorted;
+        }
+
+        function sortDeals(mode) {
+            currentSort = mode;
+            // Update button states
+            document.querySelectorAll('.sort-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.sort === mode);
+            });
+            renderDeals(applySort(filteredDeals));
+        }
+
         // Filter functionality
         function applyFilters() {
             const searchTerm = searchInput.value.toLowerCase();
@@ -1897,7 +1992,7 @@
                 return matchesSearch && matchesCategory && matchesSource && matchesPrice && matchesDiscount;
             });
 
-            renderDeals(filteredDeals);
+            renderDeals(applySort(filteredDeals));
         }
 
         // Event listeners
