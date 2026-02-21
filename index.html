@@ -740,149 +740,22 @@
             color: #1A202C;
         }
 
-        /* Admin Modal */
-        .admin-modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.9);
-            z-index: 2000;
-            animation: fadeIn 0.3s ease-out;
+        /* Freshness badge — deal age indicator */
+        .freshness-badge {
+            font-size: 0.72rem;
+            padding: 0.15rem 0.5rem;
+            border-radius: 10px;
+            background: rgba(0, 200, 150, 0.12);
+            color: #00c896;
+            font-weight: 600;
         }
-
-        .admin-modal.active {
-            display: flex;
-            align-items: center;
-            justify-content: center;
+        .freshness-badge.stale {
+            background: rgba(247, 184, 1, 0.12);
+            color: var(--accent);
         }
-
-        .admin-content {
-            background: var(--bg-card);
-            border: 2px solid var(--primary);
-            border-radius: 16px;
-            padding: 2rem;
-            max-width: 800px;
-            width: 90%;
-            max-height: 90vh;
-            overflow-y: auto;
-        }
-
-        .admin-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 2rem;
-        }
-
-        .admin-header h2 {
-            font-size: 1.8rem;
-            color: var(--primary);
-        }
-
-        .close-btn {
-            background: none;
-            border: none;
-            color: var(--text-secondary);
-            font-size: 2rem;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .close-btn:hover {
-            color: var(--primary);
-            transform: rotate(90deg);
-        }
-
-        .form-group {
-            margin-bottom: 1.5rem;
-        }
-
-        .form-group label {
-            display: block;
-            color: var(--text-secondary);
-            font-size: 0.9rem;
-            margin-bottom: 0.5rem;
-            font-family: 'IBM Plex Mono', monospace;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-
-        .form-group input,
-        .form-group select {
-            width: 100%;
-            padding: 0.9rem;
-            background: var(--bg-dark);
-            border: 2px solid var(--border);
-            border-radius: 8px;
-            color: var(--text-primary);
-            font-family: 'Outfit', sans-serif;
-            font-size: 1rem;
-            transition: all 0.3s;
-        }
-
-        .form-group input:focus,
-        .form-group select:focus {
-            outline: none;
-            border-color: var(--primary);
-            box-shadow: 0 0 0 4px rgba(255, 107, 53, 0.1);
-        }
-
-        .form-row {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 1rem;
-        }
-
-        .password-warning {
-            background: rgba(239, 71, 111, 0.1);
-            border: 1px solid var(--danger);
-            border-radius: 8px;
-            padding: 1rem;
-            margin-bottom: 1.5rem;
+        .freshness-badge.expiring {
+            background: rgba(239, 71, 111, 0.12);
             color: var(--danger);
-            font-size: 0.9rem;
-        }
-
-        .deals-manager {
-            margin-top: 2rem;
-        }
-
-        .deal-list-item {
-            background: var(--bg-dark);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 1rem;
-            margin-bottom: 1rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .deal-list-info h4 {
-            color: var(--text-primary);
-            margin-bottom: 0.3rem;
-        }
-
-        .deal-list-info p {
-            color: var(--text-secondary);
-            font-size: 0.85rem;
-        }
-
-        .deal-list-actions {
-            display: flex;
-            gap: 0.5rem;
-        }
-
-        .btn-small {
-            padding: 0.5rem 1rem;
-            font-size: 0.85rem;
-        }
-
-        .btn-danger {
-            background: var(--danger);
         }
 
         /* Favorites & Share Buttons */
@@ -1186,7 +1059,7 @@
 <body data-theme="dark">
     <header>
         <div class="header-content">
-            <div class="logo" onclick="checkAdminAccess(event)">DealTracker</div>
+            <div class="logo">DealTracker</div>
             <div class="header-actions">
                 <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
                     <span id="themeIcon">🌙</span>
@@ -1320,158 +1193,8 @@
         </div>
     </main>
 
-    <!-- Admin Modal -->
-    <div class="admin-modal" id="adminModal">
-        <div class="admin-content">
-            <div class="admin-header">
-                <h2>🔒 Admin Panel</h2>
-                <button class="close-btn" onclick="closeAdmin()">×</button>
-            </div>
-
-            <div id="loginView">
-                <div class="password-warning">
-                    ⚠️ Beveiligd Admin Panel - Alleen voor eigenaar
-                </div>
-                <div class="form-group">
-                    <label>Wachtwoord</label>
-                    <input type="password" id="adminPassword" placeholder="Voer je wachtwoord in">
-                </div>
-                <button class="btn" style="width: 100%;" onclick="login()">Inloggen</button>
-                <p style="color: var(--text-secondary); font-size: 0.85rem; margin-top: 1rem; text-align: center;">
-                    💡 Standaard wachtwoord: <code style="background: var(--bg-dark); padding: 0.2rem 0.5rem; border-radius: 4px;">dealtracker2026</code>
-                    <br><small>(Wijzig dit in de code!)</small>
-                </p>
-            </div>
-
-            <div id="adminView" style="display: none;">
-                <h3 style="margin-bottom: 1.5rem; color: var(--text-primary);">➕ Nieuwe Deal Toevoegen</h3>
-                
-                <form id="dealForm">
-                    <div class="form-group">
-                        <label>Product Naam</label>
-                        <input type="text" id="dealTitle" required placeholder="bijv. iPhone 14 Pro Max 256GB">
-                    </div>
-
-                    <div class="form-row">
-                        <div class="form-group">
-                            <label>Categorie</label>
-                            <select id="dealCategory" required>
-                                <option value="">Selecteer...</option>
-                                <option value="smartphones">Smartphones</option>
-                                <option value="laptops">Laptops</option>
-                                <option value="tablets">Tablets</option>
-                                <option value="audio">Audio</option>
-                                <option value="gaming">Gaming</option>
-                                <option value="smart-home">Smart Home</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label>Bron</label>
-                            <select id="dealSource" required>
-                                <option value="">Selecteer...</option>
-                                <option value="bol|Bol.com|🛒">Bol.com</option>
-                                <option value="coolblue|Coolblue|❄️">Coolblue</option>
-                                <option value="mediamarkt|MediaMarkt Outlet|🔴">MediaMarkt</option>
-                                <option value="amazon|Amazon|📦">Amazon</option>
-                                <option value="retoertje|Retoertje.nl|♻️">Retoertje.nl</option>
-                                <option value="stekkerstore|Stekkerstore|🔌">Stekkerstore</option>
-                            </select>
-                        </div>
-                    </div>
-
-                    <div class="form-row">
-                        <div class="form-group">
-                            <label>Huidige Prijs (€)</label>
-                            <input type="number" id="dealCurrentPrice" required min="0" step="0.01" placeholder="899">
-                        </div>
-                        <div class="form-group">
-                            <label>Originele Prijs (€)</label>
-                            <input type="number" id="dealOriginalPrice" required min="0" step="0.01" placeholder="1299">
-                        </div>
-                    </div>
-
-                    <div class="form-row">
-                        <div class="form-group">
-                            <label>Staat</label>
-                            <select id="dealCondition" required>
-                                <option value="Nieuw">Nieuw</option>
-                                <option value="Als nieuw">Als nieuw</option>
-                                <option value="Goed">Goed</option>
-                                <option value="Gebruikt">Gebruikt</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label>Voorraad</label>
-                            <select id="dealStock" required>
-                                <option value="Op voorraad">Op voorraad</option>
-                                <option value="Beperkt">Beperkt</option>
-                                <option value="Uitverkocht">Uitverkocht</option>
-                            </select>
-                        </div>
-                    </div>
-
-                    <div class="form-group">
-                        <label>Product Link</label>
-                        <input type="url" id="dealUrl" required placeholder="https://...">
-                    </div>
-
-                    <div class="form-group">
-                        <label>Emoji Icon (optioneel)</label>
-                        <input type="text" id="dealIcon" placeholder="📱" maxlength="2">
-                    </div>
-
-                    <div class="form-group">
-                        <label>Product Afbeelding URL (optioneel)</label>
-                        <input type="url" id="dealImage" placeholder="https://example.com/image.jpg">
-                    </div>
-
-                    <button type="submit" class="btn" style="width: 100%; margin-top: 1rem;">
-                        ➕ Deal Toevoegen
-                    </button>
-                </form>
-
-                <div class="deals-manager">
-                    <h3 style="margin: 2rem 0 1rem; color: var(--text-primary);">📋 Beheer Deals</h3>
-                    
-                    <div style="background: rgba(247, 184, 1, 0.1); border: 1px solid var(--accent); border-radius: 8px; padding: 1rem; margin-bottom: 1rem; font-size: 0.9rem;">
-                        <strong style="color: var(--accent);">⚠️ Hoe deals zichtbaar maken voor bezoekers:</strong>
-                        <ol style="color: var(--text-secondary); margin-top: 0.5rem; padding-left: 1.2rem;">
-                            <li>Voeg deals toe via formulier hierboven</li>
-                            <li>Klik "📤 Exporteer Deals" hieronder</li>
-                            <li>Kopieer de gegenereerde code</li>
-                            <li>Plak in <code>index.html</code> bij <code>STATIC_DEALS = [</code></li>
-                            <li>Upload opnieuw naar Netlify</li>
-                        </ol>
-                    </div>
-                    
-                    <button class="btn" style="width: 100%; margin-bottom: 1rem; background: var(--success);" onclick="exportDeals()">
-                        📤 Exporteer Deals (voor alle bezoekers)
-                    </button>
-                    
-                    <div id="exportOutput" style="display: none; background: var(--bg-dark); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; margin-bottom: 1rem;">
-                        <p style="color: var(--text-secondary); font-size: 0.85rem; margin-bottom: 0.5rem;">Kopieer en plak dit in je index.html bij STATIC_DEALS:</p>
-                        <textarea id="exportCode" style="width: 100%; height: 200px; background: transparent; border: none; color: var(--success); font-family: monospace; font-size: 0.8rem; resize: vertical;" readonly></textarea>
-                        <button class="btn btn-secondary" style="width: 100%; margin-top: 0.5rem;" onclick="copyExport()">📋 Kopieer Code</button>
-                    </div>
-                    
-                    <div id="dealsList"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <script>
-        // BELANGRIJK: Wijzig dit wachtwoord!
-        const ADMIN_PASSWORD = 'dealtracker2026';
-        
-        let clickCount = 0;
-        let clickTimer = null;
-        let isLoggedIn = false;
 
-        // ============================================================
-        // VASTE DEALS - Deze zien ALLE bezoekers
-        // Voeg hier deals toe via admin panel → Export → plak hier
-        // ============================================================
         // Initialize popularity tracking
         function initPopularityTracking() {
             const viewCounts = JSON.parse(localStorage.getItem('dealtracker_views') || '{}');
@@ -1631,17 +1354,10 @@
                 const fetched = data.deals || [];
                 lastUpdatedAt = data.updated_at || null;
 
-                // Merge with any local admin deals
-                const localDeals = JSON.parse(localStorage.getItem('dealtracker_deals') || '[]');
                 dealsData = [...fetched];
-                localDeals.forEach(localDeal => {
-                    if (!dealsData.find(d => d.id === localDeal.id)) {
-                        dealsData.unshift(localDeal);
-                    }
-                });
 
-                filteredDeals = [...dealsData];
-                renderDeals(applySort(filteredDeals));
+                // applyFilters() also strips deals older than 48h
+                applyFilters();
 
                 // Show last updated time
                 if (lastUpdatedAt) {
@@ -1676,140 +1392,27 @@
         const maxPrice = document.getElementById('maxPrice');
         const minDiscount = document.getElementById('minDiscount');
 
-        // Admin Access (5 clicks on logo)
-        function checkAdminAccess(event) {
-            clickCount++;
-            
-            if (clickTimer) clearTimeout(clickTimer);
-            
-            clickTimer = setTimeout(() => {
-                clickCount = 0;
-            }, 2000);
-
-            if (clickCount === 5) {
-                clickCount = 0;
-                document.getElementById('adminModal').classList.add('active');
-            }
+        // ── 48-hour expiry helpers ──────────────────────────────────
+        function dealLeeftijdUur(deal) {
+            const found_at = deal.found_at;
+            if (!found_at) return 0;
+            try {
+                const ts  = new Date(found_at).getTime();
+                return (Date.now() - ts) / 3600000;
+            } catch (e) { return 0; }
         }
 
-        function login() {
-            const password = document.getElementById('adminPassword').value;
-            if (password === ADMIN_PASSWORD) {
-                isLoggedIn = true;
-                document.getElementById('loginView').style.display = 'none';
-                document.getElementById('adminView').style.display = 'block';
-                renderDealsList();
-            } else {
-                alert('❌ Onjuist wachtwoord!');
-            }
+        function isVerlopen(deal) {
+            return dealLeeftijdUur(deal) > 48;
         }
 
-        function closeAdmin() {
-            document.getElementById('adminModal').classList.remove('active');
-            document.getElementById('loginView').style.display = 'block';
-            document.getElementById('adminView').style.display = 'none';
-            document.getElementById('adminPassword').value = '';
-            isLoggedIn = false;
-        }
-
-        // Deal Form
-        document.getElementById('dealForm').addEventListener('submit', (e) => {
-            e.preventDefault();
-
-            const sourceData = document.getElementById('dealSource').value.split('|');
-            const currentPrice = parseFloat(document.getElementById('dealCurrentPrice').value);
-            const originalPrice = parseFloat(document.getElementById('dealOriginalPrice').value);
-            const discount = Math.round(((originalPrice - currentPrice) / originalPrice) * 100);
-
-            const newDeal = {
-                id: Date.now(),
-                title: document.getElementById('dealTitle').value,
-                category: document.getElementById('dealCategory').value,
-                currentPrice: currentPrice,
-                originalPrice: originalPrice,
-                discount: discount,
-                source: sourceData[0],
-                sourceName: sourceData[1],
-                sourceLogo: sourceData[2],
-                url: document.getElementById('dealUrl').value,
-                condition: document.getElementById('dealCondition').value,
-                stock: document.getElementById('dealStock').value,
-                icon: document.getElementById('dealIcon').value || '📦',
-                image: document.getElementById('dealImage').value || '',
-                badge: discount >= 40 ? 'HOT' : discount >= 30 ? 'DEAL' : '',
-                adminAdded: true
-            };
-
-            dealsData.unshift(newDeal);
-            saveDeals();
-            filteredDeals = [...dealsData];
-            renderDeals(applySort(filteredDeals));
-            renderDealsList();
-            
-            document.getElementById('dealForm').reset();
-            alert('✅ Deal toegevoegd!');
-        });
-
-        function exportDeals() {
-            if (dealsData.length === 0) {
-                alert('Geen deals om te exporteren!');
-                return;
-            }
-            
-            const exportData = JSON.stringify(dealsData, null, 4);
-            document.getElementById('exportCode').value = exportData;
-            document.getElementById('exportOutput').style.display = 'block';
-            document.getElementById('exportOutput').scrollIntoView({ behavior: 'smooth' });
-        }
-
-        function copyExport() {
-            const textarea = document.getElementById('exportCode');
-            textarea.select();
-            document.execCommand('copy');
-            alert('✅ Code gekopieerd! Plak dit nu in je index.html bij STATIC_DEALS = [');
-        }
-
-        function deleteDeal(id) {
-            if (confirm('Weet je zeker dat je deze deal wilt verwijderen?')) {
-                dealsData = dealsData.filter(d => d.id !== id);
-                saveDeals();
-                filteredDeals = [...dealsData];
-                renderDeals(applySort(filteredDeals));
-                renderDealsList();
-            }
-        }
-
-        function saveDeals() {
-            // Only save admin-added deals to localStorage, not the auto-scraped ones
-            const adminDeals = dealsData.filter(d => d.adminAdded === true);
-            localStorage.setItem('dealtracker_deals', JSON.stringify(adminDeals));
-        }
-
-        function renderDealsList() {
-            const dealsList = document.getElementById('dealsList');
-            if (dealsData.length === 0) {
-                dealsList.innerHTML = '<p style="color: var(--text-secondary); text-align: center;">Nog geen deals</p>';
-                return;
-            }
-
-            dealsList.innerHTML = dealsData.map(deal => {
-                const nd = deal.placeholder ? deal : normaliseDeal(deal);
-                const price    = nd.price       ?? nd.currentPrice    ?? '?';
-                const origP    = nd.originalPrice ?? '?';
-                const src      = nd.sourceName  ?? nd.source ?? '';
-                return `
-                <div class="deal-list-item">
-                    <div class="deal-list-info">
-                        <h4>${deal.title}</h4>
-                        <p>€${typeof price === 'number' ? price.toFixed(2) : price} (was €${typeof origP === 'number' ? origP.toFixed(2) : origP}) • ${src}</p>
-                    </div>
-                    <div class="deal-list-actions">
-                        <button class="btn btn-danger btn-small" onclick="deleteDeal('${deal.id}')">
-                            🗑️ Verwijder
-                        </button>
-                    </div>
-                </div>
-            `;}).join('');
+        function frisheidsLabel(deal) {
+            const uur = dealLeeftijdUur(deal);
+            if (uur < 1)  return { tekst: '< 1u',   klass: '' };
+            if (uur < 6)  return { tekst: `${Math.floor(uur)}u`,  klass: '' };
+            if (uur < 24) return { tekst: `${Math.floor(uur)}u`,  klass: 'stale' };
+            if (uur < 42) return { tekst: `${Math.floor(uur/24)}d ${Math.floor(uur%24)}u`, klass: 'stale' };
+            return { tekst: `${Math.floor(uur)}u (verloopt snel)`, klass: 'expiring' };
         }
 
         // Placeholder deals shown when no real deals exist
@@ -1879,12 +1482,15 @@
                             <span class="deal-condition">${displayCondition}</span>
                             <span class="deal-source">${displaySource}</span>
                         </div>
-                        ${!deal.placeholder ? `
+                        ${!deal.placeholder ? (() => {
+                            const fr = frisheidsLabel(rawDeal);
+                            return `
                         <div class="deal-stats">
                             ${popularity.views > 0 ? `<span class="stat-item ${isHot ? 'hot' : ''}">👀 ${popularity.views}</span>` : ''}
                             ${popularity.clicks > 0 ? `<span class="stat-item">🔥 ${popularity.clicks} clicks</span>` : ''}
-                            ${displayTimeSince ? `<span class="stat-item"><span class="time-badge">${displayTimeSince}</span></span>` : ''}
-                        </div>` : ''}
+                            <span class="stat-item"><span class="freshness-badge ${fr.klass}">🕒 ${fr.tekst}</span></span>
+                        </div>`;
+                        })() : ''}
                     </div>
                     <div class="deal-price-col">
                         <div class="current-price">€${typeof displayPrice === 'number' ? displayPrice.toFixed(2) : displayPrice}</div>
@@ -1905,12 +1511,12 @@
         function updateStats(deals) {
             const label = document.getElementById('dealsCountLabel');
             if (deals.length === 0) {
-                label.textContent = 'Voorbeelddeals – voeg echte deals toe via admin';
+                label.textContent = 'Geen deals gevonden';
             } else {
                 const avgDiscount = Math.round(
                     deals.reduce((sum, d) => sum + (d.discount_percent ?? d.discountPct ?? d.discount ?? 0), 0) / deals.length
                 );
-                label.textContent = `${deals.length} deals gevonden • gem. ${avgDiscount}% korting`;
+                label.textContent = `${deals.length} deals • gem. ${avgDiscount}% korting`;
             }
         }
 
@@ -1978,6 +1584,9 @@
             const minDiscountValue = minDiscount.value ? parseInt(minDiscount.value) : 0;
 
             filteredDeals = dealsData.filter(rawDeal => {
+                // Auto-hide deals older than 48 hours
+                if (!rawDeal.placeholder && isVerlopen(rawDeal)) return false;
+
                 const deal = normaliseDeal(rawDeal);
                 const dealCategory = deal.category || '';
                 const dealSource   = (rawDeal.source || rawDeal.sourceName || '').toLowerCase();
@@ -2081,13 +1690,6 @@
             document.getElementById('newsletterEmail').value = '';
             alert('✅ Bedankt! Je bent ingeschreven.\n\nIn een echte app zou dit naar een backend gaan!');
         }
-
-        // Close modal on outside click
-        document.getElementById('adminModal').addEventListener('click', (e) => {
-            if (e.target.id === 'adminModal') {
-                closeAdmin();
-            }
-        });
 
         // Initialize — load deals from deals.json
         fetchDeals();
