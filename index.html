@@ -194,6 +194,21 @@
       .stat-num { font-size: 1.3rem; }
       .stat-label { font-size: .7rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       nav .nav-link { display: none; }
+
+      /* Categorie-grid: van 5-rijen-grid naar horizontaal scrollbare pillstrip */
+      .category-grid {
+        display: flex; flex-wrap: nowrap; overflow-x: auto;
+        gap: .5rem; padding-bottom: .5rem;
+        scrollbar-width: none; -webkit-overflow-scrolling: touch;
+      }
+      .category-grid::-webkit-scrollbar { display: none; }
+      .cat-card {
+        flex-direction: row; flex-shrink: 0;
+        padding: .45rem .9rem; gap: .4rem;
+        border-radius: 20px; min-width: auto;
+      }
+      .cat-icon { font-size: 1.1rem; }
+      .cat-count { display: none; }
     }
   </style>
 </head>
