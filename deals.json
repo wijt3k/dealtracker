@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-02-22T15:48:41.907957+00:00",
+  "updated_at": "2026-02-22T15:48:49.813527+00:00",
   "total": 297,
   "deals": [
+    {
+      "id": "6e820e7d8eb6",
+      "title": "MSI Claw A1M-032NL",
+      "price": 399.0,
+      "original_price": 741.5,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-claw-a1m-032nl-r-15941",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018937_8202f62e-14d8-49e8-b5b8-7a05414371b0.jpg?v=1771248717",
+      "found_at": "2026-02-22T15:45:10.379362+00:00",
+      "price_history": [
+        {
+          "price": 399.0,
+          "original_price": 741.5,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        }
+      ]
+    },
     {
       "id": "1625e2fc68ba",
       "title": "Sonos Ace Zwart",
@@ -418,27 +439,6 @@
           "price": 775.0,
           "original_price": 1252.5,
           "discount_percent": 38,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6e820e7d8eb6",
-      "title": "MSI Claw A1M-032NL",
-      "price": 399.0,
-      "original_price": 741.5,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-claw-a1m-032nl-r-15941",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018937_8202f62e-14d8-49e8-b5b8-7a05414371b0.jpg?v=1771248717",
-      "found_at": "2026-02-22T09:47:07.590700+00:00",
-      "price_history": [
-        {
-          "price": 399.0,
-          "original_price": 741.5,
-          "discount_percent": 46,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
         }
       ]
