@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-D11S1578NB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-D11S1578NB');
+    </script>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DealTracker - Retour & Outlet Deals met Prijsalerts</title>
@@ -1209,10 +1218,26 @@
             localStorage.setItem('dealtracker_views', JSON.stringify(views));
         }
 
-        function trackClick(dealId) {
+        function trackClick(dealId, deal) {
+            // Local click counter (used for popularity sort)
             const clicks = JSON.parse(localStorage.getItem('dealtracker_clicks') || '{}');
             clicks[dealId] = (clicks[dealId] || 0) + 1;
             localStorage.setItem('dealtracker_clicks', JSON.stringify(clicks));
+
+            // GA4 event — fires on every outbound deal click
+            if (typeof gtag !== 'undefined' && deal) {
+                gtag('event', 'deal_click', {
+                    deal_id:          dealId,
+                    deal_source:      deal.source      || '',
+                    deal_title:       (deal.title      || '').substring(0, 100),
+                    deal_price:       deal.price       || 0,
+                    deal_discount:    deal.discount_percent || 0,
+                    deal_category:    deal.category    || '',
+                    deal_condition:   deal.condition   || '',
+                    currency:         'EUR',
+                    value:            deal.price       || 0,
+                });
+            }
         }
 
         function getPopularity(dealId) {
@@ -1622,7 +1647,7 @@
                 alert('Dit is een voorbeelddeal. Voeg echte deals toe via het admin panel (5× klik op logo).');
                 return;
             }
-            trackClick(id);
+            trackClick(id, dealsData.find(d => d.id === id));
             window.open(url, '_blank');
         }
 
@@ -1634,7 +1659,7 @@
                 alert('Dit is een voorbeelddeal. Scraper voegt automatisch echte deals toe.');
                 return;
             }
-            trackClick(id);
+            trackClick(id, dealsData.find(d => d.id === id));
             window.open(url, '_blank');
         }
 
@@ -1646,7 +1671,7 @@
             const url = card.dataset.dealUrl;
             const id  = card.dataset.dealId;
             if (!url || url === '#') return;
-            trackClick(id);
+            trackClick(id, dealsData.find(d => d.id === id));
             window.open(url, '_blank');
         }
 
