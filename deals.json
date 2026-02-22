@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-02-22T15:30:23.720193+00:00",
+  "updated_at": "2026-02-22T15:48:41.907957+00:00",
   "total": 297,
   "deals": [
+    {
+      "id": "1625e2fc68ba",
+      "title": "Sonos Ace Zwart",
+      "price": 295.0,
+      "original_price": 425.41,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-ace-zwart-r-15485",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053701_fb251cc4-8a5c-436f-a76d-a09d1b360605.jpg?v=1770650801",
+      "found_at": "2026-02-22T15:45:17.117497+00:00",
+      "price_history": [
+        {
+          "price": 295.0,
+          "original_price": 425.41,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d060a6c95591",
+      "title": "Philips Baristina Espressoapparaat BAR300/60 - Zwart",
+      "price": 185.0,
+      "original_price": 285.29,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-baristina-espressoapparaat-bar300-60-zwart-r-16089",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050906_8daf655f-23d9-4107-9f75-7deafc362906.jpg?v=1771599805",
+      "found_at": "2026-02-22T15:45:13.686463+00:00",
+      "price_history": [
+        {
+          "price": 185.0,
+          "original_price": 285.29,
+          "discount_percent": 35,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5d813688f38e",
+      "title": "Philips Baristina Bean Switch BAR320/60",
+      "price": 229.0,
+      "original_price": 309.12,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-baristina-bean-switch-bar320-60-r-15620",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2195681_2f2be2f6-4902-46b4-9c13-6679a83bf391.jpg?v=1770651127",
+      "found_at": "2026-02-22T15:45:13.686385+00:00",
+      "price_history": [
+        {
+          "price": 229.0,
+          "original_price": 309.12,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        }
+      ]
+    },
     {
       "id": "84e0d130ce80",
       "title": "BLACK+DECKER BDC718AS2F-QW",
@@ -1767,48 +1830,6 @@
       ]
     },
     {
-      "id": "1625e2fc68ba",
-      "title": "Sonos Ace Zwart",
-      "price": 295.0,
-      "original_price": 425.41,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sonos-ace-zwart-r-15485",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053701_fb251cc4-8a5c-436f-a76d-a09d1b360605.jpg?v=1770650801",
-      "found_at": "2026-02-22T09:47:10.626499+00:00",
-      "price_history": [
-        {
-          "price": 295.0,
-          "original_price": 425.41,
-          "discount_percent": 30,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d060a6c95591",
-      "title": "Philips Baristina Espressoapparaat BAR300/60 - Zwart",
-      "price": 185.0,
-      "original_price": 285.29,
-      "discount_percent": 35,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-baristina-espressoapparaat-bar300-60-zwart-r-16089",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050906_8daf655f-23d9-4107-9f75-7deafc362906.jpg?v=1771599805",
-      "found_at": "2026-02-22T09:47:07.592210+00:00",
-      "price_history": [
-        {
-          "price": 185.0,
-          "original_price": 285.29,
-          "discount_percent": 35,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
       "id": "9940a0999db6",
       "title": "DeLonghi  La Specialista Arte EC9155.MB",
       "price": 349.0,
@@ -2644,27 +2665,6 @@
           "price": 73.0,
           "original_price": 109.05,
           "discount_percent": 33,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
-      "id": "5d813688f38e",
-      "title": "Philips Baristina Bean Switch BAR320/60",
-      "price": 229.0,
-      "original_price": 309.12,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-baristina-bean-switch-bar320-60-r-15620",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2195681_2f2be2f6-4902-46b4-9c13-6679a83bf391.jpg?v=1770651127",
-      "found_at": "2026-02-22T09:47:07.592142+00:00",
-      "price_history": [
-        {
-          "price": 229.0,
-          "original_price": 309.12,
-          "discount_percent": 25,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
         }
       ]
