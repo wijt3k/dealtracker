@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-02-22T14:25:35.404704+00:00",
+  "updated_at": "2026-02-22T15:30:23.720193+00:00",
   "total": 297,
   "deals": [
+    {
+      "id": "84e0d130ce80",
+      "title": "BLACK+DECKER BDC718AS2F-QW",
+      "price": 91.0,
+      "original_price": 168.78,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/black-decker-bdc718as2f-qw-r-15482",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1747675.jpg?v=1770111598",
+      "found_at": "2026-02-22T15:07:45.429737+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 168.78,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8f26d86d51e4",
+      "title": "Bosch MUM5XW20 CreationLine",
+      "price": 263.0,
+      "original_price": 405.56,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-mum5xw20-creationline-r-15831",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1535076.jpg?v=1770993547",
+      "found_at": "2026-02-22T15:07:48.130654+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 405.56,
+          "discount_percent": 35,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        }
+      ]
+    },
     {
       "id": "72ed9d793447",
       "title": "Jura D4 Piano Black",
@@ -1426,48 +1468,6 @@
           "price": 187.0,
           "original_price": 308.4,
           "discount_percent": 39,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
-      "id": "84e0d130ce80",
-      "title": "BLACK+DECKER BDC718AS2F-QW",
-      "price": 91.0,
-      "original_price": 168.78,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/black-decker-bdc718as2f-qw-r-15482",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1747675.jpg?v=1770111598",
-      "found_at": "2026-02-22T09:46:55.556244+00:00",
-      "price_history": [
-        {
-          "price": 91.0,
-          "original_price": 168.78,
-          "discount_percent": 46,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
-      "id": "8f26d86d51e4",
-      "title": "Bosch MUM5XW20 CreationLine",
-      "price": 263.0,
-      "original_price": 405.56,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bosch-mum5xw20-creationline-r-15831",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1535076.jpg?v=1770993547",
-      "found_at": "2026-02-22T09:46:58.413092+00:00",
-      "price_history": [
-        {
-          "price": 263.0,
-          "original_price": 405.56,
-          "discount_percent": 35,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
         }
       ]
