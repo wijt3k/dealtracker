@@ -730,6 +730,24 @@
             font-weight: 700;
         }
 
+        /* ── Price history sparkline ── */
+        .sparkline-wrap {
+            margin-top: 0.35rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 2px;
+        }
+        .sparkline-wrap svg {
+            display: block;
+        }
+        .sparkline-label {
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            text-align: center;
+            line-height: 1.2;
+        }
+
         .view-deal-btn {
             background: var(--primary);
             color: white;
@@ -1218,6 +1236,62 @@
             localStorage.setItem('dealtracker_views', JSON.stringify(views));
         }
 
+        // ── Price history sparkline ──────────────────────────────────
+        function renderSparkline(priceHistory) {
+            if (!priceHistory || priceHistory.length < 2) return '';
+
+            const W = 80, H = 28, PAD = 3;
+            const prices = priceHistory.map(p => p.price);
+            const minP   = Math.min(...prices);
+            const maxP   = Math.max(...prices);
+            const range  = maxP - minP || 1;
+
+            // Map to SVG coordinates
+            const pts = prices.map((p, i) => {
+                const x = PAD + (i / (prices.length - 1)) * (W - PAD * 2);
+                const y = PAD + (1 - (p - minP) / range) * (H - PAD * 2);
+                return `${x.toFixed(1)},${y.toFixed(1)}`;
+            }).join(' ');
+
+            // Trend colour: green = cheaper now, red = more expensive, grey = same
+            const first = prices[0], last = prices[prices.length - 1];
+            const color = last < first - 0.01 ? '#22c55e'
+                        : last > first + 0.01 ? '#ef4444'
+                        : '#94a3b8';
+
+            // Build filled area path (polyline + bottom close)
+            const firstPt  = prices.map((p, i) => ({
+                x: PAD + (i / (prices.length - 1)) * (W - PAD * 2),
+                y: PAD + (1 - (p - minP) / range) * (H - PAD * 2),
+            }));
+            const areaD = `M ${firstPt[0].x.toFixed(1)},${firstPt[0].y.toFixed(1)} `
+                        + firstPt.slice(1).map(p => `L ${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ')
+                        + ` L ${firstPt[firstPt.length-1].x.toFixed(1)},${H-PAD} L ${firstPt[0].x.toFixed(1)},${H-PAD} Z`;
+
+            // Label: show lowest vs current price
+            const lowestP = minP.toFixed(2);
+            const nowP    = last.toFixed(2);
+            const daysAgo = Math.round((Date.now() - new Date(priceHistory[0].scraped_at).getTime()) / 86400000);
+            const labelTxt = minP < last - 0.01
+                ? `laagste €${lowestP}`
+                : last < first - 0.01 ? `↘ nu laagst` : `${prices.length}× gezien`;
+
+            return `
+                <div class="sparkline-wrap" title="Prijsgeschiedenis: ${prices.length} datapunten over ${daysAgo} dag(en)">
+                    <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <linearGradient id="spk-${Math.random().toString(36).slice(2,7)}" x1="0" y1="0" x2="0" y2="1">
+                                <stop offset="0%" stop-color="${color}" stop-opacity="0.25"/>
+                                <stop offset="100%" stop-color="${color}" stop-opacity="0"/>
+                            </linearGradient>
+                        </defs>
+                        <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+                        <circle cx="${firstPt[firstPt.length-1].x.toFixed(1)}" cy="${firstPt[firstPt.length-1].y.toFixed(1)}" r="2" fill="${color}"/>
+                    </svg>
+                    <span class="sparkline-label">${labelTxt}</span>
+                </div>`;
+        }
+
         function trackClick(dealId, deal) {
             // Local click counter (used for popularity sort)
             const clicks = JSON.parse(localStorage.getItem('dealtracker_clicks') || '{}');
@@ -1523,6 +1597,7 @@
                         <div class="current-price">€${typeof displayPrice === 'number' ? displayPrice.toFixed(2) : displayPrice}</div>
                         ${displayOriginal ? `<div class="original-price">€${typeof displayOriginal === 'number' ? displayOriginal.toFixed(2) : displayOriginal}</div>` : ''}
                         ${displayDiscount > 0 ? `<div class="discount">-${displayDiscount}%</div>` : ''}
+                        ${!deal.placeholder ? renderSparkline(deal.price_history) : ''}
                         <button class="view-deal-btn" data-deal-id="${deal.id}" data-deal-url="${safeUrl}" onclick="viewDealBtn(this)">
                             Bekijk →
                         </button>
