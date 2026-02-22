@@ -50,7 +50,7 @@
     .search-wrap::before{content:'🔍';position:absolute;left:.6rem;top:50%;transform:translateY(-50%);font-size:.8rem;pointer-events:none}
     .filter-select{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.45rem .75rem;color:var(--text);font-size:.875rem;font-family:inherit;cursor:pointer}
     .cat-pills{display:flex;gap:.4rem;flex-wrap:wrap}
-    .pill{background:var(--bg);border:1px solid var(--border);border-radius:999px;padding:.25rem .75rem;font-size:.8rem;font-weight:600;cursor:pointer;transition:all .15s;white-space:nowrap}
+    .pill{background:var(--bg);border:1px solid var(--border);color:var(--text);border-radius:999px;padding:.25rem .75rem;font-size:.8rem;font-weight:600;cursor:pointer;transition:all .15s;white-space:nowrap}
     .pill.active{background:var(--primary);border-color:var(--primary);color:#fff}
     .pill:hover:not(.active){border-color:var(--primary);color:var(--primary)}
     .count-badge{color:var(--muted);font-size:.8rem;white-space:nowrap;margin-left:auto}
@@ -116,11 +116,13 @@
 <body>
 
 <nav>
-  <a href="index.html" class="nav-logo">D</a>
-  <span class="nav-brand">DealTracker</span>
+  <a href="./" style="display:flex;align-items:center;gap:.6rem;text-decoration:none">
+    <div class="nav-logo">D</div>
+    <span class="nav-brand">DealTracker</span>
+  </a>
   <div class="spacer"></div>
-  <a class="nav-link active" href="deals.html">Alle deals</a>
-  <a class="nav-link" href="index.html">Home</a>
+  <a class="nav-link active" href="./deals.html">Alle deals</a>
+  <a class="nav-link" href="./">Home</a>
 </nav>
 
 <div class="page-header">

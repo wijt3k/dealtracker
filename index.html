@@ -12,8 +12,8 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DealTracker — Dagelijkse Retour & Outlet Deals op Elektronica</title>
-  <meta name="description" content="Bespaar tot 70% op retour- en outletdeals van Amazon, MediaMarkt, Stekkerstore en meer. Dagelijks bijgewerkt. Laptops, audio, gaming, TV's en veel meer.">
+  <title>DealTracker — Elke dag de beste outlet- & retourdeals</title>
+  <meta name="description" content="Elke dag speuren we retour- en outletwinkels af voor de beste deals op elektronica. Tot 70% korting op laptops, audio, gaming, tv's en meer.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://wijt3k.github.io/dealtracker/">
 
@@ -187,8 +187,12 @@
     @media(max-width:600px) {
       .hero { padding: 3rem 1rem 2rem; }
       .section { padding: 2rem 1rem; }
-      .stats-bar { flex-direction: row; flex-wrap: wrap; }
-      .stat-item { min-width: 100px; }
+      .stats-bar { display: grid; grid-template-columns: 1fr 1fr; }
+      .stat-item { border-right: none; border-bottom: 1px solid var(--border); min-width: 0; }
+      .stat-item:nth-child(odd) { border-right: 1px solid var(--border); }
+      .stat-item:nth-last-child(-n+2) { border-bottom: none; }
+      .stat-num { font-size: 1.3rem; }
+      .stat-label { font-size: .7rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       nav .nav-link { display: none; }
     }
   </style>
@@ -197,22 +201,24 @@
 
 <!-- NAV -->
 <nav>
-  <div class="nav-logo">D</div>
-  <span class="nav-brand">DealTracker</span>
+  <a href="./" style="display:flex;align-items:center;gap:.6rem;text-decoration:none">
+    <div class="nav-logo">D</div>
+    <span class="nav-brand">DealTracker</span>
+  </a>
   <div class="spacer"></div>
-  <a class="nav-link" href="deals.html">Alle deals</a>
-  <a class="nav-link" href="deals.html?categorie=laptops">Laptops</a>
-  <a class="nav-link" href="deals.html?categorie=audio">Audio</a>
-  <a class="nav-cta" href="deals.html">Bekijk deals →</a>
+  <a class="nav-link" href="./deals.html">Alle deals</a>
+  <a class="nav-link" href="./deals.html?categorie=laptops">Laptops</a>
+  <a class="nav-link" href="./deals.html?categorie=audio">Audio</a>
+  <a class="nav-cta" href="./deals.html">Bekijk deals →</a>
 </nav>
 
 <!-- HERO -->
 <section class="hero">
-  <div class="hero-badge">🔥 Dagelijks bijgewerkt</div>
-  <h1>De beste <span>retour- &amp; outletdeals</span><br>op elektronica</h1>
-  <p>Wij verzamelen dagelijks de beste deals van Amazon RetourDeals, MediaMarkt Outlet, Breezy Returns en Stekkerstore — zodat jij nooit een koopje mist.</p>
+  <div class="hero-badge">🔥 Elke dag nieuwe koopjes</div>
+  <h1>Nooit meer een <span>koopje</span> missen</h1>
+  <p>Elke dag speuren we retour- en outletwinkels af zodat jij dat ene apparaat eindelijk kunt scoren — voor een fractie van de prijs. ✨</p>
   <div class="hero-btns">
-    <a class="btn-hero btn-primary" href="deals.html">🛍️ Bekijk alle deals</a>
+    <a class="btn-hero btn-primary" href="./deals.html">🛍️ Bekijk alle deals</a>
     <a class="btn-hero btn-outline" href="#categorieen">Categorieën →</a>
   </div>
 </section>
@@ -220,9 +226,9 @@
 <!-- STATS BAR -->
 <div class="stats-bar">
   <div class="stat-item"><div class="stat-num" id="stat-deals">—</div><div class="stat-label">Actieve deals</div></div>
-  <div class="stat-item"><div class="stat-num" id="stat-korting">—</div><div class="stat-label">Gemiddelde korting</div></div>
-  <div class="stat-item"><div class="stat-num" id="stat-bronnen">4</div><div class="stat-label">Winkels gemonitord</div></div>
-  <div class="stat-item"><div class="stat-num" id="stat-updated">—</div><div class="stat-label">Laatste update</div></div>
+  <div class="stat-item"><div class="stat-num" id="stat-korting">—</div><div class="stat-label">Gem. korting</div></div>
+  <div class="stat-item"><div class="stat-num" id="stat-bronnen">4</div><div class="stat-label">Winkels</div></div>
+  <div class="stat-item"><div class="stat-num" id="stat-updated">—</div><div class="stat-label">Bijgewerkt</div></div>
 </div>
 
 <!-- CATEGORIES -->
@@ -240,46 +246,35 @@
     <!-- filled by JS -->
   </div>
   <div style="text-align:center; margin-top:2rem;">
-    <a class="btn-hero btn-primary" href="deals.html">Bekijk alle deals →</a>
-  </div>
-</section>
-
-<!-- SOURCES -->
-<section class="section">
-  <h2 class="section-title">📦 <span>Onze bronnen</span></h2>
-  <div class="sources-grid">
-    <div class="source-pill">📦 Amazon RetourDeals</div>
-    <div class="source-pill">📦 Breezy Returns</div>
-    <div class="source-pill">🔴 MediaMarkt Outlet</div>
-    <div class="source-pill">🔌 Stekkerstore</div>
+    <a class="btn-hero btn-primary" href="./deals.html">Bekijk alle deals →</a>
   </div>
 </section>
 
 <!-- HOW IT WORKS -->
 <section class="section">
-  <h2 class="section-title">⚙️ Hoe het <span>werkt</span></h2>
+  <h2 class="section-title">💡 Hoe het <span>werkt</span></h2>
   <div class="steps">
-    <div class="step"><div class="step-num">1</div><h3>Automatisch scrapen</h3><p>Elke dag scrapen we meerdere retour- en outletwinkels op nieuwe deals.</p></div>
-    <div class="step"><div class="step-num">2</div><h3>Beoordeling</h3><p>Deals worden handmatig gecheckt op kwaliteit en prijs voor publicatie.</p></div>
-    <div class="step"><div class="step-num">3</div><h3>Prijsgeschiedenis</h3><p>We houden bij hoe de prijs over tijd verandert, zodat je weet of het echt een deal is.</p></div>
-    <div class="step"><div class="step-num">4</div><h3>Jij bespaart</h3><p>Klik door naar de winkel en bestel — geen account nodig op DealTracker.</p></div>
+    <div class="step"><div class="step-num">1</div><h3>Wij houden winkels in de gaten 👀</h3><p>Elke dag speuren we retour- en outletwinkels af op nieuwe deals — zonder dat jij er iets voor hoeft te doen.</p></div>
+    <div class="step"><div class="step-num">2</div><h3>Wij checken of het klopt ✅</h3><p>Niet alles wat 'sale' heet is ook echt goedkoop. Wij controleren of de korting ook daadwerkelijk de moeite waard is.</p></div>
+    <div class="step"><div class="step-num">3</div><h3>Wij volgen de prijs 📊</h3><p>We houden bij hoe de prijs verandert. Zo weet je of dat apparaat echt in de aanbieding is, of dat het al tijden zo duur was.</p></div>
+    <div class="step"><div class="step-num">4</div><h3>Jij bespaart 🎉</h3><p>Zie je iets leuks? Klik door naar de winkel en bestel. Je hebt geen account nodig op DealTracker.</p></div>
   </div>
 </section>
 
 <!-- CTA -->
 <div class="cta-banner">
-  <h2>Klaar om te besparen?</h2>
-  <p>Bekijk alle actuele retour- en outletdeals — dagelijks bijgewerkt.</p>
-  <a class="btn-hero btn-primary" href="deals.html">🛍️ Bekijk alle deals</a>
+  <h2>Klaar om te besparen? 🛍️</h2>
+  <p>Bekijk alle actuele koopjes — elke dag bijgewerkt.</p>
+  <a class="btn-hero btn-primary" href="./deals.html">Bekijk alle deals →</a>
 </div>
 
 <!-- FOOTER -->
 <footer>
-  <p>© 2025 DealTracker &nbsp;·&nbsp; <a href="deals.html">Alle deals</a> &nbsp;·&nbsp;
-  <a href="deals.html?categorie=laptops">Laptops</a> &nbsp;·&nbsp;
-  <a href="deals.html?categorie=audio">Audio</a> &nbsp;·&nbsp;
-  <a href="deals.html?categorie=gaming">Gaming</a> &nbsp;·&nbsp;
-  <a href="deals.html?categorie=tv">TV's</a></p>
+  <p>© 2025 DealTracker &nbsp;·&nbsp; <a href="./deals.html">Alle deals</a> &nbsp;·&nbsp;
+  <a href="./deals.html?categorie=laptops">Laptops</a> &nbsp;·&nbsp;
+  <a href="./deals.html?categorie=audio">Audio</a> &nbsp;·&nbsp;
+  <a href="./deals.html?categorie=gaming">Gaming</a> &nbsp;·&nbsp;
+  <a href="./deals.html?categorie=tv">TV's</a></p>
   <p style="margin-top:.5rem; font-size:.75rem;">Prijzen en beschikbaarheid kunnen afwijken. DealTracker is een onafhankelijke vergelijkingssite.</p>
 </footer>
 
@@ -342,7 +337,7 @@ async function init() {
   deals.forEach(d => { const c = d.category || 'elektronica'; counts[c] = (counts[c] || 0) + 1; });
   const grid = document.getElementById('category-grid');
   grid.innerHTML = CATEGORIES.map(c => `
-    <a href="deals.html?categorie=${c.slug}" class="cat-card">
+    <a href="./deals.html?categorie=${c.slug}" class="cat-card">
       <span class="cat-icon">${c.icon}</span>
       <span class="cat-name">${c.name}</span>
       <span class="cat-count">${counts[c.slug] || 0} deals</span>
