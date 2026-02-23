@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-02-23T13:55:03.030875+00:00",
+  "updated_at": "2026-02-23T13:56:23.636657+00:00",
   "total": 307,
   "deals": [
+    {
+      "id": "0a309f48707a",
+      "title": "SMEG SMF02CREU Creme",
+      "price": 168.0,
+      "original_price": 219.0,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/smeg-smf02creu-creme-r-16232",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1505614.jpg?v=1771853844",
+      "found_at": "2026-02-23T13:51:14.864102+00:00",
+      "price_history": [
+        {
+          "price": 168.0,
+          "original_price": 219.0,
+          "discount_percent": 23,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
     {
       "id": "ca5de45fcdd0",
       "title": "Google Chromecast TV Streamer 4K",
@@ -145,27 +166,6 @@
           "price": 140.0,
           "original_price": 199.0,
           "discount_percent": 29,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        }
-      ]
-    },
-    {
-      "id": "0a309f48707a",
-      "title": "SMEG SMF02CREU Creme",
-      "price": 168.0,
-      "original_price": 219.0,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/smeg-smf02creu-creme-r-16232",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1505614.jpg?v=1771853844",
-      "found_at": "2026-02-23T13:51:14.864102+00:00",
-      "price_history": [
-        {
-          "price": 168.0,
-          "original_price": 219.0,
-          "discount_percent": 23,
           "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
