@@ -1,7 +1,154 @@
 {
-  "updated_at": "2026-02-23T11:30:11.263440+00:00",
-  "total": 299,
+  "updated_at": "2026-02-23T13:54:37.732879+00:00",
+  "total": 306,
   "deals": [
+    {
+      "id": "b58c06882622",
+      "title": "Samsung Odyssey G85 OLED LS34BG850SUXEN",
+      "price": 903.0,
+      "original_price": 1329.0,
+      "discount_percent": 32,
+      "category": "tv",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-odyssey-g85-oled-ls34bg850suxen-r-16191",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1848964_acc4ffba-4032-4aa9-bb44-0abef8d8f9af.jpg?v=1771853515",
+      "found_at": "2026-02-23T13:51:14.863693+00:00",
+      "price_history": [
+        {
+          "price": 903.0,
+          "original_price": 1329.0,
+          "discount_percent": 32,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c8ac03b5d987",
+      "title": "AKG K 240 halfopen koptelefoon - Gesloten koptelefoon",
+      "price": 55.08,
+      "original_price": 199.0,
+      "discount_percent": 72,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0001ARCFA?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71GqLOydxRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-02-23T13:36:20.200449+00:00",
+      "price_history": [
+        {
+          "price": 55.08,
+          "original_price": 199.0,
+          "discount_percent": 72,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4ea57494c7b9",
+      "title": "ASUS ROG Swift OLED PG27UCDM - OLED-Monitor - Gaming - 68,6 cm (27 inch) (90LM0B30-B01971)",
+      "price": 676.64,
+      "original_price": 949.0,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DT4S32PY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/91kaC8irZbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-02-23T13:50:05.243834+00:00",
+      "price_history": [
+        {
+          "price": 676.64,
+          "original_price": 949.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d9fd0f159faf",
+      "title": "LG UltraGear 32G810SA-W 32' 144 Hz UHD 4K AI Smart Gaming Monitor",
+      "price": 357.19,
+      "original_price": 517.09,
+      "discount_percent": 30,
+      "category": "gaming",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DZXQCCYS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71SZX8cwaFL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-02-23T13:49:30.543891+00:00",
+      "price_history": [
+        {
+          "price": 357.19,
+          "original_price": 517.09,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "e9abe52482ed",
+      "title": "Apple iPhone 16 128GB Zwart",
+      "price": 626.0,
+      "original_price": 760.0,
+      "discount_percent": 17,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-16-128gb-zwart-r-16257",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093114_0ca4c4da-dc73-4b1c-9eca-25cf73378a7e.jpg?v=1771854043",
+      "found_at": "2026-02-23T13:50:56.874177+00:00",
+      "price_history": [
+        {
+          "price": 626.0,
+          "original_price": 760.0,
+          "discount_percent": 17,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0d3bcfb2422a",
+      "title": "AEG AP61AB21DG ANIMAL 6000",
+      "price": 140.0,
+      "original_price": 199.0,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aeg-ap61ab21dg-animal-6000-r-16234",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2121305_99859ab3-0849-4eea-8f7d-85eb653d7995.jpg?v=1771853870",
+      "found_at": "2026-02-23T13:50:56.872738+00:00",
+      "price_history": [
+        {
+          "price": 140.0,
+          "original_price": 199.0,
+          "discount_percent": 29,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0a309f48707a",
+      "title": "SMEG SMF02CREU Creme",
+      "price": 168.0,
+      "original_price": 219.0,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/smeg-smf02creu-creme-r-16232",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1505614.jpg?v=1771853844",
+      "found_at": "2026-02-23T13:51:14.864102+00:00",
+      "price_history": [
+        {
+          "price": 168.0,
+          "original_price": 219.0,
+          "discount_percent": 23,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
+    },
     {
       "id": "e27bc7dbfd03",
       "title": "EGLO Silentina Plafondlamp, 3 lichtpunten, modern, industrieel van staal, woonkamerlamp in zwart, keukenlamp, hallamp, plafond met E27-fitting",
@@ -41,6 +188,12 @@
           "original_price": 87.5,
           "discount_percent": 67,
           "scraped_at": "2026-02-23T07:03:20.011101+00:00"
+        },
+        {
+          "price": 87.5,
+          "original_price": 124.99,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
     },
@@ -1928,6 +2081,12 @@
           "original_price": 1549.0,
           "discount_percent": 18,
           "scraped_at": "2026-02-23T11:02:56.279176+00:00"
+        },
+        {
+          "price": 1092.0,
+          "original_price": 1549.0,
+          "discount_percent": 29,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
     },
@@ -2399,6 +2558,12 @@
           "original_price": 354.0,
           "discount_percent": 29,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 213.0,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
     },
@@ -4770,6 +4935,12 @@
           "original_price": 630.0,
           "discount_percent": 3,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 389.0,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
     },
@@ -4791,6 +4962,12 @@
           "original_price": 629.0,
           "discount_percent": 3,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 389.0,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
     },
@@ -6035,6 +6212,12 @@
           "original_price": null,
           "discount_percent": 0,
           "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 125.55,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
         }
       ]
     },
