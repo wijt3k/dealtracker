@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T15:47:34.225491+00:00",
+  "updated_at": "2026-02-24T15:47:52.290317+00:00",
   "total": 26,
   "deals": [
     {
@@ -19,27 +19,6 @@
           "price": 1179.0,
           "original_price": 1596.0,
           "discount_percent": 26,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        }
-      ]
-    },
-    {
-      "id": "ada4ff10cdba",
-      "title": "HP Victus 16-r0044nb AZERTY",
-      "price": 772.0,
-      "original_price": 1093.0,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-victus-16-r0044nb-azerty-r-16150",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941468_03cccb73-7219-4d97-8b52-8f5acc774734.jpg?v=1771935995",
-      "found_at": "2026-02-24T15:17:57.160916+00:00",
-      "price_history": [
-        {
-          "price": 772.0,
-          "original_price": 1093.0,
-          "discount_percent": 29,
           "scraped_at": "2026-02-24T15:18:47.139882+00:00"
         }
       ]
@@ -66,27 +45,6 @@
       ]
     },
     {
-      "id": "9b6ea98a157a",
-      "title": "Sony Inzone H3 Gaming Headset PS5 en PC",
-      "price": 53.0,
-      "original_price": 89.0,
-      "discount_percent": 40,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-inzone-h3-gaming-headset-ps5-en-pc-r-16151",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1781237.jpg?v=1771935991",
-      "found_at": "2026-02-24T15:18:09.937708+00:00",
-      "price_history": [
-        {
-          "price": 53.0,
-          "original_price": 89.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        }
-      ]
-    },
-    {
       "id": "eb11f53b8c78",
       "title": "Apple iPad Pro (2025) 11 inch 256GB Wifi Zwart",
       "price": 834.0,
@@ -103,6 +61,48 @@
           "price": 834.0,
           "original_price": 999.0,
           "discount_percent": 16,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ada4ff10cdba",
+      "title": "HP Victus 16-r0044nb AZERTY",
+      "price": 772.0,
+      "original_price": 1093.0,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-victus-16-r0044nb-azerty-r-16150",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941468_03cccb73-7219-4d97-8b52-8f5acc774734.jpg?v=1771935995",
+      "found_at": "2026-02-24T15:17:57.160916+00:00",
+      "price_history": [
+        {
+          "price": 772.0,
+          "original_price": 1093.0,
+          "discount_percent": 29,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9b6ea98a157a",
+      "title": "Sony Inzone H3 Gaming Headset PS5 en PC",
+      "price": 53.0,
+      "original_price": 89.0,
+      "discount_percent": 40,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-inzone-h3-gaming-headset-ps5-en-pc-r-16151",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1781237.jpg?v=1771935991",
+      "found_at": "2026-02-24T15:18:09.937708+00:00",
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 89.0,
+          "discount_percent": 40,
           "scraped_at": "2026-02-24T15:18:47.139882+00:00"
         }
       ]
