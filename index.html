@@ -15,14 +15,16 @@
   <title>DealTracker — Elke dag de beste outlet- & retourdeals</title>
   <meta name="description" content="Elke dag speuren we retour- en outletwinkels af voor de beste deals op elektronica. Tot 70% korting op laptops, audio, gaming, tv's en meer.">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://wijt3k.github.io/dealtracker/">
+  <link rel="canonical" href="https://dealtracker.nl/">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="apple-touch-icon" href="./og-image.png">
 
   <!-- Open Graph -->
   <meta property="og:title" content="DealTracker — Retour & Outlet Deals">
   <meta property="og:description" content="Dagelijkse retour- en outletdeals op elektronica. Tot 70% korting.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://wijt3k.github.io/dealtracker/">
-  <meta property="og:image" content="https://wijt3k.github.io/dealtracker/og-image.png">
+  <meta property="og:url" content="https://dealtracker.nl/">
+  <meta property="og:image" content="https://dealtracker.nl/og-image.png">
 
   <!-- Schema.org -->
   <script type="application/ld+json">
@@ -30,11 +32,11 @@
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "DealTracker",
-    "url": "https://wijt3k.github.io/dealtracker/",
+    "url": "https://dealtracker.nl/",
     "description": "Dagelijkse retour en outlet deals op elektronica",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://wijt3k.github.io/dealtracker/deals.html?q={search_term_string}",
+      "target": "https://dealtracker.nl/deals.html?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   }
@@ -71,6 +73,22 @@
     .nav-cta { background: var(--primary); color: #fff; padding: .4rem 1rem;
       border-radius: 8px; font-weight: 600; font-size: .9rem; transition: opacity .2s; }
     .nav-cta:hover { opacity: .85; }
+    /* hamburger */
+    .nav-hamburger { display: none; background: none; border: none; cursor: pointer;
+      padding: .3rem; color: var(--text); flex-direction: column; gap: 5px; }
+    .nav-hamburger span { display: block; width: 22px; height: 2px; background: currentColor;
+      border-radius: 2px; transition: all .25s; }
+    .nav-hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .nav-hamburger.open span:nth-child(2) { opacity: 0; }
+    .nav-hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .nav-mobile-menu { display: none; position: fixed; top: 57px; left: 0; right: 0;
+      background: rgba(15,23,42,.98); backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border); padding: 1rem 1.5rem;
+      flex-direction: column; gap: .5rem; z-index: 49; }
+    .nav-mobile-menu.open { display: flex; }
+    .nav-mobile-menu a { padding: .65rem .75rem; border-radius: 8px; font-size: .95rem;
+      font-weight: 600; color: var(--text); border: 1px solid transparent; transition: all .15s; }
+    .nav-mobile-menu a:hover { border-color: var(--border); background: var(--card); }
 
     /* ── HERO ── */
     .hero {
@@ -93,6 +111,28 @@
     .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(255,107,53,.35); }
     .btn-outline { background: transparent; color: var(--text); border: 1px solid var(--border); }
     .btn-outline:hover { border-color: var(--primary); color: var(--primary); }
+    /* hero search */
+    .hero-search {
+      display: flex; max-width: 480px; margin: 0 auto 2rem; position: relative;
+    }
+    .hero-search input {
+      flex: 1; background: rgba(255,255,255,.07); border: 1px solid rgba(255,107,53,.35);
+      border-radius: 10px 0 0 10px; padding: .75rem 1rem .75rem 2.5rem;
+      color: var(--text); font-size: 1rem; font-family: inherit; outline: none;
+      transition: border-color .2s;
+    }
+    .hero-search input::placeholder { color: var(--muted); }
+    .hero-search input:focus { border-color: var(--primary); }
+    .hero-search-icon {
+      position: absolute; left: .8rem; top: 50%; transform: translateY(-50%);
+      font-size: .9rem; pointer-events: none;
+    }
+    .hero-search button {
+      background: var(--primary); color: #fff; border: none; border-radius: 0 10px 10px 0;
+      padding: .75rem 1.2rem; font-weight: 700; font-size: .95rem; cursor: pointer;
+      font-family: inherit; transition: opacity .2s;
+    }
+    .hero-search button:hover { opacity: .85; }
 
     /* ── STATS BAR ── */
     .stats-bar {
@@ -194,6 +234,8 @@
       .stat-num { font-size: 1.3rem; }
       .stat-label { font-size: .7rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       nav .nav-link { display: none; }
+      nav .nav-cta { display: none; }
+      .nav-hamburger { display: flex; }
 
       /* Categorie-grid: van 5-rijen-grid naar horizontaal scrollbare pillstrip */
       .category-grid {
@@ -223,15 +265,34 @@
   <div class="spacer"></div>
   <a class="nav-link" href="./deals.html">Alle deals</a>
   <a class="nav-link" href="./deals.html?categorie=laptops">Laptops</a>
+  <a class="nav-link" href="./deals.html?categorie=smartphones">Smartphones</a>
   <a class="nav-link" href="./deals.html?categorie=audio">Audio</a>
+  <a class="nav-link" href="./deals.html?categorie=gaming">Gaming</a>
   <a class="nav-cta" href="./deals.html">Bekijk deals →</a>
+  <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" onclick="toggleMobileMenu()">
+    <span></span><span></span><span></span>
+  </button>
 </nav>
+<div class="nav-mobile-menu" id="nav-mobile-menu">
+  <a href="./deals.html">🛍️ Alle deals</a>
+  <a href="./deals.html?categorie=laptops">💻 Laptops</a>
+  <a href="./deals.html?categorie=smartphones">📱 Smartphones</a>
+  <a href="./deals.html?categorie=audio">🎧 Audio</a>
+  <a href="./deals.html?categorie=gaming">🎮 Gaming</a>
+  <a href="./deals.html?categorie=tv">📺 TV's</a>
+  <a href="./deals.html?categorie=huishouden">🏠 Huishouden</a>
+</div>
 
 <!-- HERO -->
 <section class="hero">
   <div class="hero-badge">🔥 Elke dag nieuwe koopjes</div>
   <h1>Nooit meer een <span>koopje</span> missen</h1>
   <p>Elke dag speuren we retour- en outletwinkels af zodat jij dat ene apparaat eindelijk kunt scoren — voor een fractie van de prijs. ✨</p>
+  <form class="hero-search" onsubmit="heroSearch(event)">
+    <span class="hero-search-icon">🔍</span>
+    <input type="search" id="hero-search-input" placeholder="Zoek op laptop, koptelefoon, robot…" autocomplete="off">
+    <button type="submit">Zoek</button>
+  </form>
   <div class="hero-btns">
     <a class="btn-hero btn-primary" href="./deals.html">🛍️ Bekijk alle deals</a>
     <a class="btn-hero btn-outline" href="#categorieen">Categorieën →</a>
@@ -285,7 +346,7 @@
 
 <!-- FOOTER -->
 <footer>
-  <p>© 2025 DealTracker &nbsp;·&nbsp; <a href="./deals.html">Alle deals</a> &nbsp;·&nbsp;
+  <p>© 2026 DealTracker &nbsp;·&nbsp; <a href="./deals.html">Alle deals</a> &nbsp;·&nbsp;
   <a href="./deals.html?categorie=laptops">Laptops</a> &nbsp;·&nbsp;
   <a href="./deals.html?categorie=audio">Audio</a> &nbsp;·&nbsp;
   <a href="./deals.html?categorie=gaming">Gaming</a> &nbsp;·&nbsp;
@@ -384,6 +445,28 @@ async function init() {
 }
 
 init();
+
+function heroSearch(e) {
+  e.preventDefault();
+  const q = document.getElementById('hero-search-input').value.trim();
+  if (q) window.location.href = './deals.html?q=' + encodeURIComponent(q);
+}
+
+function toggleMobileMenu() {
+  const btn  = document.getElementById('nav-hamburger');
+  const menu = document.getElementById('nav-mobile-menu');
+  btn.classList.toggle('open');
+  menu.classList.toggle('open');
+}
+// Sluit menu bij klik buiten nav
+document.addEventListener('click', function(e) {
+  const menu = document.getElementById('nav-mobile-menu');
+  const btn  = document.getElementById('nav-hamburger');
+  if (menu && menu.classList.contains('open') && !menu.contains(e.target) && !btn.contains(e.target)) {
+    menu.classList.remove('open');
+    btn.classList.remove('open');
+  }
+});
 </script>
 </body>
 </html>
