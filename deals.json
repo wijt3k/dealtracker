@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-02-25T17:24:35.879318+00:00",
-  "total": 19,
+  "updated_at": "2026-02-25T20:51:08.953631+00:00",
+  "total": 21,
   "deals": [
+    {
+      "id": "0865d96e8ea3",
+      "title": "Garmin Forerunner 165 Music Zwart/Grijs",
+      "price": 134.0,
+      "original_price": 294.88,
+      "discount_percent": 54,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-forerunner-165-music-zwart-grijs-r-16243",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2131617.jpg?v=1771936166",
+      "found_at": "2026-02-25T19:11:28.717032+00:00",
+      "price_history": [
+        {
+          "price": 208.0,
+          "original_price": 287.0,
+          "discount_percent": 27,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 294.88,
+          "discount_percent": 54,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6a1f48b8c18d",
+      "title": "Apple iPhone 16 128GB Ultramarine",
+      "price": 575.0,
+      "original_price": 762.0,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-16-128gb-ultramarine-r-16164",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093922_32cc98fe-22a3-4e2c-a5dd-9b39c2346ccd.jpg?v=1771936033",
+      "found_at": "2026-02-25T19:11:21.836754+00:00",
+      "price_history": [
+        {
+          "price": 594.0,
+          "original_price": 789.0,
+          "discount_percent": 24,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 575.0,
+          "original_price": 762.0,
+          "discount_percent": 24,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        }
+      ]
+    },
     {
       "id": "3874254fb097",
       "title": "Apple Watch Series 11 5G 42mm Titanium Goud Milanese Band",
