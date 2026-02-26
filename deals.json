@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-02-26T19:55:56.145734+00:00",
-  "total": 76,
+  "updated_at": "2026-02-26T20:01:14.005019+00:00",
+  "total": 77,
   "deals": [
+    {
+      "id": "3db634e5a61e",
+      "title": "EXTREMEGAMER CLASSIC LVL 1 V4e - AMD Ryzen 5 8400F - 32 GB - 500 GB - GeForce RTX™ 3050",
+      "price": 711.75,
+      "original_price": 949.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325391",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffd9ec4837_ASSET_MMS_162085314-500x500.png",
+      "found_at": "2026-02-26T19:13:21.838663+00:00",
+      "price_history": [
+        {
+          "price": 711.75,
+          "original_price": 949.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
     {
       "id": "13acb2610056",
       "title": "Jabra Evolve2 75 draadloze PC headset met 8-microfoontechnologie - dual-foam stereo headphone met instelbare ruisonderdrukking, USB-A Bluetooth-adapter en UC-compatibiliteit - zwart",
