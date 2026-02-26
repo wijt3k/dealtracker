@@ -1,7 +1,118 @@
 {
-  "updated_at": "2026-02-26T07:05:44.545014+00:00",
-  "total": 57,
+  "updated_at": "2026-02-26T11:44:38.556034+00:00",
+  "total": 85,
   "deals": [
+    {
+      "id": "321c8ff5529e",
+      "title": "Kenwood (Keuken) XL Weigh+ FDM72.990BK",
+      "price": 37.2,
+      "original_price": 268.62,
+      "discount_percent": 86,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kenwood-keuken-xl-weigh-fdm72-990bk-r-15342",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806803_630ff5fa-de48-4690-9e05-f3bcb830dc58.jpg?v=1768835098",
+      "found_at": "2026-02-26T11:14:27.310402+00:00",
+      "price_history": [
+        {
+          "price": 159.85,
+          "original_price": 278.5,
+          "discount_percent": 42,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 37.2,
+          "original_price": 268.62,
+          "discount_percent": 86,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b446cb74b268",
+      "title": "SAMSUNG 85\" Neo QLED 4K TV QN80F Mini LED (2025)",
+      "price": 1499.25,
+      "original_price": 1999.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325487",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019e0ce8b9_ASSET_MMS_165397139-500x500.png",
+      "found_at": "2026-02-26T11:13:44.068501+00:00",
+      "price_history": [
+        {
+          "price": 1499.25,
+          "original_price": 1999.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f0d59b43571d",
+      "title": "SAMSUNG Odyssey Neo G9 LS57CG952NUXEN - 57 inch - 7680 x 2160 (Dual 4K) - 1 ms - 240 Hz",
+      "price": 1424.25,
+      "original_price": 1899.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325485",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019c49c302_ASSET_MMS_108874933-500x500.png",
+      "found_at": "2026-02-26T11:13:44.070070+00:00",
+      "price_history": [
+        {
+          "price": 1424.25,
+          "original_price": 1899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fd8f07822d76",
+      "title": "EXTREMEGAMER X EDT INT AI BK - Intel Core Ultra 5 245KF - 32 GB - 1 TB - GeForce RTX™ 5060",
+      "price": 1349.25,
+      "original_price": 1799.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325363",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffdbdec81f_ASSET_MMS_162212888-500x500.png",
+      "found_at": "2026-02-26T11:13:50.254685+00:00",
+      "price_history": [
+        {
+          "price": 1349.25,
+          "original_price": 1799.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7897974d47a8",
+      "title": "EXTREMEGAMER CLASSIC LVL4a V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060 Ti",
+      "price": 1349.25,
+      "original_price": 1799.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325284",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fef9056d31_ASSET_MMS_162085392-500x500.png",
+      "found_at": "2026-02-26T11:13:56.098055+00:00",
+      "price_history": [
+        {
+          "price": 1349.25,
+          "original_price": 1799.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
     {
       "id": "fa5e462e9bda",
       "title": "SAMSUNG 85\" Neo QLED 4K TV QN74F Mini LED (2025)",
@@ -13,11 +124,788 @@
       "condition": "Outlet",
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325081",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eefbee7e5a_ASSET_MMS_154445440-500x500.png",
-      "found_at": "2026-02-26T06:46:15.255782+00:00",
+      "found_at": "2026-02-26T11:14:04.694175+00:00",
       "price_history": [
         {
           "price": 1349.25,
           "original_price": 1799.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9cc471d2cc82",
+      "title": "SAMSUNG 65” OLED 4K TV S90F (2025)",
+      "price": 1349.25,
+      "original_price": 1799.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325079",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019f53da77_ASSET_MMS_165395437-500x500.png",
+      "found_at": "2026-02-26T11:14:04.694933+00:00",
+      "price_history": [
+        {
+          "price": 1236.75,
+          "original_price": 1649.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        },
+        {
+          "price": 1349.25,
+          "original_price": 1799.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4f27d788c26c",
+      "title": "EXTREMEGAMER X EDT LVL 1a BKV4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060",
+      "price": 1161.75,
+      "original_price": 1549.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325374",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffd9c9d767_ASSET_MMS_162085444-500x500.png",
+      "found_at": "2026-02-26T11:13:50.246919+00:00",
+      "price_history": [
+        {
+          "price": 1161.75,
+          "original_price": 1549.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "a94fae4ced65",
+      "title": "EXTREMEGAMER CLASSIC LVL 3 V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060",
+      "price": 1049.25,
+      "original_price": 1399.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325263",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fefa0c8431_ASSET_MMS_162085358-500x500.png",
+      "found_at": "2026-02-26T11:13:56.108033+00:00",
+      "price_history": [
+        {
+          "price": 1199.25,
+          "original_price": 1599.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        },
+        {
+          "price": 1049.25,
+          "original_price": 1399.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "35cf0fdcb682",
+      "title": "SAMSUNG 55\" Neo QLED 4K TV QN90F Mini LED (2025)",
+      "price": 861.75,
+      "original_price": 1149.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325069",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eeedc81071_ASSET_MMS_154446091-500x500.png",
+      "found_at": "2026-02-26T11:14:12.109619+00:00",
+      "price_history": [
+        {
+          "price": 861.75,
+          "original_price": 1149.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "a252882418b7",
+      "title": "SAMSUNG Viewfinity S9 LS49C950UAUXEN - 49 inch - 5120 x 1440 (Dual Quad HD) - VA-paneel - in hoogte verstelbaar",
+      "price": 824.25,
+      "original_price": 1099.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325329",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fee2cd539f_ASSET_MMS_136830378-500x500.png",
+      "found_at": "2026-02-26T11:13:56.072970+00:00",
+      "price_history": [
+        {
+          "price": 824.25,
+          "original_price": 1099.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "44dda4752752",
+      "title": "MICROSOFT Surface Pro - 12 inch - Snapdragon X 26-100 - 16 GB - 256 GB - Adreno™ Onboard Graphics - Copilot+ PC",
+      "price": 734.25,
+      "original_price": 979.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325448",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a006e34ddd7_ASSET_MMS_154275314-500x500.png",
+      "found_at": "2026-02-26T11:13:50.200804+00:00",
+      "price_history": [
+        {
+          "price": 734.25,
+          "original_price": 979.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bbf8bc1ca7ba",
+      "title": "CANON PowerShot G7X Mark III Vlogger Kit",
+      "price": 719.25,
+      "original_price": 959.0,
+      "discount_percent": 25,
+      "category": "camera",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325152",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699f0087f286b_ASSET_MMS_72997646-500x500.png",
+      "found_at": "2026-02-26T11:14:04.655287+00:00",
+      "price_history": [
+        {
+          "price": 719.25,
+          "original_price": 959.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b93c4a37b9a9",
+      "title": "SAMSUNG 50\" Neo QLED 4K TV QN90F Mini LED (2025)",
+      "price": 711.75,
+      "original_price": 949.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325327",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feff14efea_ASSET_MMS_160719083-500x500.png",
+      "found_at": "2026-02-26T11:13:56.074500+00:00",
+      "price_history": [
+        {
+          "price": 711.75,
+          "original_price": 949.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fa18162abd7c",
+      "title": "SAMSUNG 65\" Neo QLED 4K TV QN74F Mini LED (2025)",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325579",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a0291414a62_ASSET_MMS_154445417-500x500.png",
+      "found_at": "2026-02-26T11:13:44.008647+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bdedc9ebc453",
+      "title": "SAMSUNG WD11DG6B85BBU3 6000-serie -  Was-droogcombinatie - 11 kg + 6 kg - 1400 rpm - 72 dB",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325557",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a021f53edad_ASSET_MMS_143290889-500x500.png",
+      "found_at": "2026-02-26T11:13:44.025190+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "94176c53e6b5",
+      "title": "HISENSE 55S7NQ QLED (2024)",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325444",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a00bae410ab_ASSET_MMS_165266874-500x500.png",
+      "found_at": "2026-02-26T11:13:50.203964+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "94e38796e773",
+      "title": "TCL 55C7K QD-MiniLED Google TV (2025)",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325328",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feff0d121e_ASSET_MMS_167291776-500x500.png",
+      "found_at": "2026-02-26T11:13:56.073725+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "643fb86a70e0",
+      "title": "SAMSUNG 43\" Neo QLED 4K TV QN90F Mini LED (2025)",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325321",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feffd6378f_ASSET_MMS_160719074-500x500.png",
+      "found_at": "2026-02-26T11:13:56.078048+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "78acd01dbd93",
+      "title": "Athom Homey Pro (Early 2023)",
+      "price": 251.0,
+      "original_price": 403.64,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/athom-homey-pro-early-2023-r-16085",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941123_4a80796d-52a8-4334-863d-d430577cde73.jpg?v=1771935554",
+      "found_at": "2026-02-26T11:14:17.178602+00:00",
+      "price_history": [
+        {
+          "price": 289.0,
+          "original_price": 329.0,
+          "discount_percent": 12,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 405.11,
+          "discount_percent": 38,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b3b7ef2cc657",
+      "title": "CANON EOS R100 + RF-S 18-45 + RF-S 55-210",
+      "price": 636.75,
+      "original_price": 849.0,
+      "discount_percent": 25,
+      "category": "camera",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325400",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffd9c42074_ASSET_MMS_137144497-500x500.png",
+      "found_at": "2026-02-26T11:13:50.232640+00:00",
+      "price_history": [
+        {
+          "price": 636.75,
+          "original_price": 849.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d1bdc4e58984",
+      "title": "TP-LINK Deco BE65 | BE9300 Tri-Band Smart Mesh WiFi 7 (2-Pack) Multiroom-wifi",
+      "price": 276.75,
+      "original_price": 369.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325290",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fefb092e8b_ASSET_MMS_136713397-500x500.png",
+      "found_at": "2026-02-26T11:13:56.095712+00:00",
+      "price_history": [
+        {
+          "price": 284.25,
+          "original_price": 379.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        },
+        {
+          "price": 276.75,
+          "original_price": 369.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "345c7b4ce818",
+      "title": "Philips Hue White and Color Starter Pack E27 met 3 lampen, dimmer + Bridge",
+      "price": 120.0,
+      "original_price": 173.92,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hue-white-and-color-starter-pack-e27-met-3-lampen-dimmer-bridge-r-16204",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1655049_2acbd1c3-da03-49cd-b51f-77f55dceada4.jpg?v=1771936061",
+      "found_at": "2026-02-26T11:14:33.636747+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 149.0,
+          "discount_percent": 14,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 173.92,
+          "discount_percent": 31,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        }
+      ]
+    },
+    {
+      "id": "aa5788a35f26",
+      "title": "Sonos Ace Zwart",
+      "price": 324.0,
+      "original_price": 425.41,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-ace-zwart-r-16079",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053701_575685da-aaf2-450a-9736-0713902a33e1.jpg?v=1771935520",
+      "found_at": "2026-02-26T11:14:36.628277+00:00",
+      "price_history": [
+        {
+          "price": 279.0,
+          "original_price": 288.0,
+          "discount_percent": 3,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 324.0,
+          "original_price": 420.09,
+          "discount_percent": 22,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9e3e4b31ef0e",
+      "title": "SEAGATE Expansion Desktop HDD - 16 TB",
+      "price": 257.25,
+      "original_price": 343.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325243",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fef989bced_ASSET_MMS_87325590-500x500.png",
+      "found_at": "2026-02-26T11:13:56.115835+00:00",
+      "price_history": [
+        {
+          "price": 257.25,
+          "original_price": 343.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "191dd60fcd40",
+      "title": "SONY WH-1000XM5 Hoofdtelefoon Zwart",
+      "price": 166.5,
+      "original_price": 222.0,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325043",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699edeb503396_ASSET_MMS_151579663-500x500.png",
+      "found_at": "2026-02-26T11:14:12.127446+00:00",
+      "price_history": [
+        {
+          "price": 166.5,
+          "original_price": 222.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "77b016f5d3d8",
+      "title": "SONY DualSense Edge Draadloze Controller Controller PlayStation 5 Wit",
+      "price": 151.5,
+      "original_price": 202.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325204",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699f1595139c2_ASSET_MMS_164821426-500x500.png",
+      "found_at": "2026-02-26T11:14:04.626655+00:00",
+      "price_history": [
+        {
+          "price": 151.5,
+          "original_price": 202.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9b6ea98a157a",
+      "title": "Sony Inzone H3 Gaming Headset PS5 en PC",
+      "price": 56.0,
+      "original_price": 77.31,
+      "discount_percent": 27,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-inzone-h3-gaming-headset-ps5-en-pc-r-16151",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1781237.jpg?v=1771935991",
+      "found_at": "2026-02-26T11:14:36.628403+00:00",
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 89.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 77.31,
+          "discount_percent": 27,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        }
+      ]
+    },
+    {
+      "id": "232339820188",
+      "title": "GOOGLE Chromecast TV Streamer 4K",
+      "price": 86.25,
+      "original_price": 115.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325411",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffc05305fb_ASSET_MMS_145238778-500x500.png",
+      "found_at": "2026-02-26T11:13:50.223985+00:00",
+      "price_history": [
+        {
+          "price": 86.25,
+          "original_price": 115.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c5ae303a8de0",
+      "title": "SONY Discdrive voor PS5 Digital Edition 0 GB",
+      "price": 71.24,
+      "original_price": 94.99,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325198",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699f1c9f41351_ASSET_MMS_146767595-500x500.png",
+      "found_at": "2026-02-26T11:14:04.629735+00:00",
+      "price_history": [
+        {
+          "price": 71.24,
+          "original_price": 94.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "260f8bbc6505",
+      "title": "SONY PlayStation 5 DualSense Draadloze Controller - Zwart  Controller PlayStation 5 Zwart",
+      "price": 59.99,
+      "original_price": 79.99,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325423",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffdc69b356_ASSET_MMS_144111639-500x500.png",
+      "found_at": "2026-02-26T11:13:50.217251+00:00",
+      "price_history": [
+        {
+          "price": 59.99,
+          "original_price": 79.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f23ea9269ce2",
+      "title": "SONY PlayStation 5 DualSense Draadloze Controller - Paars",
+      "price": 59.24,
+      "original_price": 78.99,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325160",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699f00b5e4b9f_ASSET_MMS_134789585-500x500.png",
+      "found_at": "2026-02-26T11:14:04.651395+00:00",
+      "price_history": [
+        {
+          "price": 59.24,
+          "original_price": 78.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5933304dc83e",
+      "title": "SONY PlayStation 5 DualSense Draadloze Controller - Rood",
+      "price": 52.49,
+      "original_price": 69.99,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325434",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a00bae5db0a_ASSET_MMS_134788321-500x500.png",
+      "found_at": "2026-02-26T11:13:50.211038+00:00",
+      "price_history": [
+        {
+          "price": 52.49,
+          "original_price": 69.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0a20fc2a502e",
+      "title": "MICROSOFT Kabel + Xbox Wireless Controller Xbox Series Carbon Black",
+      "price": 48.74,
+      "original_price": 64.99,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325432",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffec04ff34_ASSET_MMS_79224786-500x500.png",
+      "found_at": "2026-02-26T11:13:50.212556+00:00",
+      "price_history": [
+        {
+          "price": 48.74,
+          "original_price": 64.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6534a01b8d23",
+      "title": "LENOVO IdeaPad Slim 3 15AMN8 - 15.6 inch - Full HD - AMD Ryzen 5 7520U - 16 GB - 512 GB - Radeon™ 610M",
+      "price": 426.75,
+      "original_price": 569.0,
+      "discount_percent": 25,
+      "category": "laptops",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324904",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac79403cc_ASSET_MMS_163005772-500x500.png",
+      "found_at": "2026-02-26T07:11:08.236977+00:00",
+      "price_history": [
+        {
+          "price": 426.75,
+          "original_price": 569.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8553fe4f2f49",
+      "title": "NINTENDO Switch 2 - Spelconsole + Mario Kart World + QWARE Starter Kit Black Bundel 256 GB",
+      "price": 419.99,
+      "original_price": 559.99,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325269",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feffed8037_ASSET_MMS_152519831-500x500.png",
+      "found_at": "2026-02-26T07:10:53.209530+00:00",
+      "price_history": [
+        {
+          "price": 419.99,
+          "original_price": 559.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9b0a32c0b354",
+      "title": "SONY PlayStation 5 Console + NBA 2K26 1 TB",
+      "price": 411.75,
+      "original_price": 549.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324875",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac26a4e1c_ASSET_MMS_160521500-500x500.png",
+      "found_at": "2026-02-26T07:11:15.554235+00:00",
+      "price_history": [
+        {
+          "price": 411.75,
+          "original_price": 549.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "73d36054b9a5",
+      "title": "SONY PlayStation 5 Console 1 TB – EA SPORTS FC26 1 TB",
+      "price": 408.0,
+      "original_price": 544.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324866",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9ef766fe4_ASSET_MMS_163701634-500x500.png",
+      "found_at": "2026-02-26T07:11:15.559753+00:00",
+      "price_history": [
+        {
+          "price": 408.0,
+          "original_price": 544.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f21c00759aee",
+      "title": "LEGO CREATOR 3IN1 31168 Middeleeuws kasteel met ridders te paard Bouwstenen",
+      "price": 75.0,
+      "original_price": 100.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324786",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9e2743861_ASSET_MMS_164212189-500x500.png",
+      "found_at": "2026-02-26T07:11:15.614509+00:00",
+      "price_history": [
+        {
+          "price": 75.0,
+          "original_price": 100.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "dd18395a7e6b",
+      "title": "LEGO SUPER MARIO 72039 Mario Kart  – Bowsers kasteel Bouwstenen",
+      "price": 56.24,
+      "original_price": 74.99,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324864",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac284ab6f_ASSET_MMS_164212511-500x500.png",
+      "found_at": "2026-02-26T07:11:15.561372+00:00",
+      "price_history": [
+        {
+          "price": 56.24,
+          "original_price": 74.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "363498de5c1f",
+      "title": "LOGITECH MX Master 3S SE - Graphite Muis Grijs",
+      "price": 56.24,
+      "original_price": 74.99,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324762",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e96f2e97a8_ASSET_MMS_160521392-500x500.png",
+      "found_at": "2026-02-26T07:11:23.159361+00:00",
+      "price_history": [
+        {
+          "price": 56.24,
+          "original_price": 74.99,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
         }
@@ -156,69 +1044,6 @@
       ]
     },
     {
-      "id": "7897974d47a8",
-      "title": "EXTREMEGAMER CLASSIC LVL4a V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060 Ti",
-      "price": 1349.25,
-      "original_price": 1799.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325284",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fea63bc73d_ASSET_MMS_162085392-500x500.png",
-      "found_at": "2026-02-26T06:46:07.891831+00:00",
-      "price_history": [
-        {
-          "price": 1349.25,
-          "original_price": 1799.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "9cc471d2cc82",
-      "title": "SAMSUNG 65” OLED 4K TV S90F (2025)",
-      "price": 1236.75,
-      "original_price": 1649.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325079",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eef9d4cb72_ASSET_MMS_165395437-500x500.png",
-      "found_at": "2026-02-26T06:46:15.257732+00:00",
-      "price_history": [
-        {
-          "price": 1236.75,
-          "original_price": 1649.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "a94fae4ced65",
-      "title": "EXTREMEGAMER CLASSIC LVL 3 V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060",
-      "price": 1199.25,
-      "original_price": 1599.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325263",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe9196c230_ASSET_MMS_162085358-500x500.png",
-      "found_at": "2026-02-26T06:46:07.902819+00:00",
-      "price_history": [
-        {
-          "price": 1199.25,
-          "original_price": 1599.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
       "id": "54425b805763",
       "title": "LG OLED65B56LA 65\" OLED Smart 4K TV (2025)",
       "price": 936.75,
@@ -234,27 +1059,6 @@
         {
           "price": 936.75,
           "original_price": 1249.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "35cf0fdcb682",
-      "title": "SAMSUNG 55\" Neo QLED 4K TV QN90F Mini LED (2025)",
-      "price": 861.75,
-      "original_price": 1149.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325069",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eeedc81071_ASSET_MMS_154446091-500x500.png",
-      "found_at": "2026-02-26T06:46:15.263508+00:00",
-      "price_history": [
-        {
-          "price": 861.75,
-          "original_price": 1149.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
         }
@@ -303,33 +1107,6 @@
       ]
     },
     {
-      "id": "78acd01dbd93",
-      "title": "Athom Homey Pro (Early 2023)",
-      "price": 251.0,
-      "original_price": 405.11,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/athom-homey-pro-early-2023-r-16085",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941123_4a80796d-52a8-4334-863d-d430577cde73.jpg?v=1771935554",
-      "found_at": "2026-02-26T06:46:44.252140+00:00",
-      "price_history": [
-        {
-          "price": 289.0,
-          "original_price": 329.0,
-          "discount_percent": 12,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 251.0,
-          "original_price": 405.11,
-          "discount_percent": 38,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
       "id": "e8d429bdbcae",
       "title": "SIEMENS WG46G2ZWNL - Wasmachine - 9 kg - 1600 rpm - 73 dB",
       "price": 636.75,
@@ -368,6 +1145,12 @@
           "original_price": 779.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        },
+        {
+          "price": 449.25,
+          "original_price": 599.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
         }
       ]
     },
@@ -573,27 +1356,6 @@
       ]
     },
     {
-      "id": "8553fe4f2f49",
-      "title": "NINTENDO Switch 2 - Spelconsole + Mario Kart World + QWARE Starter Kit Black Bundel 256 GB",
-      "price": 419.99,
-      "original_price": 559.99,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325269",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe9743b0b7_ASSET_MMS_152519831-500x500.png",
-      "found_at": "2026-02-26T06:46:07.898119+00:00",
-      "price_history": [
-        {
-          "price": 419.99,
-          "original_price": 559.99,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
       "id": "298232a9ccda",
       "title": "POCKETBOOK Color Note Grijs - 10.3 inch - 32 GB (ongeveer 24.000 e-books)",
       "price": 412.5,
@@ -615,27 +1377,6 @@
       ]
     },
     {
-      "id": "9b0a32c0b354",
-      "title": "SONY PlayStation 5 Console + NBA 2K26 1 TB",
-      "price": 411.75,
-      "original_price": 549.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324875",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac26a4e1c_ASSET_MMS_160521500-500x500.png",
-      "found_at": "2026-02-26T06:46:22.731044+00:00",
-      "price_history": [
-        {
-          "price": 411.75,
-          "original_price": 549.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
       "id": "3c285972156e",
       "title": "SONY PlayStation®5 Digital Edition 825 GB – Bundel met twee DualSense® draadloze controllers 825 GB",
       "price": 411.0,
@@ -651,27 +1392,6 @@
         {
           "price": 411.0,
           "original_price": 548.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "73d36054b9a5",
-      "title": "SONY PlayStation 5 Console 1 TB – EA SPORTS FC26 1 TB",
-      "price": 408.0,
-      "original_price": 544.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324866",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9ef766fe4_ASSET_MMS_163701634-500x500.png",
-      "found_at": "2026-02-26T06:46:22.736543+00:00",
-      "price_history": [
-        {
-          "price": 408.0,
-          "original_price": 544.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
         }
@@ -722,6 +1442,12 @@
           "original_price": 480.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        },
+        {
+          "price": 363.0,
+          "original_price": 484.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
         }
       ]
     },
@@ -768,27 +1494,6 @@
       ]
     },
     {
-      "id": "d1bdc4e58984",
-      "title": "TP-LINK Deco BE65 | BE9300 Tri-Band Smart Mesh WiFi 7 (2-Pack) Multiroom-wifi",
-      "price": 284.25,
-      "original_price": 379.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325290",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feac28efa5_ASSET_MMS_136713397-500x500.png",
-      "found_at": "2026-02-26T06:46:07.888990+00:00",
-      "price_history": [
-        {
-          "price": 284.25,
-          "original_price": 379.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
       "id": "6d5ab30b7d4d",
       "title": "SONY WH-1000XM6 draadloze koptelefoon met Noise Cancelling Zilver",
       "price": 281.25,
@@ -827,54 +1532,6 @@
           "original_price": 229.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "77b016f5d3d8",
-      "title": "SONY DualSense Edge Draadloze Controller Controller PlayStation 5 Wit",
-      "price": 151.5,
-      "original_price": 202.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325204",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699f1595139c2_ASSET_MMS_164821426-500x500.png",
-      "found_at": "2026-02-26T06:46:07.935206+00:00",
-      "price_history": [
-        {
-          "price": 151.5,
-          "original_price": 202.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "9b6ea98a157a",
-      "title": "Sony Inzone H3 Gaming Headset PS5 en PC",
-      "price": 56.0,
-      "original_price": 77.31,
-      "discount_percent": 27,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-inzone-h3-gaming-headset-ps5-en-pc-r-16151",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1781237.jpg?v=1771935991",
-      "found_at": "2026-02-26T06:47:04.991526+00:00",
-      "price_history": [
-        {
-          "price": 53.0,
-          "original_price": 89.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 56.0,
-          "original_price": 77.31,
-          "discount_percent": 27,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
         }
       ]
     },
@@ -1024,33 +1681,6 @@
           "price": 905.0,
           "original_price": 1074.53,
           "discount_percent": 15,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "aa5788a35f26",
-      "title": "Sonos Ace Zwart",
-      "price": 324.0,
-      "original_price": 420.09,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sonos-ace-zwart-r-16079",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053701_575685da-aaf2-450a-9736-0713902a33e1.jpg?v=1771935520",
-      "found_at": "2026-02-25T17:20:13.333913+00:00",
-      "price_history": [
-        {
-          "price": 279.0,
-          "original_price": 288.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 324.0,
-          "original_price": 420.09,
-          "discount_percent": 22,
           "scraped_at": "2026-02-25T17:09:05.553023+00:00"
         }
       ]
