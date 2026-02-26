@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-02-26T11:44:38.556034+00:00",
-  "total": 85,
+  "updated_at": "2026-02-26T19:55:56.145734+00:00",
+  "total": 76,
   "deals": [
+    {
+      "id": "13acb2610056",
+      "title": "Jabra Evolve2 75 draadloze PC headset met 8-microfoontechnologie - dual-foam stereo headphone met instelbare ruisonderdrukking, USB-A Bluetooth-adapter en UC-compatibiliteit - zwart",
+      "price": 121.78,
+      "original_price": 369.9,
+      "discount_percent": 67,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09HTDH58Y?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51S9gw5GE1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-02-26T19:07:25.452968+00:00",
+      "price_history": [
+        {
+          "price": 121.78,
+          "original_price": 369.9,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-26T19:00:31.280393+00:00"
+        }
+      ]
+    },
     {
       "id": "321c8ff5529e",
       "title": "Kenwood (Keuken) XL Weigh+ FDM72.990BK",
@@ -518,6 +539,12 @@
           "original_price": 173.92,
           "discount_percent": 31,
           "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 173.92,
+          "discount_percent": 68,
+          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
         }
       ]
     },
@@ -1682,258 +1709,6 @@
           "original_price": 1074.53,
           "discount_percent": 15,
           "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6a4713ae39d2",
-      "title": "MSI Thin 15 B12UC-2049NL QWERTY",
-      "price": 576.0,
-      "original_price": 799.0,
-      "discount_percent": 27,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-thin-15-b12uc-2049nl-qwerty-r-16095",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2039923_c5fff148-250d-4548-a81b-d5815c3156ac.jpg?v=1771935591",
-      "found_at": "2026-02-24T15:18:03.881008+00:00",
-      "price_history": [
-        {
-          "price": 576.0,
-          "original_price": 799.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        }
-      ]
-    },
-    {
-      "id": "57d9fe0650ec",
-      "title": "Lenovo IdeaPad Pro 5 16IMH9 83D4002AMH QWERTY",
-      "price": 1179.0,
-      "original_price": 1596.0,
-      "discount_percent": 26,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-ideapad-pro-5-16imh9-83d4002amh-qwerty-r-16149",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041617.jpg?v=1771935988",
-      "found_at": "2026-02-24T15:18:00.005251+00:00",
-      "price_history": [
-        {
-          "price": 1179.0,
-          "original_price": 1596.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 1404.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "93ac3537c005",
-      "title": "Apple iPad Pro (2025) 13 inch 256GB Wifi Zilver",
-      "price": 1090.0,
-      "original_price": 1349.0,
-      "discount_percent": 19,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2025-13-inch-256gb-wifi-zilver-r-16134",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224659.jpg?v=1771935947",
-      "found_at": "2026-02-24T15:17:47.145147+00:00",
-      "price_history": [
-        {
-          "price": 1090.0,
-          "original_price": 1349.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        }
-      ]
-    },
-    {
-      "id": "ada4ff10cdba",
-      "title": "HP Victus 16-r0044nb AZERTY",
-      "price": 772.0,
-      "original_price": 1093.0,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-victus-16-r0044nb-azerty-r-16150",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941468_03cccb73-7219-4d97-8b52-8f5acc774734.jpg?v=1771935995",
-      "found_at": "2026-02-24T15:17:57.160916+00:00",
-      "price_history": [
-        {
-          "price": 772.0,
-          "original_price": 1093.0,
-          "discount_percent": 29,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 710.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d84522d2b2ba",
-      "title": "Dyson Airwrap Complete Long Volumise Strawberry Bronze/Blush",
-      "price": 431.0,
-      "original_price": 549.0,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-complete-long-volumise-strawberry-bronze-blush-r-16065",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101115_50bd60fa-9ce1-4425-bfa2-c9ad098a8536.jpg?v=1771935446",
-      "found_at": "2026-02-24T15:17:53.971942+00:00",
-      "price_history": [
-        {
-          "price": 431.0,
-          "original_price": 549.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 356.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "8d80256c9556",
-      "title": "Kobo Sage",
-      "price": 234.0,
-      "original_price": 299.0,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kobo-sage-r-16087",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1648979_d179e6e7-74fb-48c9-8b0f-ad2057b2ad79.jpg?v=1771935573",
-      "found_at": "2026-02-24T15:18:00.004399+00:00",
-      "price_history": [
-        {
-          "price": 234.0,
-          "original_price": 299.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 275.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "0a5bf5bde887",
-      "title": "Kobo Sage",
-      "price": 234.0,
-      "original_price": 299.0,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kobo-sage-r-16103",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1648979_496301c3-b734-428f-a2b6-80b076a1b53e.jpg?v=1771935669",
-      "found_at": "2026-02-24T15:18:00.004468+00:00",
-      "price_history": [
-        {
-          "price": 234.0,
-          "original_price": 299.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 275.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "96f6610dd6db",
-      "title": "Kobo Sage",
-      "price": 234.0,
-      "original_price": 299.0,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kobo-sage-r-16104",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1648979_046a99a3-326f-4c54-a8fd-a06775273602.jpg?v=1771935686",
-      "found_at": "2026-02-24T15:18:00.004533+00:00",
-      "price_history": [
-        {
-          "price": 234.0,
-          "original_price": 299.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 194.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "dc9e2c2b49da",
-      "title": "Apple Airpods Pro 3 Wit",
-      "price": 180.0,
-      "original_price": 225.0,
-      "discount_percent": 20,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-airpods-pro-3-wit-r-16108",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213106_a87507e0-e024-4b53-aeb9-b7bb129b571d.jpg?v=1771935715",
-      "found_at": "2026-02-24T15:17:47.144833+00:00",
-      "price_history": [
-        {
-          "price": 180.0,
-          "original_price": 225.0,
-          "discount_percent": 20,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 198.0,
-          "original_price": 244.32,
-          "discount_percent": 18,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "95e4457ede5e",
-      "title": "Kobo Libra Colour (black)",
-      "price": 187.0,
-      "original_price": 199.0,
-      "discount_percent": 6,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kobo-libra-colour-black-r-16223",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2036457_fc73a4cc-09db-4b03-a376-954fcd42185f.jpg?v=1771936127",
-      "found_at": "2026-02-24T15:18:00.004267+00:00",
-      "price_history": [
-        {
-          "price": 187.0,
-          "original_price": 199.0,
-          "discount_percent": 6,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
         }
       ]
     }
