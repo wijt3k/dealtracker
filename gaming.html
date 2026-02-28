@@ -1,37 +1,320 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D11S1578NB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-D11S1578NB');
+  </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gaming Deals — DealTracker</title>
-  <meta name="description" content="Gaming-deals op controllers, headsets, laptops en accessoires. Retour en outlet tegen lage prijzen.">
+  <meta name="description" content="Gaming-deals op controllers, headsets, gaming laptops en consoles. Retour en outlet tegen lage prijzen.">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://wijt3k.github.io/dealtracker/gaming.html">
+  <link rel="canonical" href="https://dealtracker.nl/gaming.html">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="apple-touch-icon" href="./og-image.png">
+
+  <!-- Open Graph -->
   <meta property="og:title" content="Gaming Deals — DealTracker">
-  <meta property="og:description" content="Gaming-deals op controllers, headsets, laptops en accessoires. Retour en outlet tegen lage prijzen.">
+  <meta property="og:description" content="Gaming-deals op controllers, headsets, gaming laptops en consoles. Retour en outlet tegen lage prijzen.">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="https://wijt3k.github.io/dealtracker/og-image.png">
+  <meta property="og:url" content="https://dealtracker.nl/gaming.html">
+  <meta property="og:image" content="https://dealtracker.nl/og-image.png">
+
+  <!-- Schema.org: BreadcrumbList + CollectionPage -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Gaming Deals",
-    "description": "Gaming-deals op controllers, headsets, laptops en accessoires. Retour en outlet tegen lage prijzen.",
-    "url": "https://wijt3k.github.io/dealtracker/gaming.html",
-    "isPartOf": {"@type": "WebSite", "name": "DealTracker", "url": "https://wijt3k.github.io/dealtracker/"}
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": "https://dealtracker.nl/gaming.html",
+        "name": "Gaming Deals",
+        "description": "Gaming-deals op controllers, headsets, gaming laptops en consoles. Retour en outlet tegen lage prijzen.",
+        "url": "https://dealtracker.nl/gaming.html",
+        "isPartOf": {"@type": "WebSite", "name": "DealTracker", "url": "https://dealtracker.nl/"}
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Home",        "item": "https://dealtracker.nl/"},
+          {"@type": "ListItem", "position": 2, "name": "Alle deals",  "item": "https://dealtracker.nl/deals.html"},
+          {"@type": "ListItem", "position": 3, "name": "Gaming", "item": "https://dealtracker.nl/gaming.html"}
+        ]
+      }
+    ]
   }
   </script>
-  <!-- Redirect immediately to deals.html with category pre-selected -->
-  <meta http-equiv="refresh" content="0; url=deals.html?categorie=gaming">
+  <!-- ItemList: wordt dynamisch gevuld door JS na het laden van deals -->
+  <script type="application/ld+json" id="itemlist-schema">
+  {"@context":"https://schema.org","@type":"ItemList","name":"Gaming Deals","itemListElement":[]}
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;900&display=swap" rel="stylesheet">
+
   <style>
-    body{background:#0f172a;color:#e2e8f0;font-family:system-ui,sans-serif;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}
-    .wrap{text-align:center;padding:2rem}
-    a{color:#FF6B35}
+    :root{--bg:#0f172a;--card:#1e293b;--border:#334155;--primary:#FF6B35;--success:#22c55e;--text:#e2e8f0;--muted:#94a3b8}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{background:var(--bg);color:var(--text);font-family:'Outfit',sans-serif;min-height:100vh}
+    a{color:inherit;text-decoration:none}
+    /* NAV */
+    nav{background:rgba(15,23,42,.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:.85rem 1.5rem;display:flex;align-items:center;gap:1rem;position:sticky;top:0;z-index:50}
+    .nav-logo{background:var(--primary);color:#fff;border-radius:8px;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:1.1rem;flex-shrink:0}
+    .nav-brand{font-weight:700;font-size:1.05rem}
+    nav .spacer{flex:1}
+    .nav-link{color:var(--muted);font-size:.9rem;padding:.3rem .7rem;border-radius:6px;transition:color .2s}
+    .nav-link:hover,.nav-link.active{color:var(--primary)}
+    .nav-cta{background:var(--primary);color:#fff;padding:.4rem 1rem;border-radius:8px;font-weight:600;font-size:.9rem}
+    .nav-hamburger{display:none;background:none;border:none;cursor:pointer;padding:.3rem;color:var(--text);flex-direction:column;gap:5px}
+    .nav-hamburger span{display:block;width:22px;height:2px;background:currentColor;border-radius:2px;transition:all .25s}
+    .nav-hamburger.open span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+    .nav-hamburger.open span:nth-child(2){opacity:0}
+    .nav-hamburger.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+    .nav-mobile-menu{display:none;position:fixed;top:57px;left:0;right:0;background:rgba(15,23,42,.98);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:1rem 1.5rem;flex-direction:column;gap:.5rem;z-index:49}
+    .nav-mobile-menu.open{display:flex}
+    .nav-mobile-menu a{padding:.65rem .75rem;border-radius:8px;font-size:.95rem;font-weight:600;color:var(--text);border:1px solid transparent}
+    .nav-mobile-menu a:hover,.nav-mobile-menu a.active{border-color:var(--border);background:var(--card)}
+    /* BREADCRUMB */
+    .breadcrumb{max-width:1400px;margin:0 auto;padding:.75rem 1.5rem;font-size:.8rem;color:var(--muted);display:flex;gap:.4rem;align-items:center}
+    .breadcrumb a{color:var(--muted)}
+    .breadcrumb a:hover{color:var(--text)}
+    /* HEADER */
+    .page-header{padding:1.25rem 1.5rem .75rem;max-width:1400px;margin:0 auto}
+    .page-header h1{font-size:1.5rem;font-weight:800;margin-bottom:.25rem}
+    .page-header p{color:var(--muted);font-size:.9rem}
+    /* GRID */
+    .deals-wrap{max-width:1400px;margin:0 auto;padding:1rem 1.5rem}
+    .deals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem}
+    /* DEAL CARD */
+    .deal-card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;cursor:pointer;transition:border-color .2s,transform .15s;display:flex;flex-direction:column;position:relative}
+    .deal-card:hover{border-color:var(--primary);transform:translateY(-2px)}
+    .hot-bar{position:absolute;bottom:0;left:0;height:2px;background:linear-gradient(90deg,var(--primary),#F7B801);border-radius:0}
+    .deal-img-wrap{height:130px;background:#0a1120;display:flex;align-items:center;justify-content:center;overflow:hidden;padding:.5rem}
+    .deal-img-wrap img{max-width:100%;max-height:100%;object-fit:contain}
+    .deal-img-placeholder{font-size:2.5rem}
+    .badge-row{display:flex;gap:.4rem;padding:.6rem .8rem 0;flex-wrap:wrap}
+    .badge{border-radius:4px;padding:.1rem .45rem;font-size:.7rem;font-weight:700}
+    .badge-hot{background:var(--primary);color:#fff}
+    .badge-deal{background:#0284c7;color:#fff}
+    .badge-top{background:rgba(247,184,1,.2);color:#F7B801}
+    .badge-new{background:#22c55e;color:#fff}
+    .deal-body{padding:.75rem .8rem;flex:1;display:flex;flex-direction:column;gap:.35rem}
+    .deal-source{font-size:.68rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+    .deal-title{font-size:.875rem;font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+    .deal-meta{font-size:.72rem;color:var(--muted);display:flex;gap:.5rem;flex-wrap:wrap}
+    .deal-price-col{padding:.5rem .8rem .8rem;display:flex;flex-direction:column;gap:.3rem;border-top:1px solid rgba(51,65,85,.5)}
+    .price-now{font-size:1.2rem;font-weight:900}
+    .price-was{font-size:.8rem;color:var(--muted);text-decoration:line-through}
+    .discount-badge{background:var(--success);color:#fff;border-radius:4px;padding:.1rem .4rem;font-size:.75rem;font-weight:700;display:inline-block}
+    .view-btn{background:var(--primary);color:#fff;border:none;padding:.5rem .9rem;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;font-size:.875rem;transition:opacity .2s;align-self:flex-start;margin-top:.2rem}
+    .view-btn:hover{opacity:.85}
+    /* LOADING */
+    .skel{background:linear-gradient(90deg,var(--card) 25%,#273348 50%,var(--card) 75%);background-size:200% 100%;animation:sh 1.5s infinite;border-radius:6px}
+    @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
+    /* CTA */
+    .more-cta{text-align:center;padding:2rem 1.5rem}
+    .btn-more{background:var(--primary);color:#fff;padding:.75rem 2rem;border-radius:10px;font-weight:700;font-size:1rem;display:inline-block;transition:opacity .2s}
+    .btn-more:hover{opacity:.85}
+    /* EMPTY */
+    .empty-state{text-align:center;padding:5rem 2rem;color:var(--muted)}
+    .empty-state h2{font-size:1.5rem;margin-bottom:.5rem;color:var(--text)}
+    @media(max-width:640px){
+      .deals-grid{grid-template-columns:1fr}
+      nav .nav-link{display:none}
+      nav .nav-cta{display:none}
+      .nav-hamburger{display:flex}
+    }
   </style>
 </head>
 <body>
-<div class="wrap">
-  <p>Laden… <a href="deals.html?categorie=gaming">🎮 Gaming deals bekijken</a></p>
+
+<nav>
+  <a href="./" style="display:flex;align-items:center;gap:.6rem;text-decoration:none">
+    <div class="nav-logo">D</div>
+    <span class="nav-brand">DealTracker</span>
+  </a>
+  <div class="spacer"></div>
+  <a class="nav-link" href="./deals.html">Alle deals</a>
+  <a class="nav-link" href="./laptops.html">Laptops</a>
+  <a class="nav-link" href="./smartphones.html">Smartphones</a>
+  <a class="nav-link" href="./audio.html">Audio</a>
+  <a class="nav-link" href="./gaming.html">Gaming</a>
+  <a class="nav-cta" href="./">Home</a>
+  <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" onclick="toggleMobileMenu()">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+<div class="nav-mobile-menu" id="nav-mobile-menu">
+  <a href="./deals.html">🛍️ Alle deals</a>
+  <a href="./laptops.html">💻 Laptops</a>
+  <a href="./smartphones.html">📱 Smartphones</a>
+  <a href="./audio.html">🎧 Audio</a>
+  <a href="./gaming.html">🎮 Gaming</a>
+  <a href="./tv.html">📺 TV's</a>
+  <a href="./huishouden.html">🏠 Huishouden</a>
+  <a href="./">🏠 Home</a>
 </div>
+
+<div class="breadcrumb">
+  <a href="./">Home</a> ›
+  <a href="./deals.html">Alle deals</a> ›
+  <span>Gaming</span>
+</div>
+
+<div class="page-header">
+  <h1>🎮 Gaming Deals</h1>
+  <p id="page-sub">Controllers, headsets, gaming laptops en meer met korting</p>
+</div>
+
+<div class="deals-wrap">
+  <div class="deals-grid" id="deals-grid">
+    <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div>
+  </div>
+  <div class="more-cta" id="more-cta" style="display:none">
+    <a class="btn-more" href="./deals.html?categorie=gaming">
+      Bekijk alle Gaming deals →
+    </a>
+  </div>
+</div>
+
+<script>
+const SLUG = 'gaming';
+
+function toggleMobileMenu() {
+  document.getElementById('nav-hamburger').classList.toggle('open');
+  document.getElementById('nav-mobile-menu').classList.toggle('open');
+}
+
+function dealScore(d) {
+  const prijs = d.price || 0, orig = d.original_price || 0, k = d.discount_percent || 0;
+  const abs = Math.max(orig - prijs, 0);
+  return k * 0.6 + Math.min(abs / 500, 1) * 100 * 0.4 + (orig > prijs ? 10 : 0);
+}
+
+function renderCard(d) {
+  const disc = d.discount_percent || 0;
+  const isHot = disc >= 40;
+  const isTop = dealScore(d) >= 50;
+  const icon = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'📺',tablets:'📟',wearables:'⌚',camera:'📷',huishouden:'🏠'}[d.category] || '⚡';
+  const safeUrl = encodeURIComponent(d.url || '#');
+  const safeTitle = (d.title || '').replace(/"/g, '&quot;');
+  let freshLabel = '';
+  try {
+    const diff = (Date.now() - new Date(d.found_at).getTime()) / 3600000;
+    if (diff < 6) freshLabel = '🟢 Nieuw';
+    else if (diff < 24) freshLabel = '🟡 Recent';
+  } catch {}
+  return `
+  <div class="deal-card" onclick="window.open(decodeURIComponent('${safeUrl}'),'_blank','noopener'); trackClick(d)">
+    <div class="deal-img-wrap">
+      ${d.image ? `<img src="${d.image}" alt="${safeTitle}" loading="lazy">` : `<div class="deal-img-placeholder">${icon}</div>`}
+    </div>
+    <div class="badge-row">
+      ${isHot ? '<span class="badge badge-hot">HOT</span>' : disc>=20 ? '<span class="badge badge-deal">DEAL</span>' : ''}
+      ${isTop ? '<span class="badge badge-top">✨ TOP</span>' : ''}
+    </div>
+    <div class="deal-body">
+      <div class="deal-source">${d.source || ''}</div>
+      <div class="deal-title">${d.title || ''}</div>
+      <div class="deal-meta">
+        ${d.condition ? `<span>${d.condition}</span>` : ''}
+        ${freshLabel ? `<span>${freshLabel}</span>` : ''}
+      </div>
+    </div>
+    <div class="deal-price-col">
+      <div style="display:flex;align-items:baseline;gap:.5rem;flex-wrap:wrap">
+        <span class="price-now">€${(d.price||0).toFixed(2)}</span>
+        ${d.original_price ? `<span class="price-was">€${d.original_price.toFixed(0)}</span>` : ''}
+        ${disc > 0 ? `<span class="discount-badge">-${disc}%</span>` : ''}
+      </div>
+      <button class="view-btn" onclick="event.stopPropagation(); window.open(decodeURIComponent('${safeUrl}'),'_blank','noopener'); trackClick(d)">Bekijk →</button>
+    </div>
+    ${isHot ? '<div class="hot-bar"></div>' : ''}
+  </div>`;
+}
+
+function trackClick(deal) {
+  if (typeof gtag === 'undefined') return;
+  gtag('event', 'deal_click', {
+    deal_id:       deal.id || '',
+    deal_source:   deal.source || '',
+    deal_title:    (deal.title || '').substring(0, 100),
+    deal_price:    deal.price || 0,
+    deal_discount: deal.discount_percent || 0,
+    deal_category: deal.category || '',
+    currency:      'EUR',
+    value:         deal.price || 0,
+  });
+}
+
+function updateItemListSchema(deals) {
+  const items = deals.slice(0, 10).map((d, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "name": d.title || '',
+    "url": d.url || '',
+    "item": {
+      "@type": "Product",
+      "name": d.title || '',
+      "offers": {
+        "@type": "Offer",
+        "price": d.price || 0,
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "url": d.url || ''
+      }
+    }
+  }));
+  const el = document.getElementById('itemlist-schema');
+  if (el) el.textContent = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Gaming Deals",
+    "itemListElement": items
+  });
+}
+
+async function boot() {
+  try {
+    const res  = await fetch('./deals.json?t=' + Date.now());
+    const data = await res.json();
+    const all  = data.deals || [];
+    const cat  = all.filter(d => d.category === SLUG).sort((a,b) => dealScore(b) - dealScore(a));
+
+    const grid = document.getElementById('deals-grid');
+    if (!cat.length) {
+      grid.innerHTML = '<div class="empty-state"><h2>Geen gaming deals</h2><p>Probeer het later opnieuw.</p></div>';
+      return;
+    }
+
+    // Toon top 24
+    const top = cat.slice(0, 24);
+    grid.innerHTML = top.map(d => renderCard(d)).join('');
+
+    // Toon "Bekijk alle" knop als er meer dan 24 zijn
+    if (cat.length > 24) document.getElementById('more-cta').style.display = 'block';
+
+    // Update teller in subtitel
+    document.getElementById('page-sub').textContent =
+      `${cat.length} gaming deals — dagelijks bijgewerkt`;
+
+    // Vul JSON-LD ItemList met echte deals
+    updateItemListSchema(top);
+
+  } catch(e) {
+    document.getElementById('page-sub').textContent = 'Deals laden mislukt.';
+    console.warn(e);
+  }
+}
+
+boot();
+</script>
+
 </body>
 </html>
