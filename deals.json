@@ -1,7 +1,412 @@
 {
-  "updated_at": "2026-02-28T07:16:17.236410+00:00",
-  "total": 336,
+  "updated_at": "2026-02-28T09:21:13.234515+00:00",
+  "total": 288,
   "deals": [
+    {
+      "id": "b446cb74b268",
+      "title": "SAMSUNG 85\" Neo QLED 4K TV QN80F Mini LED (2025)",
+      "price": 1499.25,
+      "original_price": 1999.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325487",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019e0ce8b9_ASSET_MMS_165397139-500x500.png",
+      "found_at": "2026-02-28T07:14:16.976626+00:00",
+      "price_history": [
+        {
+          "price": 1499.25,
+          "original_price": 1999.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f0d59b43571d",
+      "title": "SAMSUNG Odyssey Neo G9 LS57CG952NUXEN - 57 inch - 7680 x 2160 (Dual 4K) - 1 ms - 240 Hz",
+      "price": 1424.25,
+      "original_price": 1899.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325485",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019c49c302_ASSET_MMS_108874933-500x500.png",
+      "found_at": "2026-02-28T07:14:16.978191+00:00",
+      "price_history": [
+        {
+          "price": 1424.25,
+          "original_price": 1899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7897974d47a8",
+      "title": "EXTREMEGAMER CLASSIC LVL4a V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060 Ti",
+      "price": 1349.25,
+      "original_price": 1799.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325284",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fef9056d31_ASSET_MMS_162085392-500x500.png",
+      "found_at": "2026-02-28T07:14:24.880130+00:00",
+      "price_history": [
+        {
+          "price": 1349.25,
+          "original_price": 1799.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4f27d788c26c",
+      "title": "EXTREMEGAMER X EDT LVL 1a BKV4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060",
+      "price": 1161.75,
+      "original_price": 1549.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325374",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffd9c9d767_ASSET_MMS_162085444-500x500.png",
+      "found_at": "2026-02-28T07:14:17.032105+00:00",
+      "price_history": [
+        {
+          "price": 1161.75,
+          "original_price": 1549.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4aa665b05315",
+      "title": "EXTREMEGAMER CLASSIC LVL 3 V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060",
+      "price": 1049.25,
+      "original_price": 1399.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325855",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a16d20f37f7_ASSET_MMS_162085358-500x500.png",
+      "found_at": "2026-02-28T07:14:02.408266+00:00",
+      "price_history": [
+        {
+          "price": 1049.25,
+          "original_price": 1399.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-27T11:00:27.337062+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6e9b7db18f37",
+      "title": "SAMSUNG 65” OLED 4K TV S85F (2025)",
+      "price": 1011.75,
+      "original_price": 1349.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325486",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a195f8ef34c_ASSET_MMS_165393250-500x500.png",
+      "found_at": "2026-02-28T07:14:16.977393+00:00",
+      "price_history": [
+        {
+          "price": 1011.75,
+          "original_price": 1349.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f5be64aeda1d",
+      "title": "SAMSUNG Q-series HW-Q990F/XN Soundbar Titan Black",
+      "price": 749.25,
+      "original_price": 999.0,
+      "discount_percent": 25,
+      "category": "audio",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325300",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fefd56f0ba_ASSET_MMS_165260457-500x500.png",
+      "found_at": "2026-02-28T07:14:24.876267+00:00",
+      "price_history": [
+        {
+          "price": 749.25,
+          "original_price": 999.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b93c4a37b9a9",
+      "title": "SAMSUNG 50\" Neo QLED 4K TV QN90F Mini LED (2025)",
+      "price": 711.75,
+      "original_price": 949.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325327",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feff14efea_ASSET_MMS_160719083-500x500.png",
+      "found_at": "2026-02-28T07:14:24.858145+00:00",
+      "price_history": [
+        {
+          "price": 711.75,
+          "original_price": 949.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "94e38796e773",
+      "title": "TCL 55C7K QD-MiniLED Google TV (2025)",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325328",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feff0d121e_ASSET_MMS_167291776-500x500.png",
+      "found_at": "2026-02-28T07:14:24.857395+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6262c08bff14",
+      "title": "SONOS Era 300 Zwart",
+      "price": 374.25,
+      "original_price": 499.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325735",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a051fd5af99_ASSET_MMS_102608768-500x500.png",
+      "found_at": "2026-02-28T07:14:02.460147+00:00",
+      "price_history": [
+        {
+          "price": 374.25,
+          "original_price": 499.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2ed337d010f6",
+      "title": "GARMIN Venu 4 41mm) Goud/Beige Smartwatch Beige",
+      "price": 374.25,
+      "original_price": 499.0,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325231",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a1bfc79ea8f_ASSET_MMS_162049344-500x500.png",
+      "found_at": "2026-02-28T07:14:24.900412+00:00",
+      "price_history": [
+        {
+          "price": 374.25,
+          "original_price": 499.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ea5930222d09",
+      "title": "GARMIN Venu 4 41mm Zilver/Blauwpaars Smartwatch Blauwpaars",
+      "price": 363.0,
+      "original_price": 484.0,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325473",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a0109d16e80_ASSET_MMS_162049354-500x500.png",
+      "found_at": "2026-02-28T07:14:16.983743+00:00",
+      "price_history": [
+        {
+          "price": 363.0,
+          "original_price": 484.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2b5fefb7e028",
+      "title": "LENOVO IdeaPad Slim 3 15AMN8 - 15.6 inch - Full HD - AMD Ryzen 5 7520U - 8 GB - 512 GB - Radeon™ 610M",
+      "price": 359.25,
+      "original_price": 479.0,
+      "discount_percent": 25,
+      "category": "laptops",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325427",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a1cdd980ddc_ASSET_MMS_163005143-500x500.png",
+      "found_at": "2026-02-28T07:14:17.007303+00:00",
+      "price_history": [
+        {
+          "price": 374.25,
+          "original_price": 499.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        },
+        {
+          "price": 359.25,
+          "original_price": 479.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-27T19:00:22.398501+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c0fcdfefa723",
+      "title": "GARMIN Venu 4 41mm Zwart/Zwart Smartwatch Zwart",
+      "price": 355.5,
+      "original_price": 474.0,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325228",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe4488d864_ASSET_MMS_162049367-500x500.png",
+      "found_at": "2026-02-28T07:14:24.902731+00:00",
+      "price_history": [
+        {
+          "price": 355.5,
+          "original_price": 474.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "e904c89d43a1",
+      "title": "SONY PlayStation 5 spelconsole - Digital Edition 825 GB",
+      "price": 351.75,
+      "original_price": 469.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325503",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019dfc289f_ASSET_MMS_161824013-500x500.png",
+      "found_at": "2026-02-28T07:14:16.969880+00:00",
+      "price_history": [
+        {
+          "price": 351.75,
+          "original_price": 469.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8bbdc3a17014",
+      "title": "DYSON Airstrait Stijltang Red Velvet / Gold",
+      "price": 350.25,
+      "original_price": 467.0,
+      "discount_percent": 25,
+      "category": "huishouden",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325687",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a1a3e29a1de_ASSET_MMS_149073264-500x500.png",
+      "found_at": "2026-02-28T07:14:10.626859+00:00",
+      "price_history": [
+        {
+          "price": 350.25,
+          "original_price": 467.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
+        }
+      ]
+    },
+    {
+      "id": "399ad2006883",
+      "title": "GARMIN Venu 3S - 41 mm Zwart",
+      "price": 271.5,
+      "original_price": 362.0,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325457",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a007956235a_ASSET_MMS_116905491-500x500.png",
+      "found_at": "2026-02-28T07:14:16.991604+00:00",
+      "price_history": [
+        {
+          "price": 271.5,
+          "original_price": 362.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0ef5b5235ed0",
+      "title": "GARMIN Venu 3S - 41 mm Beige/Grijs",
+      "price": 270.75,
+      "original_price": 361.0,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325947",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a19c2012b6c_ASSET_MMS_116905616-500x500.png",
+      "found_at": "2026-02-28T07:13:55.002422+00:00",
+      "price_history": [
+        {
+          "price": 270.75,
+          "original_price": 361.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-27T15:00:19.932298+00:00"
+        }
+      ]
+    },
+    {
+      "id": "652da8ed24c9",
+      "title": "GARMIN Forerunner 165 Smartwatch Grijs",
+      "price": 177.75,
+      "original_price": 237.0,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325307",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fecd44be90_ASSET_MMS_137120125-500x500.png",
+      "found_at": "2026-02-28T07:14:24.871698+00:00",
+      "price_history": [
+        {
+          "price": 177.75,
+          "original_price": 237.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
     {
       "id": "742ae47fa58a",
       "title": "Apple iPad Pro (2024) 13 inch 2 TB Wifi Zilver",
@@ -87,27 +492,6 @@
       ]
     },
     {
-      "id": "4f27d788c26c",
-      "title": "EXTREMEGAMER X EDT LVL 1a BKV4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060",
-      "price": 1161.75,
-      "original_price": 1549.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325374",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffd9c9d767_ASSET_MMS_162085444-500x500.png",
-      "found_at": "2026-02-27T15:12:49.309418+00:00",
-      "price_history": [
-        {
-          "price": 1161.75,
-          "original_price": 1549.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
       "id": "b74c6ff4d9c3",
       "title": "Apple iPhone Air 512GB Blauw",
       "price": 906.0,
@@ -129,27 +513,6 @@
       ]
     },
     {
-      "id": "f5be64aeda1d",
-      "title": "SAMSUNG Q-series HW-Q990F/XN Soundbar Titan Black",
-      "price": 749.25,
-      "original_price": 999.0,
-      "discount_percent": 25,
-      "category": "audio",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325300",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fefd56f0ba_ASSET_MMS_165260457-500x500.png",
-      "found_at": "2026-02-27T15:12:49.357542+00:00",
-      "price_history": [
-        {
-          "price": 749.25,
-          "original_price": 999.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
       "id": "8f2d39f72b5d",
       "title": "SAMSUNG Galaxy S25 Ultra - 5G - 256 GB Zwart",
       "price": 741.0,
@@ -167,27 +530,6 @@
           "original_price": 988.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-27T15:00:19.932298+00:00"
-        }
-      ]
-    },
-    {
-      "id": "94e38796e773",
-      "title": "TCL 55C7K QD-MiniLED Google TV (2025)",
-      "price": 674.25,
-      "original_price": 899.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325328",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feff0d121e_ASSET_MMS_167291776-500x500.png",
-      "found_at": "2026-02-27T15:12:49.338300+00:00",
-      "price_history": [
-        {
-          "price": 674.25,
-          "original_price": 899.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
         }
       ]
     },
@@ -272,48 +614,6 @@
           "original_price": 99.0,
           "discount_percent": 22,
           "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6262c08bff14",
-      "title": "SONOS Era 300 Zwart",
-      "price": 374.25,
-      "original_price": 499.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325735",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a051fd5af99_ASSET_MMS_102608768-500x500.png",
-      "found_at": "2026-02-27T11:38:53.360619+00:00",
-      "price_history": [
-        {
-          "price": 374.25,
-          "original_price": 499.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e904c89d43a1",
-      "title": "SONY PlayStation 5 spelconsole - Digital Edition 825 GB",
-      "price": 351.75,
-      "original_price": 469.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325503",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019dfc289f_ASSET_MMS_161824013-500x500.png",
-      "found_at": "2026-02-27T11:39:02.468319+00:00",
-      "price_history": [
-        {
-          "price": 351.75,
-          "original_price": 469.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
         }
       ]
     },
@@ -471,48 +771,6 @@
       ]
     },
     {
-      "id": "b446cb74b268",
-      "title": "SAMSUNG 85\" Neo QLED 4K TV QN80F Mini LED (2025)",
-      "price": 1499.25,
-      "original_price": 1999.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325487",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019e0ce8b9_ASSET_MMS_165397139-500x500.png",
-      "found_at": "2026-02-26T11:13:44.068501+00:00",
-      "price_history": [
-        {
-          "price": 1499.25,
-          "original_price": 1999.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "f0d59b43571d",
-      "title": "SAMSUNG Odyssey Neo G9 LS57CG952NUXEN - 57 inch - 7680 x 2160 (Dual 4K) - 1 ms - 240 Hz",
-      "price": 1424.25,
-      "original_price": 1899.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325485",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019c49c302_ASSET_MMS_108874933-500x500.png",
-      "found_at": "2026-02-26T11:13:44.070070+00:00",
-      "price_history": [
-        {
-          "price": 1424.25,
-          "original_price": 1899.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
       "id": "fd8f07822d76",
       "title": "EXTREMEGAMER X EDT INT AI BK - Intel Core Ultra 5 245KF - 32 GB - 1 TB - GeForce RTX™ 5060",
       "price": 1349.25,
@@ -530,27 +788,6 @@
           "original_price": 1799.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "7897974d47a8",
-      "title": "EXTREMEGAMER CLASSIC LVL4a V4 - AMD Ryzen 7 8700F - 32 GB - 1 TB - GeForce RTX™ 5060 Ti",
-      "price": 1349.25,
-      "original_price": 1799.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325284",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fef9056d31_ASSET_MMS_162085392-500x500.png",
-      "found_at": "2026-02-26T11:13:56.098055+00:00",
-      "price_history": [
-        {
-          "price": 1349.25,
-          "original_price": 1799.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
         }
       ]
     },
@@ -710,27 +947,6 @@
           "original_price": 959.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "b93c4a37b9a9",
-      "title": "SAMSUNG 50\" Neo QLED 4K TV QN90F Mini LED (2025)",
-      "price": 711.75,
-      "original_price": 949.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325327",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feff14efea_ASSET_MMS_160719083-500x500.png",
-      "found_at": "2026-02-26T11:13:56.074500+00:00",
-      "price_history": [
-        {
-          "price": 711.75,
-          "original_price": 949.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
         }
       ]
     },
@@ -1151,918 +1367,6 @@
           "original_price": 64.99,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6534a01b8d23",
-      "title": "LENOVO IdeaPad Slim 3 15AMN8 - 15.6 inch - Full HD - AMD Ryzen 5 7520U - 16 GB - 512 GB - Radeon™ 610M",
-      "price": 426.75,
-      "original_price": 569.0,
-      "discount_percent": 25,
-      "category": "laptops",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324904",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac79403cc_ASSET_MMS_163005772-500x500.png",
-      "found_at": "2026-02-26T07:11:08.236977+00:00",
-      "price_history": [
-        {
-          "price": 426.75,
-          "original_price": 569.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "8553fe4f2f49",
-      "title": "NINTENDO Switch 2 - Spelconsole + Mario Kart World + QWARE Starter Kit Black Bundel 256 GB",
-      "price": 419.99,
-      "original_price": 559.99,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325269",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feffed8037_ASSET_MMS_152519831-500x500.png",
-      "found_at": "2026-02-26T07:10:53.209530+00:00",
-      "price_history": [
-        {
-          "price": 419.99,
-          "original_price": 559.99,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "9b0a32c0b354",
-      "title": "SONY PlayStation 5 Console + NBA 2K26 1 TB",
-      "price": 411.75,
-      "original_price": 549.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324875",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac26a4e1c_ASSET_MMS_160521500-500x500.png",
-      "found_at": "2026-02-26T07:11:15.554235+00:00",
-      "price_history": [
-        {
-          "price": 411.75,
-          "original_price": 549.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "73d36054b9a5",
-      "title": "SONY PlayStation 5 Console 1 TB – EA SPORTS FC26 1 TB",
-      "price": 408.0,
-      "original_price": 544.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324866",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9ef766fe4_ASSET_MMS_163701634-500x500.png",
-      "found_at": "2026-02-26T07:11:15.559753+00:00",
-      "price_history": [
-        {
-          "price": 408.0,
-          "original_price": 544.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "f21c00759aee",
-      "title": "LEGO CREATOR 3IN1 31168 Middeleeuws kasteel met ridders te paard Bouwstenen",
-      "price": 75.0,
-      "original_price": 100.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324786",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9e2743861_ASSET_MMS_164212189-500x500.png",
-      "found_at": "2026-02-26T07:11:15.614509+00:00",
-      "price_history": [
-        {
-          "price": 75.0,
-          "original_price": 100.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "dd18395a7e6b",
-      "title": "LEGO SUPER MARIO 72039 Mario Kart  – Bowsers kasteel Bouwstenen",
-      "price": 56.24,
-      "original_price": 74.99,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324864",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac284ab6f_ASSET_MMS_164212511-500x500.png",
-      "found_at": "2026-02-26T07:11:15.561372+00:00",
-      "price_history": [
-        {
-          "price": 56.24,
-          "original_price": 74.99,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "363498de5c1f",
-      "title": "LOGITECH MX Master 3S SE - Graphite Muis Grijs",
-      "price": 56.24,
-      "original_price": 74.99,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324762",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e96f2e97a8_ASSET_MMS_160521392-500x500.png",
-      "found_at": "2026-02-26T07:11:23.159361+00:00",
-      "price_history": [
-        {
-          "price": 56.24,
-          "original_price": 74.99,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "9d6c676f2487",
-      "title": "HP OmniBook 7  17-dc0075nd - 17.3 inch - Full HD - Intel Core Ultra 7 258V - 32 GB - 1 TB - GeForce RTX™ 4050 - Copilot+ PC",
-      "price": 1424.25,
-      "original_price": 1899.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324546",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699daf23c8884_ASSET_MMS_163228557-500x500.png",
-      "found_at": "2026-02-26T06:46:38.230386+00:00",
-      "price_history": [
-        {
-          "price": 1424.25,
-          "original_price": 1899.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d61875305b69",
-      "title": "LENOVO Yoga 7 2-in-1 16AKP10 - 16 inch - AMD Ryzen AI 7 350 - 32 GB - 1 TB",
-      "price": 1049.25,
-      "original_price": 1399.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324898",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eac7d5bc1f_ASSET_MMS_158752601-500x500.png",
-      "found_at": "2026-02-26T06:46:22.722596+00:00",
-      "price_history": [
-        {
-          "price": 1049.25,
-          "original_price": 1399.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "21d526a1f4f4",
-      "title": "SAMSUNG 65” OLED 4K TV S85F (2025)",
-      "price": 1011.75,
-      "original_price": 1349.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325125",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ef5016ca9a_ASSET_MMS_165393250-500x500.png",
-      "found_at": "2026-02-26T06:46:15.221378+00:00",
-      "price_history": [
-        {
-          "price": 1011.75,
-          "original_price": 1349.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6656c939d7a2",
-      "title": "SAMSUNG ViewFinity S9 LS27C902PAUXEN - 27 inch - 5120 x 2880 (5K) - IPS-paneel - in hoogte verstelbaar",
-      "price": 974.25,
-      "original_price": 1299.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324649",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699dcb41bd6eb_ASSET_MMS_108679877-500x500.png",
-      "found_at": "2026-02-26T06:46:38.192149+00:00",
-      "price_history": [
-        {
-          "price": 974.25,
-          "original_price": 1299.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e7377221a9e9",
-      "title": "SAMSUNG Viewfinity S9 LS49C950UAUXEN - 49 inch - 5120 x 1440 (Dual Quad HD) - VA-paneel - in hoogte verstelbaar",
-      "price": 824.25,
-      "original_price": 1099.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325115",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ef43adcbe4_ASSET_MMS_136830378-500x500.png",
-      "found_at": "2026-02-26T06:46:15.227462+00:00",
-      "price_history": [
-        {
-          "price": 824.25,
-          "original_price": 1099.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "f4aa145e536d",
-      "title": "Apple iPhone 16 Pro Max 256GB Desert Titanium",
-      "price": 929.0,
-      "original_price": 1324.65,
-      "discount_percent": 29,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-iphone-16-pro-max-256gb-desert-titanium-r-16128",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092570_e85f7fbe-7a3a-4be7-a12a-9ca5e9e15538.jpg?v=1771935888",
-      "found_at": "2026-02-26T06:46:44.250805+00:00",
-      "price_history": [
-        {
-          "price": 1089.0,
-          "original_price": 1198.0,
-          "discount_percent": 9,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 929.0,
-          "original_price": 1324.65,
-          "discount_percent": 29,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "54425b805763",
-      "title": "LG OLED65B56LA 65\" OLED Smart 4K TV (2025)",
-      "price": 936.75,
-      "original_price": 1249.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325074",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699eef3a971e2_ASSET_MMS_151396403-500x500.png",
-      "found_at": "2026-02-26T06:46:15.260609+00:00",
-      "price_history": [
-        {
-          "price": 936.75,
-          "original_price": 1249.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "8cd1f9989a6f",
-      "title": "MIELE WWA 120 WCS -  Wasmachine Voorlader - 8 kg - 1400 rpm - 72 dB",
-      "price": 749.25,
-      "original_price": 999.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325095",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ef1e1cecb6_ASSET_MMS_151416485-500x500.png",
-      "found_at": "2026-02-26T06:46:15.245253+00:00",
-      "price_history": [
-        {
-          "price": 749.25,
-          "original_price": 999.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e8d429bdbcae",
-      "title": "SIEMENS WG46G2ZWNL - Wasmachine - 9 kg - 1600 rpm - 73 dB",
-      "price": 636.75,
-      "original_price": 849.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324895",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ea509d2eac_ASSET_MMS_163867473-500x500.png",
-      "found_at": "2026-02-26T06:46:22.724875+00:00",
-      "price_history": [
-        {
-          "price": 636.75,
-          "original_price": 849.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "8461c81a0e6d",
-      "title": "ASUS Vivobook 17 X1704VA-AU810W - 17.3 inch - Core™ 5 120U - 16 GB - 512 GB - UHD Graphics",
-      "price": 584.25,
-      "original_price": 779.0,
-      "discount_percent": 25,
-      "category": "laptops",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325302",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699febc71c19b_ASSET_MMS_155938097-500x500.png",
-      "found_at": "2026-02-26T06:46:07.882356+00:00",
-      "price_history": [
-        {
-          "price": 584.25,
-          "original_price": 779.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        },
-        {
-          "price": 449.25,
-          "original_price": 599.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
-        }
-      ]
-    },
-    {
-      "id": "0c6cb43ead6f",
-      "title": "AEG LR8696UD4M PowerCare -  Wasmachine Voorlader - 9 kg - 1600 rpm - 76 dB",
-      "price": 580.5,
-      "original_price": 774.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324568",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699dbd4c584d1_ASSET_MMS_141324132-500x500.png",
-      "found_at": "2026-02-26T06:46:38.221942+00:00",
-      "price_history": [
-        {
-          "price": 580.5,
-          "original_price": 774.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "fe6527693acb",
-      "title": "AEG LR7696UD4 ProSteam -  Wasmachine Voorlader - 9 kg - 1600 rpm - 76 dB",
-      "price": 546.75,
-      "original_price": 729.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325094",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ef1cb2ce48_ASSET_MMS_141422011-500x500.png",
-      "found_at": "2026-02-26T06:46:15.246221+00:00",
-      "price_history": [
-        {
-          "price": 546.75,
-          "original_price": 729.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "3891d5c2ce15",
-      "title": "HP OmniDesk Slim Desktop S03-0011nd - Intel Core i5 14400 - 16 GB - 512 GB - UHD 730",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325286",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fea804745a_ASSET_MMS_168471241-500x500.png",
-      "found_at": "2026-02-26T06:46:07.890010+00:00",
-      "price_history": [
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "449e75fbb11e",
-      "title": "SAMSUNG Q-series HW-Q930F/XN Soundbar Titan Black",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "audio",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325259",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe8d26d6b1_ASSET_MMS_165260455-500x500.png",
-      "found_at": "2026-02-26T06:46:07.905947+00:00",
-      "price_history": [
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "894a504ecfe6",
-      "title": "SAMSUNG  RB34C602CB1EF -  Koel-vriescombinatie - breedte 59.5 cm - hoogte 185.3 cm - inhoud 344 l - NoFrost",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325235",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe4bccfd60_ASSET_MMS_149649769-500x500.png",
-      "found_at": "2026-02-26T06:46:07.914001+00:00",
-      "price_history": [
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "9bf5d9420ac8",
-      "title": "SAMSUNG WW11DB7B94GBU3 Bespoke 7000-serie -  Wasmachine Voorlader - 11 kg - 1400 rpm - 72 dB - automatisch doseren",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325196",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699f135738e55_ASSET_MMS_138823870-500x500.png",
-      "found_at": "2026-02-26T06:46:07.939119+00:00",
-      "price_history": [
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "cc717c9df39a",
-      "title": "Dyson Airwrap i.d. Straight + Wavy Jasper Plum",
-      "price": 395.0,
-      "original_price": 549.0,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-i-d-straight-wavy-jasper-plum-r-16096",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2159194_16b91687-99b3-4737-b866-a07a1f169edb.jpg?v=1771935593",
-      "found_at": "2026-02-26T06:46:47.689951+00:00",
-      "price_history": [
-        {
-          "price": 432.0,
-          "original_price": 550.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 395.0,
-          "original_price": 549.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "333bbf948d36",
-      "title": "Apple Watch SE (2025) 5G 44mm Midnight Sportband M/L",
-      "price": 240.0,
-      "original_price": 358.95,
-      "discount_percent": 33,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-watch-se-2025-5g-44mm-midnight-sportband-m-l-r-16111",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213497.jpg?v=1771935731",
-      "found_at": "2026-02-26T06:46:44.251567+00:00",
-      "price_history": [
-        {
-          "price": 266.0,
-          "original_price": 349.0,
-          "discount_percent": 23,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 240.0,
-          "original_price": 358.95,
-          "discount_percent": 33,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6c054283d90a",
-      "title": "TCL 65T69C QLED Google TV (2025)",
-      "price": 449.25,
-      "original_price": 599.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325118",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ef477aa8ba_ASSET_MMS_152529935-500x500.png",
-      "found_at": "2026-02-26T06:46:15.226447+00:00",
-      "price_history": [
-        {
-          "price": 449.25,
-          "original_price": 599.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "298232a9ccda",
-      "title": "POCKETBOOK Color Note Grijs - 10.3 inch - 32 GB (ongeveer 24.000 e-books)",
-      "price": 412.5,
-      "original_price": 550.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324670",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699dcb3909ab8_ASSET_MMS_147717703-500x500.png",
-      "found_at": "2026-02-26T06:46:38.187539+00:00",
-      "price_history": [
-        {
-          "price": 412.5,
-          "original_price": 550.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "3c285972156e",
-      "title": "SONY PlayStation®5 Digital Edition 825 GB – Bundel met twee DualSense® draadloze controllers 825 GB",
-      "price": 411.0,
-      "original_price": 548.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324774",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e98094fe64_ASSET_MMS_164193405-500x500.png",
-      "found_at": "2026-02-26T06:46:29.973657+00:00",
-      "price_history": [
-        {
-          "price": 411.0,
-          "original_price": 548.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "20b5ad5824d2",
-      "title": "Apple Airpods Pro 3 Wit",
-      "price": 162.0,
-      "original_price": 244.32,
-      "discount_percent": 33,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-airpods-pro-3-wit-r-16109",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213106_2e6eac0b-e829-4121-94c0-93621bac0354.jpg?v=1771935725",
-      "found_at": "2026-02-26T06:46:44.250262+00:00",
-      "price_history": [
-        {
-          "price": 178.0,
-          "original_price": 184.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 162.0,
-          "original_price": 244.32,
-          "discount_percent": 33,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "72ebd1346d1f",
-      "title": "GARMIN Venu 4 41mm Zilver/Blauwpaars Smartwatch Blauwpaars",
-      "price": 360.0,
-      "original_price": 480.0,
-      "discount_percent": 25,
-      "category": "wearables",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325223",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe3fe9cd12_ASSET_MMS_162049354-500x500.png",
-      "found_at": "2026-02-26T06:46:07.923531+00:00",
-      "price_history": [
-        {
-          "price": 360.0,
-          "original_price": 480.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        },
-        {
-          "price": 363.0,
-          "original_price": 484.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
-        }
-      ]
-    },
-    {
-      "id": "c0fcdfefa723",
-      "title": "GARMIN Venu 4 41mm Zwart/Zwart Smartwatch Zwart",
-      "price": 355.5,
-      "original_price": 474.0,
-      "discount_percent": 25,
-      "category": "wearables",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325228",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe4488d864_ASSET_MMS_162049367-500x500.png",
-      "found_at": "2026-02-26T06:46:07.919599+00:00",
-      "price_history": [
-        {
-          "price": 355.5,
-          "original_price": 474.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e9e1c5fa0a98",
-      "title": "GARMIN Venu 4 45mm Zilver/Grijs Smartwatch Grijs",
-      "price": 348.75,
-      "original_price": 465.0,
-      "discount_percent": 25,
-      "category": "wearables",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325219",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fe3c1d2e7b_ASSET_MMS_162049387-500x500.png",
-      "found_at": "2026-02-26T06:46:07.925853+00:00",
-      "price_history": [
-        {
-          "price": 348.75,
-          "original_price": 465.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6d5ab30b7d4d",
-      "title": "SONY WH-1000XM6 draadloze koptelefoon met Noise Cancelling Zilver",
-      "price": 281.25,
-      "original_price": 375.0,
-      "discount_percent": 25,
-      "category": "smartphones",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324819",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9ea896f58_ASSET_MMS_154616008-500x500.png",
-      "found_at": "2026-02-26T06:46:29.944865+00:00",
-      "price_history": [
-        {
-          "price": 281.25,
-          "original_price": 375.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e603e02ed921",
-      "title": "SONOS Era 100 Zwart",
-      "price": 171.75,
-      "original_price": 229.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324859",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9e7b743f2_ASSET_MMS_102608707-500x500.png",
-      "found_at": "2026-02-26T06:46:22.740497+00:00",
-      "price_history": [
-        {
-          "price": 171.75,
-          "original_price": 229.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "3ffa3b102dbc",
-      "title": "PHILIPS HUE Essential starterkit, wit en gekleurd licht, 1 Bridge, 3 GU10-spots",
-      "price": 67.49,
-      "original_price": 89.99,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=324812",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699e9e1fc0321_ASSET_MMS_161239272-500x500.png",
-      "found_at": "2026-02-26T06:46:29.948528+00:00",
-      "price_history": [
-        {
-          "price": 67.49,
-          "original_price": 89.99,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "0865d96e8ea3",
-      "title": "Garmin Forerunner 165 Music Zwart/Grijs",
-      "price": 134.0,
-      "original_price": 294.88,
-      "discount_percent": 54,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-forerunner-165-music-zwart-grijs-r-16243",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2131617.jpg?v=1771936166",
-      "found_at": "2026-02-25T19:11:28.717032+00:00",
-      "price_history": [
-        {
-          "price": 208.0,
-          "original_price": 287.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 134.0,
-          "original_price": 294.88,
-          "discount_percent": 54,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6a1f48b8c18d",
-      "title": "Apple iPhone 16 128GB Ultramarine",
-      "price": 575.0,
-      "original_price": 762.0,
-      "discount_percent": 24,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-iphone-16-128gb-ultramarine-r-16164",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093922_32cc98fe-22a3-4e2c-a5dd-9b39c2346ccd.jpg?v=1771936033",
-      "found_at": "2026-02-25T19:11:21.836754+00:00",
-      "price_history": [
-        {
-          "price": 594.0,
-          "original_price": 789.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 575.0,
-          "original_price": 762.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 781.0,
-          "original_price": 849.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "3874254fb097",
-      "title": "Apple Watch Series 11 5G 42mm Titanium Goud Milanese Band",
-      "price": 549.0,
-      "original_price": 853.27,
-      "discount_percent": 35,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-watch-series-11-5g-42mm-titanium-goud-milanese-band-r-15560",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213410.jpg?v=1769439223",
-      "found_at": "2026-02-25T17:19:52.778182+00:00",
-      "price_history": [
-        {
-          "price": 549.0,
-          "original_price": 853.27,
-          "discount_percent": 35,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "3b94e0ba2dec",
-      "title": "Apple Watch Series 10 42mm Zwart Sportband S/M",
-      "price": 229.0,
-      "original_price": 410.19,
-      "discount_percent": 44,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-watch-series-10-42mm-zwart-sportband-s-m-r-16117",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093467_6b705df1-27cf-43df-ad5d-5072a2c72d41.jpg?v=1771935792",
-      "found_at": "2026-02-25T17:19:52.778004+00:00",
-      "price_history": [
-        {
-          "price": 343.0,
-          "original_price": 399.0,
-          "discount_percent": 14,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 229.0,
-          "original_price": 410.19,
-          "discount_percent": 44,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 219.0,
-          "original_price": 400.51,
-          "discount_percent": 45,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "eb11f53b8c78",
-      "title": "Apple iPad Pro (2025) 11 inch 256GB Wifi Zwart",
-      "price": 905.0,
-      "original_price": 1074.53,
-      "discount_percent": 15,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2025-11-inch-256gb-wifi-zwart-r-16133",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224605.jpg?v=1771935938",
-      "found_at": "2026-02-25T17:19:52.776887+00:00",
-      "price_history": [
-        {
-          "price": 834.0,
-          "original_price": 999.0,
-          "discount_percent": 16,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 905.0,
-          "original_price": 1074.53,
-          "discount_percent": 15,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
         }
       ]
     },
@@ -8397,444 +7701,6 @@
       ]
     },
     {
-      "id": "38fae33036ce",
-      "title": "Brabantia Bo Touch Bin 2 x 30 Liter Mat Zwart",
-      "price": 95.0,
-      "original_price": 215.21,
-      "discount_percent": 55,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/brabantia-bo-touch-bin-2-x-30-liter-mat-zwart-r-15766",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1382975_f17b9d1d-72af-48b7-b4f1-8612112ab94a.jpg?v=1770726844",
-      "found_at": "2026-02-26T07:11:32.484218+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 95.0,
-          "original_price": 217.17,
-          "discount_percent": 56,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        }
-      ]
-    },
-    {
-      "id": "96c135fee87f",
-      "title": "SteelSeries Arctis Nova 7",
-      "price": 108.0,
-      "original_price": 200.11,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/steelseries-arctis-nova-7-r-15373",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1808861_a49ef3c1-dbe0-40a0-969e-8a5691b8811f.jpg?v=1769084201",
-      "found_at": "2026-02-26T07:11:49.717314+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 108.0,
-          "original_price": 200.11,
-          "discount_percent": 46,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "1f1be547c5d9",
-      "title": "Gardena CleverRoll M Easy",
-      "price": 59.0,
-      "original_price": 85.04,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/gardena-cleverroll-m-easy-r-15915",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127764.jpg?v=1770993698",
-      "found_at": "2026-02-26T07:11:35.556116+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 67.0,
-          "original_price": 86.73,
-          "discount_percent": 22,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 85.97,
-          "discount_percent": 31,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d03bd85eda9b",
-      "title": "Xiaomi Redmi Note 11 Pro 5G Smartphone 6+128GB, 6,67 inch (120 cm) 120 Hz FHD+ AMOLED DotDisplay, Snapdragon 695, 108MP AI drievoudige camera, 5000mAh, grijs (IT + 2 jaar garantie) Alexa handsfree",
-      "price": 106.12,
-      "original_price": 259.95,
-      "discount_percent": 59,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09RQ5NHJC?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51P0zhLCAdL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:34:15.039215+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 106.12,
-          "original_price": 259.95,
-          "discount_percent": 59,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "a63526b80a02",
-      "title": "CMF by Nothing Buds Pro 2 draadloze oordopjes met HiFi-geluid, 50 dB Smart Active Noise Cancellation, 6 HD-microfoons en Spatial Audio - Donkergrijs",
-      "price": 70.97,
-      "original_price": 179.0,
-      "discount_percent": 60,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D54298JX?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71IuuhNmgNL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:36:41.746796+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 70.97,
-          "original_price": 179.0,
-          "discount_percent": 60,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "61d8de75f233",
-      "title": "Imou 2,5 K 4 MP bewakingscamera voor buiten, accu met zonnepaneel, WLAN IP-camera, outdoor, personenherkenning, nachtzicht in kleur, geïntegreerde 32G SD-kaart, twee-weg audio (Cell 2 Kit)",
-      "price": 50.06,
-      "original_price": 119.99,
-      "discount_percent": 58,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09P8JC8PT?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61yqT3aJMBL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:40:28.206155+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 50.06,
-          "original_price": 119.99,
-          "discount_percent": 58,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "22aeb4e69403",
-      "title": "Garmin Vivoactive 6 Music Zwart",
-      "price": 178.0,
-      "original_price": 283.16,
-      "discount_percent": 37,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-vivoactive-6-music-zwart-r-16082",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2157098_c3a474d9-ff74-498b-91ba-d2cdd680211e.jpg?v=1771853375",
-      "found_at": "2026-02-26T06:46:51.374966+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 189.0,
-          "original_price": 267.0,
-          "discount_percent": 29,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 178.0,
-          "original_price": 287.09,
-          "discount_percent": 37,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        }
-      ]
-    },
-    {
-      "id": "f05e2734998b",
-      "title": "Xiaomi POCO M7, Smartphone 6+128GB, 6.9\" FHD+ 144Hz Display, Snapdragon 685, 50MP AI dual camera, 7000mAh, Black, Charger Not Included",
-      "price": 111.92,
-      "original_price": 169.9,
-      "discount_percent": 34,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FFH3Q13P?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51rXhSr+IFL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:34:33.406533+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 111.92,
-          "original_price": 169.9,
-          "discount_percent": 34,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "34b5a5b0d4e5",
-      "title": "Austrian Audio PG16 Pro Gaming Headset met Microfoon (opvouwbaar gaming accessoire, hoge resolutie geluid, memory foam oorkussens voor optimaal draagcomfort, afneembare 1,4 m kabel), Zwart/Rood",
-      "price": 73.14,
-      "original_price": 111.84,
-      "discount_percent": 34,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09Q8XRFLL?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71xrp2HRV6L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:36:32.969843+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 73.14,
-          "original_price": 111.84,
-          "discount_percent": 34,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "0bb66fefcd9c",
-      "title": "TCL 505 Smartphone 4G Display 6,75 HD+ 90 Hz, 512 GB, 16 GB RAM (8 + 8 GB RAM-uitbreiding), 50 MP hybride camera, Android 14, batterij 5010 mAh, Dual Sim, Ocean Blue, extra USB Type-C kabel",
-      "price": 111.07,
-      "original_price": 159.77,
-      "discount_percent": 30,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DWN9QGHT?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61RnMj2r1FL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:33:56.286115+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 111.07,
-          "original_price": 159.77,
-          "discount_percent": 30,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e17a7771e4b5",
-      "title": "ASUS TUF Gaming VG249QE5A 23.8\" Full HD 1920x1080 146Hz IPS-scherm 1ms ingebouwde luidsprekers gamingmonitor - zwart",
-      "price": 83.98,
-      "original_price": 119.0,
-      "discount_percent": 29,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F8QJSFYP?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/713ElHfol3L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:44:03.716399+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 83.98,
-          "original_price": 119.0,
-          "discount_percent": 29,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "7b1d42197e31",
-      "title": "Ring Buitencamera op batterij (Stick Up Cam) | HD-beveiligingscamera met tweeweg-audio, doe-het-zelf-installatie | Ring Home-proefperiode (30 dagen gratis)",
-      "price": 59.99,
-      "original_price": 79.99,
-      "discount_percent": 25,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0C5QXCP7Z?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51s+uegsF+L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T06:40:45.059228+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 59.99,
-          "original_price": 79.99,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d32d8a1a16f9",
-      "title": "Oral-B iO9N Black",
-      "price": 165.0,
-      "original_price": 232.42,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io9n-black-r-16205",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1809169_ad72f188-1a37-409f-b95f-7a6098b88bc0.jpg?v=1771936062",
-      "found_at": "2026-02-25T19:11:39.341938+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 231.0,
-          "original_price": 249.0,
-          "discount_percent": 7,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 165.0,
-          "original_price": 232.42,
-          "discount_percent": 29,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "f95db5fca57f",
-      "title": "AOC Gaming 24G2SP - 24 inch FHD Monitor, 165 Hz, 1 ms, FreeSync Premium (1920x1080, VGA, HDMI, DisplayPort) zwart/rood",
-      "price": 114.5,
-      "original_price": 159.0,
-      "discount_percent": 27,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09WF96MFV?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71-o8B5FMTL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-25T19:09:46.648986+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 114.5,
-          "original_price": 159.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-02-25T19:00:25.239893+00:00"
-        }
-      ]
-    },
-    {
-      "id": "c85f011e66c5",
-      "title": "Fitbit Versa 4 - Sportieve smartwatch met ingebouwde gps en een batterijduur tot 6 dagen. Compatibel met Android en iOS.",
-      "price": 69.3,
-      "original_price": 159.0,
-      "discount_percent": 56,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0B6WR2NNZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61qeSnbtshL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-25T17:15:35.679752+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 69.3,
-          "original_price": 159.0,
-          "discount_percent": 56,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "ca74a2fa258b",
-      "title": "HUAWEI WATCH GT 3 46mm smartwatch, duurzame batterijduur, de hele dag door SpO2-bewaking, persoonlijke AI-loopcoach, nauwkeurige hartslagbewaking, 100+ trainingsmodi, bellen via Bluetooth, Zwart",
-      "price": 88.66,
-      "original_price": 187.65,
-      "discount_percent": 52,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09LQMQYP4?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51-iw0nhX2L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-25T17:15:50.531478+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 88.66,
-          "original_price": 187.65,
-          "discount_percent": 52,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "02c29114c200",
-      "title": "Philips BT9810/15",
-      "price": 127.0,
-      "original_price": 199.0,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-bt9810-15-r-16219",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1437101_d424092c-7dcb-4bbf-8ec0-401538395d54.jpg?v=1771853733",
-      "found_at": "2026-02-25T17:20:10.545221+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 92.0,
-          "original_price": 139.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d8ff0a3efa27",
-      "title": "JBL Sense Pro True Wireless open-ear hoofdtelefoon, tot 38 uur totale afspeeltijd, 4 beamforming microfoons, IP54 water- en stofbestendig, JBL OpenSound technologie, Spatial Sound, Grijs",
-      "price": 133.44,
-      "original_price": 199.0,
-      "discount_percent": 32,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FSKZK2F7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61jFlq0pRpL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-25T17:14:19.420570+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 133.44,
-          "original_price": 199.0,
-          "discount_percent": 32,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
       "id": "e917c0cfe238",
       "title": "iiyama G-Master Black Hawk G2745HSU-B2 68,5 cm 27\" IPS LED Gaming Monitor Full-HD HDMI DP USB2.0 1ms Adaptive Sync zwart",
       "price": 75.42,
@@ -9100,7 +7966,15 @@
       "image": "https://m.media-amazon.com/images/I/81TO4oBag7L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-27T19:06:09.833986+00:00",
       "approved_at": "27-02-2026 20:15",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.47,
+          "original_price": 199.0,
+          "discount_percent": 65,
+          "scraped_at": "2026-02-27T19:00:22.398501+00:00"
+        }
+      ]
     },
     {
       "id": "7d02463214c4",
@@ -9115,7 +7989,15 @@
       "image": "https://m.media-amazon.com/images/I/716D3opyz8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-27T19:04:39.659701+00:00",
       "approved_at": "27-02-2026 20:15",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 80.6,
+          "original_price": 112.24,
+          "discount_percent": 28,
+          "scraped_at": "2026-02-27T19:00:22.398501+00:00"
+        }
+      ]
     },
     {
       "id": "7d49199ecd93",
@@ -9130,7 +8012,15 @@
       "image": "https://m.media-amazon.com/images/I/71UuNLeQelL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:08:33.301520+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 124.0,
+          "original_price": 349.0,
+          "discount_percent": 64,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "6d9a9bbccece",
@@ -9145,7 +8035,15 @@
       "image": "https://m.media-amazon.com/images/I/71PxRrV4EaL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:08:43.572522+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 124.68,
+          "original_price": 349.0,
+          "discount_percent": 64,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "9d4446972289",
@@ -9160,7 +8058,15 @@
       "image": "https://m.media-amazon.com/images/I/71ew5pFViAL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:06:24.782041+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 140.25,
+          "original_price": 369.9,
+          "discount_percent": 62,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "14aeda6ef038",
@@ -9175,7 +8081,15 @@
       "image": "https://m.media-amazon.com/images/I/41paIrnYCOL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:08:51.634094+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 80.03,
+          "original_price": 159.0,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "38f2337fdbe5",
@@ -9190,7 +8104,15 @@
       "image": "https://m.media-amazon.com/images/I/41W6EV46w8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:06:01.358273+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 90.1,
+          "original_price": 159.0,
+          "discount_percent": 43,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "79640aefee23",
@@ -9205,7 +8127,15 @@
       "image": "https://m.media-amazon.com/images/I/71sASNpORTL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:06:08.427134+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 136.73,
+          "original_price": 199.0,
+          "discount_percent": 31,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "3aa85eff0402",
@@ -9220,7 +8150,15 @@
       "image": "https://m.media-amazon.com/images/I/71-0d2CTMML._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:06:16.113904+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 138.11,
+          "original_price": 199.0,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "031d988afe3c",
@@ -9235,7 +8173,15 @@
       "image": "https://m.media-amazon.com/images/I/71MOxxl0p-L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:06:34.412480+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 141.55,
+          "original_price": 199.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     },
     {
       "id": "d43ff3a76da0",
@@ -9250,7 +8196,15 @@
       "image": "https://m.media-amazon.com/images/I/413Ng5CcWPL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T07:04:35.977915+00:00",
       "approved_at": "28-02-2026 08:16",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 113.94,
+          "original_price": 154.99,
+          "discount_percent": 26,
+          "scraped_at": "2026-02-28T07:00:26.287925+00:00"
+        }
+      ]
     }
   ]
 }
