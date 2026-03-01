@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-01T07:59:13.820503+00:00",
-  "total": 454,
+  "updated_at": "2026-03-01T08:29:37.915335+00:00",
+  "total": 428,
   "deals": [
     {
       "id": "f0d59b43571d",
@@ -13,7 +13,7 @@
       "condition": "Outlet",
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325485",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019c49c302_ASSET_MMS_108874933-500x500.png",
-      "found_at": "2026-02-28T11:11:37.240162+00:00",
+      "found_at": "2026-03-01T07:56:25.208231+00:00",
       "price_history": [
         {
           "price": 1424.25,
@@ -34,7 +34,7 @@
       "condition": "Outlet",
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325363",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffdbdec81f_ASSET_MMS_162212888-500x500.png",
-      "found_at": "2026-02-28T11:11:44.346033+00:00",
+      "found_at": "2026-03-01T07:56:25.269281+00:00",
       "price_history": [
         {
           "price": 1349.25,
@@ -55,13 +55,55 @@
       "condition": "Outlet",
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325284",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fef9056d31_ASSET_MMS_162085392-500x500.png",
-      "found_at": "2026-02-28T11:11:44.389590+00:00",
+      "found_at": "2026-03-01T07:56:32.121411+00:00",
       "price_history": [
         {
           "price": 1349.25,
           "original_price": 1799.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "45c4e4338fea",
+      "title": "SAMSUNG  RS70F66KCFEF -  Amerikaanse koelkast - breedte 91.2 cm - hoogte 178.4 cm - inhoud 634 l - NoFrost",
+      "price": 1199.25,
+      "original_price": 1599.0,
+      "discount_percent": 25,
+      "category": "huishouden",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325447",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fffd98d629_ASSET_MMS_169429518-500x500.png",
+      "found_at": "2026-03-01T07:56:25.227134+00:00",
+      "price_history": [
+        {
+          "price": 1199.25,
+          "original_price": 1599.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c8817696003e",
+      "title": "MIELE WWJ 880 WCS PowerWash TwinDos -  Wasmachine Voorlader - 9 kg - 1600 rpm - 68 dB - automatisch doseren",
+      "price": 1161.75,
+      "original_price": 1549.0,
+      "discount_percent": 25,
+      "category": "huishouden",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325683",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a2d8fcb06b2_ASSET_MMS_148450773-500x500.png",
+      "found_at": "2026-03-01T07:56:10.441661+00:00",
+      "price_history": [
+        {
+          "price": 1161.75,
+          "original_price": 1549.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
         }
       ]
     },
@@ -76,7 +118,7 @@
       "condition": "Outlet",
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325374",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699ffd9c9d767_ASSET_MMS_162085444-500x500.png",
-      "found_at": "2026-02-28T11:11:37.294819+00:00",
+      "found_at": "2026-03-01T07:56:25.262326+00:00",
       "price_history": [
         {
           "price": 1161.75,
@@ -97,13 +139,118 @@
       "condition": "Outlet",
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325855",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a16d20f37f7_ASSET_MMS_162085358-500x500.png",
-      "found_at": "2026-02-28T11:11:23.917823+00:00",
+      "found_at": "2026-03-01T07:56:04.701626+00:00",
       "price_history": [
         {
           "price": 1049.25,
           "original_price": 1399.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-27T11:00:27.337062+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6e9b7db18f37",
+      "title": "SAMSUNG 65” OLED 4K TV S85F (2025)",
+      "price": 1011.75,
+      "original_price": 1349.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325486",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a195f8ef34c_ASSET_MMS_165393250-500x500.png",
+      "found_at": "2026-03-01T07:56:25.207419+00:00",
+      "price_history": [
+        {
+          "price": 1011.75,
+          "original_price": 1349.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "643fb86a70e0",
+      "title": "SAMSUNG 43\" Neo QLED 4K TV QN90F Mini LED (2025)",
+      "price": 674.25,
+      "original_price": 899.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325321",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feffd6378f_ASSET_MMS_160719074-500x500.png",
+      "found_at": "2026-03-01T07:56:32.102760+00:00",
+      "price_history": [
+        {
+          "price": 674.25,
+          "original_price": 899.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6855919872ed",
+      "title": "GARMIN Instinct 3 Tactical Smartwatch Zwart",
+      "price": 449.99,
+      "original_price": 599.99,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325224",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699fefe2cae2f_ASSET_MMS_153624067-500x500.png",
+      "found_at": "2026-03-01T07:56:32.147390+00:00",
+      "price_history": [
+        {
+          "price": 449.99,
+          "original_price": 599.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
+        }
+      ]
+    },
+    {
+      "id": "e904c89d43a1",
+      "title": "SONY PlayStation 5 spelconsole - Digital Edition 825 GB",
+      "price": 351.75,
+      "original_price": 469.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325503",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019dfc289f_ASSET_MMS_161824013-500x500.png",
+      "found_at": "2026-03-01T07:56:25.201077+00:00",
+      "price_history": [
+        {
+          "price": 351.75,
+          "original_price": 469.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ]
+    },
+    {
+      "id": "56a2381b0794",
+      "title": "SONY PlayStation VR2",
+      "price": 329.25,
+      "original_price": 439.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325207",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a2f5405a8f8_ASSET_MMS_105372217-500x500.png",
+      "found_at": "2026-03-01T07:56:32.155965+00:00",
+      "price_history": [
+        {
+          "price": 329.25,
+          "original_price": 439.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-26T06:28:39.846880+00:00"
         }
       ]
     },
@@ -192,27 +339,6 @@
       ]
     },
     {
-      "id": "643fb86a70e0",
-      "title": "SAMSUNG 43\" Neo QLED 4K TV QN90F Mini LED (2025)",
-      "price": 674.25,
-      "original_price": 899.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325321",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/699feffd6378f_ASSET_MMS_160719074-500x500.png",
-      "found_at": "2026-02-28T11:11:44.370964+00:00",
-      "price_history": [
-        {
-          "price": 674.25,
-          "original_price": 899.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T07:00:47.417111+00:00"
-        }
-      ]
-    },
-    {
       "id": "90862ac1c534",
       "title": "SAMSUNG LS32DG802SUXEN Odyssey OLED G8 - 32 inch - 3840 x 2160 (Ultra HD 4K) - 0.03 ms - 240 Hz",
       "price": 610.5,
@@ -291,27 +417,6 @@
         {
           "price": 441.0,
           "original_price": 588.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e904c89d43a1",
-      "title": "SONY PlayStation 5 spelconsole - Digital Edition 825 GB",
-      "price": 351.75,
-      "original_price": 469.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325503",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a019dfc289f_ASSET_MMS_161824013-500x500.png",
-      "found_at": "2026-02-28T11:11:37.231803+00:00",
-      "price_history": [
-        {
-          "price": 351.75,
-          "original_price": 469.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T11:00:27.225864+00:00"
         }
@@ -423,27 +528,6 @@
         {
           "price": 1499.25,
           "original_price": 1999.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6e9b7db18f37",
-      "title": "SAMSUNG 65” OLED 4K TV S85F (2025)",
-      "price": 1011.75,
-      "original_price": 1349.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=325486",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69a195f8ef34c_ASSET_MMS_165393250-500x500.png",
-      "found_at": "2026-02-28T07:14:16.977393+00:00",
-      "price_history": [
-        {
-          "price": 1011.75,
-          "original_price": 1349.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T11:00:27.225864+00:00"
         }
@@ -813,48 +897,6 @@
       ]
     },
     {
-      "id": "115b0445e17e",
-      "title": "Apple Watch Band - Magnetic Link - 46 mm - Karamel - M/L",
-      "price": 75.89,
-      "original_price": 99.0,
-      "discount_percent": 23,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQFJBB7N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71axViIVchL._AC_SX342_SY445_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:11:29.401391+00:00",
-      "price_history": [
-        {
-          "price": 75.89,
-          "original_price": 99.0,
-          "discount_percent": 23,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "a0b98eb25444",
-      "title": "Apple Watch Band - Ocean Band - 49 mm - Ankerblauw - One Size",
-      "price": 76.67,
-      "original_price": 99.0,
-      "discount_percent": 22,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQFBWJMR?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51D8+VXb2LL._AC_SX342_SY445_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:12:17.680626+00:00",
-      "price_history": [
-        {
-          "price": 76.67,
-          "original_price": 99.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
       "id": "65f3dfd7ad8f",
       "title": "BOSCH HBA514BB3  Inbouw oven - inhoud 71 l - Hydrolytisch",
       "price": 342.75,
@@ -935,27 +977,6 @@
           "original_price": 202.0,
           "discount_percent": 25,
           "scraped_at": "2026-02-26T06:28:39.846880+00:00"
-        }
-      ]
-    },
-    {
-      "id": "13acb2610056",
-      "title": "Jabra Evolve2 75 draadloze PC headset met 8-microfoontechnologie - dual-foam stereo headphone met instelbare ruisonderdrukking, USB-A Bluetooth-adapter en UC-compatibiliteit - zwart",
-      "price": 121.78,
-      "original_price": 369.9,
-      "discount_percent": 67,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09HTDH58Y?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51S9gw5GE1L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T19:07:25.452968+00:00",
-      "price_history": [
-        {
-          "price": 121.78,
-          "original_price": 369.9,
-          "discount_percent": 67,
-          "scraped_at": "2026-02-26T19:00:31.280393+00:00"
         }
       ]
     },
@@ -6452,642 +6473,6 @@
       ]
     },
     {
-      "id": "c96f1f70533d",
-      "title": "Audio-Technica M50xSTS StreamSet Streaming headset met XLRaansluiting Een maat Zwart",
-      "price": 122.39,
-      "original_price": 369.9,
-      "discount_percent": 66,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BRP7NGVP?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71R9XqYpOxL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:08:13.338562+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 122.39,
-          "original_price": 369.9,
-          "discount_percent": 66,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6f182208144d",
-      "title": "Dahua Picoo A2 5MP WLAN-bewakingscamera met persoons- en voertuigherkenning, sirene, rood-blauwe alarmlichten, intelligente tracking, wifi 6, nachtzicht, personen- en voertuigherkenning",
-      "price": 50.23,
-      "original_price": 199.99,
-      "discount_percent": 74,
-      "category": "camera",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FLJXHDR7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/41kMV9muVyL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:14:29.043885+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 50.23,
-          "original_price": 199.99,
-          "discount_percent": 74,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "32f70a358d94",
-      "title": "AOC 24B36X 24 Inch FHD Gaming Monitor, 144Hz, IPS, 0.5ms MPRT, Adaptieve Sync, HDR10, (1920x1080, HDMI 1x 1.4, DP 1x 1.4) Zwart",
-      "price": 66.93,
-      "original_price": 199.99,
-      "discount_percent": 66,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FH54QNFY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/713PDut8WML._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:12:09.455376+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 66.93,
-          "original_price": 199.99,
-          "discount_percent": 66,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "818115ed4c55",
-      "title": "Philips Monitoren, 221V8/00-22 inch, FHD, 75 Hz, VA, Flicker Free, VESA (1920 x 1080, 200 CD/m², D-Sub, HDMI), zwart",
-      "price": 63.83,
-      "original_price": 159.99,
-      "discount_percent": 60,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B082LHJH3P?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61Dr6JjXY5L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:12:02.192189+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 63.83,
-          "original_price": 159.99,
-          "discount_percent": 60,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "24ddeb4815fc",
-      "title": "AOC Gaming 27G4HRE - 27 inch Full HD-monitor, 200 Hz, 1 ms, G-Sync, HDR10 (1920 x 1080, 2 x HDMI 2.0, DisplayPort 1.4) zwart-rood",
-      "price": 92.74,
-      "original_price": 199.99,
-      "discount_percent": 53,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F8NV3RD1?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71jlskTLUjL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:12:19.035395+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 92.74,
-          "original_price": 199.99,
-          "discount_percent": 53,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "60be0ec0fb2e",
-      "title": "Samsung Galaxy Buds3 Pro Zwart",
-      "price": 115.0,
-      "original_price": 190.36,
-      "discount_percent": 39,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-pro-zwart-r-16077",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075719_0572d841-db65-4f8c-ab4f-ba2e1b7bca39.jpg?v=1771935509",
-      "found_at": "2026-02-27T07:15:38.734140+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 184.0,
-          "original_price": 199.0,
-          "discount_percent": 7,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 115.0,
-          "original_price": 191.98,
-          "discount_percent": 40,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "9f6d6a585fde",
-      "title": "AOC Gaming C27G42E - 27 inch Full HD gebogen monitor, 180 Hz, 0,5 ms, FreeSync Premium (1920 x 1080, 1 x HDMI 2.0, 1 x DisplayPort 1.4) zwart",
-      "price": 94.05,
-      "original_price": 158.39,
-      "discount_percent": 40,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DXFPRGT3?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71-3-ghphDL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:12:27.625828+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 94.05,
-          "original_price": 158.39,
-          "discount_percent": 40,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "c63f24557b12",
-      "title": "Huawei Watch 5 46mm Smartwatch Negro Rates-L19F",
-      "price": 239.8,
-      "original_price": 346.45,
-      "discount_percent": 30,
-      "category": "wearables",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F1G7R5R7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71jMuxf9TbL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-27T07:14:03.262579+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 239.8,
-          "original_price": 346.45,
-          "discount_percent": 30,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        }
-      ]
-    },
-    {
-      "id": "4a07000efca1",
-      "title": "Google Pixel 8 Pro 256GB zwart",
-      "price": 422.1,
-      "original_price": 1013.48,
-      "discount_percent": 58,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/google-pixel-8-pro-256gb-zwart-r-15928",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986898_0c8bf2d6-2b60-4ca4-bd41-e8f9fd1173f9.jpg?v=1771248668",
-      "found_at": "2026-02-26T19:13:47.628505+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 440.86,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 436.17,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-23T11:02:56.279176+00:00"
-        },
-        {
-          "price": 431.48,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 426.79,
-          "original_price": 1013.48,
-          "discount_percent": 57,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 422.1,
-          "original_price": 1013.48,
-          "discount_percent": 58,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "25ee8a565f3c",
-      "title": "AOC Gaming 24G42E - 24 inch FHD monitor, 180 Hz, 1 ms, FreeSync Prem., Comp. G-Sync, HDR10 (1920 x 1080, HDMI, DisplayPort) zwart grijs",
-      "price": 66.93,
-      "original_price": 179.99,
-      "discount_percent": 62,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DS2PMMWD?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71oKxc7WIoL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T19:11:22.635877+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 66.93,
-          "original_price": 179.99,
-          "discount_percent": 62,
-          "scraped_at": "2026-02-26T19:00:31.280393+00:00"
-        }
-      ]
-    },
-    {
-      "id": "3abb85f96cb8",
-      "title": "Samsung Galaxy A40 Smartphone, Duitse versie, 64 GB, zwart",
-      "price": 80.98,
-      "original_price": 200.0,
-      "discount_percent": 59,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B07QKDX1T4?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/91CUL315YfL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T19:05:41.642388+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 80.98,
-          "original_price": 200.0,
-          "discount_percent": 59,
-          "scraped_at": "2026-02-26T19:00:31.280393+00:00"
-        }
-      ]
-    },
-    {
-      "id": "5482304f9b38",
-      "title": "Philips 3000-serie Airfryer NA332/00",
-      "price": 67.0,
-      "original_price": 152.23,
-      "discount_percent": 55,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-3000-serie-airfryer-na332-00-r-16158",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110016_c768b201-0808-44c4-8d36-69fe79dbfcc1.jpg?v=1771599903",
-      "found_at": "2026-02-26T19:13:53.873460+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 74.0,
-          "original_price": 150.06,
-          "discount_percent": 50,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 67.0,
-          "original_price": 152.23,
-          "discount_percent": 55,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "b84dde418dce",
-      "title": "JOBY GorillaPod 5K-set met GripTight PRO-bevestiging. GorillaPod 5K flexibel aluminium statief en BallHead 5K met smartphonehouder, horizontale of verticale modus. Geschikt voor maximaal 5 kg.",
-      "price": 87.44,
-      "original_price": 144.99,
-      "discount_percent": 39,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09BVJSQ3J?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51UaExWYHfL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T19:10:02.629810+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 87.44,
-          "original_price": 144.99,
-          "discount_percent": 39,
-          "scraped_at": "2026-02-26T19:00:31.280393+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d37916a730ea",
-      "title": "Polar Ignite 2 - Fitness Smartwatch met ingebouwde GPS - Ingebouwde hartslagmeter - Gepersonaliseerde workouts, Slaap en herstelmeting - Muziekbediening, Weerbericht, Slimme telefoon meldingen",
-      "price": 68.98,
-      "original_price": 349.95,
-      "discount_percent": 80,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0912YVLTJ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61mGEClpRpL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:11:54.637064+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 68.98,
-          "original_price": 349.95,
-          "discount_percent": 80,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "74541ff5c1ab",
-      "title": "LG DS80QY",
-      "price": 347.0,
-      "original_price": 638.63,
-      "discount_percent": 45,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lg-ds80qy-r-15772",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1750436_e9126622-80a5-4298-9520-b1b1e6ed779d.jpg?v=1770726903",
-      "found_at": "2026-02-26T15:20:10.634540+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 451.0,
-          "original_price": 607.95,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 506.0,
-          "original_price": 642.78,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 347.0,
-          "original_price": 638.63,
-          "discount_percent": 45,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d302e64b8f39",
-      "title": "Dyson Purifier Humidify+Cool PH2 De-NOx PH05",
-      "price": 479.0,
-      "original_price": 799.0,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-purifier-humidify-cool-ph2-de-nox-ph05-r-15779",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2161738.jpg?v=1770726970",
-      "found_at": "2026-02-26T15:20:04.886093+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 623.0,
-          "original_price": 799.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 479.0,
-          "original_price": 799.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e3e02a7981c6",
-      "title": "Bose QuietComfort Headphones Zwart",
-      "price": 108.0,
-      "original_price": 246.29,
-      "discount_percent": 56,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-headphones-zwart-r-16080",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969950_d341d7ea-353e-4eba-8c85-df72c239a227.jpg?v=1771853372",
-      "found_at": "2026-02-26T15:20:04.883898+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 196.0,
-          "original_price": 199.0,
-          "discount_percent": 1,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 115.0,
-          "original_price": 234.95,
-          "discount_percent": 51,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 135.0,
-          "original_price": 262.8,
-          "discount_percent": 48,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 246.29,
-          "discount_percent": 56,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ]
-    },
-    {
-      "id": "5554ec8a7013",
-      "title": "iiyama Monitor XUB2497HSN-B2-23.8\", IPS, 1920 x 1080/100Hz, 1H1DP1C, HAS, RJ45",
-      "price": 96.82,
-      "original_price": 189.0,
-      "discount_percent": 48,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D8VQKXKH?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/717nhf7-vyL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:16:32.798874+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 96.82,
-          "original_price": 189.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "eedc82eb5a91",
-      "title": "Philips Series 9000 20-in-1 MG9557/15",
-      "price": 53.0,
-      "original_price": 100.61,
-      "discount_percent": 47,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-9000-20-in-1-mg9557-15-r-15746",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224812_4f5798d7-24f8-40c0-9be5-55a239c6f133.jpg?v=1770651950",
-      "found_at": "2026-02-26T15:20:16.599091+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 77.0,
-          "original_price": 104.59,
-          "discount_percent": 26,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 101.88,
-          "discount_percent": 32,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 53.0,
-          "original_price": 99.75,
-          "discount_percent": 46,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        }
-      ]
-    },
-    {
-      "id": "1233418ca1fd",
-      "title": "Amazfit GTR Mini 43mm Smartwatch für Frauen und Männer, mit präzisem GPS-Tracking, Fitness-Sportuhr mit 120+ Sportmodi, 14 Tage Batterielaufzeit, Herzfrequenz- und Blutsauerstoffmonitor",
-      "price": 92.54,
-      "original_price": 159.0,
-      "discount_percent": 41,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BTBTXWZ8?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61A5NsK6F4L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:12:24.790428+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 92.54,
-          "original_price": 159.0,
-          "discount_percent": 41,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "85aaf0dbb9ee",
-      "title": "Apple Watch Band - Milanees bandje - 40 mm - Leisteen - One Size",
-      "price": 60.01,
-      "original_price": 99.0,
-      "discount_percent": 39,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQG1K9C9?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71K2sOcQ6QL._AC_SX342_SY445_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:10:29.046577+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 60.01,
-          "original_price": 99.0,
-          "discount_percent": 39,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "11f652211e7d",
-      "title": "Philips 24E1N1300AM - 24 inch FHD monitor, in hoogte verstelbaar, luidspreker (1920 x 1080, 100 Hz, HDMI, USB-C (65 W Power Delivery) USB-hub), zwart",
-      "price": 93.97,
-      "original_price": 143.81,
-      "discount_percent": 34,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D5CSP9FZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71b9qDP2eHL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:15:55.406817+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 93.97,
-          "original_price": 143.81,
-          "discount_percent": 34,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d5c29e601037",
-      "title": "Polar H10 HR Sensor Red Amazon exclusive M-XXL",
-      "price": 57.67,
-      "original_price": 79.04,
-      "discount_percent": 27,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09NV6H62Y?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51zaUfTkBeL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:10:48.220656+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 57.67,
-          "original_price": 79.04,
-          "discount_percent": 27,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
-      "id": "d13858d5845c",
-      "title": "Apple Watch Band - Alpine Loop - 49 mm - Terracotta - Medium",
-      "price": 74.07,
-      "original_price": 99.0,
-      "discount_percent": 25,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQFPKNQG?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/715LzjU9POL._AC_SX342_SY445_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T15:11:45.939704+00:00",
-      "approved_at": "27-02-2026 12:40",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 74.07,
-          "original_price": 99.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
-        }
-      ]
-    },
-    {
       "id": "e917c0cfe238",
       "title": "iiyama G-Master Black Hawk G2745HSU-B2 68,5 cm 27\" IPS LED Gaming Monitor Full-HD HDMI DP USB2.0 1ms Adaptive Sync zwart",
       "price": 75.42,
@@ -7751,7 +7136,21 @@
       "image": "https://m.media-amazon.com/images/I/71RhoRvMs-L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:45:50.102126+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 344.54,
+          "original_price": 419.0,
+          "discount_percent": 17,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 330.63,
+          "original_price": 149990.0,
+          "discount_percent": 99,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "8a8bae19e575",
@@ -7766,7 +7165,21 @@
       "image": "https://m.media-amazon.com/images/I/7102Lk10BdL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:01:37.266595+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 80.7,
+          "original_price": 242.4,
+          "discount_percent": 66,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 76.57,
+          "original_price": 548.35,
+          "discount_percent": 86,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "59ed5f2d5bb6",
@@ -7781,7 +7194,21 @@
       "image": "https://m.media-amazon.com/images/I/715fW1ROCtL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:04:31.880987+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 160.76,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 152.85,
+          "original_price": 548.35,
+          "discount_percent": 72,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "52224419396f",
@@ -7796,7 +7223,15 @@
       "image": "https://m.media-amazon.com/images/I/714rWTJzaEL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:31:23.886847+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 55.87,
+          "original_price": 369.9,
+          "discount_percent": 84,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "2c486fb6acbb",
@@ -7811,7 +7246,21 @@
       "image": "https://m.media-amazon.com/images/I/71pgi8rN8LL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:05:53.885369+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 163.44,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 156.44,
+          "original_price": 548.35,
+          "discount_percent": 71,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "fcaa99936a02",
@@ -7826,7 +7275,21 @@
       "image": "https://m.media-amazon.com/images/I/81ifLKAW0xL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:07:45.492956+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 165.61,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 158.88,
+          "original_price": 548.35,
+          "discount_percent": 71,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "cce84e69f483",
@@ -7841,7 +7304,15 @@
       "image": "https://m.media-amazon.com/images/I/71UlBwNRCjL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:33:49.315249+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 60.45,
+          "original_price": 369.9,
+          "discount_percent": 83,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "5aa9a4890575",
@@ -7856,7 +7327,21 @@
       "image": "https://m.media-amazon.com/images/I/818NhiZ5X0L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:33:00.151188+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 61.64,
+          "original_price": 81.0,
+          "discount_percent": 23,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 60.88,
+          "original_price": 369.9,
+          "discount_percent": 83,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "1dc0f2295ea7",
@@ -7871,7 +7356,21 @@
       "image": "https://m.media-amazon.com/images/I/813RK-4ceIL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:33:31.302511+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 57.79,
+          "original_price": 87.99,
+          "discount_percent": 34,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 61.32,
+          "original_price": 369.9,
+          "discount_percent": 83,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "1ef1f7ab1bf9",
@@ -7886,7 +7385,21 @@
       "image": "https://m.media-amazon.com/images/I/71ZEbJNiWmL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:08:21.169806+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 171.42,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 167.77,
+          "original_price": 548.35,
+          "discount_percent": 69,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "a75cf6b8a2a2",
@@ -7901,7 +7414,21 @@
       "image": "https://m.media-amazon.com/images/I/71G1YBSe83L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:06:37.017217+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 176.17,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 169.5,
+          "original_price": 548.35,
+          "discount_percent": 69,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "2a3d36ad63a3",
@@ -7916,7 +7443,21 @@
       "image": "https://m.media-amazon.com/images/I/71uEhneF4HL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:08:38.496071+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 173.02,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 175.25,
+          "original_price": 548.35,
+          "discount_percent": 68,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "103407c9b529",
@@ -7931,7 +7472,21 @@
       "image": "https://m.media-amazon.com/images/I/81huRqtwTFL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:46:07.056787+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 542.99,
+          "original_price": 886.9,
+          "discount_percent": 38,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 536.16,
+          "original_price": 1449.99,
+          "discount_percent": 63,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "a5a0173b7042",
@@ -7946,7 +7501,21 @@
       "image": "https://m.media-amazon.com/images/I/51aJexwJoAL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:07:37.144991+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 183.7,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 188.76,
+          "original_price": 548.35,
+          "discount_percent": 65,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "e007022fd267",
@@ -7961,7 +7530,15 @@
       "image": "https://m.media-amazon.com/images/I/51rYT8aYM4L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:08:51.705198+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 199.87,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
     },
     {
       "id": "c14bf6e36b55",
@@ -7976,7 +7553,21 @@
       "image": "https://m.media-amazon.com/images/I/61wDvjQa+8L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:34:13.422230+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 62.63,
+          "original_price": 106.75,
+          "discount_percent": 41,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 61.37,
+          "original_price": 269.0,
+          "discount_percent": 77,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "57f257b95bf8",
@@ -7991,7 +7582,15 @@
       "image": "https://m.media-amazon.com/images/I/51nrgN-52eL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:26:14.437807+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 86.94,
+          "original_price": 305.27,
+          "discount_percent": 71,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "bf0509b9b6c5",
@@ -8006,7 +7605,15 @@
       "image": "https://m.media-amazon.com/images/I/61ghLuQ2UgL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:37:35.101934+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 112.93,
+          "original_price": 346.45,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "0b086260434f",
@@ -8021,7 +7628,21 @@
       "image": "https://m.media-amazon.com/images/I/71ym6BYRRmL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:30:41.044677+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 54.46,
+          "original_price": 169.99,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 55.1,
+          "original_price": 229.99,
+          "discount_percent": 76,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "c8ac03b5d987",
@@ -8036,7 +7657,21 @@
       "image": "https://m.media-amazon.com/images/I/71GqLOydxRL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:35:09.216214+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 55.08,
+          "original_price": 199.0,
+          "discount_percent": 72,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 53.72,
+          "original_price": 199.0,
+          "discount_percent": 73,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "098ca329ab26",
@@ -8051,7 +7686,21 @@
       "image": "https://m.media-amazon.com/images/I/81zFmk9u0uL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:30:08.492508+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 56.05,
+          "original_price": 59.0,
+          "discount_percent": 5,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 54.87,
+          "original_price": 199.0,
+          "discount_percent": 72,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "7742314e90fc",
@@ -8066,7 +7715,21 @@
       "image": "https://m.media-amazon.com/images/I/61Rz7Ps9GlL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:29:17.482245+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 50.51,
+          "original_price": 80.02,
+          "discount_percent": 36,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 51.53,
+          "original_price": 169.99,
+          "discount_percent": 69,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "036bb3131c6b",
@@ -8081,7 +7744,15 @@
       "image": "https://m.media-amazon.com/images/I/71KHwB50yCL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:02:12.225579+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 122.91,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
     },
     {
       "id": "34e7d9b2f615",
@@ -8096,7 +7767,21 @@
       "image": "https://m.media-amazon.com/images/I/61zOw6w28BL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:42:00.298379+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 159.96,
+          "original_price": 346.45,
+          "discount_percent": 53,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 152.56,
+          "original_price": 346.45,
+          "discount_percent": 55,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "ad38654d4e4e",
@@ -8111,7 +7796,21 @@
       "image": "https://m.media-amazon.com/images/I/51GO304y4mL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:37:11.215245+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 50.32,
+          "original_price": 99.0,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 52.6,
+          "original_price": 159.0,
+          "discount_percent": 66,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "96ada70c7465",
@@ -8126,7 +7825,21 @@
       "image": "https://m.media-amazon.com/images/I/71wx4Tr09FL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:33:39.429560+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.58,
+          "original_price": 65.0,
+          "discount_percent": 9,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 60.4,
+          "original_price": 169.99,
+          "discount_percent": 64,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "121ee9f17203",
@@ -8141,7 +7854,21 @@
       "image": "https://m.media-amazon.com/images/I/71Dyt+Ip5NL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:06:27.730171+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 146.78,
+          "original_price": 329.3,
+          "discount_percent": 55,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 163.92,
+          "original_price": 329.3,
+          "discount_percent": 50,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "f014fda33327",
@@ -8156,7 +7883,21 @@
       "image": "https://m.media-amazon.com/images/I/61zbuN6ANbL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:04:58.056046+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 146.7,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 153.6,
+          "original_price": 311.25,
+          "discount_percent": 50,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "da9cc0ec44b1",
@@ -8171,7 +7912,15 @@
       "image": "https://m.media-amazon.com/images/I/81TmbB6tBOL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:43:44.871130+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 87.28,
+          "original_price": 198.51,
+          "discount_percent": 56,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "6c7b09016e46",
@@ -8186,7 +7935,21 @@
       "image": "https://m.media-amazon.com/images/I/513RIyXrsAL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:42:18.144545+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 194.4,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 187.99,
+          "original_price": 349.95,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "cdf10f9c504f",
@@ -8201,7 +7964,15 @@
       "image": "https://m.media-amazon.com/images/I/61qZv1pQ8-L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:41:27.055036+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 51.6,
+          "original_price": 79.99,
+          "discount_percent": 35,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
     },
     {
       "id": "414308fe17ad",
@@ -8216,7 +7987,21 @@
       "image": "https://m.media-amazon.com/images/I/51EvoAAvDFL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:04:49.640126+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 145.28,
+          "original_price": 284.82,
+          "discount_percent": 48,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 153.17,
+          "original_price": 284.82,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "d6f16051cc1a",
@@ -8231,7 +8016,21 @@
       "image": "https://m.media-amazon.com/images/I/51x9OFfwRGL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:37:26.570244+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 51.51,
+          "original_price": 159.0,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 57.23,
+          "original_price": 129.0,
+          "discount_percent": 55,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "30b6497556d8",
@@ -8246,7 +8045,15 @@
       "image": "https://m.media-amazon.com/images/I/31z0qvjlmjL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:12:19.345322+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 77.99,
+          "original_price": 159.99,
+          "discount_percent": 51,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "d844e07b2a27",
@@ -8261,7 +8068,21 @@
       "image": "https://m.media-amazon.com/images/I/71T8cKFByXL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:20:47.766540+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 107.33,
+          "discount_percent": 50,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 50.54,
+          "original_price": 107.33,
+          "discount_percent": 52,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "17e26f20acd8",
@@ -8276,7 +8097,21 @@
       "image": "https://m.media-amazon.com/images/I/61cq3A60kdL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:31:05.160504+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 56.55,
+          "original_price": 112.81,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 56.66,
+          "original_price": 112.81,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "123710c701e0",
@@ -8291,7 +8126,15 @@
       "image": "https://m.media-amazon.com/images/I/61Dud9w97rL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:22:54.417627+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 56.52,
+          "original_price": 109.99,
+          "discount_percent": 48,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
     },
     {
       "id": "1a34ff1ef3ad",
@@ -8306,7 +8149,21 @@
       "image": "https://m.media-amazon.com/images/I/41URrwVEfQL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:14:09.812185+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 113.26,
+          "original_price": 189.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 109.24,
+          "original_price": 189.0,
+          "discount_percent": 42,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "e06d67234003",
@@ -8321,7 +8178,21 @@
       "image": "https://m.media-amazon.com/images/I/51gYosBbk3L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:21:53.336523+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.22,
+          "original_price": 100.31,
+          "discount_percent": 41,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 53.23,
+          "original_price": 98.77,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "b0b03736a25c",
@@ -8336,7 +8207,15 @@
       "image": "https://m.media-amazon.com/images/I/61jc2LUuN8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:19:55.175402+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 59.82,
+          "original_price": 109.99,
+          "discount_percent": 45,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "30ab9939c0fc",
@@ -8351,7 +8230,15 @@
       "image": "https://m.media-amazon.com/images/I/61xcMukxE6L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:35:39.199797+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 93.34,
+          "original_price": 159.0,
+          "discount_percent": 41,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "d55c26857cd5",
@@ -8366,7 +8253,21 @@
       "image": "https://m.media-amazon.com/images/I/61QNMCFJpSL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:42:34.463561+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 299.0,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 232.88,
+          "original_price": 346.45,
+          "discount_percent": 32,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "d656c01566ef",
@@ -8381,7 +8282,21 @@
       "image": "https://m.media-amazon.com/images/I/71lTkCpybgL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:11:13.391317+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.38,
+          "original_price": 88.61,
+          "discount_percent": 22,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 65.01,
+          "original_price": 109.99,
+          "discount_percent": 40,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "0305d67685ff",
@@ -8396,7 +8311,15 @@
       "image": "https://m.media-amazon.com/images/I/61sE5oo3BML._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:29:41.995683+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 53.3,
+          "original_price": 65.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
     },
     {
       "id": "eb1564c2e7cf",
@@ -8411,7 +8334,21 @@
       "image": "https://m.media-amazon.com/images/I/41FwjKXvUXL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:19:44.951509+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 59.17,
+          "original_price": 89.99,
+          "discount_percent": 34,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 58.2,
+          "original_price": 89.99,
+          "discount_percent": 35,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "bdf3d0378cfb",
@@ -8426,7 +8363,21 @@
       "image": "https://m.media-amazon.com/images/I/51RKENapGLL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:30:32.954658+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 53.51,
+          "original_price": 65.64,
+          "discount_percent": 18,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 54.45,
+          "original_price": 84.99,
+          "discount_percent": 35,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "0771164b317e",
@@ -8441,7 +8392,21 @@
       "image": "https://m.media-amazon.com/images/I/61iWYG9k7kL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:21:06.194016+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 57.21,
+          "original_price": 94.99,
+          "discount_percent": 39,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 62.1,
+          "original_price": 94.99,
+          "discount_percent": 34,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "6949117a18b1",
@@ -8456,7 +8421,21 @@
       "image": "https://m.media-amazon.com/images/I/71pz2njkNRL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:33:07.630573+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 52.64,
+          "original_price": 64.99,
+          "discount_percent": 19,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 61.09,
+          "original_price": 89.99,
+          "discount_percent": 32,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "577083887b57",
@@ -8471,7 +8450,15 @@
       "image": "https://m.media-amazon.com/images/I/71SG9SPgX3L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:31:40.777641+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.01,
+          "original_price": 84.99,
+          "discount_percent": 31,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "87b5c1ad4c3b",
@@ -8486,7 +8473,15 @@
       "image": "https://m.media-amazon.com/images/I/416Yx8Xc-RL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:23:55.669234+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.3,
+          "original_price": 102.05,
+          "discount_percent": 29,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        }
+      ]
     },
     {
       "id": "037b77dc9d63",
@@ -8501,7 +8496,21 @@
       "image": "https://m.media-amazon.com/images/I/71o2ba7dKoL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T15:23:11.272197+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.55,
+          "original_price": 94.99,
+          "discount_percent": 23,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 70.3,
+          "original_price": 94.99,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        }
+      ]
     },
     {
       "id": "345c7b4ce818",
@@ -8516,7 +8525,27 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1655049_2acbd1c3-da03-49cd-b51f-77f55dceada4.jpg?v=1771936061",
       "found_at": "2026-02-28T11:11:50.911837+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 149.0,
+          "discount_percent": 14,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 173.92,
+          "discount_percent": 31,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 173.92,
+          "discount_percent": 68,
+          "scraped_at": "2026-02-26T15:00:56.458527+00:00"
+        }
+      ]
     },
     {
       "id": "9b6ea98a157a",
@@ -8531,61 +8560,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1781237.jpg?v=1771935991",
       "found_at": "2026-02-27T19:13:12.249923+00:00",
       "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
-    },
-    {
-      "id": "1a2938c3e416",
-      "title": "ROG Delta RGB gaming headset with Hi-Res ESS Quad-DAC, circular RGB lighting effect and USB-C connector for PCs, consoles and mobile gaming",
-      "price": 58.36,
-      "original_price": 229.0,
-      "discount_percent": 75,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B07HBPDD5Y?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71raaXgxhtL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-02-26T11:06:39.756483+00:00",
-      "approved_at": "28-02-2026 16:49",
       "auto_approved": true,
       "price_history": [
         {
-          "price": 58.36,
-          "original_price": 149.99,
-          "discount_percent": 61,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+          "price": 53.0,
+          "original_price": 89.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 77.31,
+          "discount_percent": 27,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
         }
-      ],
-      "refreshed_at": "2026-02-27T15:15:49.270314+00:00"
-    },
-    {
-      "id": "321c8ff5529e",
-      "title": "Kenwood (Keuken) XL Weigh+ FDM72.990BK",
-      "price": 37.2,
-      "original_price": 268.62,
-      "discount_percent": 86,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kenwood-keuken-xl-weigh-fdm72-990bk-r-15342",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806803_630ff5fa-de48-4690-9e05-f3bcb830dc58.jpg?v=1768835098",
-      "found_at": "2026-02-26T11:14:27.310402+00:00",
-      "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
-    },
-    {
-      "id": "78acd01dbd93",
-      "title": "Athom Homey Pro (Early 2023)",
-      "price": 251.0,
-      "original_price": 403.64,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/athom-homey-pro-early-2023-r-16085",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941123_4a80796d-52a8-4334-863d-d430577cde73.jpg?v=1771935554",
-      "found_at": "2026-02-26T11:14:17.178602+00:00",
-      "approved_at": "28-02-2026 16:49",
-      "auto_approved": true
+      ]
     },
     {
       "id": "78a41c4cbd06",
@@ -8600,7 +8589,15 @@
       "image": "https://m.media-amazon.com/images/I/61PgmOUPZ3L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:29:32.193431+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.97,
+          "original_price": 72.6,
+          "discount_percent": 4,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        }
+      ]
     },
     {
       "id": "7b998c935560",
@@ -8615,7 +8612,21 @@
       "image": "https://m.media-amazon.com/images/I/711XRwJFCaL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:30:11.682136+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 69.33,
+          "original_price": 89.99,
+          "discount_percent": 22,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 71.16,
+          "original_price": 369.9,
+          "discount_percent": 80,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "3be77e7d14d4",
@@ -8630,7 +8641,21 @@
       "image": "https://m.media-amazon.com/images/I/61b2I6buOhL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:32:49.206326+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 65.71,
+          "original_price": 99.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 72.12,
+          "original_price": 369.9,
+          "discount_percent": 80,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "43b98b4d60dc",
@@ -8645,7 +8670,15 @@
       "image": "https://m.media-amazon.com/images/I/51WAcqB9svL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:09:11.615870+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 306.44,
+          "original_price": 824.13,
+          "discount_percent": 62,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        }
+      ]
     },
     {
       "id": "2b5e424f00eb",
@@ -8660,7 +8693,15 @@
       "image": "https://m.media-amazon.com/images/I/61YF3EInzAL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:32:41.774747+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 76.43,
+          "original_price": 369.9,
+          "discount_percent": 79,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "926900fe74ec",
@@ -8675,7 +8716,21 @@
       "image": "https://m.media-amazon.com/images/I/51cGxkm5voL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:03:07.590584+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 200.62,
+          "original_price": 547.27,
+          "discount_percent": 63,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 186.73,
+          "original_price": 547.27,
+          "discount_percent": 65,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "fec02d987140",
@@ -8690,7 +8745,15 @@
       "image": "https://m.media-amazon.com/images/I/81sEf1-S68L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:39:45.898712+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 625.14,
+          "original_price": 1317.28,
+          "discount_percent": 52,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "26f06290be3c",
@@ -8705,7 +8768,21 @@
       "image": "https://m.media-amazon.com/images/I/61B40vbpTTL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:05:01.090990+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 209.93,
+          "original_price": 628.6,
+          "discount_percent": 66,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 214.67,
+          "original_price": 548.35,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "ff6d35394f37",
@@ -8720,7 +8797,21 @@
       "image": "https://m.media-amazon.com/images/I/71166DSANDL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:02:52.908982+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 227.59,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 218.67,
+          "original_price": 548.35,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "578cb059f826",
@@ -8735,7 +8826,21 @@
       "image": "https://m.media-amazon.com/images/I/41vG8QzJiIL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:03:38.567188+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 248.16,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 239.32,
+          "original_price": 548.35,
+          "discount_percent": 56,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "3f6b7b1488f3",
@@ -8750,7 +8855,21 @@
       "image": "https://m.media-amazon.com/images/I/515bjVg24zL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:07:46.014436+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 261.24,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 251.32,
+          "original_price": 548.35,
+          "discount_percent": 54,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "f26a81615c66",
@@ -8765,7 +8884,21 @@
       "image": "https://m.media-amazon.com/images/I/61nbkFg6rnL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:26:46.061490+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 95.98,
+          "original_price": 137.25,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 99.99,
+          "original_price": 309.99,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "6854a5238981",
@@ -8780,7 +8913,15 @@
       "image": "https://m.media-amazon.com/images/I/51BrrXu09uL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:26:54.181453+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 100.85,
+          "original_price": 309.99,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "e4e1cce0ac21",
@@ -8795,7 +8936,21 @@
       "image": "https://m.media-amazon.com/images/I/611ZT19fQFL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:33:45.290131+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.32,
+          "original_price": 93.32,
+          "discount_percent": 22,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 72.8,
+          "original_price": 229.99,
+          "discount_percent": 68,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "02d91f06d26c",
@@ -8810,7 +8965,21 @@
       "image": "https://m.media-amazon.com/images/I/61GvSVNh7JL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:30:21.490979+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.85,
+          "original_price": 199.0,
+          "discount_percent": 70,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 59.54,
+          "original_price": 199.0,
+          "discount_percent": 70,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "fd86bad02378",
@@ -8825,7 +8994,21 @@
       "image": "https://m.media-amazon.com/images/I/81QEBo7ne5L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:06:17.351601+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 294.21,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 285.19,
+          "original_price": 548.35,
+          "discount_percent": 47,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "c0c9ba59d180",
@@ -8840,7 +9023,21 @@
       "image": "https://m.media-amazon.com/images/I/71ecRh1a3uL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:07:11.075480+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 257.89,
+          "original_price": 499.0,
+          "discount_percent": 48,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 249.8,
+          "original_price": 499.0,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "dd33257c3eba",
@@ -8855,7 +9052,21 @@
       "image": "https://m.media-amazon.com/images/I/61TdNbNwHmL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:06:46.602832+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 255.89,
+          "original_price": 489.56,
+          "discount_percent": 47,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 247.96,
+          "original_price": 489.56,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "aa474f13a72d",
@@ -8870,7 +9081,21 @@
       "image": "https://m.media-amazon.com/images/I/517VpVlts7L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:29:06.585232+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 70.22,
+          "original_price": 369.9,
+          "discount_percent": 81,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 66.71,
+          "original_price": 199.0,
+          "discount_percent": 66,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "15578c60d514",
@@ -8885,7 +9110,15 @@
       "image": "https://m.media-amazon.com/images/I/711hzMmzoMS._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:20:11.811553+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 59.0,
+          "original_price": 179.0,
+          "discount_percent": 67,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        }
+      ]
     },
     {
       "id": "447e2bcd7280",
@@ -8900,7 +9133,21 @@
       "image": "https://m.media-amazon.com/images/I/516mjKJ26pL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:29:24.007624+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.59,
+          "original_price": 69.99,
+          "discount_percent": 2,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 68.41,
+          "original_price": 199.0,
+          "discount_percent": 65,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "878ba78c07f6",
@@ -8915,7 +9162,21 @@
       "image": "https://m.media-amazon.com/images/I/61KKS3LGNmL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:35:35.113920+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 52.97,
+          "original_price": 159.0,
+          "discount_percent": 66,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 50.82,
+          "original_price": 159.0,
+          "discount_percent": 68,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "8e98e800c1b3",
@@ -8930,7 +9191,15 @@
       "image": "https://m.media-amazon.com/images/I/61qpyaPwp2L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:30:31.085846+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 69.86,
+          "original_price": 199.0,
+          "discount_percent": 64,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "8c0399ba1568",
@@ -8945,7 +9214,15 @@
       "image": "https://m.media-amazon.com/images/I/71uMXhoc5SL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:32:21.481242+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 62.17,
+          "original_price": 179.0,
+          "discount_percent": 65,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "3ac55a63d7ae",
@@ -8960,7 +9237,15 @@
       "image": "https://m.media-amazon.com/images/I/51g9rrumlSL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:32:28.110850+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.68,
+          "original_price": 199.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "e7cc872ca70e",
@@ -8975,7 +9260,21 @@
       "image": "https://m.media-amazon.com/images/I/61q3naqckqL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:34:11.953265+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 69.86,
+          "original_price": 127.0,
+          "discount_percent": 44,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 73.61,
+          "original_price": 199.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "c9b9a254f935",
@@ -8990,7 +9289,21 @@
       "image": "https://m.media-amazon.com/images/I/61ZWVlHmaJL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:24:24.144034+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 94.96,
+          "original_price": 227.95,
+          "discount_percent": 58,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 90.29,
+          "original_price": 227.95,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "daaffea5033f",
@@ -9005,7 +9318,21 @@
       "image": "https://m.media-amazon.com/images/I/61V1zaslNoL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:28:48.101188+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.94,
+          "original_price": 86.75,
+          "discount_percent": 20,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 65.95,
+          "original_price": 179.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "a4961fffe129",
@@ -9020,7 +9347,15 @@
       "image": "https://m.media-amazon.com/images/I/61YUBwfWztL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:33:26.479504+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 75.76,
+          "original_price": 199.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "fd20b129adb5",
@@ -9035,7 +9370,21 @@
       "image": "https://m.media-amazon.com/images/I/611taz0-d5L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:31:09.882961+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 71.14,
+          "original_price": 179.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 69.71,
+          "original_price": 179.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "34758e272ed3",
@@ -9050,7 +9399,21 @@
       "image": "https://m.media-amazon.com/images/I/51-LgMFcdSL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:29:50.638713+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 71.96,
+          "original_price": 179.0,
+          "discount_percent": 59,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 69.74,
+          "original_price": 179.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "53496985063f",
@@ -9065,7 +9428,21 @@
       "image": "https://m.media-amazon.com/images/I/71scBl4TVOL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:30:01.262378+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 73.41,
+          "original_price": 269.0,
+          "discount_percent": 72,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 69.42,
+          "original_price": 169.99,
+          "discount_percent": 59,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "e3a98b2b6379",
@@ -9080,7 +9457,21 @@
       "image": "https://m.media-amazon.com/images/I/41wdoUfkoOL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:12:04.364762+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 149.57,
+          "original_price": 274.99,
+          "discount_percent": 45,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 146.74,
+          "original_price": 264.99,
+          "discount_percent": 44,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "967cbce844f2",
@@ -9095,7 +9486,21 @@
       "image": "https://m.media-amazon.com/images/I/51z-Eo4pP0L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:24:45.144293+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 95.05,
+          "original_price": 177.09,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 91.09,
+          "original_price": 177.09,
+          "discount_percent": 48,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "d0f19e378656",
@@ -9110,7 +9515,21 @@
       "image": "https://m.media-amazon.com/images/I/71Xo--EBxaL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:21:56.178912+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 86.82,
+          "original_price": 159.46,
+          "discount_percent": 45,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 80.05,
+          "original_price": 159.46,
+          "discount_percent": 49,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "feec824e278f",
@@ -9125,7 +9544,21 @@
       "image": "https://m.media-amazon.com/images/I/81PoGjMMHWL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:02:03.328818+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 207.8,
+          "original_price": 329.57,
+          "discount_percent": 36,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 201.54,
+          "original_price": 329.57,
+          "discount_percent": 38,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "af96b9a3dc8e",
@@ -9140,7 +9573,21 @@
       "image": "https://m.media-amazon.com/images/I/51B8odkhmOL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:22:12.393262+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 71.84,
+          "original_price": 125.0,
+          "discount_percent": 42,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 69.28,
+          "original_price": 125.0,
+          "discount_percent": 44,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "bbd3f084985d",
@@ -9155,7 +9602,21 @@
       "image": "https://m.media-amazon.com/images/I/71izFpyABiL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:20:39.203858+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 80.04,
+          "original_price": 135.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 76.1,
+          "original_price": 135.0,
+          "discount_percent": 43,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "12310b41f62f",
@@ -9170,7 +9631,21 @@
       "image": "https://m.media-amazon.com/images/I/61e5NL49phL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:12:21.825103+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 158.52,
+          "original_price": 242.83,
+          "discount_percent": 34,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 152.03,
+          "original_price": 242.83,
+          "discount_percent": 37,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "f53cb358dad5",
@@ -9185,7 +9660,15 @@
       "image": "https://m.media-amazon.com/images/I/61rjircFnsL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:31:01.841728+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 60.12,
+          "original_price": 108.26,
+          "discount_percent": 44,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        }
+      ]
     },
     {
       "id": "31a45d783af2",
@@ -9200,7 +9683,21 @@
       "image": "https://m.media-amazon.com/images/I/711uuG4ocOL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:22:58.513011+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 87.2,
+          "original_price": 138.85,
+          "discount_percent": 37,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 85.47,
+          "original_price": 138.85,
+          "discount_percent": 38,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "2601c6117221",
@@ -9215,7 +9712,15 @@
       "image": "https://m.media-amazon.com/images/I/61TdNbNwHmL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:09:42.339776+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 314.36,
+          "original_price": 431.05,
+          "discount_percent": 27,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        }
+      ]
     },
     {
       "id": "9529521e6b44",
@@ -9230,7 +9735,21 @@
       "image": "https://m.media-amazon.com/images/I/51rT40sk3xL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:31:41.971827+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.49,
+          "original_price": 99.99,
+          "discount_percent": 27,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 62.03,
+          "original_price": 99.99,
+          "discount_percent": 37,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "1a57b37462cf",
@@ -9245,7 +9764,15 @@
       "image": "https://m.media-amazon.com/images/I/51yeJn74wVL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:17:40.048026+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 206.42,
+          "original_price": 278.99,
+          "discount_percent": 26,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "6204cc7f88a0",
@@ -9260,7 +9787,15 @@
       "image": "https://m.media-amazon.com/images/I/61gmWSsyn0L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:29:16.409335+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 60.42,
+          "original_price": 89.99,
+          "discount_percent": 32,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "eff5a17a8a3b",
@@ -9275,7 +9810,21 @@
       "image": "https://m.media-amazon.com/images/I/71BfDOYDqNL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:21:10.834100+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 79.8,
+          "original_price": 115.5,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 77.05,
+          "original_price": 109.99,
+          "discount_percent": 29,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "4e583c4e0afd",
@@ -9290,7 +9839,21 @@
       "image": "https://m.media-amazon.com/images/I/71ltsViEA8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-02-28T19:28:12.804289+00:00",
       "approved_at": "28-02-2026 20:44",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 64.9,
+          "original_price": 69.9,
+          "discount_percent": 7,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 65.34,
+          "original_price": 89.99,
+          "discount_percent": 27,
+          "scraped_at": "2026-02-28T19:00:21.786347+00:00"
+        }
+      ]
     },
     {
       "id": "cb207dc36cdf",
@@ -9305,7 +9868,15 @@
       "image": "https://m.media-amazon.com/images/I/61hRSXmJveL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:54:53.152832+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.19,
+          "original_price": 64.9,
+          "discount_percent": 10,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        }
+      ]
     },
     {
       "id": "baee1e31efa7",
@@ -9320,7 +9891,21 @@
       "image": "https://m.media-amazon.com/images/I/41TTFwlef3L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:54:24.371490+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.53,
+          "original_price": 900.46,
+          "discount_percent": 93,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 57.32,
+          "original_price": 881.85,
+          "discount_percent": 93,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "451f07c46aef",
@@ -9335,7 +9920,21 @@
       "image": "https://m.media-amazon.com/images/I/4107ML+M86L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:54:44.820716+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 62.21,
+          "original_price": 957.08,
+          "discount_percent": 93,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 57.95,
+          "original_price": 891.54,
+          "discount_percent": 93,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "d3d539cd96ce",
@@ -9350,7 +9949,21 @@
       "image": "https://m.media-amazon.com/images/I/71h5tyZqkhL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:08:56.518416+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 408.25,
+          "original_price": 2088.74,
+          "discount_percent": 80,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 383.45,
+          "original_price": 2088.74,
+          "discount_percent": 81,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "540b4fb01563",
@@ -9365,7 +9978,21 @@
       "image": "https://m.media-amazon.com/images/I/71pi6rDSWRL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:41:11.171982+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 56.58,
+          "original_price": 69.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 57.96,
+          "original_price": 379.0,
+          "discount_percent": 84,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "04ce0d0296cd",
@@ -9380,7 +10007,21 @@
       "image": "https://m.media-amazon.com/images/I/71mTfSKhhTL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:31:38.056267+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 55.63,
+          "original_price": 57.95,
+          "discount_percent": 4,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 56.77,
+          "original_price": 369.9,
+          "discount_percent": 84,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "97f58453467b",
@@ -9395,7 +10036,15 @@
       "image": "https://m.media-amazon.com/images/I/617psPDxTLL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:41:18.114594+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 51.12,
+          "original_price": 346.45,
+          "discount_percent": 85,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "0fb838102868",
@@ -9410,7 +10059,21 @@
       "image": "https://m.media-amazon.com/images/I/81IRb2rhIML._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:33:04.225346+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.46,
+          "original_price": 369.9,
+          "discount_percent": 80,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 75.21,
+          "original_price": 369.9,
+          "discount_percent": 79,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "61e7e249d41b",
@@ -9425,7 +10088,21 @@
       "image": "https://m.media-amazon.com/images/I/71hK1BULWUL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:54:07.522101+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 57.79,
+          "original_price": 62.14,
+          "discount_percent": 7,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 56.05,
+          "original_price": 296.96,
+          "discount_percent": 81,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "a7201e1fd7c4",
@@ -9440,7 +10117,21 @@
       "image": "https://m.media-amazon.com/images/I/61IGQeW2EaL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:07:36.739869+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 401.07,
+          "original_price": 823.25,
+          "discount_percent": 51,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 373.25,
+          "original_price": 823.25,
+          "discount_percent": 54,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "71b78f3231e2",
@@ -9455,7 +10146,21 @@
       "image": "https://m.media-amazon.com/images/I/61ylBtOtBuL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:36:05.263924+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 107.03,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 100.92,
+          "original_price": 369.9,
+          "discount_percent": 72,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "dc165bb6e8d6",
@@ -9470,7 +10175,15 @@
       "image": "https://m.media-amazon.com/images/I/51NsJosVUCL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:21:07.594370+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 83.92,
+          "original_price": 329.16,
+          "discount_percent": 74,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        }
+      ]
     },
     {
       "id": "61b2f075f619",
@@ -9485,7 +10198,21 @@
       "image": "https://m.media-amazon.com/images/I/61TuQdBSgsL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:37:34.336871+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 110.19,
+          "original_price": 369.9,
+          "discount_percent": 70,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 111.35,
+          "original_price": 369.9,
+          "discount_percent": 69,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "a8b0c7523639",
@@ -9500,7 +10227,21 @@
       "image": "https://m.media-amazon.com/images/I/61uZqcci1OL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:37:15.898513+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 117.54,
+          "original_price": 369.9,
+          "discount_percent": 68,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 113.09,
+          "original_price": 369.9,
+          "discount_percent": 69,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "c870effed7ed",
@@ -9515,7 +10256,21 @@
       "image": "https://m.media-amazon.com/images/I/61PaV+8VGbL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:38:09.905770+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 121.19,
+          "original_price": 299.0,
+          "discount_percent": 59,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 116.92,
+          "original_price": 369.9,
+          "discount_percent": 68,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "d782edb08986",
@@ -9530,7 +10285,21 @@
       "image": "https://m.media-amazon.com/images/I/41kvGga7cBL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:38:43.223266+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 121.81,
+          "original_price": 174.41,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 117.63,
+          "original_price": 369.9,
+          "discount_percent": 68,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "f23330ac2d03",
@@ -9545,7 +10314,21 @@
       "image": "https://m.media-amazon.com/images/I/61JZqfGzLIL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:39:14.168790+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 123.49,
+          "original_price": 369.9,
+          "discount_percent": 66,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 121.6,
+          "original_price": 369.9,
+          "discount_percent": 67,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "70655593cc32",
@@ -9560,7 +10343,15 @@
       "image": "https://m.media-amazon.com/images/I/51f+sKLH3VL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:46:20.933554+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 61.78,
+          "original_price": 249.0,
+          "discount_percent": 75,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "f20a472efc24",
@@ -9575,7 +10366,21 @@
       "image": "https://m.media-amazon.com/images/I/61Ci6oBnjgL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:01:36.840597+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 251.39,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 257.68,
+          "original_price": 548.35,
+          "discount_percent": 53,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "8fe1b08d7fbd",
@@ -9590,7 +10395,15 @@
       "image": "https://m.media-amazon.com/images/I/81UBRlETfBL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:04:09.075018+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 340.62,
+          "original_price": 653.44,
+          "discount_percent": 47,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "c267afdbc74c",
@@ -9605,7 +10418,21 @@
       "image": "https://m.media-amazon.com/images/I/51hJ1yVymnL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:32:49.415951+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 93.12,
+          "original_price": 264.55,
+          "discount_percent": 64,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 86.77,
+          "original_price": 264.55,
+          "discount_percent": 67,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "46e672c0f1d1",
@@ -9620,7 +10447,21 @@
       "image": "https://m.media-amazon.com/images/I/51-1FlVgUXL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:35:19.686569+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 107.3,
+          "original_price": 269.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 96.64,
+          "original_price": 269.0,
+          "discount_percent": 64,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "2b29af5de9b1",
@@ -9635,7 +10476,21 @@
       "image": "https://m.media-amazon.com/images/I/517DudwsBwL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:37:26.495673+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 100.8,
+          "original_price": 269.0,
+          "discount_percent": 62,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 99.31,
+          "original_price": 269.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "d1a0bc8fc4e4",
@@ -9650,7 +10505,21 @@
       "image": "https://m.media-amazon.com/images/I/51Qp61i1xZL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:05:00.562545+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 303.05,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 301.02,
+          "original_price": 548.35,
+          "discount_percent": 45,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "2c2db4a3bb08",
@@ -9665,7 +10534,21 @@
       "image": "https://m.media-amazon.com/images/I/71ZtaYNdnJL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:45:26.591513+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.76,
+          "original_price": 150.97,
+          "discount_percent": 54,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 64.72,
+          "original_price": 187.65,
+          "discount_percent": 65,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "3d068fad3707",
@@ -9680,7 +10563,21 @@
       "image": "https://m.media-amazon.com/images/I/618Rd3bbPsL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:41:46.239468+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 54.22,
+          "original_price": 72.49,
+          "discount_percent": 25,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 51.24,
+          "original_price": 159.0,
+          "discount_percent": 67,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "fd77c3fdefa7",
@@ -9695,7 +10592,15 @@
       "image": "https://m.media-amazon.com/images/I/61RX2gn-fLL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:33:21.276384+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 90.38,
+          "original_price": 229.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "ff60b3a5c383",
@@ -9710,7 +10615,15 @@
       "image": "https://m.media-amazon.com/images/I/71gnnh5fvhL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:34:28.548902+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 90.67,
+          "original_price": 229.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "fc1edabb9f91",
@@ -9725,7 +10638,21 @@
       "image": "https://m.media-amazon.com/images/I/51nGu3aN7JL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:24:04.423043+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 87.98,
+          "original_price": 211.22,
+          "discount_percent": 58,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 83.65,
+          "original_price": 211.22,
+          "discount_percent": 60,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "c61dc232f248",
@@ -9740,7 +10667,15 @@
       "image": "https://m.media-amazon.com/images/I/71vXbvxHC0L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:44:14.899695+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 55.97,
+          "original_price": 159.0,
+          "discount_percent": 64,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "90226f3cc553",
@@ -9755,7 +10690,21 @@
       "image": "https://m.media-amazon.com/images/I/61ZlfQu+AlL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:07:00.189047+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 365.91,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 315.2,
+          "original_price": 548.35,
+          "discount_percent": 42,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "2a59f6dca842",
@@ -9770,7 +10719,21 @@
       "image": "https://m.media-amazon.com/images/I/71sb25zbxeL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:47:27.121224+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 77.84,
+          "original_price": 159.0,
+          "discount_percent": 51,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 73.06,
+          "original_price": 187.65,
+          "discount_percent": 61,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "485ed4eff7ce",
@@ -9785,7 +10748,21 @@
       "image": "https://m.media-amazon.com/images/I/81rGTwN+PFL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:32:07.789129+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 77.85,
+          "original_price": 199.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 78.66,
+          "original_price": 199.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "800926e899a0",
@@ -9800,7 +10777,21 @@
       "image": "https://m.media-amazon.com/images/I/61yElm035rL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:44:24.105209+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 58.91,
+          "original_price": 86.7,
+          "discount_percent": 32,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 57.66,
+          "original_price": 159.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "974f4956e4d9",
@@ -9815,7 +10806,21 @@
       "image": "https://m.media-amazon.com/images/I/61CtsO0-nFL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:41:27.311932+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.93,
+          "original_price": 70.25,
+          "discount_percent": 1,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 58.69,
+          "original_price": 159.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "92d3afc7c472",
@@ -9830,7 +10835,21 @@
       "image": "https://m.media-amazon.com/images/I/51HKztiQEkL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:31:48.212422+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 66.8,
+          "original_price": 169.99,
+          "discount_percent": 60,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 63.97,
+          "original_price": 169.99,
+          "discount_percent": 62,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "bb5e9f2749fa",
@@ -9845,7 +10864,15 @@
       "image": "https://m.media-amazon.com/images/I/71LJ8JJXB0L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:15:47.457904+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 199.99,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "bf146c335076",
@@ -9860,7 +10887,21 @@
       "image": "https://m.media-amazon.com/images/I/71pFeJFdJQL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:35:34.265697+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 94.51,
+          "original_price": 134.95,
+          "discount_percent": 29,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 98.2,
+          "original_price": 229.0,
+          "discount_percent": 57,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "3af6c097fb8d",
@@ -9875,7 +10916,21 @@
       "image": "https://m.media-amazon.com/images/I/71oVNkSwgaL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:45:08.253160+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 60.06,
+          "original_price": 159.0,
+          "discount_percent": 62,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 58.88,
+          "original_price": 159.0,
+          "discount_percent": 62,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "a657284c4cf6",
@@ -9890,7 +10945,15 @@
       "image": "https://m.media-amazon.com/images/I/61NofqDkK8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:41:36.262874+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 60.7,
+          "original_price": 159.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "17deb7f9be97",
@@ -9905,7 +10968,21 @@
       "image": "https://m.media-amazon.com/images/I/71sRaqpM8NL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:42:34.614274+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 64.48,
+          "original_price": 159.0,
+          "discount_percent": 59,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 62.89,
+          "original_price": 159.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "bd6588b3f7ce",
@@ -9920,7 +10997,21 @@
       "image": "https://m.media-amazon.com/images/I/61EDzD3o+SL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:47:54.593578+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 73.11,
+          "original_price": 349.95,
+          "discount_percent": 79,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 71.26,
+          "original_price": 169.99,
+          "discount_percent": 58,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "b51fb7837098",
@@ -9935,7 +11026,15 @@
       "image": "https://m.media-amazon.com/images/I/714ouNjfgBL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:43:48.996605+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 65.48,
+          "original_price": 159.0,
+          "discount_percent": 58,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "e3a1fe739299",
@@ -9950,7 +11049,21 @@
       "image": "https://m.media-amazon.com/images/I/51O3EM1eyLL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:41:53.473451+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 50.83,
+          "original_price": 97.0,
+          "discount_percent": 47,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 50.42,
+          "original_price": 129.0,
+          "discount_percent": 60,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "1f461a6d92b9",
@@ -9965,7 +11078,15 @@
       "image": "https://m.media-amazon.com/images/I/61pOZ7mAn2S._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:26:36.272195+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 83.99,
+          "original_price": 188.0,
+          "discount_percent": 55,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "d6e25a8d58f4",
@@ -9980,7 +11101,15 @@
       "image": "https://m.media-amazon.com/images/I/71mqaEv2KRL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:36:57.457979+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 107.84,
+          "original_price": 229.0,
+          "discount_percent": 52,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "0a72ed44e102",
@@ -9995,7 +11124,21 @@
       "image": "https://m.media-amazon.com/images/I/510Q08rxDpL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:33:31.047621+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 93.27,
+          "original_price": 122.0,
+          "discount_percent": 23,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 90.99,
+          "original_price": 199.0,
+          "discount_percent": 54,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "ce96849ecec3",
@@ -10010,7 +11153,15 @@
       "image": "https://m.media-amazon.com/images/I/61qDODtzXUL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:42:11.325430+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 52.08,
+          "original_price": 97.0,
+          "discount_percent": 46,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        }
+      ]
     },
     {
       "id": "d296a26f4d5d",
@@ -10025,7 +11176,21 @@
       "image": "https://m.media-amazon.com/images/I/51ISGYFYCEL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:02:37.715996+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 336.52,
+          "original_price": 520.59,
+          "discount_percent": 35,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 320.11,
+          "original_price": 520.59,
+          "discount_percent": 38,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "32202c986114",
@@ -10040,7 +11205,21 @@
       "image": "https://m.media-amazon.com/images/I/61M2aADRB4L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:44:58.267909+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.1,
+          "original_price": 159.0,
+          "discount_percent": 54,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 69.18,
+          "original_price": 159.0,
+          "discount_percent": 56,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "c55a69a0492d",
@@ -10055,7 +11234,21 @@
       "image": "https://m.media-amazon.com/images/I/51F-Ok9xuzL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:34:37.491299+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 90.94,
+          "original_price": 100.66,
+          "discount_percent": 9,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 92.13,
+          "original_price": 199.0,
+          "discount_percent": 53,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "e8808d299763",
@@ -10070,7 +11263,15 @@
       "image": "https://m.media-amazon.com/images/I/6135TGgu9mL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:33:58.803049+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 92.61,
+          "original_price": 100.66,
+          "discount_percent": 7,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "bf19b804e48e",
@@ -10085,7 +11286,15 @@
       "image": "https://m.media-amazon.com/images/I/51Oq78e1SxL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:32:16.354839+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 81.4,
+          "original_price": 179.0,
+          "discount_percent": 54,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "01dd43e5f53b",
@@ -10100,7 +11309,21 @@
       "image": "https://m.media-amazon.com/images/I/61n-VPAmQEL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:46:12.443376+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 75.1,
+          "original_price": 159.0,
+          "discount_percent": 52,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 72.44,
+          "original_price": 159.0,
+          "discount_percent": 54,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "31707d70c1e4",
@@ -10115,7 +11338,15 @@
       "image": "https://m.media-amazon.com/images/I/61PijFq-lqL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:35:02.874709+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 96.0,
+          "original_price": 100.0,
+          "discount_percent": 4,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "c60e20f3fb7c",
@@ -10130,7 +11361,21 @@
       "image": "https://m.media-amazon.com/images/I/51xSx2dJ4hL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:20:54.689315+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 102.46,
+          "original_price": 169.9,
+          "discount_percent": 39,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 82.19,
+          "original_price": 169.9,
+          "discount_percent": 51,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "8f7c51701427",
@@ -10145,7 +11390,21 @@
       "image": "https://m.media-amazon.com/images/I/61P0MNhfgGL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:33:13.359249+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 85.34,
+          "original_price": 128.6,
+          "discount_percent": 33,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 76.22,
+          "original_price": 158.39,
+          "discount_percent": 51,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "a93f0505581d",
@@ -10160,7 +11419,21 @@
       "image": "https://m.media-amazon.com/images/I/61BEVv5QVfL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:27:25.698890+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 106.25,
+          "original_price": 129.9,
+          "discount_percent": 18,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 103.1,
+          "original_price": 199.99,
+          "discount_percent": 48,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "5add08936bc6",
@@ -10175,7 +11448,21 @@
       "image": "https://m.media-amazon.com/images/I/51q7FojdicL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:47:19.430526+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 80.68,
+          "original_price": 130.63,
+          "discount_percent": 38,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 78.36,
+          "original_price": 159.0,
+          "discount_percent": 50,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "47cb5ffaf918",
@@ -10190,7 +11477,21 @@
       "image": "https://m.media-amazon.com/images/I/51hTNOwAeXL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:36:21.062094+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 97.82,
+          "original_price": 178.12,
+          "discount_percent": 45,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 92.15,
+          "original_price": 178.12,
+          "discount_percent": 48,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "6af45c1d8931",
@@ -10205,7 +11506,21 @@
       "image": "https://m.media-amazon.com/images/I/81VeJpRL0RL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:51:34.490462+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 53.83,
+          "original_price": 109.9,
+          "discount_percent": 51,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 52.32,
+          "original_price": 107.32,
+          "discount_percent": 51,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "5e5b129b4ae3",
@@ -10220,7 +11535,15 @@
       "image": "https://m.media-amazon.com/images/I/813VI-VoGML._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:37:51.822398+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 111.93,
+          "original_price": 199.0,
+          "discount_percent": 43,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "865eab63aca2",
@@ -10235,7 +11558,21 @@
       "image": "https://m.media-amazon.com/images/I/71pYrSBB9QL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:38:35.472546+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 108.09,
+          "original_price": 199.0,
+          "discount_percent": 45,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 112.73,
+          "original_price": 199.0,
+          "discount_percent": 43,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "b9f540707cd6",
@@ -10250,7 +11587,15 @@
       "image": "https://m.media-amazon.com/images/I/51lK-O2Jz9L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:47:35.744682+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 67.21,
+          "original_price": 129.0,
+          "discount_percent": 47,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "0038289355e1",
@@ -10265,7 +11610,21 @@
       "image": "https://m.media-amazon.com/images/I/615XkBpNvjL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:44:49.605681+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 68.35,
+          "original_price": 129.0,
+          "discount_percent": 47,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 67.32,
+          "original_price": 129.0,
+          "discount_percent": 47,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "f081f99f8529",
@@ -10280,7 +11639,21 @@
       "image": "https://m.media-amazon.com/images/I/71BR7ivLOAL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:38:50.323298+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 111.52,
+          "original_price": 147.0,
+          "discount_percent": 24,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 116.03,
+          "original_price": 199.0,
+          "discount_percent": 41,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "b0f260d2cd7f",
@@ -10295,7 +11668,15 @@
       "image": "https://m.media-amazon.com/images/I/51Tk9vKoxtL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:45:17.316412+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 70.14,
+          "original_price": 129.0,
+          "discount_percent": 45,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "296e894f58c3",
@@ -10310,7 +11691,21 @@
       "image": "https://m.media-amazon.com/images/I/71hwnfOscfL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:45:53.003572+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 71.52,
+          "original_price": 129.0,
+          "discount_percent": 44,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 70.53,
+          "original_price": 129.0,
+          "discount_percent": 45,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "f42e1559d05e",
@@ -10325,7 +11720,21 @@
       "image": "https://m.media-amazon.com/images/I/51ri74kzYnL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:53:21.665093+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 54.68,
+          "original_price": 99.99,
+          "discount_percent": 45,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 53.18,
+          "original_price": 98.99,
+          "discount_percent": 46,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "94819cd040a4",
@@ -10340,7 +11749,21 @@
       "image": "https://m.media-amazon.com/images/I/61Oh1+TgNmL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:09:50.549470+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 409.0,
+          "original_price": null,
+          "discount_percent": 0,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 396.12,
+          "original_price": 548.35,
+          "discount_percent": 27,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "45b5a4ae64cd",
@@ -10355,7 +11778,21 @@
       "image": "https://m.media-amazon.com/images/I/71Rz-TJgmsL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:33:41.505028+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 93.82,
+          "original_price": 189.0,
+          "discount_percent": 50,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 92.27,
+          "original_price": 159.0,
+          "discount_percent": 41,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "ed7dd0824438",
@@ -10370,7 +11807,15 @@
       "image": "https://m.media-amazon.com/images/I/515FE+S4yLL._AC_SX342_SY445_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:36:48.618573+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 92.66,
+          "original_price": 159.0,
+          "discount_percent": 41,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "b539c8386d19",
@@ -10385,7 +11830,21 @@
       "image": "https://m.media-amazon.com/images/I/71gSbhOufnL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:06:20.398897+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 384.13,
+          "original_price": 493.44,
+          "discount_percent": 22,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 357.26,
+          "original_price": 493.44,
+          "discount_percent": 27,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "4ad9b1f4728b",
@@ -10400,7 +11859,21 @@
       "image": "https://m.media-amazon.com/images/I/81i5i8g0CgL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:29:35.681617+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 102.63,
+          "original_price": 173.99,
+          "discount_percent": 41,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 106.67,
+          "original_price": 173.99,
+          "discount_percent": 38,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "cc37f80db2cf",
@@ -10415,7 +11888,21 @@
       "image": "https://m.media-amazon.com/images/I/61uoh1zI4rL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:46:44.258535+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 77.39,
+          "original_price": 80.61,
+          "discount_percent": 3,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 76.61,
+          "original_price": 129.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "0fff18feca0f",
@@ -10430,7 +11917,21 @@
       "image": "https://m.media-amazon.com/images/I/61BiRo3RhEL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:37:07.584494+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 109.25,
+          "original_price": 115.7,
+          "discount_percent": 5,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 113.05,
+          "original_price": 169.99,
+          "discount_percent": 33,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "8d959b4f8470",
@@ -10445,7 +11946,21 @@
       "image": "https://m.media-amazon.com/images/I/41RJzy2WZ3L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:13:10.484016+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 190.71,
+          "original_price": 281.49,
+          "discount_percent": 32,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 184.98,
+          "original_price": 259.99,
+          "discount_percent": 28,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "562424a67932",
@@ -10460,7 +11975,21 @@
       "image": "https://m.media-amazon.com/images/I/61ubC9EdkiL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:22:06.709873+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 97.54,
+          "original_price": 139.99,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 94.21,
+          "original_price": 134.99,
+          "discount_percent": 30,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "c7725626354a",
@@ -10475,7 +12004,15 @@
       "image": "https://m.media-amazon.com/images/I/512DqUbzPiL._AC_SX342_SY445_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:34:21.205238+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 90.25,
+          "original_price": 129.0,
+          "discount_percent": 30,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "b2a5ea533930",
@@ -10490,7 +12027,21 @@
       "image": "https://m.media-amazon.com/images/I/71Z5I+Ijg5L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:47:00.323428+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 78.3,
+          "original_price": 109.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 76.95,
+          "original_price": 109.0,
+          "discount_percent": 29,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "7e570bfe4c75",
@@ -10505,7 +12056,21 @@
       "image": "https://m.media-amazon.com/images/I/71D-yJdZlsL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:54:16.827033+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 83.97,
+          "discount_percent": 33,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 55.78,
+          "original_price": 79.99,
+          "discount_percent": 30,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     },
     {
       "id": "16a02db677af",
@@ -10520,7 +12085,15 @@
       "image": "https://m.media-amazon.com/images/I/61l0vUi2YUL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:37:59.959675+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 116.85,
+          "original_price": 123.0,
+          "discount_percent": 5,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        }
+      ]
     },
     {
       "id": "4408099c5909",
@@ -10535,7 +12108,21 @@
       "image": "https://m.media-amazon.com/images/I/51vO96KVqjS._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-01T07:22:55.055543+00:00",
       "approved_at": "01-03-2026 08:59",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 97.85,
+          "original_price": 129.99,
+          "discount_percent": 24,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 96.81,
+          "original_price": 129.85,
+          "discount_percent": 25,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        }
+      ]
     }
   ]
 }
