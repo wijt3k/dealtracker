@@ -26,22 +26,24 @@
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;900&display=swap" rel="stylesheet">
 
   <style>
-    :root{--bg:#0f172a;--card:#1e293b;--border:#334155;--primary:#FF6B35;--success:#22c55e;--red:#ef4444;--text:#e2e8f0;--muted:#94a3b8}
+    :root {
+      --bg:#0f172a; --card:#1e293b; --border:#334155;
+      --primary:#FF6B35; --success:#22c55e; --text:#e2e8f0; --muted:#94a3b8;
+      --verified:#0ea5e9;
+    }
     *{box-sizing:border-box;margin:0;padding:0}
     body{background:var(--bg);color:var(--text);font-family:'Outfit',sans-serif;min-height:100vh}
     a{color:inherit;text-decoration:none}
 
-    /* NAV */
+    /* ── NAV ── */
     nav{background:rgba(15,23,42,.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:.85rem 1.5rem;display:flex;align-items:center;gap:1rem;position:sticky;top:0;z-index:50}
     .nav-logo{background:var(--primary);color:#fff;border-radius:8px;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:1.1rem;flex-shrink:0}
     .nav-brand{font-weight:700;font-size:1.05rem}
     nav .spacer{flex:1}
     .nav-link{color:var(--muted);font-size:.9rem;padding:.3rem .7rem;border-radius:6px;transition:color .2s}
-    .nav-link:hover{color:var(--text)}
-    .nav-link.active{color:var(--primary)}
-    .nav-cta{background:var(--primary);color:#fff;padding:.4rem 1rem;border-radius:8px;font-weight:600;font-size:.9rem;transition:opacity .2s}
-    .nav-cta:hover{opacity:.85}
-    /* hamburger */
+    .nav-link:hover,.nav-link.active{color:var(--text)}
+    .nav-link.active{font-weight:600}
+    .nav-cta{background:var(--primary);color:#fff;padding:.4rem 1rem;border-radius:8px;font-weight:600;font-size:.9rem}
     .nav-hamburger{display:none;background:none;border:none;cursor:pointer;padding:.3rem;color:var(--text);flex-direction:column;gap:5px}
     .nav-hamburger span{display:block;width:22px;height:2px;background:currentColor;border-radius:2px;transition:all .25s}
     .nav-hamburger.open span:nth-child(1){transform:translateY(7px) rotate(45deg)}
@@ -49,83 +51,85 @@
     .nav-hamburger.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
     .nav-mobile-menu{display:none;position:fixed;top:57px;left:0;right:0;background:rgba(15,23,42,.98);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:1rem 1.5rem;flex-direction:column;gap:.5rem;z-index:49}
     .nav-mobile-menu.open{display:flex}
-    .nav-mobile-menu a{padding:.65rem .75rem;border-radius:8px;font-size:.95rem;font-weight:600;color:var(--text);border:1px solid transparent;transition:all .15s}
+    .nav-mobile-menu a{padding:.65rem .75rem;border-radius:8px;font-size:.95rem;font-weight:600;color:var(--text);border:1px solid transparent}
     .nav-mobile-menu a:hover{border-color:var(--border);background:var(--card)}
 
-    /* HEADER BAR */
-    .page-header{padding:1.5rem 1.5rem .75rem;max-width:1400px;margin:0 auto}
-    .page-header h1{font-size:1.5rem;font-weight:800;margin-bottom:.25rem}
-    .page-header p{color:var(--muted);font-size:.9rem}
-
-    /* FILTERS */
+    /* ── FILTER BAR ── */
     .filter-bar{background:var(--card);border-bottom:1px solid var(--border);padding:.75rem 1.5rem;display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;position:sticky;top:57px;z-index:40}
-    .search-wrap{flex:1;min-width:200px;max-width:360px;position:relative}
+    .search-wrap{flex:1;min-width:180px;max-width:300px;position:relative}
     .search-wrap input{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.45rem .75rem .45rem 2rem;color:var(--text);font-size:.875rem;font-family:inherit}
     .search-wrap::before{content:'🔍';position:absolute;left:.6rem;top:50%;transform:translateY(-50%);font-size:.8rem;pointer-events:none}
     .filter-select{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:.45rem .75rem;color:var(--text);font-size:.875rem;font-family:inherit;cursor:pointer}
     .cat-pills{display:flex;gap:.4rem;flex-wrap:wrap}
-    .pill{background:var(--bg);border:1px solid var(--border);color:var(--text);border-radius:999px;padding:.25rem .75rem;font-size:.8rem;font-weight:600;cursor:pointer;transition:all .15s;white-space:nowrap}
+    .pill{background:var(--bg);border:1px solid var(--border);color:var(--muted);border-radius:999px;padding:.25rem .75rem;font-size:.8rem;font-weight:600;cursor:pointer;transition:all .15s;white-space:nowrap}
     .pill.active{background:var(--primary);border-color:var(--primary);color:#fff}
     .pill:hover:not(.active){border-color:var(--primary);color:var(--primary)}
     .count-badge{color:var(--muted);font-size:.8rem;white-space:nowrap;margin-left:auto}
 
-    /* GRID */
-    .deals-wrap{max-width:1400px;margin:0 auto;padding:1rem 1.5rem}
-    .deals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem}
+    /* ── GRID ── */
+    .deals-wrap{max-width:1400px;margin:0 auto;padding:1.25rem 1.5rem}
+    .page-header{padding:1.25rem 1.5rem .5rem;max-width:1400px;margin:0 auto}
+    .page-header h1{font-size:1.4rem;font-weight:800}
+    .page-header p{color:var(--muted);font-size:.875rem;margin-top:.2rem}
+    .deals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:1rem}
 
-    /* DEAL CARD */
-    .deal-card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;cursor:pointer;transition:border-color .2s,transform .15s;display:flex;flex-direction:column;position:relative}
+    /* ── DEAL CARD ── */
+    .deal-card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;cursor:pointer;transition:border-color .2s,transform .15s;display:flex;flex-direction:column}
     .deal-card:hover{border-color:var(--primary);transform:translateY(-2px)}
-    .hot-bar{position:absolute;bottom:0;left:0;height:2px;background:linear-gradient(90deg,var(--primary),#F7B801);border-radius:0}
-    .deal-img-wrap{height:130px;background:#0a1120;display:flex;align-items:center;justify-content:center;overflow:hidden;padding:.5rem}
-    .deal-img-wrap img{max-width:100%;max-height:100%;object-fit:contain}
-    .deal-img-placeholder{font-size:2.5rem}
-    .badge-row{display:flex;gap:.4rem;padding:.6rem .8rem 0;flex-wrap:wrap}
-    .badge{border-radius:4px;padding:.1rem .45rem;font-size:.7rem;font-weight:700}
-    .badge-hot{background:var(--primary);color:#fff}
-    .badge-deal{background:#0284c7;color:#fff}
-    .badge-cat{background:var(--border);color:var(--muted)}
-    .badge-top{background:rgba(247,184,1,.2);color:#F7B801}
-    .badge-new{background:#22c55e;color:#fff;animation:pulse-new 2s ease-in-out infinite}
-    @keyframes pulse-new{0%,100%{opacity:1}50%{opacity:.7}}
-    .deal-body{padding:.75rem .8rem;flex:1;display:flex;flex-direction:column;gap:.35rem}
-    .deal-source{font-size:.68rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+    .deal-card.verified{border-color:rgba(14,165,233,.35)}
+    .deal-card.verified:hover{border-color:var(--verified)}
+
+    /* image */
+    .deal-img{height:150px;background:#0a1120;display:flex;align-items:center;justify-content:center;overflow:hidden;padding:.75rem;position:relative}
+    .deal-img img{max-width:100%;max-height:100%;object-fit:contain}
+    .deal-img-placeholder{font-size:2.8rem;opacity:.4}
+
+    /* single badge — top-left of image */
+    .deal-badge{position:absolute;top:.5rem;left:.5rem;border-radius:5px;padding:.15rem .5rem;font-size:.7rem;font-weight:700;line-height:1.4}
+    .badge-nieuw{background:var(--success);color:#fff}
+    .badge-disc{background:var(--primary);color:#fff}
+    .badge-outlet{background:rgba(148,163,184,.18);color:var(--muted);border:1px solid rgba(148,163,184,.3)}
+    .badge-verified{background:rgba(14,165,233,.15);color:var(--verified);border:1px solid rgba(14,165,233,.35)}
+
+    /* body */
+    .deal-body{padding:.7rem .85rem;flex:1;display:flex;flex-direction:column;gap:.3rem}
+    .deal-source{font-size:.67rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
     .deal-title{font-size:.875rem;font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-    .deal-meta{font-size:.72rem;color:var(--muted);display:flex;gap:.5rem;flex-wrap:wrap}
-    .deal-price-col{padding:.5rem .8rem .8rem;display:flex;flex-direction:column;gap:.3rem;border-top:1px solid rgba(51,65,85,.5)}
-    .price-now{font-size:1.2rem;font-weight:900}
-    .price-was{font-size:.8rem;color:var(--muted);text-decoration:line-through}
-    .discount-badge{background:var(--success);color:#fff;border-radius:4px;padding:.1rem .4rem;font-size:.75rem;font-weight:700;display:inline-block}
-    .view-btn{background:var(--primary);color:#fff;border:none;padding:.5rem .9rem;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;font-size:.875rem;transition:opacity .2s;align-self:flex-start;margin-top:.2rem}
+    .deal-condition{font-size:.72rem;color:var(--muted);display:flex;align-items:center;gap:.3rem}
+
+    /* price section */
+    .deal-price{padding:.6rem .85rem .85rem;border-top:1px solid rgba(51,65,85,.5);display:flex;flex-direction:column;gap:.4rem}
+    .price-row{display:flex;align-items:baseline;gap:.5rem;flex-wrap:wrap}
+    .price-now{font-size:1.25rem;font-weight:900}
+    .price-orig{font-size:.8rem;color:var(--muted);text-decoration:line-through}
+    .saving-badge{background:rgba(34,197,94,.15);color:var(--success);border:1px solid rgba(34,197,94,.3);border-radius:5px;padding:.1rem .4rem;font-size:.75rem;font-weight:700}
+    .no-orig-label{font-size:.72rem;color:var(--muted);font-style:italic}
+    .view-btn{background:var(--primary);color:#fff;border:none;padding:.5rem .9rem;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;font-size:.875rem;align-self:flex-start;margin-top:.15rem}
     .view-btn:hover{opacity:.85}
 
-    /* Sparkline */
-    .sparkline-wrap{display:flex;flex-direction:column;align-items:flex-start;gap:2px;margin-top:.2rem}
-    .sparkline-label{font-size:.62rem;color:var(--muted)}
+    /* verified strip */
+    .verified-strip{height:2px;background:linear-gradient(90deg,var(--verified),#38bdf8)}
 
-    /* PAGINATION */
+    /* ── PAGINATION ── */
     .pagination{display:flex;align-items:center;justify-content:center;gap:.5rem;padding:2rem 1.5rem;flex-wrap:wrap}
-    .page-btn{background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:8px;padding:.45rem .85rem;font-size:.875rem;font-weight:600;cursor:pointer;font-family:inherit;transition:all .15s}
+    .page-btn{background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:8px;padding:.45rem .85rem;font-size:.875rem;font-weight:600;cursor:pointer;font-family:inherit}
     .page-btn:hover:not(:disabled){border-color:var(--primary);color:var(--primary)}
     .page-btn.active{background:var(--primary);border-color:var(--primary);color:#fff}
     .page-btn:disabled{opacity:.35;cursor:default}
     .page-info{color:var(--muted);font-size:.85rem}
 
-    /* EMPTY */
-    .empty-state{text-align:center;padding:5rem 2rem;color:var(--muted)}
+    /* ── EMPTY / SKELETON ── */
+    .empty-state{text-align:center;padding:5rem 2rem;color:var(--muted);grid-column:1/-1}
     .empty-state h2{font-size:1.5rem;margin-bottom:.5rem;color:var(--text)}
-
-    /* LOADING */
     .loading-card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden}
     .skel{background:linear-gradient(90deg,var(--card) 25%,#273348 50%,var(--card) 75%);background-size:200% 100%;animation:sh 1.5s infinite;border-radius:6px}
     @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
 
     @media(max-width:640px){
       .filter-bar{top:52px;padding:.6rem 1rem}
-      .deals-wrap{padding:.75rem 1rem}
+      .deals-wrap,.page-header{padding:.75rem 1rem}
       .deals-grid{grid-template-columns:1fr}
-      nav .nav-link{display:none}
-      nav .nav-cta{display:none}
+      nav .nav-link,.nav-cta{display:none}
       .nav-hamburger{display:flex}
       .cat-pills{overflow-x:auto;flex-wrap:nowrap;padding-bottom:4px}
     }
@@ -134,7 +138,7 @@
 <body>
 
 <nav>
-  <a href="./" style="display:flex;align-items:center;gap:.6rem;text-decoration:none">
+  <a href="./" style="display:flex;align-items:center;gap:.6rem">
     <div class="nav-logo">D</div>
     <span class="nav-brand">DealTracker</span>
   </a>
@@ -157,6 +161,7 @@
   <a href="./gaming.html">🎮 Gaming</a>
   <a href="./tv.html">📺 TV's</a>
   <a href="./huishouden.html">🏠 Huishouden</a>
+  <a href="./wearables.html">⌚ Wearables</a>
   <a href="./">🏠 Home</a>
 </div>
 
@@ -171,11 +176,18 @@
   </div>
 
   <select class="filter-select" id="sort-select" onchange="applyFilters()">
-    <option value="score">⭐ Beste deal</option>
-    <option value="korting">💸 Meeste korting</option>
-    <option value="prijs-laag">💶 Prijs ↑</option>
-    <option value="prijs-hoog">💶 Prijs ↓</option>
-    <option value="nieuw">🕒 Nieuwste</option>
+    <option value="besparing">💶 Grootste besparing</option>
+    <option value="korting">💸 Meeste korting %</option>
+    <option value="prijs-laag">↑ Prijs laag→hoog</option>
+    <option value="prijs-hoog">↓ Prijs hoog→laag</option>
+    <option value="nieuw">🕒 Nieuwste eerst</option>
+  </select>
+
+  <select class="filter-select" id="min-korting-select" onchange="applyFilters()">
+    <option value="0">Alle kortingen</option>
+    <option value="20">≥ 20% korting</option>
+    <option value="30">≥ 30% korting</option>
+    <option value="40">≥ 40% korting</option>
   </select>
 
   <select class="filter-select" id="max-prijs-select" onchange="applyFilters()">
@@ -187,9 +199,7 @@
     <option value="1000">Tot €1.000</option>
   </select>
 
-  <div class="cat-pills" id="cat-pills">
-    <!-- filled by JS -->
-  </div>
+  <div class="cat-pills" id="cat-pills"></div>
 
   <span class="count-badge" id="count-badge">— deals</span>
 </div>
@@ -197,106 +207,101 @@
 <div class="deals-wrap">
   <div class="deals-grid" id="deals-grid">
     <!-- skeleton loaders -->
-    ${Array.from({length:12}).map(()=>`
-    <div class="loading-card">
-      <div class="skel" style="height:130px;border-radius:0"></div>
-      <div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem">
-        <div class="skel" style="height:12px;width:60%"></div>
-        <div class="skel" style="height:14px"></div>
-        <div class="skel" style="height:12px;width:80%"></div>
-      </div>
-    </div>`).join('')}
   </div>
   <div class="pagination" id="pagination"></div>
 </div>
 
 <script>
-// ── CONFIG ──────────────────────────────────────────────────────────────
-const DEALS_PER_PAGE = 48;
+// ── CONFIG ───────────────────────────────────────────────────────────────
+const DEALS_PER_PAGE = 24;
 const CATEGORIES = [
-  { slug: 'all',         icon: '🔍', name: 'Alles'       },
-  { slug: 'laptops',     icon: '💻', name: 'Laptops'     },
-  { slug: 'smartphones', icon: '📱', name: 'Smartphones' },
-  { slug: 'audio',       icon: '🎧', name: 'Audio'       },
-  { slug: 'gaming',      icon: '🎮', name: 'Gaming'      },
-  { slug: 'tv',          icon: '📺', name: "TV's"        },
-  { slug: 'tablets',     icon: '📟', name: 'Tablets'     },
-  { slug: 'wearables',   icon: '⌚', name: 'Wearables'   },
-  { slug: 'camera',      icon: '📷', name: "Camera's"    },
-  { slug: 'huishouden',  icon: '🏠', name: 'Huishouden'  },
-  { slug: 'elektronica', icon: '⚡', name: 'Elektronica' },
+  { slug:'all',         icon:'🔍', name:'Alles'       },
+  { slug:'laptops',     icon:'💻', name:'Laptops'     },
+  { slug:'smartphones', icon:'📱', name:'Smartphones' },
+  { slug:'audio',       icon:'🎧', name:'Audio'       },
+  { slug:'gaming',      icon:'🎮', name:'Gaming'      },
+  { slug:'tv',          icon:'📺', name:"TV's"        },
+  { slug:'tablets',     icon:'📟', name:'Tablets'     },
+  { slug:'wearables',   icon:'⌚', name:'Wearables'   },
+  { slug:'camera',      icon:'📷', name:"Camera's"    },
+  { slug:'huishouden',  icon:'🏠', name:'Huishouden'  },
 ];
-const CAT_META = {
-  laptops:     { title: 'Laptop Deals',      desc: 'De beste laptopdeals van retour- en outletwinkels. Bespaar tot 50% op refurbished en retour laptops.' },
-  smartphones: { title: 'Smartphone Deals',  desc: 'Retour en outlet smartphones met forse kortingen. iPhone, Samsung en meer.' },
-  audio:       { title: 'Audio Deals',       desc: 'Koptelefoons, speakers en soundbars met korting. Retour en outletdeals van topmerken.' },
-  gaming:      { title: 'Gaming Deals',      desc: 'Gaming-deals: controllers, headsets, laptops en meer. Retour en outlet tegen lage prijzen.' },
-  tv:          { title: "TV & Monitor Deals",desc: "Televisies en monitoren met forse kortingen. Retour en outletdeals op grote schermen." },
-  tablets:     { title: 'Tablet Deals',      desc: 'Retour en outlet tablets met korting. iPad, Samsung Galaxy Tab en meer.' },
-  wearables:   { title: 'Wearables Deals',   desc: 'Smartwatches en fitnesstrackers met korting. Retour en outletdeals.' },
-  camera:      { title: "Camera Deals",      desc: "Retour en outlet camera's en fotoapparatuur met korting." },
-  huishouden:  { title: 'Huishouden Deals',  desc: 'Huishoudelijke apparaten met korting. Retour en outletdeals.' },
-  elektronica: { title: 'Elektronica Deals', desc: 'Alle elektronica retour- en outletdeals. Dagelijks bijgewerkt.' },
-};
+
+const ICON = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'📺',tablets:'📟',wearables:'⌚',camera:'📷',huishouden:'🏠'};
 
 // ── STATE ────────────────────────────────────────────────────────────────
-let allDeals      = [];
-let filteredDeals = [];
-let currentPage   = 1;
-let activeCategory = 'all';
-let searchQuery   = '';
-let localClicks   = {};
-let localViews    = {};
+let allDeals=[], filteredDeals=[], currentPage=1;
+let activeCategory='all', searchQuery='';
 
-// ── INIT from URL params ─────────────────────────────────────────────────
-const params = new URLSearchParams(location.search);
-const urlCat = params.get('categorie') || 'all';
-const urlQ   = params.get('q') || '';
-const urlPag = parseInt(params.get('pagina') || '1', 10);
+const params  = new URLSearchParams(location.search);
+const urlCat  = params.get('categorie') || 'all';
+const urlQ    = params.get('q') || '';
+const urlPag  = parseInt(params.get('pagina') || '1', 10);
 
 // ── FETCH ────────────────────────────────────────────────────────────────
 async function boot() {
-  localClicks = JSON.parse(localStorage.getItem('dealtracker_clicks') || '{}');
-  localViews  = JSON.parse(localStorage.getItem('dealtracker_views')  || '{}');
-
+  renderSkeletons();
   try {
     const res  = await fetch('deals.json?t=' + Date.now());
     const data = await res.json();
-    allDeals   = data.deals || [];
+    allDeals   = (data.deals || []).filter(d => d.price > 0);
   } catch(e) {
     document.getElementById('page-sub').textContent = 'Deals laden mislukt.';
-    console.warn(e);
+    return;
   }
-
-  // Apply URL state
   activeCategory = urlCat;
   searchQuery    = urlQ;
   if (urlQ) document.getElementById('search-input').value = urlQ;
   currentPage = isNaN(urlPag) ? 1 : urlPag;
-
   buildCatPills();
   applyFilters();
   updatePageMeta();
+}
+
+function renderSkeletons() {
+  document.getElementById('deals-grid').innerHTML = Array.from({length:8}).map(() => `
+    <div class="loading-card">
+      <div class="skel" style="height:150px;border-radius:0"></div>
+      <div style="padding:.7rem .85rem;display:flex;flex-direction:column;gap:.5rem">
+        <div class="skel" style="height:11px;width:55%"></div>
+        <div class="skel" style="height:14px"></div>
+        <div class="skel" style="height:11px;width:70%"></div>
+      </div>
+    </div>`).join('');
 }
 
 // ── CATEGORY PILLS ───────────────────────────────────────────────────────
 function buildCatPills() {
   const counts = {};
-  allDeals.forEach(d => { const c = d.category || 'elektronica'; counts[c] = (counts[c]||0)+1; });
+  allDeals.forEach(d => {
+    const c = d.category || 'elektronica';
+    if (c !== 'elektronica') counts[c] = (counts[c]||0)+1;
+  });
   const total = allDeals.length;
-  document.getElementById('cat-pills').innerHTML = CATEGORIES.map(c => {
-    const n = c.slug === 'all' ? total : (counts[c.slug] || 0);
-    return `<button class="pill${activeCategory===c.slug?' active':''}" onclick="setCategory('${c.slug}')">${c.icon} ${c.name} <span style="opacity:.6;font-weight:400">${n}</span></button>`;
+
+  // Alleen categorieën met deals + elektronica samenvoegen in "Overig"
+  const pills = CATEGORIES.filter(c => c.slug === 'all' || (counts[c.slug]||0) > 0);
+  const overig = (counts['elektronica'] || 0) + Object.entries(counts)
+    .filter(([k]) => !CATEGORIES.find(c => c.slug === k))
+    .reduce((s,[,v]) => s+v, 0);
+
+  let html = pills.map(c => {
+    const n = c.slug === 'all' ? total : (counts[c.slug]||0);
+    return `<button class="pill${activeCategory===c.slug?' active':''}" onclick="setCategory('${c.slug}')">
+      ${c.icon} ${c.name} <span style="opacity:.55;font-weight:400">${n}</span>
+    </button>`;
   }).join('');
+  if (overig > 0) {
+    html += `<button class="pill${activeCategory==='elektronica'?' active':''}" onclick="setCategory('elektronica')">
+      ⚡ Overig <span style="opacity:.55;font-weight:400">${overig}</span>
+    </button>`;
+  }
+  document.getElementById('cat-pills').innerHTML = html;
 }
 
 function setCategory(slug) {
-  activeCategory = slug;
-  currentPage = 1;
-  buildCatPills();
-  applyFilters();
-  updatePageMeta();
-  pushURLState();
+  activeCategory = slug; currentPage = 1;
+  buildCatPills(); applyFilters(); updatePageMeta(); pushURLState();
 }
 
 // ── SEARCH ───────────────────────────────────────────────────────────────
@@ -305,35 +310,47 @@ function onSearch() {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(() => {
     searchQuery = document.getElementById('search-input').value.trim().toLowerCase();
-    currentPage = 1;
-    applyFilters();
-    pushURLState();
+    currentPage = 1; applyFilters(); pushURLState();
   }, 250);
 }
 
-// ── FILTER + SORT ────────────────────────────────────────────────────────
+// ── SCORE ────────────────────────────────────────────────────────────────
+// Prioriteit: absolute besparing in euro's, daarna kortingspercentage
 function dealScore(d) {
-  const k = d.discount_percent || 0;
-  const sav = (d.original_price && d.price) ? Math.min(d.original_price - d.price, 400) : 0;
-  return k * 0.6 + (sav / 400) * 40;
+  const k    = d.discount_percent || 0;
+  const orig = d.original_price   || 0;
+  const prijs= d.price            || 0;
+  const besparing = orig > 0 ? Math.min(orig - prijs, 1000) : 0;
+  const verified  = d.tweakers_price ? 20 : 0;
+  return besparing * 0.7 + k * 0.5 + verified;
 }
 
+// ── FILTER + SORT ────────────────────────────────────────────────────────
 function applyFilters() {
-  const maxPrijs = parseFloat(document.getElementById('max-prijs-select').value) || 9999;
-  const sort     = document.getElementById('sort-select').value;
+  const maxPrijs    = parseFloat(document.getElementById('max-prijs-select').value) || 9999;
+  const minKorting  = parseInt(document.getElementById('min-korting-select').value) || 0;
+  const sort        = document.getElementById('sort-select').value;
 
   let deals = allDeals.filter(d => {
-    if (activeCategory !== 'all' && (d.category || 'elektronica') !== activeCategory) return false;
-    if ((d.price || 0) > maxPrijs) return false;
+    const cat = d.category || 'elektronica';
+    if (activeCategory !== 'all') {
+      // 'elektronica' pill toont ook onbekende categorieën
+      if (activeCategory === 'elektronica') {
+        if (CATEGORIES.find(c => c.slug !== 'all' && c.slug !== 'elektronica' && c.slug === cat)) return false;
+      } else if (cat !== activeCategory) return false;
+    }
+    if ((d.price||0) > maxPrijs) return false;
+    // Minimum korting: alleen filteren als deal een kortingspercentage heeft
+    if (minKorting > 0 && (d.discount_percent||0) < minKorting) return false;
     if (searchQuery) {
-      const hay = ((d.title || '') + ' ' + (d.source || '') + ' ' + (d.category || '')).toLowerCase();
+      const hay = ((d.title||'')+' '+(d.source||'')+' '+(d.category||'')).toLowerCase();
       if (!hay.includes(searchQuery)) return false;
     }
     return true;
   });
 
-  switch (sort) {
-    case 'score':      deals.sort((a,b) => dealScore(b) - dealScore(a)); break;
+  switch(sort) {
+    case 'besparing':  deals.sort((a,b) => dealScore(b) - dealScore(a)); break;
     case 'korting':    deals.sort((a,b) => (b.discount_percent||0) - (a.discount_percent||0)); break;
     case 'prijs-laag': deals.sort((a,b) => (a.price||0) - (b.price||0)); break;
     case 'prijs-hoog': deals.sort((a,b) => (b.price||0) - (a.price||0)); break;
@@ -341,110 +358,92 @@ function applyFilters() {
   }
 
   filteredDeals = deals;
-  // Clamp page
-  const totalPages = Math.ceil(filteredDeals.length / DEALS_PER_PAGE) || 1;
-  if (currentPage > totalPages) currentPage = totalPages;
+  const total = Math.ceil(filteredDeals.length / DEALS_PER_PAGE) || 1;
+  if (currentPage > total) currentPage = total;
 
   document.getElementById('count-badge').textContent = filteredDeals.length + ' deals';
   renderPage();
   renderPagination();
+  updatePageMeta();
 }
 
-// ── RENDER PAGE ──────────────────────────────────────────────────────────
+// ── RENDER ───────────────────────────────────────────────────────────────
 function renderPage() {
-  const start = (currentPage - 1) * DEALS_PER_PAGE;
-  const page  = filteredDeals.slice(start, start + DEALS_PER_PAGE);
+  const start = (currentPage-1)*DEALS_PER_PAGE;
+  const page  = filteredDeals.slice(start, start+DEALS_PER_PAGE);
   const grid  = document.getElementById('deals-grid');
 
-  if (page.length === 0) {
-    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1">
+  if (!page.length) {
+    grid.innerHTML = `<div class="empty-state">
       <h2>Geen deals gevonden</h2>
       <p>Pas de filters aan of zoek op een andere term.</p>
     </div>`;
     return;
   }
-
-  grid.innerHTML = page.map(deal => renderCard(deal)).join('');
-  grid.querySelectorAll('img').forEach(img => {
-    img.addEventListener('error', () => img.style.display = 'none');
-  });
+  grid.innerHTML = page.map(renderCard).join('');
+  grid.querySelectorAll('img').forEach(img => img.addEventListener('error', () => img.style.display='none'));
 }
 
 function renderCard(d) {
-  const disc      = d.discount_percent || 0;
-  const isHot     = disc >= 40 || (localViews[d.id] || 0) > 5;
-  const isTopPick = dealScore(d) >= 50;
-  const icon      = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'📺',tablets:'📟',wearables:'⌚',camera:'📷',huishouden:'🏠'}[d.category] || '⚡';
-  const safeUrl   = encodeURIComponent(d.url || '#');
-  const safeTitle = (d.title || '').replace(/"/g,'&quot;');
+  const disc     = d.discount_percent || 0;
+  const hasOrig  = !!(d.original_price && d.original_price > d.price);
+  const isVerif  = !!(d.tweakers_price && d.tweakers_price > d.price);
+  const isOutlet = !!(d.condition && !hasOrig);
+  const icon     = ICON[d.category] || '⚡';
+  const safeUrl  = encodeURIComponent(d.url || '#');
+  const safeTitle= (d.title||'').replace(/"/g,'&quot;');
 
-  // freshness
-  let freshLabel = '';
+  // Één badge: NIEUW > verified > korting% > outlet
   let isNew = false;
+  let badgeHtml = '';
   try {
     const diff = (Date.now() - new Date(d.found_at).getTime()) / 3600000;
-    if (diff < 6)  { isNew = true; freshLabel = ''; }
-    else if (diff < 24) freshLabel = '🟡 Recent';
-    else            freshLabel = `🕒 ${Math.round(diff)}u`;
-  } catch {}
+    if (diff < 24) isNew = true;
+  } catch{}
+
+  if (isNew) {
+    badgeHtml = `<span class="deal-badge badge-nieuw">✦ NIEUW</span>`;
+  } else if (isVerif) {
+    badgeHtml = `<span class="deal-badge badge-verified">✓ Geverifieerd</span>`;
+  } else if (disc >= 20 && hasOrig) {
+    badgeHtml = `<span class="deal-badge badge-disc">−${disc}%</span>`;
+  } else if (isOutlet) {
+    badgeHtml = `<span class="deal-badge badge-outlet">Outlet</span>`;
+  }
+
+  // Prijs-sectie
+  const besparing = hasOrig ? (d.original_price - d.price) : 0;
+  let prijsHtml = `<div class="price-row">
+    <span class="price-now">€${d.price.toFixed(2)}</span>`;
+  if (hasOrig) {
+    prijsHtml += `<span class="price-orig">€${d.original_price.toFixed(0)}</span>`;
+    if (besparing >= 5) {
+      prijsHtml += `<span class="saving-badge">−€${besparing.toFixed(0)}</span>`;
+    }
+  } else {
+    prijsHtml += `<span class="no-orig-label">outlet / retourprijs</span>`;
+  }
+  prijsHtml += `</div>`;
+
+  // Conditie tonen als het iets toevoegt (niet "Outlet" als de badge al Outlet is)
+  const condLabel = d.condition && !(isOutlet && disc === 0) ? `<div class="deal-condition">${d.condition}</div>` : '';
 
   return `
-  <div class="deal-card" onclick="cardClick('${d.id}', '${safeUrl}')">
-    <div class="deal-img-wrap">
+  <div class="deal-card${isVerif?' verified':''}" onclick="cardClick('${d.id}','${safeUrl}')">
+    <div class="deal-img">
       ${d.image ? `<img src="${d.image}" alt="${safeTitle}" loading="lazy">` : `<div class="deal-img-placeholder">${icon}</div>`}
-    </div>
-    <div class="badge-row">
-      ${isNew ? '<span class="badge badge-new">✦ NIEUW</span>' : ''}
-      ${isHot ? '<span class="badge badge-hot">HOT</span>' : disc>=20 ? '<span class="badge badge-deal">DEAL</span>' : ''}
-      ${isTopPick ? '<span class="badge badge-top">✨ TOP</span>' : ''}
-      ${d.category ? `<span class="badge badge-cat">${d.category}</span>` : ''}
+      ${badgeHtml}
     </div>
     <div class="deal-body">
-      <div class="deal-source">${d.source || ''}</div>
-      <div class="deal-title">${d.title || ''}</div>
-      <div class="deal-meta">
-        ${d.condition ? `<span>${d.condition}</span>` : ''}
-        ${freshLabel ? `<span>${freshLabel}</span>` : ''}
-        ${(localClicks[d.id]||0) > 0 ? `<span>🔥 ${localClicks[d.id]} clicks</span>` : ''}
-      </div>
+      <div class="deal-source">${d.source||''}</div>
+      <div class="deal-title">${d.title||''}</div>
+      ${condLabel}
     </div>
-    <div class="deal-price-col">
-      <div style="display:flex;align-items:baseline;gap:.5rem;flex-wrap:wrap">
-        <span class="price-now">€${(d.price||0).toFixed(2)}</span>
-        ${d.original_price ? `<span class="price-was">€${d.original_price.toFixed(0)}</span>` : ''}
-        ${disc > 0 ? `<span class="discount-badge">-${disc}%</span>` : ''}
-      </div>
-      ${renderSparkline(d.price_history)}
-      <button class="view-btn" onclick="event.stopPropagation(); viewDeal('${d.id}', '${safeUrl}')">Bekijk →</button>
+    <div class="deal-price">
+      ${prijsHtml}
+      <button class="view-btn" onclick="event.stopPropagation();viewDeal('${d.id}','${safeUrl}')">Bekijk deal →</button>
     </div>
-    ${isHot ? `<div class="hot-bar" style="width:${Math.min((localViews[d.id]||1)*15,100)}%"></div>` : ''}
-  </div>`;
-}
-
-function renderSparkline(hist) {
-  if (!hist || hist.length < 2) return '';
-  const W=80, H=28, P=3;
-  const prices = hist.map(h => h.price);
-  const mn = Math.min(...prices), mx = Math.max(...prices), rng = mx - mn || 1;
-  const pts = prices.map((p,i) => {
-    const x = P + (i/(prices.length-1))*(W-P*2);
-    const y = P + (1-(p-mn)/rng)*(H-P*2);
-    return [x, y];
-  });
-  const polyline = pts.map(([x,y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(' ');
-  const color = prices[prices.length-1] < prices[0]-0.01 ? '#22c55e'
-              : prices[prices.length-1] > prices[0]+0.01 ? '#ef4444'
-              : '#94a3b8';
-  const [lx, ly] = pts[pts.length-1];
-  const label = prices[prices.length-1] < Math.min(...prices.slice(0,-1)) - 0.01
-    ? '↘ laagste prijs ooit'
-    : `${prices.length}× gezien`;
-  return `<div class="sparkline-wrap">
-    <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
-      <polyline points="${polyline}" fill="none" stroke="${color}" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
-      <circle cx="${lx.toFixed(1)}" cy="${ly.toFixed(1)}" r="2" fill="${color}"/>
-    </svg>
-    <span class="sparkline-label">${label}</span>
+    ${isVerif ? '<div class="verified-strip"></div>' : ''}
   </div>`;
 }
 
@@ -452,19 +451,16 @@ function renderSparkline(hist) {
 function renderPagination() {
   const total = Math.ceil(filteredDeals.length / DEALS_PER_PAGE) || 1;
   const el = document.getElementById('pagination');
-  if (total <= 1) { el.innerHTML = ''; return; }
+  if (total <= 1) { el.innerHTML=''; return; }
 
-  const pages = [];
-  // Always show first, last, and up to 2 around current
   const show = new Set([1, total, currentPage, currentPage-1, currentPage+1].filter(p => p>=1 && p<=total));
   const sorted = [...show].sort((a,b)=>a-b);
-
   let html = `<button class="page-btn" ${currentPage===1?'disabled':''} onclick="goPage(${currentPage-1})">‹ Vorige</button>`;
-  let prev = 0;
+  let prev=0;
   for (const p of sorted) {
-    if (p - prev > 1) html += `<span class="page-info">…</span>`;
+    if (p-prev>1) html += `<span class="page-info">…</span>`;
     html += `<button class="page-btn${currentPage===p?' active':''}" onclick="goPage(${p})">${p}</button>`;
-    prev = p;
+    prev=p;
   }
   html += `<button class="page-btn" ${currentPage===total?'disabled':''} onclick="goPage(${currentPage+1})">Volgende ›</button>`;
   html += `<span class="page-info">Pagina ${currentPage} van ${total}</span>`;
@@ -472,95 +468,91 @@ function renderPagination() {
 }
 
 function goPage(p) {
-  currentPage = p;
-  pushURLState();
-  renderPage();
-  renderPagination();
-  window.scrollTo({top:0, behavior:'smooth'});
+  currentPage=p; pushURLState(); renderPage(); renderPagination();
+  window.scrollTo({top:0,behavior:'smooth'});
 }
 
 // ── CLICK TRACKING ───────────────────────────────────────────────────────
 function trackClick(dealId, deal) {
-  localClicks[dealId] = (localClicks[dealId]||0) + 1;
-  localStorage.setItem('dealtracker_clicks', JSON.stringify(localClicks));
   if (typeof gtag !== 'undefined' && deal) {
     gtag('event', 'deal_click', {
-      deal_id:          dealId,
-      deal_source:      deal.source       || '',
-      deal_title:       (deal.title       || '').substring(0, 100),
-      deal_price:       deal.price        || 0,
-      deal_discount:    deal.discount_percent || 0,
-      deal_category:    deal.category     || '',
-      currency:         'EUR',
-      value:            deal.price        || 0,
+      deal_id:       dealId,
+      deal_source:   deal.source       || '',
+      deal_title:    (deal.title       || '').substring(0, 100),
+      deal_price:    deal.price        || 0,
+      deal_discount: deal.discount_percent || 0,
+      deal_category: deal.category     || '',
+      deal_verified: !!(deal.tweakers_price),
+      currency:      'EUR',
+      value:         deal.price        || 0,
     });
   }
 }
 
 function cardClick(dealId, encodedUrl) {
-  // track view
-  localViews[dealId] = (localViews[dealId]||0) + 1;
-  localStorage.setItem('dealtracker_views', JSON.stringify(localViews));
   const deal = allDeals.find(d => d.id === dealId);
   trackClick(dealId, deal);
   window.open(decodeURIComponent(encodedUrl), '_blank', 'noopener');
 }
 
 function viewDeal(dealId, encodedUrl) {
-  const deal = allDeals.find(d => d.id === dealId);
-  trackClick(dealId, deal);
-  window.open(decodeURIComponent(encodedUrl), '_blank', 'noopener');
+  cardClick(dealId, encodedUrl);
 }
 
 // ── URL STATE ────────────────────────────────────────────────────────────
 function pushURLState() {
   const p = new URLSearchParams();
-  if (activeCategory !== 'all') p.set('categorie', activeCategory);
-  if (searchQuery)              p.set('q', searchQuery);
-  if (currentPage > 1)          p.set('pagina', currentPage);
+  if (activeCategory !== 'all')  p.set('categorie', activeCategory);
+  if (searchQuery)               p.set('q', searchQuery);
+  if (currentPage > 1)           p.set('pagina', currentPage);
   const qs = p.toString();
-  history.replaceState({}, '', qs ? '?' + qs : location.pathname);
+  history.replaceState({}, '', qs ? '?'+qs : location.pathname);
 }
 
 // ── PAGE META ────────────────────────────────────────────────────────────
+const CAT_META = {
+  laptops:     {title:'Laptop Deals',       desc:'De beste laptopdeals van retour- en outletwinkels.'},
+  smartphones: {title:'Smartphone Deals',   desc:'Retour en outlet smartphones met forse kortingen.'},
+  audio:       {title:'Audio Deals',        desc:'Koptelefoons, speakers en soundbars met korting.'},
+  gaming:      {title:'Gaming Deals',       desc:'Gaming-deals: controllers, headsets, laptops en meer.'},
+  tv:          {title:'TV & Monitor Deals', desc:'Televisies en monitoren met forse kortingen.'},
+  tablets:     {title:'Tablet Deals',       desc:'Retour en outlet tablets met korting.'},
+  wearables:   {title:'Wearables Deals',    desc:'Smartwatches en fitnesstrackers met korting.'},
+  camera:      {title:'Camera Deals',       desc:"Retour en outlet camera's met korting."},
+  huishouden:  {title:'Huishouden Deals',   desc:'Huishoudelijke apparaten met korting.'},
+};
+
 function updatePageMeta() {
+  const n = filteredDeals.length;
   if (activeCategory === 'all') {
-    document.getElementById('page-h1').textContent  = '🛍️ Alle deals';
+    document.getElementById('page-h1').textContent    = '🛍️ Alle deals';
     document.getElementById('page-title').textContent = 'Alle Deals — DealTracker';
-    document.getElementById('page-desc').content    = 'Alle actuele retour- en outletdeals op elektronica. Dagelijks bijgewerkt.';
+    document.getElementById('page-sub').textContent   = `${n} deals · dagelijks bijgewerkt`;
   } else {
     const cat = CATEGORIES.find(c => c.slug === activeCategory);
     const m   = CAT_META[activeCategory] || {};
     const name = cat ? `${cat.icon} ${cat.name}` : activeCategory;
-    document.getElementById('page-h1').textContent  = `${name} Deals`;
-    document.getElementById('page-title').textContent = `${m.title || name + ' Deals'} — DealTracker`;
+    document.getElementById('page-h1').textContent    = `${name} Deals`;
+    document.getElementById('page-title').textContent = `${m.title||name+' Deals'} — DealTracker`;
+    document.getElementById('page-sub').textContent   = `${n} deals gevonden`;
     if (m.desc) document.getElementById('page-desc').content = m.desc;
   }
-  // update sub-line after deals load
-  if (filteredDeals.length) {
-    document.getElementById('page-sub').textContent = `${filteredDeals.length} deals gevonden`;
-  }
 }
 
-boot().then(() => {
-  document.getElementById('page-sub').textContent =
-    filteredDeals.length + ' deals · dagelijks bijgewerkt';
-});
-
+// ── MOBILE NAV ───────────────────────────────────────────────────────────
 function toggleMobileMenu() {
-  const btn  = document.getElementById('nav-hamburger');
-  const menu = document.getElementById('nav-mobile-menu');
-  btn.classList.toggle('open');
-  menu.classList.toggle('open');
+  document.getElementById('nav-hamburger').classList.toggle('open');
+  document.getElementById('nav-mobile-menu').classList.toggle('open');
 }
-document.addEventListener('click', function(e) {
+document.addEventListener('click', e => {
   const menu = document.getElementById('nav-mobile-menu');
   const btn  = document.getElementById('nav-hamburger');
-  if (menu && menu.classList.contains('open') && !menu.contains(e.target) && !btn.contains(e.target)) {
-    menu.classList.remove('open');
-    btn.classList.remove('open');
+  if (menu?.classList.contains('open') && !menu.contains(e.target) && !btn.contains(e.target)) {
+    menu.classList.remove('open'); btn.classList.remove('open');
   }
 });
+
+boot();
 </script>
 </body>
 </html>
