@@ -110,6 +110,14 @@
     /* verified strip */
     .verified-strip{height:2px;background:linear-gradient(90deg,var(--verified),#38bdf8)}
 
+    /* tweakers market price row */
+    .tweakers-row{font-size:.72rem;color:var(--verified);display:flex;align-items:center;gap:.3rem;margin-top:-.1rem}
+
+    /* favorite button */
+    .fav-btn{position:absolute;top:.45rem;right:.5rem;background:rgba(15,23,42,.65);backdrop-filter:blur(4px);border:none;border-radius:6px;width:28px;height:28px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:.9rem;transition:background .15s;line-height:1;padding:0;z-index:2}
+    .fav-btn:hover{background:rgba(239,68,68,.25)}
+    .fav-btn.active{background:rgba(239,68,68,.2)}
+
     /* ── PAGINATION ── */
     .pagination{display:flex;align-items:center;justify-content:center;gap:.5rem;padding:2rem 1.5rem;flex-wrap:wrap}
     .page-btn{background:var(--card);border:1px solid var(--border);color:var(--text);border-radius:8px;padding:.45rem .85rem;font-size:.875rem;font-weight:600;cursor:pointer;font-family:inherit}
@@ -233,6 +241,20 @@ const ICON = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'�
 let allDeals=[], filteredDeals=[], currentPage=1;
 let activeCategory='all', searchQuery='';
 
+// ── FAVORIETEN ────────────────────────────────────────────────────────────
+let favorieten = new Set(JSON.parse(localStorage.getItem('dt_favs') || '[]'));
+function saveFavs() { try { localStorage.setItem('dt_favs', JSON.stringify([...favorieten])); } catch(_) {} }
+function toggleFav(id, e) {
+  e.stopPropagation();
+  favorieten.has(id) ? favorieten.delete(id) : favorieten.add(id);
+  saveFavs();
+  document.querySelectorAll(`.fav-btn[data-id="${id}"]`).forEach(btn => {
+    btn.classList.toggle('active', favorieten.has(id));
+    btn.textContent = favorieten.has(id) ? '❤' : '♡';
+  });
+  buildCatPills();
+}
+
 const params  = new URLSearchParams(location.search);
 const urlCat  = params.get('categorie') || 'all';
 const urlQ    = params.get('q') || '';
@@ -241,13 +263,39 @@ const urlPag  = parseInt(params.get('pagina') || '1', 10);
 // ── FETCH ────────────────────────────────────────────────────────────────
 async function boot() {
   renderSkeletons();
-  try {
-    const res  = await fetch('deals.json?t=' + Date.now());
-    const data = await res.json();
-    allDeals   = (data.deals || []).filter(d => d.price > 0);
-  } catch(e) {
-    document.getElementById('page-sub').textContent = 'Deals laden mislukt.';
-    return;
+  const cached = localStorage.getItem('dt_deals_cache');
+  let loaded = false;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const ctrl  = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), 10000);
+      const res   = await fetch('deals.json?t=' + Date.now(), { signal: ctrl.signal });
+      clearTimeout(timer);
+      const data  = await res.json();
+      allDeals    = (data.deals || []).filter(d => d.price > 0);
+      try { localStorage.setItem('dt_deals_cache', JSON.stringify(data)); } catch(_) {}
+      loaded = true;
+      break;
+    } catch(e) {
+      if (attempt < 2) {
+        await new Promise(r => setTimeout(r, 1000 * (attempt + 1)));
+      }
+    }
+  }
+  if (!loaded) {
+    if (cached) {
+      try {
+        const data = JSON.parse(cached);
+        allDeals   = (data.deals || []).filter(d => d.price > 0);
+        document.getElementById('page-sub').textContent = 'Deals uit cache geladen — mogelijk verouderd.';
+      } catch(_) {
+        document.getElementById('page-sub').textContent = 'Deals laden mislukt. Vernieuw de pagina.';
+        return;
+      }
+    } else {
+      document.getElementById('page-sub').textContent = 'Deals laden mislukt. Vernieuw de pagina.';
+      return;
+    }
   }
   activeCategory = urlCat;
   searchQuery    = urlQ;
@@ -296,6 +344,11 @@ function buildCatPills() {
       ⚡ Overig <span style="opacity:.55;font-weight:400">${overig}</span>
     </button>`;
   }
+  if (favorieten.size > 0) {
+    html += `<button class="pill${activeCategory==='favorieten'?' active':''}" onclick="setCategory('favorieten')" style="${activeCategory!=='favorieten'?'color:#ef4444;border-color:rgba(239,68,68,.3)':''}">
+      ❤ Favorieten <span style="opacity:.55;font-weight:400">${favorieten.size}</span>
+    </button>`;
+  }
   document.getElementById('cat-pills').innerHTML = html;
 }
 
@@ -333,7 +386,9 @@ function applyFilters() {
 
   let deals = allDeals.filter(d => {
     const cat = d.category || 'elektronica';
-    if (activeCategory !== 'all') {
+    if (activeCategory === 'favorieten') {
+      if (!favorieten.has(d.id)) return false;
+    } else if (activeCategory !== 'all') {
       // 'elektronica' pill toont ook onbekende categorieën
       if (activeCategory === 'elektronica') {
         if (CATEGORIES.find(c => c.slug !== 'all' && c.slug !== 'elektronica' && c.slug === cat)) return false;
@@ -424,15 +479,22 @@ function renderCard(d) {
     prijsHtml += `<span class="no-orig-label">outlet / retourprijs</span>`;
   }
   prijsHtml += `</div>`;
+  // Tweakers marktprijs-rij
+  if (isVerif) {
+    const twSaving = (d.tweakers_price - d.price).toFixed(0);
+    prijsHtml += `<div class="tweakers-row">✓ Marktprijs €${d.tweakers_price.toFixed(0)} · bespaar €${twSaving}</div>`;
+  }
 
   // Conditie tonen als het iets toevoegt (niet "Outlet" als de badge al Outlet is)
   const condLabel = d.condition && !(isOutlet && disc === 0) ? `<div class="deal-condition">${d.condition}</div>` : '';
 
+  const isFav = favorieten.has(d.id);
   return `
-  <div class="deal-card${isVerif?' verified':''}" onclick="cardClick('${d.id}','${safeUrl}')">
+  <div class="deal-card${isVerif?' verified':''}" onclick="cardClick('${d.id}')">
     <div class="deal-img">
       ${d.image ? `<img src="${d.image}" alt="${safeTitle}" loading="lazy">` : `<div class="deal-img-placeholder">${icon}</div>`}
       ${badgeHtml}
+      <button class="fav-btn${isFav?' active':''}" data-id="${d.id}" onclick="toggleFav('${d.id}',event)" aria-label="${isFav?'Verwijder uit favorieten':'Bewaar deal'}">${isFav?'❤':'♡'}</button>
     </div>
     <div class="deal-body">
       <div class="deal-source">${d.source||''}</div>
@@ -489,14 +551,14 @@ function trackClick(dealId, deal) {
   }
 }
 
-function cardClick(dealId, encodedUrl) {
-  const deal = allDeals.find(d => d.id === dealId);
-  trackClick(dealId, deal);
-  window.open(decodeURIComponent(encodedUrl), '_blank', 'noopener');
+function cardClick(dealId) {
+  window.location.href = `./deal.html?id=${dealId}`;
 }
 
 function viewDeal(dealId, encodedUrl) {
-  cardClick(dealId, encodedUrl);
+  const deal = allDeals.find(d => d.id === dealId);
+  trackClick(dealId, deal);
+  window.open(decodeURIComponent(encodedUrl), '_blank', 'noopener');
 }
 
 // ── URL STATE ────────────────────────────────────────────────────────────
@@ -528,6 +590,10 @@ function updatePageMeta() {
     document.getElementById('page-h1').textContent    = '🛍️ Alle deals';
     document.getElementById('page-title').textContent = 'Alle Deals — DealTracker';
     document.getElementById('page-sub').textContent   = `${n} deals · dagelijks bijgewerkt`;
+  } else if (activeCategory === 'favorieten') {
+    document.getElementById('page-h1').textContent    = '❤ Mijn favorieten';
+    document.getElementById('page-title').textContent = 'Favorieten — DealTracker';
+    document.getElementById('page-sub').textContent   = n ? `${n} opgeslagen deals` : 'Nog geen favorieten — klik ♡ op een deal om te bewaren.';
   } else {
     const cat = CATEGORIES.find(c => c.slug === activeCategory);
     const m   = CAT_META[activeCategory] || {};
