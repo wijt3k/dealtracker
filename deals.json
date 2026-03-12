@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T11:16:24.505146+00:00",
-  "total": 298,
+  "updated_at": "2026-03-12T15:29:17.741963+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "aab1a73bf7e0",
@@ -1096,6 +1096,33 @@
       "auto_approved": true
     },
     {
+      "id": "a64b2c345bef",
+      "title": "Fitbit Inspire 3 is een gezondheids- en fitnesstracker met een batterijduur tot 10 dagen. Compatibel met Android en iOS.",
+      "price": 57.06,
+      "original_price": 184.95,
+      "discount_percent": 69,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B6WRTPNV?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51AeloajIdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-12T15:12:46.213589+00:00",
+      "price_history": [
+        {
+          "price": 56.56,
+          "original_price": 69.0,
+          "scraped_at": "2026-03-07T07:00:24.227112+00:00"
+        },
+        {
+          "price": 57.06,
+          "original_price": 184.95,
+          "scraped_at": "2026-03-12T15:00:30.412229+00:00"
+        }
+      ],
+      "approved_at": "12-03-2026 16:29",
+      "auto_approved": true
+    },
+    {
       "id": "09f7b9173c29",
       "title": "Samsung Galaxy S25 Ultra Zwart 256GB 5G",
       "price": 730.0,
@@ -1584,6 +1611,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/Samsung_20Galaxy_20Ring_20Zilver_208.jpg?v=1771248173",
       "found_at": "2026-03-10T19:10:39.934345+00:00",
       "approved_at": "10-03-2026 20:15",
+      "auto_approved": true
+    },
+    {
+      "id": "a14648830e4a",
+      "title": "Samsung Galaxy Tab A9 Plus 11 inch 64GB Wifi Grijs",
+      "price": 106.95,
+      "original_price": 255.63,
+      "discount_percent": 58,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-tab-a9-plus-11-inch-64gb-wifi-grijs-r-15268",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1994663_1f0b1e45-7d98-4a63-9871-087a69e2516e.jpg?v=1768834485",
+      "found_at": "2026-03-12T15:25:13.104861+00:00",
+      "approved_at": "12-03-2026 16:29",
       "auto_approved": true
     },
     {
@@ -2721,6 +2763,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1581072.jpg?v=1771248838",
       "found_at": "2026-03-05T07:20:43.266529+00:00",
       "approved_at": "05-03-2026 08:25",
+      "auto_approved": true
+    },
+    {
+      "id": "1cbc12be8294",
+      "title": "SPC Gravity 5 Pro Tablet 11 inch FHD+ InCell, 6 GB RAM, 128 GB opslagruimte, Octa-Core, 6.000 mAh met snel opladen 18 W, Android 14 | Metallic Design, donkergrijs",
+      "price": 83.98,
+      "original_price": 180.21,
+      "discount_percent": 53,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D6GCC4P2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61MURc2IH6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-12T15:04:22.582165+00:00",
+      "approved_at": "12-03-2026 16:29",
       "auto_approved": true
     },
     {
@@ -5421,21 +5478,6 @@
       "url": "https://stekkerstore.com/products/hyperx-quadcast-r-15840",
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1385843.jpg?v=1771251014",
       "found_at": "2026-03-10T19:10:30.717069+00:00",
-      "approved_at": "10-03-2026 20:15",
-      "auto_approved": true
-    },
-    {
-      "id": "7b09fecca229",
-      "title": "Sennheiser Accentum Plus Zwart",
-      "price": 92.0,
-      "original_price": 164.59,
-      "discount_percent": 44,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sennheiser-accentum-plus-zwart-r-16203",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2016001.jpg?v=1771936049",
-      "found_at": "2026-03-10T19:10:39.935818+00:00",
       "approved_at": "10-03-2026 20:15",
       "auto_approved": true
     }
