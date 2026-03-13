@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T19:20:13.610012+00:00",
-  "total": 298,
+  "updated_at": "2026-03-13T07:28:11.790683+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "aab1a73bf7e0",
@@ -4131,6 +4131,38 @@
       "auto_approved": true
     },
     {
+      "id": "acd744bbc3f8",
+      "title": "Fitbit Versa 2 Health & Fitness Smartwatch met spraakbediening, slaapscore en muziek",
+      "price": 87.24,
+      "original_price": 170.0,
+      "discount_percent": 48,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07TWFV51N?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81cb7L2QkrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-13T07:13:20.567107+00:00",
+      "price_history": [
+        {
+          "price": 78.36,
+          "original_price": 170.0,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 87.46,
+          "original_price": 159.0,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 87.24,
+          "original_price": 170.0,
+          "scraped_at": "2026-03-13T07:00:41.087994+00:00"
+        }
+      ],
+      "approved_at": "13-03-2026 08:28",
+      "auto_approved": true
+    },
+    {
       "id": "2c36282d6211",
       "title": "Apple Watch 41mm Starlight Sport Band - Regular",
       "price": 24.0,
@@ -5478,6 +5510,48 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1385843.jpg?v=1771251014",
       "found_at": "2026-03-10T19:10:30.717069+00:00",
       "approved_at": "10-03-2026 20:15",
+      "auto_approved": true
+    },
+    {
+      "id": "53bfb4344bf6",
+      "title": "Motorola PIP1000",
+      "price": 33.0,
+      "original_price": 65.16,
+      "discount_percent": 49,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-pip1000-r-16063",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2106684.jpg?v=1771853291",
+      "found_at": "2026-03-13T07:23:51.315919+00:00",
+      "price_history": [
+        {
+          "price": 45.0,
+          "original_price": 72.0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 62.54,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 43.0,
+          "original_price": 62.31,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 65.25,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 33.0,
+          "original_price": 65.16,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        }
+      ],
+      "approved_at": "13-03-2026 08:28",
       "auto_approved": true
     }
   ]
