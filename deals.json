@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-14T07:21:18.870728+00:00",
-  "total": 298,
+  "updated_at": "2026-03-14T11:24:17.524340+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "aab1a73bf7e0",
@@ -1370,6 +1370,21 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69ad9d69ba3c4_ASSET_MMS_169429518-500x500.png",
       "found_at": "2026-03-12T06:38:19.841896+00:00",
       "approved_at": "12-03-2026 07:42",
+      "auto_approved": true
+    },
+    {
+      "id": "0a70ff1cf03e",
+      "title": "Kodak Cam Shot Mini 1 compacte camera, geel, voor het vastleggen van je herinneringen",
+      "price": 88.31,
+      "original_price": 229.99,
+      "discount_percent": 61,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CHS7KZ3M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71vmAJfLEqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-14T11:13:55.231512+00:00",
+      "approved_at": "14-03-2026 12:24",
       "auto_approved": true
     },
     {
@@ -2918,6 +2933,43 @@
       "auto_approved": true
     },
     {
+      "id": "81d178a2c318",
+      "title": "Samsung HW-Q700C",
+      "price": 239.0,
+      "original_price": 413.0,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-hw-q700c-r-16433",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1909817_e68ed942-5ff9-4afe-85bd-775511a844d7.jpg?v=1772546110",
+      "found_at": "2026-03-14T11:20:14.066401+00:00",
+      "price_history": [
+        {
+          "price": 314.0,
+          "original_price": 385.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 297.0,
+          "original_price": 413.0,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 284.0,
+          "original_price": 413.0,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 413.0,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
+      "auto_approved": true
+    },
+    {
       "id": "94f144d9c6f7",
       "title": "Hikvision IP dome camera DS-2CD2346G2-I F2.8",
       "price": 78.31,
@@ -3756,6 +3808,33 @@
       ]
     },
     {
+      "id": "9779415fd411",
+      "title": "Eufy EufyCam 3 Duo Pack + HomeBase 3",
+      "price": 245.0,
+      "original_price": 408.39,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/eufy-eufycam-3-duo-pack-homebase-3-r-16449",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1813801_76861e75-4b94-4b9f-bcfb-05a8b630638f.jpg?v=1773138045",
+      "found_at": "2026-03-14T11:20:00.308791+00:00",
+      "price_history": [
+        {
+          "price": 284.0,
+          "original_price": 405.0,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 408.39,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
+      "auto_approved": true
+    },
+    {
       "id": "c33a6fc24aa4",
       "title": "LG 17Z90SP-E.AD7BG QWERTZ",
       "price": 1777.0,
@@ -3875,6 +3954,43 @@
       "auto_approved": true
     },
     {
+      "id": "1b4c307e9832",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 74.0,
+      "original_price": 152.4,
+      "discount_percent": 51,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-16418",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_8cdcacef-5a1c-485f-9873-f8a6afeb4918.jpg?v=1772545888",
+      "found_at": "2026-03-14T11:20:10.417442+00:00",
+      "price_history": [
+        {
+          "price": 94.0,
+          "original_price": 117.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 143.58,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": 148.49,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 152.4,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
+      "auto_approved": true
+    },
+    {
       "id": "7b6a1011c0d2",
       "title": "ASUS Eye Care VY249HF - 24 inch Full HD Monitor - 100 Hz, 1ms MPRT, AdaptiveSync - IPS Panel, Vesa 100x100, 16:9, 1920x1080, HDMI",
       "price": 72.22,
@@ -3902,6 +4018,43 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69afc18aa85c1_ASSET_MMS_167887132-500x500.png",
       "found_at": "2026-03-12T06:38:05.905297+00:00",
       "approved_at": "12-03-2026 07:42",
+      "auto_approved": true
+    },
+    {
+      "id": "c9fc02f2acea",
+      "title": "Rowenta Silence Force Effitech RO7935 Stofzuiger zonder zak",
+      "price": 133.0,
+      "original_price": 246.38,
+      "discount_percent": 46,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-silence-force-effitech-ro7935-stofzuiger-zonder-zak-r-16408",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1898738_39dbd3d4-1b58-4765-af5b-3d6ad5bf8d83.jpg?v=1772545788",
+      "found_at": "2026-03-14T11:20:10.419349+00:00",
+      "price_history": [
+        {
+          "price": 210.0,
+          "original_price": 230.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 143.0,
+          "original_price": 224.64,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 234.69,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 246.38,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
       "auto_approved": true
     },
     {
@@ -4800,6 +4953,33 @@
       "auto_approved": true
     },
     {
+      "id": "2053871bcd31",
+      "title": "Verbatim 49592 computer monitor 39.6 cm (15.6\") 1920 x 1080 pixels Full HD Touchscreen Black",
+      "price": 98.29,
+      "original_price": 183.95,
+      "discount_percent": 46,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BVL125WS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71W6TOitqIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-14T11:16:09.333623+00:00",
+      "price_history": [
+        {
+          "price": 101.81,
+          "original_price": 183.95,
+          "scraped_at": "2026-03-09T07:00:25.743962+00:00"
+        },
+        {
+          "price": 98.29,
+          "original_price": 183.95,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
+      "auto_approved": true
+    },
+    {
       "id": "8b595251d3db",
       "title": "DeLonghi  Magnifica EVO ECAM290.81.TB",
       "price": 311.0,
@@ -4812,6 +4992,63 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1796929_4200508a-b3f5-4160-976e-adbe4238fdd0.jpg?v=1773138482",
       "found_at": "2026-03-11T15:56:36.534076+00:00",
       "approved_at": "11-03-2026 17:00",
+      "auto_approved": true
+    },
+    {
+      "id": "13e67e19b91f",
+      "title": "Sony ULT Field 1 Zwart",
+      "price": 44.0,
+      "original_price": 91.33,
+      "discount_percent": 51,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-ult-field-1-zwart-r-16068",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2040824_4d4ddf7c-8913-40d4-82a7-806809e31cd7.jpg?v=1771935449",
+      "found_at": "2026-03-14T11:20:14.067926+00:00",
+      "price_history": [
+        {
+          "price": 94.0,
+          "original_price": 109.0,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 85.28,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 105.55,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 85.11,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 90.76,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 92.64,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 92.71,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 91.33,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
       "auto_approved": true
     },
     {
@@ -4917,6 +5154,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1365869_a4516f7e-c544-40f5-ac25-7395145f2e85.jpg?v=1772545538",
       "found_at": "2026-03-10T19:10:27.767413+00:00",
       "approved_at": "10-03-2026 20:15",
+      "auto_approved": true
+    },
+    {
+      "id": "106fb91bd241",
+      "title": "HP Color LaserJet Pro MFP 4302fdw",
+      "price": 380.0,
+      "original_price": 564.19,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-color-laserjet-pro-mfp-4302fdw-r-16421",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1964502_f4f791ed-7994-4ff4-875b-fa0d39be4990.jpg?v=1772545930",
+      "found_at": "2026-03-14T11:20:03.524519+00:00",
+      "price_history": [
+        {
+          "price": 403.0,
+          "original_price": 508.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 418.0,
+          "original_price": 552.84,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 403.0,
+          "original_price": 557.74,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 380.0,
+          "original_price": 564.19,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
       "auto_approved": true
     },
     {
@@ -5082,6 +5356,58 @@
       "auto_approved": true
     },
     {
+      "id": "e71f51e5aca0",
+      "title": "Bosch BGB75XSIL",
+      "price": 174.0,
+      "original_price": 294.39,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-bgb75xsil-r-16341",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2120821.jpg?v=1772441339",
+      "found_at": "2026-03-14T11:20:00.305701+00:00",
+      "price_history": [
+        {
+          "price": 216.0,
+          "original_price": 251.0,
+          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
+        },
+        {
+          "price": 243.0,
+          "original_price": 315.0,
+          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
+        },
+        {
+          "price": 225.0,
+          "original_price": 285.0,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 218.0,
+          "original_price": 273.02,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 201.0,
+          "original_price": 265.83,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 257.42,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 174.0,
+          "original_price": 294.39,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
+      "auto_approved": true
+    },
+    {
       "id": "490b5eaa0752",
       "title": "Philips HC9450/15",
       "price": 35.0,
@@ -5201,6 +5527,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1386303.jpg?v=1771599526",
       "found_at": "2026-03-10T19:10:33.862414+00:00",
       "approved_at": "10-03-2026 20:15",
+      "auto_approved": true
+    },
+    {
+      "id": "1ca7d70fba67",
+      "title": "Samsung Galaxy Watch 6 Classic Zwart 47mm",
+      "price": 191.0,
+      "original_price": 315.73,
+      "discount_percent": 39,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-watch-6-classic-zwart-47mm-r-16289",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944122_9f3e64a4-947d-4348-a686-118285857406.jpg?v=1772544771",
+      "found_at": "2026-03-14T11:20:10.420279+00:00",
+      "price_history": [
+        {
+          "price": 213.0,
+          "original_price": 265.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 193.0,
+          "original_price": 244.14,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 191.0,
+          "original_price": 262.34,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
       "auto_approved": true
     },
     {
@@ -5340,6 +5698,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2040657_653e868c-aeb1-4b15-85e9-3d4d6501b7c4.jpg?v=1771853551",
       "found_at": "2026-03-11T19:32:00.636554+00:00",
       "approved_at": "11-03-2026 20:35",
+      "auto_approved": true
+    },
+    {
+      "id": "5a2a9a7c2679",
+      "title": "KOORUI E2721F 27 inch pc-monitor, QHD 2560 x 1440 100 Hz, monitor, IPS 1 ms, Adaptive Sync HDMI 2.0, Eye Care, kantelbaar van -5° tot 15°, VESA 100 x 100 mm",
+      "price": 116.56,
+      "original_price": 207.07,
+      "discount_percent": 43,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DPHFDQSD?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71YgCADyElL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-14T11:17:22.755932+00:00",
+      "approved_at": "14-03-2026 12:24",
       "auto_approved": true
     },
     {
@@ -5582,6 +5955,68 @@
       "auto_approved": true
     },
     {
+      "id": "9583a2a89389",
+      "title": "Philips TAB5309/10",
+      "price": 76.0,
+      "original_price": 141.05,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-tab5309-10-r-16375",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2037958_b93b8001-4a6f-464a-aff2-bfcb6bf0deba.jpg?v=1772545275",
+      "found_at": "2026-03-14T11:20:10.418986+00:00",
+      "price_history": [
+        {
+          "price": 95.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 158.89,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 156.83,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 158.37,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 153.49,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 151.5,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 151.06,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 152.23,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": 141.05,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "14-03-2026 12:24",
+      "auto_approved": true
+    },
+    {
       "id": "c2638a68e744",
       "title": "Fuave Kopenhagen 2000 Zwart",
       "price": 34.0,
@@ -5609,308 +6044,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2_d2e9df69-8311-419f-a019-7f54161190ed.jpg?v=1770111625",
       "found_at": "2026-03-10T19:10:27.770206+00:00",
       "approved_at": "10-03-2026 20:15",
-      "auto_approved": true
-    },
-    {
-      "id": "3bfeb3581f33",
-      "title": "Sony WF-1000XM5 Draadloze Noise Cancelling oordopjes, Bluetooth, in-ear koptelefoon met microfoon, tot 24 uur batterijduur en snellaadfunctie, IPX4 waterbestendig, werkt met iOS & Android - Zilver",
-      "price": 130.6,
-      "original_price": 225.31,
-      "discount_percent": 42,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0C4TJXPNJ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81RZMfw6UdL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-11T19:08:45.289893+00:00",
-      "approved_at": "11-03-2026 20:35",
-      "auto_approved": true
-    },
-    {
-      "id": "865eab63aca2",
-      "title": "AKG K371 Studiokoptelefoon, Gesloten, Inklapbaar, Zwart",
-      "price": 112.73,
-      "original_price": 199.0,
-      "discount_percent": 43,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B07T78PX8X?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71pYrSBB9QL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-11T15:33:16.264325+00:00",
-      "approved_at": "11-03-2026 17:00",
-      "auto_approved": true
-    },
-    {
-      "id": "3a75ba8d606d",
-      "title": "BaByliss For Men E987E",
-      "price": 42.0,
-      "original_price": 82.84,
-      "discount_percent": 49,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/babyliss-for-men-e987e-r-16074",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117849.jpg?v=1771853349",
-      "found_at": "2026-03-13T11:16:31.789123+00:00",
-      "price_history": [
-        {
-          "price": 57.0,
-          "original_price": 81.0,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 55.0,
-          "original_price": 78.08,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 53.0,
-          "original_price": 74.37,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 73.67,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 54.0,
-          "original_price": 78.65,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 42.0,
-          "original_price": 78.7,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        }
-      ],
-      "approved_at": "13-03-2026 12:20",
-      "auto_approved": true
-    },
-    {
-      "id": "53bfb4344bf6",
-      "title": "Motorola PIP1000",
-      "price": 33.0,
-      "original_price": 66.32,
-      "discount_percent": 50,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/motorola-pip1000-r-16063",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2106684.jpg?v=1771853291",
-      "found_at": "2026-03-13T15:15:59.645220+00:00",
-      "price_history": [
-        {
-          "price": 45.0,
-          "original_price": 72.0,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 40.0,
-          "original_price": 62.54,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 43.0,
-          "original_price": 62.31,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 40.0,
-          "original_price": 65.25,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 33.0,
-          "original_price": 65.16,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        }
-      ],
-      "approved_at": "13-03-2026 16:19",
-      "auto_approved": true
-    },
-    {
-      "id": "14c868341c72",
-      "title": "Wisberg WB7CMAF30B",
-      "price": 161.0,
-      "original_price": 269.0,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/wisberg-wb7cmaf30b-r-16182",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2138077_c043a006-631c-42a8-a908-aa245a27e749.jpg?v=1771853418",
-      "found_at": "2026-03-11T19:32:16.731466+00:00",
-      "approved_at": "11-03-2026 20:35",
-      "auto_approved": true
-    },
-    {
-      "id": "a006d90bcd4e",
-      "title": "Oral-B iO 5N White",
-      "price": 59.0,
-      "original_price": 111.58,
-      "discount_percent": 47,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-5n-white-r-16196",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2190253.jpg?v=1771853569",
-      "found_at": "2026-03-12T19:16:20.837762+00:00",
-      "price_history": [
-        {
-          "price": 112.0,
-          "original_price": 129.0,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 91.0,
-          "original_price": 119.21,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 88.0,
-          "original_price": 112.65,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 110.93,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 77.0,
-          "original_price": 114.77,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 105.43,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        }
-      ],
-      "approved_at": "13-03-2026 16:19",
-      "auto_approved": true
-    },
-    {
-      "id": "ef1c43eabdd1",
-      "title": "JBL Quantum 350 Wireless",
-      "price": 29.0,
-      "original_price": 58.49,
-      "discount_percent": 50,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/jbl-quantum-350-wireless-r-16206",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1640235.jpg?v=1771936073",
-      "found_at": "2026-03-13T15:15:52.701508+00:00",
-      "price_history": [
-        {
-          "price": 43.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 58.33,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 40.0,
-          "original_price": 56.83,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 33.0,
-          "original_price": 57.08,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": 57.08,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 58.58,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        }
-      ],
-      "approved_at": "13-03-2026 16:19",
-      "auto_approved": true
-    },
-    {
-      "id": "0507c244d184",
-      "title": "Magimix CS 5200 XL Premium Mat Chroom",
-      "price": 467.0,
-      "original_price": 651.4,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/magimix-cs-5200-xl-premium-mat-chroom-r-16481",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1774923_a2f66271-0943-4928-9d4a-b73ff041f5af.jpg?v=1773138408",
-      "found_at": "2026-03-13T15:15:56.700968+00:00",
-      "approved_at": "13-03-2026 16:19",
-      "auto_approved": true
-    },
-    {
-      "id": "9940a0999db6",
-      "title": "DeLonghi  La Specialista Arte EC9155.MB",
-      "price": 311.0,
-      "original_price": 463.93,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/delonghi-la-specialista-arte-ec9155-mb-r-15818",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1735098_7c83e936-e0d8-43d0-ae99-3be583c8b96d.jpg?v=1770993426",
-      "found_at": "2026-03-13T19:15:23.210481+00:00",
-      "price_history": [
-        {
-          "price": 349.0,
-          "original_price": 489.13,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 330.0,
-          "original_price": 481.29,
-          "scraped_at": "2026-02-23T11:02:56.279176+00:00"
-        },
-        {
-          "price": 311.0,
-          "original_price": 487.37,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        }
-      ],
-      "approved_at": "13-03-2026 20:19",
-      "auto_approved": true
-    },
-    {
-      "id": "46f06530ef2f",
-      "title": "Apple iMac 24\" (2024) M4 (8/8) 16GB/256GB Blauw QWERTZ",
-      "price": 1110.0,
-      "original_price": 1365.47,
-      "discount_percent": 18,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-imac-24-2024-m4-8-8-16gb-256gb-blauw-qwertz-r-16445",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2112531.jpg?v=1773137992",
-      "found_at": "2026-03-13T19:15:19.839970+00:00",
-      "price_history": [
-        {
-          "price": 1168.0,
-          "original_price": 1389.54,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 1110.0,
-          "original_price": 1365.47,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        }
-      ],
-      "approved_at": "13-03-2026 20:19",
       "auto_approved": true
     }
   ]
