@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-15T11:20:48.777934+00:00",
-  "total": 287,
+  "updated_at": "2026-03-15T15:20:15.346937+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "34b694955c30",
@@ -6437,6 +6437,496 @@
         }
       ],
       "approved_at": "15-03-2026 12:20",
+      "auto_approved": true
+    },
+    {
+      "id": "21718226eace",
+      "title": "Beats Powerbeats Pro Zwart",
+      "price": 122.0,
+      "original_price": 187.2,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/beats-powerbeats-pro-zwart-r-16334",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1385753_bf0457dd-ed7d-4efe-a55d-b8b15bc88231.jpg?v=1772441298",
+      "found_at": "2026-03-15T15:16:15.431078+00:00",
+      "price_history": [
+        {
+          "price": 177.0,
+          "original_price": 253.0,
+          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
+        },
+        {
+          "price": 192.0,
+          "original_price": 229.7,
+          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
+        },
+        {
+          "price": 186.0,
+          "original_price": 204.81,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 140.0,
+          "original_price": 198.31,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 198.31,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "23a5f27a4698",
+      "title": "Philips Series 5000 BG5475/15",
+      "price": 36.0,
+      "original_price": 59.78,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-5000-bg5475-15-r-16086",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2225392.jpg?v=1771935578",
+      "found_at": "2026-03-15T15:16:27.835356+00:00",
+      "price_history": [
+        {
+          "price": 40.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 60.26,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 61.58,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 61.65,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 36.0,
+          "original_price": 60.44,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "d9725e9f1286",
+      "title": "Bosch EasyMower 18V-32-200 baretool",
+      "price": 109.0,
+      "original_price": 167.26,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-easymower-18v-32-200-baretool-r-16094",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1906670_b8a4c414-a91d-4d34-9524-34353245d5ec.jpg?v=1771599856",
+      "found_at": "2026-03-15T15:16:18.646940+00:00",
+      "price_history": [
+        {
+          "price": 113.0,
+          "original_price": 171.48,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 171.77,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 167.26,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "bc2e4a63a4e4",
+      "title": "Philips OneUp 5000 series XV5113/01",
+      "price": 91.0,
+      "original_price": 140.4,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-oneup-5000-series-xv5113-01-r-16532",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2140314_eaf231c0-c81d-4f24-8da7-5828b354afa2.jpg?v=1773138937",
+      "found_at": "2026-03-15T15:16:27.835273+00:00",
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "d83ec60d4b4d",
+      "title": "Dyson Airwrap Long Diffuse Multistyler",
+      "price": 316.8,
+      "original_price": 429.95,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-airwrap-long-diffuse-multistyler-r-16213",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1981291_ccbb6bcf-7624-40dd-9aea-476970fdf262.jpg?v=1771853684",
+      "found_at": "2026-03-15T15:16:18.649109+00:00",
+      "price_history": [
+        {
+          "price": 396.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 368.28,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 364.32,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
+        },
+        {
+          "price": 360.36,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 356.4,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        },
+        {
+          "price": 352.44,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 348.48,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 344.52,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 340.56,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 332.64,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 328.68,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 324.72,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 320.76,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 316.8,
+          "original_price": 429.95,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "96351c14337f",
+      "title": "HP Smart Tank 7308 All-in-One",
+      "price": 275.0,
+      "original_price": 378.91,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-smart-tank-7308-all-in-one-r-16456",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/HP_Smart_20Tank_207308_20All-in-One.jpg?v=1773138122",
+      "found_at": "2026-03-15T15:16:21.708077+00:00",
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "11240bcfe619",
+      "title": "ABUS extra camera EasyLook BasicSet PPDF17520 – bewakingscamera met eenvoudige bediening; slimme bewegingsdetectie, intercomfunctie, nachtzicht, maskering van private zones en nog veel meer, zwart",
+      "price": 83.75,
+      "original_price": 128.45,
+      "discount_percent": 34,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B4SYBLR4?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61+D21Zkm7L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-15T15:10:35.316417+00:00",
+      "price_history": [
+        {
+          "price": 84.97,
+          "original_price": 105.64,
+          "scraped_at": "2026-03-10T11:00:16.154847+00:00"
+        },
+        {
+          "price": 83.75,
+          "original_price": 128.45,
+          "scraped_at": "2026-03-15T15:00:25.065867+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "06c94a67f515",
+      "title": "TomTom GO Superior 6 inch",
+      "price": 225.0,
+      "original_price": 313.73,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tomtom-go-superior-6-inch-r-16300",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1938525.jpg?v=1772544902",
+      "found_at": "2026-03-15T15:16:30.243051+00:00",
+      "price_history": [
+        {
+          "price": 209.0,
+          "original_price": 286.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 265.0,
+          "original_price": 309.14,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 257.0,
+          "original_price": 312.85,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 225.0,
+          "original_price": 313.73,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "e6cd648b7b86",
+      "title": "Oral-B iO N5 Black",
+      "price": 74.0,
+      "original_price": 113.14,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-n5-black-r-16414",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1777626_5f694d04-fc77-4f27-9654-37aafa79123c.jpg?v=1772545863",
+      "found_at": "2026-03-15T15:16:27.834319+00:00",
+      "price_history": [
+        {
+          "price": 114.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 105.72,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 113.94,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 102.41,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "4c7346d815a7",
+      "title": "Philips Hue Gradient Lightstrip uitbreiding",
+      "price": 38.0,
+      "original_price": 60.27,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hue-gradient-lightstrip-uitbreiding-r-16316",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1636386_268a359d-8c61-486c-85cf-7c0465f58757.jpg?v=1772545009",
+      "found_at": "2026-03-15T15:16:27.835005+00:00",
+      "price_history": [
+        {
+          "price": 44.0,
+          "original_price": 58.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 60.72,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 61.02,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 59.83,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 42.0,
+          "original_price": 60.39,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 60.38,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 38.0,
+          "original_price": 60.91,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "3078318a7f96",
+      "title": "Microsoft Surface Proj AX - C12 / 16GB / 512GB Graphite AZERTY",
+      "price": 1451.0,
+      "original_price": 1649.0,
+      "discount_percent": 12,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/microsoft-surface-proj-ax-c12-16gb-512gb-graphite-azerty-r-15940",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2057586.jpg?v=1771334254",
+      "found_at": "2026-03-15T15:16:25.132774+00:00",
+      "price_history": [
+        {
+          "price": 1407.0,
+          "original_price": 1636.5,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 1451.0,
+          "original_price": 1649.0,
+          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "8e368984156a",
+      "title": "Samsung VG-SOCA05 One Invisible Cable",
+      "price": 100.0,
+      "original_price": 147.83,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-vg-soca05-one-invisible-cable-r-16332",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1386659_dd4a77cf-c7a4-4337-a248-bbe6de6b5fd8.jpg?v=1772441274",
+      "found_at": "2026-03-15T15:16:27.837753+00:00",
+      "price_history": [
+        {
+          "price": 100.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": null,
+          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 152.78,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 152.78,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 168.0,
+          "original_price": null,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 153.42,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 147.0,
+          "original_price": 160.53,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 149.05,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 147.83,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 16:20",
+      "auto_approved": true
+    },
+    {
+      "id": "c39dd90aa903",
+      "title": "Magimix T190 Multifunctionele snijmachine",
+      "price": 143.0,
+      "original_price": 205.78,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-t190-multifunctionele-snijmachine-r-16471",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1389457_ed8277bf-ae06-48e0-bd0e-aec44560b30b.jpg?v=1773138293",
+      "found_at": "2026-03-15T15:16:25.132027+00:00",
+      "approved_at": "15-03-2026 16:20",
       "auto_approved": true
     }
   ]
