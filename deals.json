@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-14T19:38:49.801054+00:00",
-  "total": 287,
+  "updated_at": "2026-03-15T07:21:50.085092+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "34b694955c30",
@@ -5932,6 +5932,397 @@
         }
       ],
       "approved_at": "14-03-2026 16:18",
+      "auto_approved": true
+    },
+    {
+      "id": "ef1c43eabdd1",
+      "title": "JBL Quantum 350 Wireless",
+      "price": 29.0,
+      "original_price": 58.42,
+      "discount_percent": 50,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-quantum-350-wireless-r-16206",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1640235.jpg?v=1771936073",
+      "found_at": "2026-03-15T07:17:56.231403+00:00",
+      "price_history": [
+        {
+          "price": 43.0,
+          "original_price": 49.0,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 58.33,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 56.83,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 33.0,
+          "original_price": 57.08,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 28.0,
+          "original_price": 57.08,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 29.0,
+          "original_price": 58.58,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "60498e02f424",
+      "title": "Apple iPad Pro (2024) Nano 11 inch 2 TB Wifi Zwart",
+      "price": 1564.0,
+      "original_price": 1852.2,
+      "discount_percent": 15,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-nano-11-inch-2-tb-wifi-zwart-r-16283",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049087_0137ce6e-a8b9-4130-948d-29ace8d51784.jpg?v=1772544699",
+      "found_at": "2026-03-15T07:17:50.445829+00:00",
+      "price_history": [
+        {
+          "price": 1907.0,
+          "original_price": 2029.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 1673.0,
+          "original_price": 1793.33,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 1564.0,
+          "original_price": 1780.0,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "eb11f53b8c78",
+      "title": "Apple iPad Pro (2025) 11 inch 256GB Wifi Zwart",
+      "price": 799.0,
+      "original_price": 1033.04,
+      "discount_percent": 22,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2025-11-inch-256gb-wifi-zwart-r-16133",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224605.jpg?v=1771935938",
+      "found_at": "2026-03-15T07:17:50.445887+00:00",
+      "price_history": [
+        {
+          "price": 834.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
+        },
+        {
+          "price": 905.0,
+          "original_price": 1074.53,
+          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
+        },
+        {
+          "price": 879.0,
+          "original_price": 1052.99,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        },
+        {
+          "price": 870.0,
+          "original_price": 1053.63,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 849.0,
+          "original_price": 1060.27,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 840.0,
+          "original_price": 1063.01,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 799.0,
+          "original_price": 1033.04,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "a26b5aaa01ad",
+      "title": "Teamgee draagbare monitor, 14\" draagbaar FHD 1080P niet-verblindend IPS dubbel scherm, werkt met Mac Windows Android Chrome Linux, past op 13\"~17\" laptops",
+      "price": 108.41,
+      "original_price": 189.0,
+      "discount_percent": 42,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CD1GL4YZ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71vKULQ14qL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-15T07:15:25.101552+00:00",
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "0507c244d184",
+      "title": "Magimix CS 5200 XL Premium Mat Chroom",
+      "price": 467.0,
+      "original_price": 651.77,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-cs-5200-xl-premium-mat-chroom-r-16481",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1774923_a2f66271-0943-4928-9d4a-b73ff041f5af.jpg?v=1773138408",
+      "found_at": "2026-03-15T07:17:59.744110+00:00",
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "9940a0999db6",
+      "title": "DeLonghi  La Specialista Arte EC9155.MB",
+      "price": 311.0,
+      "original_price": 463.93,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-la-specialista-arte-ec9155-mb-r-15818",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1735098_7c83e936-e0d8-43d0-ae99-3be583c8b96d.jpg?v=1770993426",
+      "found_at": "2026-03-15T07:17:53.264145+00:00",
+      "price_history": [
+        {
+          "price": 349.0,
+          "original_price": 489.13,
+          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
+        },
+        {
+          "price": 330.0,
+          "original_price": 481.29,
+          "scraped_at": "2026-02-23T11:02:56.279176+00:00"
+        },
+        {
+          "price": 311.0,
+          "original_price": 487.37,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "4feba7bbc575",
+      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
+      "price": 248.0,
+      "original_price": 379.64,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-16302",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_8a3e7fed-60cd-423c-858a-c38724a2d829.jpg?v=1772544930",
+      "found_at": "2026-03-15T07:18:02.540599+00:00",
+      "price_history": [
+        {
+          "price": 249.0,
+          "original_price": 329.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 219.0,
+          "original_price": 343.12,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 231.0,
+          "original_price": 366.28,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 384.39,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 248.0,
+          "original_price": 382.69,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "7f9340d91881",
+      "title": "DeLonghi Magnifica EVO ECAM290.81.TB",
+      "price": 329.0,
+      "original_price": 482.06,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-magnifica-evo-ecam290-81-tb-r-16552",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1796929_a99f55f7-2e5b-4b3c-95f5-4b3a5d976527.jpg?v=1773139169",
+      "found_at": "2026-03-15T07:17:53.264326+00:00",
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "3a8f923a39c0",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB incl. tab pen plus",
+      "price": 267.0,
+      "original_price": 403.49,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-incl-tab-pen-plus-r-16371",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306.jpg?v=1772545232",
+      "found_at": "2026-03-15T07:17:59.742815+00:00",
+      "price_history": [
+        {
+          "price": 294.0,
+          "original_price": 372.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 267.0,
+          "original_price": 398.53,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "53bfb4344bf6",
+      "title": "Motorola PIP1000",
+      "price": 33.0,
+      "original_price": 63.11,
+      "discount_percent": 47,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-pip1000-r-16063",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2106684.jpg?v=1771853291",
+      "found_at": "2026-03-15T07:17:59.745382+00:00",
+      "price_history": [
+        {
+          "price": 45.0,
+          "original_price": 72.0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 62.54,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 43.0,
+          "original_price": 62.31,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 65.25,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 33.0,
+          "original_price": 65.16,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "9b8151948d87",
+      "title": "DeLonghi ECAM 21.117.B Magnifica S",
+      "price": 208.0,
+      "original_price": 323.74,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-ecam-21-117-b-magnifica-s-r-16477",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1652957_65a9ed48-ab05-4e11-b302-aa997d61e9b1.jpg?v=1773138346",
+      "found_at": "2026-03-15T07:17:53.264236+00:00",
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "8b5b15b118d0",
+      "title": "Sennheiser Accentum Wireless Zwart",
+      "price": 71.0,
+      "original_price": 125.42,
+      "discount_percent": 43,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sennheiser-accentum-wireless-zwart-r-16527",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1973807_b58f60d0-c739-41aa-805e-dd9f1397782d.jpg?v=1773138891",
+      "found_at": "2026-03-15T07:18:06.265372+00:00",
+      "approved_at": "15-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "58ea20ddacc3",
+      "title": "Canon EOS R50 + RF-S 18-45mm f/4.5-6.3 IS STM",
+      "price": 664.0,
+      "original_price": 865.49,
+      "discount_percent": 23,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/canon-eos-r50-rf-s-18-45mm-f-4-5-6-3-is-stm-r-16428",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1881163.jpg?v=1772546037",
+      "found_at": "2026-03-15T07:17:53.263889+00:00",
+      "price_history": [
+        {
+          "price": 718.0,
+          "original_price": 859.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 836.0,
+          "original_price": 892.14,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 809.0,
+          "original_price": 879.74,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 758.0,
+          "original_price": 886.64,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 664.0,
+          "original_price": 865.49,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        }
+      ],
+      "approved_at": "15-03-2026 08:21",
       "auto_approved": true
     }
   ]
