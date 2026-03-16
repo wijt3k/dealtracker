@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-16T15:29:34.701369+00:00",
-  "total": 300,
+  "updated_at": "2026-03-16T15:29:36.765292+00:00",
+  "total": 297,
   "deals": [
     {
       "id": "d8aa81a42180",
@@ -275,33 +275,6 @@
       "auto_approved": true
     },
     {
-      "id": "49829f818b6d",
-      "title": "Eufy Omni E25",
-      "price": 399.0,
-      "original_price": 829.63,
-      "discount_percent": 51,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/eufy-omni-e25-r-16478",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2181108_7aa61ff7-c98f-4f34-8feb-68820925c016.jpg?v=1773138367",
-      "found_at": "2026-03-12T15:25:02.719847+00:00",
-      "price_history": [
-        {
-          "price": 379.0,
-          "original_price": 820.28,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 399.0,
-          "original_price": 829.63,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
       "id": "4a3fa0666735",
       "title": "Apple iPhone 15 Pro Max 256GB White Titanium",
       "price": 683.0,
@@ -382,21 +355,6 @@
           "scraped_at": "2026-03-14T11:00:26.675190+00:00"
         }
       ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
-      "id": "936e5e21d5bb",
-      "title": "Dreame Matrix 10 Ultra White",
-      "price": 794.0,
-      "original_price": 1305.77,
-      "discount_percent": 39,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-matrix-10-ultra-white-r-16549",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209492_2c7f0de9-7bb0-4f66-af04-27a44f314bca.jpg?v=1773139154",
-      "found_at": "2026-03-12T15:24:59.209361+00:00",
       "approved_at": "16-03-2026 16:29",
       "auto_approved": true
     },
@@ -3177,43 +3135,6 @@
           "price": 179.0,
           "original_price": 336.74,
           "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
-      "id": "221f550ee31e",
-      "title": "OnePlus Watch 2 Black Steel",
-      "price": 109.0,
-      "original_price": 226.62,
-      "discount_percent": 51,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oneplus-watch-2-black-steel-r-15969",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2031846.jpg?v=1771248966",
-      "found_at": "2026-03-12T15:25:09.480873+00:00",
-      "price_history": [
-        {
-          "price": 167.0,
-          "original_price": 226.39,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 161.0,
-          "original_price": 229.65,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 141.0,
-          "original_price": 225.01,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 109.0,
-          "original_price": 225.01,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
         }
       ],
       "approved_at": "16-03-2026 16:29",
