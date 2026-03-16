@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-16T20:01:21.347344+00:00",
-  "total": 300,
+  "updated_at": "2026-03-16T20:01:25.317021+00:00",
+  "total": 293,
   "deals": [
     {
       "id": "d8aa81a42180",
@@ -1058,58 +1058,6 @@
           "price": 266.0,
           "original_price": 535.69,
           "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
-      "id": "ae05caeaf618",
-      "title": "Philips Shaver i9000 Prestige XP9208/30",
-      "price": 155.0,
-      "original_price": 367.33,
-      "discount_percent": 57,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-xp9208-30-r-16084",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2181494_ffb9ba74-ae39-4fb4-8e06-bab7decdf3b6.jpg?v=1771935546",
-      "found_at": "2026-03-12T19:16:23.570228+00:00",
-      "price_history": [
-        {
-          "price": 263.0,
-          "original_price": 289.0,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 229.0,
-          "original_price": 366.22,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 221.0,
-          "original_price": 363.99,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 186.0,
-          "original_price": 360.66,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 207.0,
-          "original_price": 366.66,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 202.0,
-          "original_price": 367.33,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 155.0,
-          "original_price": 367.33,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
         }
       ],
       "approved_at": "16-03-2026 16:29",
@@ -2330,21 +2278,6 @@
         }
       ],
       "approved_at": "16-03-2026 13:07",
-      "auto_approved": true
-    },
-    {
-      "id": "8b5dbfd3bc5e",
-      "title": "Samsung Galaxy Book4 NP750XGK-KG1NL QWERTY",
-      "price": 474.0,
-      "original_price": 757.88,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-book4-np750xgk-kg1nl-qwerty-r-16464",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176964.jpg?v=1773138230",
-      "found_at": "2026-03-12T19:16:23.571390+00:00",
-      "approved_at": "16-03-2026 16:29",
       "auto_approved": true
     },
     {
@@ -4832,48 +4765,6 @@
       "auto_approved": true
     },
     {
-      "id": "1f1341aa8597",
-      "title": "Sony WF-1000XM5 Zwart",
-      "price": 119.0,
-      "original_price": 211.99,
-      "discount_percent": 43,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wf-1000xm5-zwart-r-16101",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1945467_b854912c-313d-4c4f-b1a7-b2267e9399da.jpg?v=1771935641",
-      "found_at": "2026-03-12T19:16:26.803885+00:00",
-      "price_history": [
-        {
-          "price": 184.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 183.0,
-          "original_price": 216.69,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 177.0,
-          "original_price": 215.38,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 155.0,
-          "original_price": 211.49,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 119.0,
-          "original_price": 211.99,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
       "id": "b0f260d2cd7f",
       "title": "Amazfit GTR 2 46mm Smartwatch mit Bluetooth-Anrufe, 3 GB Musikspeicher, Sportuhr mit 90 Sportmodi, Herzfrequenz- und SpO2-Überwachung, works with Alexa",
       "price": 67.69,
@@ -4984,21 +4875,6 @@
         }
       ],
       "approved_at": "16-03-2026 13:07",
-      "auto_approved": true
-    },
-    {
-      "id": "e836e6acfbf9",
-      "title": "Sony PlayStation VR2",
-      "price": 298.0,
-      "original_price": 453.29,
-      "discount_percent": 34,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-playstation-vr2-r-16530",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1914235_15a16ee5-f2df-4d34-a332-03f4e9fa4840.jpg?v=1773138933",
-      "found_at": "2026-03-12T19:16:26.803745+00:00",
-      "approved_at": "16-03-2026 16:29",
       "auto_approved": true
     },
     {
@@ -5341,53 +5217,6 @@
         }
       ],
       "approved_at": "15-03-2026 08:21",
-      "auto_approved": true
-    },
-    {
-      "id": "acfcee371d99",
-      "title": "Samsung Galaxy Tab S9 Book Cover Keyboard Slim Black QWERTY",
-      "price": 62.0,
-      "original_price": 116.96,
-      "discount_percent": 46,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-tab-s9-book-cover-keyboard-slim-black-qwerty-r-15882",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1949243.jpg?v=1771248555",
-      "found_at": "2026-03-12T19:16:23.571811+00:00",
-      "price_history": [
-        {
-          "price": 106.0,
-          "original_price": 107.23,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 93.0,
-          "original_price": 116.33,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        },
-        {
-          "price": 71.0,
-          "original_price": 114.96,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 68.0,
-          "original_price": 115.51,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 57.0,
-          "original_price": 119.96,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 62.0,
-          "original_price": 115.85,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
       "auto_approved": true
     },
     {
@@ -7027,39 +6856,6 @@
       "auto_approved": true
     },
     {
-      "id": "9305763d5fad",
-      "title": "JBL Quantum 910X draadloze Bluetooth-gaming headset in zwart - Met opklapbare microfoon, voor Xbox, compatibel met andere platforms en 39 uur batterijduur",
-      "price": 114.6,
-      "original_price": 177.94,
-      "discount_percent": 36,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BXLGVDYF?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71TIeFNDcgL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-12T19:07:55.658807+00:00",
-      "price_history": [
-        {
-          "price": 116.54,
-          "original_price": 269.0,
-          "scraped_at": "2026-03-02T15:00:29.801790+00:00"
-        },
-        {
-          "price": 119.74,
-          "original_price": 170.72,
-          "scraped_at": "2026-03-07T19:00:22.972597+00:00"
-        },
-        {
-          "price": 113.96,
-          "original_price": 349.99,
-          "scraped_at": "2026-03-12T19:00:31.891285+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true,
-      "refreshed_at": "2026-03-15T15:18:51.646469+00:00"
-    },
-    {
       "id": "80f646077749",
       "title": "Garmin Venu Sq 2 Music Zwart",
       "price": 197.0,
@@ -8304,34 +8100,6 @@
       ],
       "approved_at": "15-03-2026 20:25",
       "auto_approved": true
-    },
-    {
-      "id": "ad9dbd520eb4",
-      "title": "DOOGEE S Cyber Rugged 4G Téléphones Portables Débloqués, 20GB + 256GB, Batteria 10800mAh / 18W, 50MP + 16MP Smartphones, 6,58 pollici, IP68/ IP69K/ 4G Dual SIM/NFC Rouge",
-      "price": 210.7,
-      "original_price": 210.7,
-      "discount_percent": 54,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D7ZJC348?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/711gbZvwRlL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-12T19:05:11.903987+00:00",
-      "price_history": [
-        {
-          "price": 179.99,
-          "original_price": 210.7,
-          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
-        },
-        {
-          "price": 96.52,
-          "original_price": 210.7,
-          "scraped_at": "2026-03-12T19:00:31.891285+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true,
-      "refreshed_at": "2026-03-15T15:20:00.318039+00:00"
     },
     {
       "id": "38d3b104c749",
