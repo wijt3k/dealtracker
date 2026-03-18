@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-18T11:29:21.600350+00:00",
-  "total": 299,
+  "updated_at": "2026-03-18T15:23:26.209648+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d8aa81a42180",
@@ -2306,6 +2306,63 @@
       "auto_approved": true
     },
     {
+      "id": "e52b2039d61b",
+      "title": "LG DS80QY",
+      "price": 347.0,
+      "original_price": 607.95,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds80qy-r-16368",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1750436_18deee2a-88dd-46f5-b065-50b4f5b9fcd9.jpg?v=1772441574",
+      "found_at": "2026-03-18T15:19:42.648209+00:00",
+      "price_history": [
+        {
+          "price": 324.0,
+          "original_price": 429.0,
+          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
+        },
+        {
+          "price": 597.0,
+          "original_price": 644.25,
+          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
+        },
+        {
+          "price": 532.0,
+          "original_price": 638.63,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 597.0,
+          "original_price": 642.78,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 577.0,
+          "original_price": 642.78,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 506.0,
+          "original_price": 621.63,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 451.0,
+          "original_price": 607.95,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 347.0,
+          "original_price": 607.95,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
+    },
+    {
       "id": "c94e04bfc1ee",
       "title": "Philips Airfryer XXL NA352/00",
       "price": 67.0,
@@ -2717,6 +2774,21 @@
       "auto_approved": true
     },
     {
+      "id": "229cd414fa8e",
+      "title": "Blackview BV5300Pro Mobiele Telefoon, onbreekbaar, Android 12, 7 GB + 64 GB ROM/TF-1 TB, 6580 mAh accu, 13 MP + 8 MP camera, 6,1 inch HD + onbreekbare smartphone, Dual SIM/Face ID/NFC/GPS/2 jaar",
+      "price": 67.44,
+      "original_price": 164.03,
+      "discount_percent": 58,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BZRVGTHY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61zqGV4BHdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-18T15:06:04.251654+00:00",
+      "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
+    },
+    {
       "id": "4db7c239e539",
       "title": "AOC 24P2Q",
       "price": 65.0,
@@ -2987,6 +3059,33 @@
         }
       ],
       "approved_at": "16-03-2026 16:29",
+      "auto_approved": true
+    },
+    {
+      "id": "eca586fdacb7",
+      "title": "HUAWEI WATCH FIT 4 Smartwatch, 100+ trainingsmodi, ultradunne behuizing, GPS-tracking, Tot 10 dagen batterijduur, Bellen via Bluetooth, Voor Android en iOS, Verlengde garantie van 6 maanden, Wit",
+      "price": 72.83,
+      "original_price": 169.0,
+      "discount_percent": 56,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F29YLDZ7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71MdwXnWjRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-18T15:11:02.143399+00:00",
+      "price_history": [
+        {
+          "price": 76.69,
+          "original_price": 119.99,
+          "scraped_at": "2026-03-12T15:00:30.412229+00:00"
+        },
+        {
+          "price": 72.83,
+          "original_price": 169.0,
+          "scraped_at": "2026-03-18T15:00:22.774460+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
       "auto_approved": true
     },
     {
@@ -3393,6 +3492,38 @@
         }
       ],
       "approved_at": "16-03-2026 16:29",
+      "auto_approved": true
+    },
+    {
+      "id": "3e314273ac25",
+      "title": "Sony WH1000XM4 Noise Cancelling draadloze Bluetooth headset (geoptimaliseerd voor Alexa en Google Assistant, 30 uur batterijduur, optimaal voor werken thuis, microfoon voor handsfree bellen) zwart",
+      "price": 205.67,
+      "original_price": 369.9,
+      "discount_percent": 44,
+      "category": "audio",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08C7KG5LP?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51QIvrWaijL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-18T15:17:29.775402+00:00",
+      "price_history": [
+        {
+          "price": 206.15,
+          "original_price": null,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 199.99,
+          "original_price": 369.9,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 205.67,
+          "original_price": 369.9,
+          "scraped_at": "2026-03-18T15:00:22.774460+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
       "auto_approved": true
     },
     {
@@ -4807,6 +4938,33 @@
         }
       ],
       "approved_at": "16-03-2026 16:29",
+      "auto_approved": true
+    },
+    {
+      "id": "9c93d467da48",
+      "title": "DOOGEE T20 Ultra Tablet Android 13, 12 inch, 32 GB + 256 GB (TF 2 TB) Helio G99 Octa-Core Touchtablet, 10800 mAh, display 2,4 K, 16 MP + 8 MP, 4G LTE /5G WiFi Gaming-tablet, GMS/GPS/Widevine L1",
+      "price": 184.78,
+      "original_price": 312.88,
+      "discount_percent": 40,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CKZ2F3V3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71gLaUKyuQL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-18T15:03:29.523893+00:00",
+      "price_history": [
+        {
+          "price": 192.2,
+          "original_price": null,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 184.78,
+          "original_price": 312.88,
+          "scraped_at": "2026-03-18T15:00:22.774460+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
       "auto_approved": true
     },
     {
@@ -6584,6 +6742,43 @@
       "auto_approved": true
     },
     {
+      "id": "d559c6c54f0f",
+      "title": "LG DS60TR",
+      "price": 177.0,
+      "original_price": 282.15,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds60tr-r-16441",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2039438_15dfa2e0-35a5-4a0c-913d-e3120dcb874f.jpg?v=1773137940",
+      "found_at": "2026-03-18T15:19:39.243760+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 272.41,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 219.0,
+          "original_price": 278.45,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        },
+        {
+          "price": 212.0,
+          "original_price": 283.83,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 177.0,
+          "original_price": 282.15,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
+    },
+    {
       "id": "53bfb4344bf6",
       "title": "Motorola PIP1000",
       "price": 33.0,
@@ -7553,6 +7748,43 @@
       "auto_approved": true
     },
     {
+      "id": "46f06530ef2f",
+      "title": "Apple iMac 24\" (2024) M4 (8/8) 16GB/256GB Blauw QWERTZ",
+      "price": 1072.0,
+      "original_price": 1295.0,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2024-m4-8-8-16gb-256gb-blauw-qwertz-r-16445",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2112531.jpg?v=1773137992",
+      "found_at": "2026-03-18T15:19:32.187794+00:00",
+      "price_history": [
+        {
+          "price": 1168.0,
+          "original_price": 1389.54,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 1110.0,
+          "original_price": 1365.47,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 1168.0,
+          "original_price": 1327.99,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        },
+        {
+          "price": 1072.0,
+          "original_price": 1295.0,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
+    },
+    {
       "id": "72d6e17c9140",
       "title": "I-tec USB-C en USB-A Docking Station Thunderbolt 3 en 4K 70W",
       "price": 120.0,
@@ -7638,6 +7870,43 @@
       "image": "https://m.media-amazon.com/images/I/51KIFciK99L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-17T15:06:49.468893+00:00",
       "approved_at": "17-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
+      "id": "4f225d51f3f9",
+      "title": "Philips Sonicare DiamondClean Smart 9400 HX9918/89",
+      "price": 175.0,
+      "original_price": 266.12,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-sonicare-diamondclean-smart-9400-hx9918-89-r-16518",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2088892_b2b77468-1769-4316-ae6f-dc9736ffb4ab.jpg?v=1773138778",
+      "found_at": "2026-03-18T15:19:45.817341+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 219.87,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 182.0,
+          "original_price": 209.87,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 181.0,
+          "original_price": 227.37,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 233.67,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
       "auto_approved": true
     },
     {
@@ -8287,6 +8556,48 @@
       "auto_approved": true
     },
     {
+      "id": "310186f53d20",
+      "title": "Jabra Evolve2 65 Draadloze Headset – UC-gecertificeerde Stereokoptelefoon met Noise Cancelling en Lange Batterijduur – USB-A Bluetooth Adapter – Zwart",
+      "price": 92.05,
+      "original_price": 145.57,
+      "discount_percent": 36,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B086M57V71?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61xWY7Q+-FL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-18T15:09:06.955180+00:00",
+      "price_history": [
+        {
+          "price": 85.98,
+          "original_price": 150.61,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 84.44,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        },
+        {
+          "price": 82.12,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 82.3,
+          "original_price": 338.51,
+          "scraped_at": "2026-03-13T07:00:41.087994+00:00"
+        },
+        {
+          "price": 92.05,
+          "original_price": 145.57,
+          "scraped_at": "2026-03-18T15:00:22.774460+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
+    },
+    {
       "id": "0ebd09d5cac0",
       "title": "Makita DUR193Z (zonder accu) Accugrastrimmer",
       "price": 62.0,
@@ -8463,6 +8774,58 @@
           "scraped_at": "2026-03-16T11:00:25.232648+00:00"
         }
       ]
+    },
+    {
+      "id": "da96923d93a2",
+      "title": "LG DS80QY",
+      "price": 463.0,
+      "original_price": 607.95,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds80qy-r-16387",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1750436_c422a614-fd8e-41d1-aba5-08839cea5069.jpg?v=1772545462",
+      "found_at": "2026-03-18T15:19:42.648307+00:00",
+      "price_history": [
+        {
+          "price": 320.0,
+          "original_price": 873.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 571.0,
+          "original_price": 642.78,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 509.0,
+          "original_price": 638.63,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 571.0,
+          "original_price": 642.78,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 551.0,
+          "original_price": 642.78,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 519.0,
+          "original_price": 621.63,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 463.0,
+          "original_price": 607.95,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        }
+      ],
+      "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
     },
     {
       "id": "23a5f27a4698",
@@ -10213,382 +10576,6 @@
         }
       ],
       "approved_at": "15-03-2026 20:25",
-      "auto_approved": true
-    },
-    {
-      "id": "f8c7d463e5bf",
-      "title": "Microsoft Surface Pro 11 Snapdragon X Elite / 16GB / 512GB D",
-      "price": 1601.0,
-      "original_price": 1799.0,
-      "discount_percent": 11,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/microsoft-surface-pro-11-snapdragon-x-elite-16gb-512gb-d-r-16301",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117561.jpg?v=1772544912",
-      "found_at": "2026-03-16T15:25:44.427477+00:00",
-      "price_history": [
-        {
-          "price": 1123.0,
-          "original_price": 1429.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 1461.0,
-          "original_price": 1707.33,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 1655.0,
-          "original_price": 1718.49,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 1601.0,
-          "original_price": 1799.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
-      "id": "0691b01c65ae",
-      "title": "Dyson Airwrap Long Diffuse Multistyler",
-      "price": 951.0,
-      "original_price": 1119.0,
-      "discount_percent": 15,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-long-diffuse-multistyler-r-15942",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1981291_52ddc8e9-54a8-45ed-831d-aaba49388dfd.jpg?v=1771334271",
-      "found_at": "2026-03-15T19:21:14.036866+00:00",
-      "price_history": [
-        {
-          "price": 378.0,
-          "original_price": 624.48,
-          "discount_percent": 39,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 365.0,
-          "original_price": 624.48,
-          "discount_percent": 41,
-          "scraped_at": "2026-02-23T11:02:56.279176+00:00"
-        },
-        {
-          "price": 696.0,
-          "original_price": 819.0,
-          "discount_percent": 15,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 849.0,
-          "original_price": 999.0,
-          "discount_percent": 15,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 951.0,
-          "original_price": 1119.0,
-          "discount_percent": 15,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ],
-      "approved_at": "15-03-2026 20:25",
-      "auto_approved": true
-    },
-    {
-      "id": "38d3b104c749",
-      "title": "Garmin Venu 3 Zwart",
-      "price": 302.0,
-      "original_price": 399.45,
-      "discount_percent": 24,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-venu-3-zwart-r-16285",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1961266_98c37b05-cc4e-4cc4-b1c7-e45f5294e26d.jpg?v=1772544733",
-      "found_at": "2026-03-15T19:21:14.038098+00:00",
-      "price_history": [
-        {
-          "price": 296.0,
-          "original_price": 396.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 302.0,
-          "original_price": 402.3,
-          "discount_percent": 24,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 283.0,
-          "original_price": 413.82,
-          "discount_percent": 31,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "15-03-2026 20:25",
-      "auto_approved": true
-    },
-    {
-      "id": "d4af8774400f",
-      "title": "Lenovo Tab Plus 8 GB 256 GB",
-      "price": 223.0,
-      "original_price": 304.6,
-      "discount_percent": 26,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-tab-plus-8-gb-256-gb-r-16374",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2078833.jpg?v=1772545275",
-      "found_at": "2026-03-15T19:21:20.368254+00:00",
-      "price_history": [
-        {
-          "price": 242.0,
-          "original_price": 380.0,
-          "discount_percent": 36,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 223.0,
-          "original_price": 307.91,
-          "discount_percent": 27,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 213.0,
-          "original_price": 304.6,
-          "discount_percent": 30,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "15-03-2026 20:25",
-      "auto_approved": true
-    },
-    {
-      "id": "4c256e6e75d6",
-      "title": "Withings ScanWatch Nova Brilliant Edition Titanium Silver",
-      "price": 445.0,
-      "original_price": 563.39,
-      "discount_percent": 21,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/withings-scanwatch-nova-brilliant-edition-titanium-silver-r-16282",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2116475.jpg?v=1772544702",
-      "found_at": "2026-03-16T15:25:48.045576+00:00",
-      "price_history": [
-        {
-          "price": 338.0,
-          "original_price": 519.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 477.0,
-          "original_price": 561.59,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 417.0,
-          "original_price": 547.59,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 460.0,
-          "original_price": 562.68,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 475.0,
-          "original_price": 567.99,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 417.0,
-          "original_price": 562.89,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 460.0,
-          "original_price": 560.66,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 445.0,
-          "original_price": 563.39,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
-      "auto_approved": true
-    },
-    {
-      "id": "d5e802884780",
-      "title": "Philips FC9334/09",
-      "price": 118.0,
-      "original_price": 168.86,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-fc9334-09-r-16401",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368745_fe78a800-7c86-4239-8457-fe70b688a3e5.jpg?v=1772545667",
-      "found_at": "2026-03-15T19:21:23.699634+00:00",
-      "price_history": [
-        {
-          "price": 106.0,
-          "original_price": 120.0,
-          "discount_percent": 11,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 130.0,
-          "original_price": 163.11,
-          "discount_percent": 20,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 125.0,
-          "original_price": 164.64,
-          "discount_percent": 24,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 168.86,
-          "discount_percent": 30,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        }
-      ],
-      "approved_at": "15-03-2026 20:25",
-      "auto_approved": true
-    },
-    {
-      "id": "f04674e419ef",
-      "title": "Sony PlayStation 5 Disk Edition Slim",
-      "price": 431.0,
-      "original_price": 548.98,
-      "discount_percent": 21,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-playstation-5-disk-edition-slim-r-16171",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1994458_47f9a262-180a-460b-9e54-e8992d8265f5.jpg?v=1771600108",
-      "found_at": "2026-03-15T19:21:27.148932+00:00",
-      "price_history": [
-        {
-          "price": 390.0,
-          "original_price": 572.5,
-          "discount_percent": 31,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 466.0,
-          "original_price": 569.47,
-          "discount_percent": 18,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 431.0,
-          "original_price": 548.98,
-          "discount_percent": 21,
-          "scraped_at": "2026-02-26T11:00:27.225864+00:00"
-        }
-      ],
-      "approved_at": "15-03-2026 20:25",
-      "auto_approved": true
-    },
-    {
-      "id": "4fa49c4761bd",
-      "title": "Sony PlayStation 5 Slim Disc Edition",
-      "price": 429.14,
-      "original_price": 546.49,
-      "discount_percent": 21,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-playstation-5-r-16415",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/PS5slim.jpg?v=1772787740",
-      "found_at": "2026-03-17T15:16:49.674389+00:00",
-      "price_history": [
-        {
-          "price": 499.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 469.06,
-          "original_price": 548.19,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 459.08,
-          "original_price": 537.68,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 454.09,
-          "original_price": 539.08,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 449.1,
-          "original_price": 539.5,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 444.11,
-          "original_price": 516.77,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 439.12,
-          "original_price": 515.65,
-          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
-        },
-        {
-          "price": 434.13,
-          "original_price": 514.25,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 429.14,
-          "original_price": 546.49,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        }
-      ],
-      "approved_at": "17-03-2026 16:19",
-      "auto_approved": true
-    },
-    {
-      "id": "8abd4039c3e0",
-      "title": "Asus VivoBook S 15 OLED S5507QA-MA006W QWERTY",
-      "price": 1011.0,
-      "original_price": 1178.3,
-      "discount_percent": 14,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/asus-vivobook-s-15-oled-s5507qa-ma006w-qwerty-r-16313",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2126289.jpg?v=1772544973",
-      "found_at": "2026-03-16T15:25:34.362827+00:00",
-      "price_history": [
-        {
-          "price": 902.0,
-          "original_price": 1299.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 1011.0,
-          "original_price": 1202.44,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        }
-      ],
-      "approved_at": "16-03-2026 16:29",
       "auto_approved": true
     }
   ]
