@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-21T11:16:41.665759+00:00",
-  "total": 298,
+  "updated_at": "2026-03-21T16:04:40.084022+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -4235,6 +4235,38 @@
       "auto_approved": true
     },
     {
+      "id": "cdbbc4fcf632",
+      "title": "Cubot TAB 50 Tablet 10,4\" 2K FHD+ 8GB 256GB 13MP camera 7500mAh batterij Android 13 OctaCore processor grijs",
+      "price": 110.14,
+      "original_price": 213.71,
+      "discount_percent": 48,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CXT6CWFK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61PdURBsOeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:14:29.810399+00:00",
+      "price_history": [
+        {
+          "price": 129.68,
+          "original_price": null,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 115.43,
+          "original_price": 213.71,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 110.14,
+          "original_price": 213.71,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
+    },
+    {
       "id": "8b5b15b118d0",
       "title": "Sennheiser Accentum Wireless Zwart",
       "price": 61.0,
@@ -4481,6 +4513,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133973_af50c647-a674-444c-8cef-3dcf15be0e72.jpg?v=1774019060",
       "found_at": "2026-03-20T15:20:36.848967+00:00",
       "approved_at": "20-03-2026 16:24",
+      "auto_approved": true
+    },
+    {
+      "id": "cb3fbaf0773a",
+      "title": "ASUS ROG Strix XG32WCMS USB Type-C Gaming Monitor – 32-inch (31.5 viewable) 2560x1440, Curved, 280Hz (Above 144Hz), 1ms (GTG), Fast VA, Extreme Low Motion Blur Sync, USB Type-C, tripod socket, HDR",
+      "price": 225.66,
+      "original_price": 374.01,
+      "discount_percent": 39,
+      "category": "gaming",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B086ZTDWST?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81oosCN47KL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:59:49.827611+00:00",
+      "price_history": [
+        {
+          "price": 288.92,
+          "original_price": null,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 280.35,
+          "original_price": null,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        },
+        {
+          "price": 275.46,
+          "original_price": null,
+          "scraped_at": "2026-03-06T07:00:17.651347+00:00"
+        },
+        {
+          "price": 270.59,
+          "original_price": null,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 241.07,
+          "original_price": 382.11,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 225.66,
+          "original_price": 374.01,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
       "auto_approved": true
     },
     {
@@ -4928,6 +5007,43 @@
           "scraped_at": "2026-03-19T11:00:23.069484+00:00"
         }
       ]
+    },
+    {
+      "id": "25c3a47317a4",
+      "title": "Xiaomi L83 Redmi Pad tablet, resolutie 1200 x 2000, beeldherhalingsfrequentie 90 Hz, kleur maanlichtzilver, 4 GB - 128 GB",
+      "price": 147.98,
+      "original_price": 254.39,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BG5JM9MJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/519MPcE+OmL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:17:43.015185+00:00",
+      "price_history": [
+        {
+          "price": 174.01,
+          "original_price": null,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 166.03,
+          "original_price": null,
+          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
+        },
+        {
+          "price": 158.06,
+          "original_price": null,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 147.98,
+          "original_price": 253.64,
+          "scraped_at": "2026-03-16T15:00:24.100941+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
     },
     {
       "id": "4c7346d815a7",
@@ -6890,6 +7006,43 @@
       "auto_approved": true
     },
     {
+      "id": "0ce9de8269a8",
+      "title": "Hikvision DS-2CD2T87G2P-LSU/SL(4mm) (C) Bullet bewakingscamera met 8 megapixels, tot 40 m verlichting, ColorVu camera met gekleurde beeldgebonden 's nachts door wit licht",
+      "price": 239.9,
+      "original_price": 350.0,
+      "discount_percent": 31,
+      "category": "camera",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09YS264T1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51PIAu+VHUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:58:16.368061+00:00",
+      "price_history": [
+        {
+          "price": 279.9,
+          "original_price": 302.35,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 279.0,
+          "original_price": 302.35,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 265.91,
+          "original_price": 350.0,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 239.9,
+          "original_price": 350.0,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
+    },
+    {
       "id": "02c29114c200",
       "title": "Philips BT9810/15",
       "price": 127.0,
@@ -8219,6 +8372,33 @@
       "auto_approved": true
     },
     {
+      "id": "95932eae47e7",
+      "title": "JBL Live 460NC draadloze on-ear Bluetooth-hoofdtelefoon in zwart – met noise-cancelling en spraakassistent – voor maximaal 50 uur muziekgenot",
+      "price": 50.04,
+      "original_price": 76.97,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08VD4XRCL?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/618LWCO9EfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:34:37.513178+00:00",
+      "price_history": [
+        {
+          "price": 52.35,
+          "original_price": 77.0,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 50.04,
+          "original_price": 76.97,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
+    },
+    {
       "id": "cb20a1d7767f",
       "title": "Polar VANTAGE V3 BLK/BLK S-L",
       "price": 406.0,
@@ -8576,6 +8756,43 @@
       "auto_approved": true
     },
     {
+      "id": "0e4d45bdc254",
+      "title": "SAMSUNG Galaxy A14 SM-A145R/DSN 16.8 cm (6.6) Dual SIM Android 13 4G USB Type-C 4 GB 64 GB 5000 mAh Zwart",
+      "price": 113.04,
+      "original_price": 158.99,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BWS8CVVH?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51RWgZKi+kL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:32:42.403342+00:00",
+      "price_history": [
+        {
+          "price": 115.78,
+          "original_price": 158.99,
+          "scraped_at": "2026-03-06T07:00:17.651347+00:00"
+        },
+        {
+          "price": 113.83,
+          "original_price": 158.99,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 111.88,
+          "original_price": 158.99,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 113.04,
+          "original_price": 158.99,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
+    },
+    {
       "id": "f23330ac2d03",
       "title": "Skullcandy Crusher Evo Draadloze over-ear koptelefoon met Sensory Bass, een accuduur van 40 uur, microfoon, ondersteuning voor iPhone/Android- en Bluetooth-apparaten – Zwart",
       "price": 112.77,
@@ -8774,6 +8991,48 @@
       "auto_approved": true
     },
     {
+      "id": "3ee1173e02ae",
+      "title": "Logitech Zone Vibe 100 lichte draadloze over ear koptelefoon met ruisonderdrukkende microfoon, Advanced Multipoint Bluetooth koptelefoon, werkt met Teams, Google Meet, Zoom, Mac/PC - Grijs",
+      "price": 52.99,
+      "original_price": 75.59,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07W7JYN4P?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71sTJ38K8+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:35:31.621667+00:00",
+      "price_history": [
+        {
+          "price": 55.07,
+          "original_price": 84.99,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        },
+        {
+          "price": 56.22,
+          "original_price": 75.59,
+          "scraped_at": "2026-03-05T19:00:23.323326+00:00"
+        },
+        {
+          "price": 53.53,
+          "original_price": 84.99,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 53.84,
+          "original_price": 75.59,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 52.99,
+          "original_price": 75.59,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
+    },
+    {
       "id": "18575433b02f",
       "title": "Oral-B iO N5 Black",
       "price": 91.0,
@@ -8786,6 +9045,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1777626_fe301c6b-17ab-448d-bc14-05965625d6bb.jpg?v=1773749616",
       "found_at": "2026-03-19T19:17:02.373757+00:00",
       "approved_at": "19-03-2026 20:21",
+      "auto_approved": true
+    },
+    {
+      "id": "2ea187d52140",
+      "title": "POCO M3 Pro Smartphone Dual 5G - RAM 4GB ROM 64GB MediaTek Dimensity 700, 6.5\" 90Hz FHD+ DotDisplay Screen, 5000mAh (typ) Battery, 48MP Triple Camera with AI (Global Version)(Cool Blue)",
+      "price": 84.46,
+      "original_price": 115.99,
+      "discount_percent": 27,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0943KWWG2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51OOWkEwvGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:28:48.001744+00:00",
+      "price_history": [
+        {
+          "price": 93.58,
+          "original_price": 121.99,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 90.62,
+          "original_price": 121.99,
+          "scraped_at": "2026-03-06T07:00:17.651347+00:00"
+        },
+        {
+          "price": 87.66,
+          "original_price": 121.99,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 84.46,
+          "original_price": 115.99,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
       "auto_approved": true
     },
     {
@@ -9266,6 +9562,21 @@
       "auto_approved": true
     },
     {
+      "id": "be466d9631f0",
+      "title": "HUAWEI FreeArc open-ear Koptelefoon, Bluetooth Koptelefoon, Exceptioneel geluid, IP57 waterbestendig, Sport Koptelefoon, Ultrastabiele gesprekken, Batterijduur tot 28 uur, iOS & Android, Groen",
+      "price": 56.09,
+      "original_price": 73.49,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DTHSR37N?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51uVjt29TGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:36:20.723293+00:00",
+      "approved_at": "21-03-2026 17:04",
+      "auto_approved": true
+    },
+    {
       "id": "059a233a88bc",
       "title": "GARMIN VIVOSMART 5 S/M Mint met siliconen- verwisselbare polsband",
       "price": 111.45,
@@ -9508,6 +9819,33 @@
         }
       ],
       "approved_at": "19-03-2026 20:21",
+      "auto_approved": true
+    },
+    {
+      "id": "c16e5380a8ce",
+      "title": "realme C71 5G Smartphone, 6 + 128 GB, 6000 mAh batterij, 45 W opladen, Octa-Core chipset, 50 MP AI-camera, 24 GB dynamisch RAM, 120 Hz display, schokbestendigheid, dagelijkse waterbestendigheid",
+      "price": 101.64,
+      "original_price": 128.6,
+      "discount_percent": 20,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F9L27VX6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71aZ-IMN-wL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-21T15:31:41.071998+00:00",
+      "price_history": [
+        {
+          "price": 104.49,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 101.64,
+          "original_price": 128.6,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        }
+      ],
+      "approved_at": "21-03-2026 17:04",
       "auto_approved": true
     },
     {
@@ -10081,258 +10419,6 @@
         }
       ],
       "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "bb0f17365d0c",
-      "title": "Clean Air Optima CA-704",
-      "price": 266.0,
-      "original_price": 310.93,
-      "discount_percent": 14,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/clean-air-optima-ca-704-r-16488",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1409376_05a8de38-0d2f-43b8-92a9-4cc9404da54b.jpg?v=1773138516",
-      "found_at": "2026-03-19T19:16:51.748786+00:00",
-      "price_history": [
-        {
-          "price": 275.0,
-          "original_price": 305.63,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 266.0,
-          "original_price": 308.94,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "a4453e599304",
-      "title": "Logitech G 02 Lightspeed Wireless Gaming Mouse",
-      "price": 151.0,
-      "original_price": 180.72,
-      "discount_percent": 16,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-02-lightspeed-wireless-gaming-mouse-r-16507",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1438022_5a70f6bf-517a-4953-a4b6-648fe9866c34.jpg?v=1773138654",
-      "found_at": "2026-03-21T11:13:10.873561+00:00",
-      "price_history": [
-        {
-          "price": 170.0,
-          "original_price": 198.43,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": 188.78,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 176.0,
-          "original_price": 201.44,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 172.0,
-          "original_price": 187.44,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 166.0,
-          "original_price": 187.44,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 160.0,
-          "original_price": 180.72,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": 180.72,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        }
-      ],
-      "approved_at": "21-03-2026 12:16",
-      "auto_approved": true
-    },
-    {
-      "id": "bf0bc097f19f",
-      "title": "POCO C85 6+128 Purple (No power adapter included)",
-      "price": 90.12,
-      "original_price": 109.9,
-      "discount_percent": 17,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FHQHML5J?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61dpbkZxGYL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-21T07:05:53.830993+00:00",
-      "approved_at": "21-03-2026 08:28",
-      "auto_approved": true
-    },
-    {
-      "id": "cf5693af1991",
-      "title": "Imou 2.5K (4MP) WiFi Bewakingscamera Buiten PTZ, 360° IP Camera Buiten WiFi, Kleur Nachtzicht tot 30M, AI Mensdetectie, Slimme Volgfunctie, IP66 Waterdicht, Bidirectionele Audio, Sirene",
-      "price": 50.04,
-      "original_price": 61.4,
-      "discount_percent": 18,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CWNMWNP6?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/610ftm2d2JL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-21T11:08:30.594893+00:00",
-      "approved_at": "21-03-2026 12:16",
-      "auto_approved": true
-    },
-    {
-      "id": "621016c93754",
-      "title": "Rowenta X-Ô 70 IX7757",
-      "price": 506.0,
-      "original_price": 569.39,
-      "discount_percent": 11,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/rowenta-x-o-70-ix7757-r-16342",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1719918.jpg?v=1773137903",
-      "found_at": "2026-03-19T19:17:02.375639+00:00",
-      "price_history": [
-        {
-          "price": 510.0,
-          "original_price": 554.71,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 521.0,
-          "original_price": 566.95,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 524.0,
-          "original_price": 569.79,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 507.0,
-          "original_price": 569.66,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 435.0,
-          "original_price": 529.26,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 506.0,
-          "original_price": 569.39,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "84570af65620",
-      "title": "Eufy E10 T8D03321",
-      "price": 108.0,
-      "original_price": 129.0,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/eufy-e10-t8d03321-r-16455",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2180381_b51c5033-6120-436b-b984-c87a994cb1c8.jpg?v=1773138094",
-      "found_at": "2026-03-21T11:13:04.713710+00:00",
-      "price_history": [
-        {
-          "price": 91.0,
-          "original_price": 109.0,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 105.0,
-          "original_price": 119.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 110.0,
-          "original_price": 126.5,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 129.0,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 129.0,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        }
-      ],
-      "approved_at": "21-03-2026 12:16",
-      "auto_approved": true
-    },
-    {
-      "id": "2e85ba4b00ad",
-      "title": "MSI G24C4 E2",
-      "price": 148.0,
-      "original_price": 174.99,
-      "discount_percent": 15,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-g24c4-e2-r-16475",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985651_641303f9-bbc1-4be6-9298-bac1b29cbba6.jpg?v=1773138340",
-      "found_at": "2026-03-19T19:16:59.241605+00:00",
-      "price_history": [
-        {
-          "price": 153.0,
-          "original_price": 175.0,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 148.0,
-          "original_price": 174.99,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "bdee309d9022",
-      "title": "Philips Series 9000 20-in-1 MG9557/15",
-      "price": 86.0,
-      "original_price": 102.87,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-9000-20-in-1-mg9557-15-r-16619",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224812_945f88f8-2d9e-4827-8468-b7445d4ba2bb.jpg?v=1773749828",
-      "found_at": "2026-03-20T19:14:17.582701+00:00",
-      "price_history": [
-        {
-          "price": 95.0,
-          "original_price": 103.87,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 86.0,
-          "original_price": 102.87,
-          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
-        }
-      ],
-      "approved_at": "20-03-2026 20:18",
       "auto_approved": true
     }
   ]
