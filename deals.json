@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-22T08:01:04.601293+00:00",
-  "total": 300,
+  "updated_at": "2026-03-22T08:01:06.908252+00:00",
+  "total": 288,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -655,43 +655,6 @@
           "scraped_at": "2026-03-19T11:00:23.069484+00:00"
         }
       ]
-    },
-    {
-      "id": "457f3182a630",
-      "title": "Apple iPad Pro (2024) Nano 11 inch 2 TB Wifi Zilver",
-      "price": 1293.0,
-      "original_price": 2073.92,
-      "discount_percent": 37,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-nano-11-inch-2-tb-wifi-zilver-r-15901",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049123_0c6df5b3-c089-4999-b488-9097627524ec.jpg?v=1770889235",
-      "found_at": "2026-03-18T07:18:00.945321+00:00",
-      "price_history": [
-        {
-          "price": 1207.0,
-          "original_price": 1776.74,
-          "scraped_at": "2026-02-27T11:00:27.337062+00:00"
-        },
-        {
-          "price": 1293.0,
-          "original_price": 2139.92,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 1379.0,
-          "original_price": 1810.11,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 1293.0,
-          "original_price": 2073.45,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
     },
     {
       "id": "a341f661ba53",
@@ -1838,63 +1801,6 @@
       "auto_approved": true
     },
     {
-      "id": "88b0e0fd953b",
-      "title": "Philips Lumea Prestige BRI947/00",
-      "price": 206.0,
-      "original_price": 430.6,
-      "discount_percent": 52,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-lumea-prestige-bri947-00-r-16148",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1767373_b39471ba-ee73-40ac-89b2-f6e1f43e4243.jpg?v=1771935978",
-      "found_at": "2026-03-18T07:18:10.929232+00:00",
-      "price_history": [
-        {
-          "price": 362.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 402.0,
-          "original_price": 414.8,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 389.0,
-          "original_price": 413.64,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 310.0,
-          "original_price": 392.51,
-          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
-        },
-        {
-          "price": 272.0,
-          "original_price": 383.92,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 321.0,
-          "original_price": 419.75,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 247.0,
-          "original_price": 420.93,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 206.0,
-          "original_price": 430.6,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
       "id": "f033b1d660bd",
       "title": "Dreame X50 Black",
       "price": 577.0,
@@ -1921,48 +1827,6 @@
           "price": 577.0,
           "original_price": 909.0,
           "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "2e8de654e14f",
-      "title": "Dreame L50 Pro Ultra",
-      "price": 586.0,
-      "original_price": 909.48,
-      "discount_percent": 35,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-l50-pro-ultra-r-16351",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2138692_333b5126-9630-4eeb-99b2-bd9446983c30.jpg?v=1772198704",
-      "found_at": "2026-03-18T07:18:04.931621+00:00",
-      "price_history": [
-        {
-          "price": 766.53,
-          "original_price": 828.0,
-          "scraped_at": "2026-02-27T15:00:19.932298+00:00"
-        },
-        {
-          "price": 747.0,
-          "original_price": 1000.46,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 721.0,
-          "original_price": 981.2,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 711.0,
-          "original_price": 885.24,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 586.0,
-          "original_price": 909.0,
-          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
         }
       ],
       "approved_at": "19-03-2026 20:21",
@@ -3880,33 +3744,6 @@
       "auto_approved": true
     },
     {
-      "id": "637ead32b0c5",
-      "title": "Oral-B iO 9n Rozenkwarts en Onyx Zwart Duo Pack Speciale Editie",
-      "price": 244.0,
-      "original_price": 419.95,
-      "discount_percent": 41,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-9n-rozenkwarts-en-onyx-zwart-duo-pack-speciale-editie-r-16505",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1799001.jpg?v=1773138647",
-      "found_at": "2026-03-18T07:18:10.928379+00:00",
-      "price_history": [
-        {
-          "price": 403.0,
-          "original_price": 453.4,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 244.0,
-          "original_price": 426.86,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
       "id": "b88452ddb207",
       "title": "SteelSeries Arctis GameBuds Zwart",
       "price": 72.0,
@@ -4141,88 +3978,6 @@
         }
       ],
       "approved_at": "19-03-2026 08:29",
-      "auto_approved": true
-    },
-    {
-      "id": "dbd8ae3fceb1",
-      "title": "Dyson V15 Detect Absolute",
-      "price": 475.0,
-      "original_price": 699.94,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-v15-detect-absolute-r-16468",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1621996.jpg?v=1773138283",
-      "found_at": "2026-03-18T07:18:04.932268+00:00",
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "13e67e19b91f",
-      "title": "Sony ULT Field 1 Zwart",
-      "price": 42.0,
-      "original_price": 94.23,
-      "discount_percent": 55,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-ult-field-1-zwart-r-16068",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2040824_4d4ddf7c-8913-40d4-82a7-806809e31cd7.jpg?v=1771935449",
-      "found_at": "2026-03-18T07:18:14.019644+00:00",
-      "price_history": [
-        {
-          "price": 94.0,
-          "original_price": 109.0,
-          "scraped_at": "2026-02-24T15:18:47.139882+00:00"
-        },
-        {
-          "price": 63.0,
-          "original_price": 85.28,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 105.55,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 53.0,
-          "original_price": 85.11,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 57.0,
-          "original_price": 90.76,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 66.0,
-          "original_price": 92.64,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 92.71,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 91.33,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 91.64,
-          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
-        },
-        {
-          "price": 42.0,
-          "original_price": 94.23,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
       "auto_approved": true
     },
     {
@@ -4581,29 +4336,6 @@
       "auto_approved": true
     },
     {
-      "id": "1d084179ef43",
-      "title": "Logicom - EZY 2 - Smartphone 4G Dual SIM Android - Batterij 2000mAh Li-Ion - 16GB",
-      "price": 53.23,
-      "original_price": 109.99,
-      "discount_percent": 51,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FC2P5F3Z?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71jt9wsiCPL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-18T07:06:12.784437+00:00",
-      "approved_at": "18-03-2026 08:21",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 53.23,
-          "original_price": 109.99,
-          "discount_percent": 51,
-          "scraped_at": "2026-03-18T07:00:27.882007+00:00"
-        }
-      ]
-    },
-    {
       "id": "31707d70c1e4",
       "title": "JBL Soundgear Clips True Wireless open-ear hoofdtelefoon, SonicArc Design, tot 32 uur totale afspeeltijd, IP54 water- en stofbestendig, JBL OpenSound technologie, Ghost Copper",
       "price": 94.04,
@@ -4628,58 +4360,6 @@
         }
       ],
       "approved_at": "22-03-2026 09:01",
-      "auto_approved": true
-    },
-    {
-      "id": "bace15e41093",
-      "title": "Tether Tools TetherPro Usb C naar 3.0 Micro Usb Oranje",
-      "price": 25.0,
-      "original_price": 54.96,
-      "discount_percent": 54,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tether-tools-tetherpro-usb-c-naar-3-0-micro-usb-oranje-r-15865",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1975606.jpg?v=1771248396",
-      "found_at": "2026-03-18T07:18:14.020062+00:00",
-      "price_history": [
-        {
-          "price": 37.0,
-          "original_price": 52.74,
-          "scraped_at": "2026-02-22T11:08:53.358918+00:00"
-        },
-        {
-          "price": 42.0,
-          "original_price": 53.03,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 51.87,
-          "scraped_at": "2026-02-25T17:09:05.553023+00:00"
-        },
-        {
-          "price": 39.0,
-          "original_price": 51.59,
-          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
-        },
-        {
-          "price": 32.0,
-          "original_price": 51.87,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 20.0,
-          "original_price": 53.0,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 25.0,
-          "original_price": 54.96,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
       "auto_approved": true
     },
     {
@@ -5850,35 +5530,6 @@
       "auto_approved": true
     },
     {
-      "id": "1719ca5f5ec5",
-      "title": "HP Chromebook x360 laptop, Google 14 inch FHD (Intel N100, 4 GB RAM, 128 GB eMMC, ChromeOS) + Google AI Pro abonnement met Gemini Pro en 2 TB opslag voor 3 maanden, QWERTY Spaans",
-      "price": 252.61,
-      "original_price": 386.89,
-      "discount_percent": 34,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DBM5WYJH?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61GBCZaUK0L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-03-18T07:01:51.066874+00:00",
-      "price_history": [
-        {
-          "price": 238.44,
-          "original_price": 386.89,
-          "discount_percent": 38,
-          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
-        },
-        {
-          "price": 252.61,
-          "original_price": 386.89,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-18T07:00:27.882007+00:00"
-        }
-      ],
-      "approved_at": "18-03-2026 08:21",
-      "auto_approved": true
-    },
-    {
       "id": "438f6b51e783",
       "title": "Samsung S25 Ultra 256GB Zwart",
       "price": 699.0,
@@ -6631,29 +6282,6 @@
       "auto_approved": true
     },
     {
-      "id": "41e2357d2f3f",
-      "title": "8,9 inch Touch Monitor met standaard| 1920 * 1200 |16:10|450nits|Optische binding | HDMI/USB-C-poort|Kleine monitor voor Mini PC Laptop Mac mini",
-      "price": 58.65,
-      "original_price": 101.74,
-      "discount_percent": 42,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DJ6NZCQZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/611DGVp9E5L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-18T07:14:11.285477+00:00",
-      "approved_at": "18-03-2026 08:21",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 58.65,
-          "original_price": 101.74,
-          "discount_percent": 42,
-          "scraped_at": "2026-03-18T07:00:27.882007+00:00"
-        }
-      ]
-    },
-    {
       "id": "73e8def0b017",
       "title": "ZTE Blade V70 Vita Smartphone, 6,7 inch FHD + display (120 Hz), 50 MP hoofdcamera, 5000 mAh batterij, 4 GB RAM + 256 GB geheugen, mobiele telefoon zonder abonnement, Android 14, Dual SIM, grijs",
       "price": 84.9,
@@ -7309,35 +6937,6 @@
       "auto_approved": true
     },
     {
-      "id": "02c29114c200",
-      "title": "Philips BT9810/15",
-      "price": 127.0,
-      "original_price": 199.0,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-bt9810-15-r-16219",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1437101_d424092c-7dcb-4bbf-8ec0-401538395d54.jpg?v=1771853733",
-      "found_at": "2026-03-17T19:24:58.835842+00:00",
-      "price_history": [
-        {
-          "price": 92.0,
-          "original_price": 139.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        }
-      ],
-      "approved_at": "17-03-2026 20:27",
-      "auto_approved": true
-    },
-    {
       "id": "96351c14337f",
       "title": "HP Smart Tank 7308 All-in-One",
       "price": 266.0,
@@ -7489,33 +7088,6 @@
         }
       ],
       "approved_at": "18-03-2026 12:29",
-      "auto_approved": true
-    },
-    {
-      "id": "80f646077749",
-      "title": "Garmin Venu Sq 2 Music Zwart",
-      "price": 197.0,
-      "original_price": 289.95,
-      "discount_percent": 32,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-venu-sq-2-music-zwart-r-16522",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1807264.jpg?v=1773138847",
-      "found_at": "2026-03-18T07:18:04.933218+00:00",
-      "price_history": [
-        {
-          "price": 271.0,
-          "original_price": 363.28,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 197.0,
-          "original_price": 296.64,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
       "auto_approved": true
     },
     {
