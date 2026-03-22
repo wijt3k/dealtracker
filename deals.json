@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-22T15:32:20.025164+00:00",
-  "total": 293,
+  "updated_at": "2026-03-22T19:17:06.081766+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -4404,6 +4404,21 @@
       "auto_approved": true
     },
     {
+      "id": "e8cceb2e7669",
+      "title": "Samsung Galaxy Tab S6 Lite WiFi 64GB grijs",
+      "price": 150.13,
+      "original_price": 259.99,
+      "discount_percent": 42,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08717ZF1C?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61DgQF2yLAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-22T19:03:44.771176+00:00",
+      "approved_at": "22-03-2026 20:17",
+      "auto_approved": true
+    },
+    {
       "id": "f1ecd3d7a90a",
       "title": "HyperX Cloud II Core Wireless Gaming Headset - Zwart",
       "price": 66.0,
@@ -8182,6 +8197,38 @@
       "auto_approved": true
     },
     {
+      "id": "2c366a7eeb91",
+      "title": "Polaroid - Now Generatie 3 - Instant Camera - Arctisch Blauw (9157)",
+      "price": 76.2,
+      "original_price": 118.33,
+      "discount_percent": 35,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DTTNFT97?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61qJFgqG0zL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-22T19:09:55.940026+00:00",
+      "price_history": [
+        {
+          "price": 79.47,
+          "original_price": 79.99,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 77.62,
+          "original_price": 119.92,
+          "scraped_at": "2026-03-08T15:00:19.508119+00:00"
+        },
+        {
+          "price": 76.2,
+          "original_price": 118.33,
+          "scraped_at": "2026-03-22T19:00:23.593666+00:00"
+        }
+      ],
+      "approved_at": "22-03-2026 20:17",
+      "auto_approved": true
+    },
+    {
       "id": "1abdf07ce24a",
       "title": "T osuny 4K Ultra HD 30MP digitale camera 3 inch kleurrijk touchscreen 18X digitale zoom, intelligente anti-shaking vlog camcorder, geschikt voor YouTube-video-opname",
       "price": 58.74,
@@ -8216,6 +8263,38 @@
         }
       ],
       "approved_at": "22-03-2026 12:58",
+      "auto_approved": true
+    },
+    {
+      "id": "fa39ac74f949",
+      "title": "ASUS Vivobook Go 15 S1504FA-NJ179W 15.6 FHD draagbare pc (AMD Ryzen 5 7520U, 8 GB RAM, 512 GB SSD, Windows 11 Home) - toetsenbord AZERTY",
+      "price": 384.21,
+      "original_price": 507.43,
+      "discount_percent": 24,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B086ZSQ443?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71qLvGfooiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-22T19:02:02.666316+00:00",
+      "price_history": [
+        {
+          "price": 378.72,
+          "original_price": 507.43,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 377.56,
+          "original_price": 507.43,
+          "scraped_at": "2026-03-10T15:00:15.652099+00:00"
+        },
+        {
+          "price": 384.21,
+          "original_price": 507.43,
+          "scraped_at": "2026-03-17T15:00:29.398508+00:00"
+        }
+      ],
+      "approved_at": "22-03-2026 20:17",
       "auto_approved": true
     },
     {
@@ -8953,6 +9032,53 @@
         }
       ],
       "approved_at": "19-03-2026 20:21",
+      "auto_approved": true
+    },
+    {
+      "id": "23b49f1e2123",
+      "title": "Kitchenaid 5K7FB Menghaak",
+      "price": 50.0,
+      "original_price": 74.76,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kitchenaid-5k7fb-menghaak-r-16320",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1524310_0f1b49c7-4716-400f-a882-4351c3ac5285.jpg?v=1772545049",
+      "found_at": "2026-03-22T19:14:18.820874+00:00",
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": null,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": null,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 51.7,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 39.0,
+          "original_price": 52.12,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 52.12,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        }
+      ],
+      "approved_at": "22-03-2026 20:17",
       "auto_approved": true
     },
     {
@@ -10360,6 +10486,63 @@
       "auto_approved": true
     },
     {
+      "id": "314db54a60d4",
+      "title": "Eurom Towerfan 120",
+      "price": 51.0,
+      "original_price": 70.83,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/eurom-towerfan-120-r-16424",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2040657_3dcfdaf4-089d-4265-9d67-301b536feceb.jpg?v=1772545983",
+      "found_at": "2026-03-22T19:14:15.675752+00:00",
+      "price_history": [
+        {
+          "price": 44.0,
+          "original_price": 74.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 76.69,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 75.9,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 77.89,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 74.53,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 74.67,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 74.67,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 70.83,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        }
+      ],
+      "approved_at": "22-03-2026 20:17",
+      "auto_approved": true
+    },
+    {
       "id": "88d4e44581d2",
       "title": "A323 Wildlife Camera 48MP 1296p Trail Camera, H.264 Video, 30,5 m Nachtzicht, Ultrasnelle 0.1s Beweging Geactiveerd, Tuin Camera Val",
       "price": 50.88,
@@ -10508,6 +10691,21 @@
       "auto_approved": true
     },
     {
+      "id": "9fbe6b0eb8f6",
+      "title": "Xiaomi Redmi 9C 3GB/64GB Grey EU",
+      "price": 82.3,
+      "original_price": 109.99,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08FMPXDTJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/8170LDKpfqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-22T19:05:23.588571+00:00",
+      "approved_at": "22-03-2026 20:17",
+      "auto_approved": true
+    },
+    {
       "id": "58f67449b6d9",
       "title": "Apple Magic Keyboard iPad Air 13 inch  AZERTY Zwart",
       "price": 293.0,
@@ -10537,6 +10735,58 @@
         }
       ],
       "approved_at": "22-03-2026 12:58",
+      "auto_approved": true
+    },
+    {
+      "id": "621016c93754",
+      "title": "Rowenta X-Ô 70 IX7757",
+      "price": 478.0,
+      "original_price": 569.12,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-x-o-70-ix7757-r-16342",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1719918.jpg?v=1773137903",
+      "found_at": "2026-03-22T19:14:22.810713+00:00",
+      "price_history": [
+        {
+          "price": 510.0,
+          "original_price": 554.71,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 521.0,
+          "original_price": 566.95,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 524.0,
+          "original_price": 569.79,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 507.0,
+          "original_price": 569.66,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 435.0,
+          "original_price": 529.26,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 506.0,
+          "original_price": 569.39,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 478.0,
+          "original_price": 569.2,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        }
+      ],
+      "approved_at": "22-03-2026 20:17",
       "auto_approved": true
     }
   ]
