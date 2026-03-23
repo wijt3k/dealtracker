@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-23T11:21:49.775678+00:00",
-  "total": 300,
+  "updated_at": "2026-03-23T11:21:52.034358+00:00",
+  "total": 295,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -2157,135 +2157,6 @@
       "auto_approved": true
     },
     {
-      "id": "affd7d11706c",
-      "title": "Philips Hue Datura Paneellamp - White and Color - Vierkant - Wit",
-      "price": 168.0,
-      "original_price": 344.05,
-      "discount_percent": 51,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-datura-paneellamp-white-and-color-vierkant-wit-r-16429",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2108909.jpg?v=1772546059",
-      "found_at": "2026-03-19T11:14:59.884007+00:00",
-      "price_history": [
-        {
-          "price": 262.0,
-          "original_price": 329.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 300.0,
-          "original_price": 343.73,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 272.0,
-          "original_price": 340.31,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 256.0,
-          "original_price": 337.4,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 273.0,
-          "original_price": 337.42,
-          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
-        },
-        {
-          "price": 249.0,
-          "original_price": 335.55,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 258.0,
-          "original_price": 338.03,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 226.0,
-          "original_price": 339.74,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 218.0,
-          "original_price": 337.99,
-          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
-        },
-        {
-          "price": 168.0,
-          "original_price": 344.05,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "432997558cab",
-      "title": "Dreame Aqua 10 Ultra Roller Complete Black",
-      "price": 579.0,
-      "original_price": 878.93,
-      "discount_percent": 34,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-aqua-10-ultra-roller-complete-black-r-16404",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220480_66cf1216-48a8-4068-949d-d63703e9c79b.jpg?v=1772545725",
-      "found_at": "2026-03-19T11:14:49.529754+00:00",
-      "price_history": [
-        {
-          "price": 722.0,
-          "original_price": 1080.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 879.0,
-          "original_price": 1067.57,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 854.0,
-          "original_price": 959.57,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 853.0,
-          "original_price": 951.29,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 825.0,
-          "original_price": 1013.86,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 913.0,
-          "original_price": 1072.14,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 747.0,
-          "original_price": 881.86,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 703.0,
-          "original_price": 879.0,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 579.0,
-          "original_price": 878.93,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
       "id": "9ccbc402f8fa",
       "title": "Apple iPad Pro (2024) 11 inch 256 GB Wifi Zwart",
       "price": 899.0,
@@ -3090,29 +2961,6 @@
           "original_price": 215.3,
           "discount_percent": 52,
           "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        }
-      ]
-    },
-    {
-      "id": "c7e3837a4b97",
-      "title": "JBL Quantum 400, bedrade over ear gaming headset met microfoon, compatibel met meerdere plaforms, in zwart",
-      "price": 55.85,
-      "original_price": 129.99,
-      "discount_percent": 57,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B083X25B6K?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51lbKoMysRL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-19T11:06:20.911884+00:00",
-      "approved_at": "19-03-2026 12:18",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 55.85,
-          "original_price": 129.99,
-          "discount_percent": 57,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
         }
       ]
     },
@@ -4801,29 +4649,6 @@
       ],
       "approved_at": "19-03-2026 20:21",
       "auto_approved": true
-    },
-    {
-      "id": "43f1555a3956",
-      "title": "EMOS GoSmart Smart Home Outdoor bewakingscamera met licht, 3MP roterende wifi-IP-camera met app, nachtzicht en sirene, compatibel met Google Assistant en Alexa, waterdicht, wit",
-      "price": 57.05,
-      "original_price": 109.47,
-      "discount_percent": 47,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DDCMPB73?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61nah4pL8RL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-19T11:10:10.589656+00:00",
-      "approved_at": "19-03-2026 12:18",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 57.05,
-          "original_price": 109.47,
-          "discount_percent": 47,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        }
-      ]
     },
     {
       "id": "0507c244d184",
@@ -6756,59 +6581,6 @@
         }
       ],
       "approved_at": "19-03-2026 20:21",
-      "auto_approved": true
-    },
-    {
-      "id": "d9a7a4415e7f",
-      "title": "DJI Osmo Action Mini Handlebar Mount",
-      "price": 23.0,
-      "original_price": 41.03,
-      "discount_percent": 43,
-      "category": "camera",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dji-osmo-action-mini-handlebar-mount-r-16330",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951202.jpg?v=1772545135",
-      "found_at": "2026-03-19T11:14:49.529505+00:00",
-      "price_history": [
-        {
-          "price": 25.0,
-          "original_price": 46.0,
-          "discount_percent": 45,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 35.0,
-          "original_price": 40.62,
-          "discount_percent": 13,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 33.0,
-          "original_price": 40.62,
-          "discount_percent": 18,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 34.0,
-          "original_price": 40.54,
-          "discount_percent": 16,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 30.0,
-          "original_price": 41.73,
-          "discount_percent": 28,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 23.0,
-          "original_price": 41.03,
-          "discount_percent": 43,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 12:18",
       "auto_approved": true
     },
     {
