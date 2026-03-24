@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-24T07:24:00.537005+00:00",
-  "total": 283,
+  "updated_at": "2026-03-24T11:27:39.124633+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -4387,6 +4387,21 @@
       "auto_approved": true
     },
     {
+      "id": "ca58dd088f49",
+      "title": "Smartphone Motorola Moto G34 6,5 5G Double SIM 128 Go Vert canard",
+      "price": 88.94,
+      "original_price": 159.99,
+      "discount_percent": 44,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CY7S46GG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61yjAgWXQeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:07:44.022286+00:00",
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
       "id": "10d081477967",
       "title": "Tado Slimme Thermostaat X startpakket + 2 radiatorknoppen",
       "price": 229.0,
@@ -5856,6 +5871,73 @@
         }
       ],
       "approved_at": "18-03-2026 16:23",
+      "auto_approved": true
+    },
+    {
+      "id": "314db54a60d4",
+      "title": "Eurom Towerfan 120",
+      "price": 41.0,
+      "original_price": 71.91,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/eurom-towerfan-120-r-16424",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2040657_3dcfdaf4-089d-4265-9d67-301b536feceb.jpg?v=1772545983",
+      "found_at": "2026-03-24T11:24:18.295765+00:00",
+      "price_history": [
+        {
+          "price": 44.0,
+          "original_price": 74.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 76.69,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 75.9,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 77.89,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 74.53,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 74.67,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 74.67,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 70.83,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 74.67,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 71.91,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
       "auto_approved": true
     },
     {
@@ -7645,6 +7727,38 @@
       "auto_approved": true
     },
     {
+      "id": "bd35d7d17040",
+      "title": "Samsung SM-X110 Galaxy Tab A9 8.7'' Wi-Fi 4GB RAM 64GB Graphite EU",
+      "price": 109.0,
+      "original_price": 159.99,
+      "discount_percent": 31,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CMD82VC4?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51i69ZQJXxL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:04:06.493674+00:00",
+      "price_history": [
+        {
+          "price": 103.01,
+          "original_price": 151.05,
+          "scraped_at": "2026-03-09T07:00:25.743962+00:00"
+        },
+        {
+          "price": 93.87,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-14T07:00:36.261007+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 149.61,
+          "scraped_at": "2026-03-19T07:00:33.633312+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
       "id": "015875074876",
       "title": "Bundle Polaroid Instant Camera - Go Gen 2 White + Black Clip",
       "price": 52.44,
@@ -7849,6 +7963,53 @@
         }
       ],
       "approved_at": "19-03-2026 20:21",
+      "auto_approved": true
+    },
+    {
+      "id": "bdee309d9022",
+      "title": "Philips Series 9000 20-in-1 MG9557/15",
+      "price": 70.0,
+      "original_price": 103.25,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-9000-20-in-1-mg9557-15-r-16619",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224812_945f88f8-2d9e-4827-8468-b7445d4ba2bb.jpg?v=1773749828",
+      "found_at": "2026-03-24T11:24:21.527694+00:00",
+      "price_history": [
+        {
+          "price": 95.0,
+          "original_price": 103.87,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 86.0,
+          "original_price": 102.87,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 103.12,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 103.17,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 104.6,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 103.25,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
       "auto_approved": true
     },
     {
@@ -8214,6 +8375,38 @@
         }
       ],
       "approved_at": "19-03-2026 20:21",
+      "auto_approved": true
+    },
+    {
+      "id": "61ad1c3fe1c4",
+      "title": "Samsung GALAXY A15 5G SM-A156BZKDEUB",
+      "price": 127.99,
+      "original_price": 179.99,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CR773B14?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51rLbZ1F6NL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:19:51.098833+00:00",
+      "price_history": [
+        {
+          "price": 128.99,
+          "original_price": 189.9,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 136.98,
+          "original_price": null,
+          "scraped_at": "2026-03-19T07:00:33.633312+00:00"
+        },
+        {
+          "price": 127.99,
+          "original_price": 179.99,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
       "auto_approved": true
     },
     {
@@ -9763,6 +9956,43 @@
       "auto_approved": true
     },
     {
+      "id": "d9fd0f159faf",
+      "title": "LG UltraGear 32G810SA-W 32' 144 Hz UHD 4K AI Smart Gaming Monitor",
+      "price": 424.8,
+      "original_price": 507.1,
+      "discount_percent": 16,
+      "category": "gaming",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DZXQCCYS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71SZX8cwaFL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:23:08.669032+00:00",
+      "price_history": [
+        {
+          "price": 357.19,
+          "original_price": 517.09,
+          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
+        },
+        {
+          "price": 303.4,
+          "original_price": null,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+        },
+        {
+          "price": 289.44,
+          "original_price": null,
+          "scraped_at": "2026-03-06T07:00:17.651347+00:00"
+        },
+        {
+          "price": 424.8,
+          "original_price": 507.1,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
       "id": "094348262d9e",
       "title": "Philips V Line 222V8LA/00 computer monitor 54,6 cm (21.5\") 1920 x 1080 Pixels Full HD LCD Zwart",
       "price": 65.43,
@@ -9824,6 +10054,48 @@
         }
       ],
       "approved_at": "23-03-2026 12:21",
+      "auto_approved": true
+    },
+    {
+      "id": "608c9317fdc8",
+      "title": "Smartphone Samsung Galaxy A16 6,7\" Octa Core 4 GB RAM 128 GB Grigio",
+      "price": 100.64,
+      "original_price": 129.99,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DPHBX2Q9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51YASop7MdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:19:25.743191+00:00",
+      "price_history": [
+        {
+          "price": 114.29,
+          "original_price": 123.79,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 111.86,
+          "original_price": 123.79,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 113.28,
+          "original_price": 124.99,
+          "scraped_at": "2026-03-14T07:00:36.261007+00:00"
+        },
+        {
+          "price": 113.84,
+          "original_price": 136.59,
+          "scraped_at": "2026-03-19T07:00:33.633312+00:00"
+        },
+        {
+          "price": 100.64,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
       "auto_approved": true
     },
     {
@@ -10079,6 +10351,325 @@
         }
       ],
       "approved_at": "24-03-2026 08:23",
+      "auto_approved": true
+    },
+    {
+      "id": "900e902f02c2",
+      "title": "BaByliss Power Pro 2300",
+      "price": 53.0,
+      "original_price": 67.39,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-power-pro-2300-r-16585",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1981384.jpg?v=1773749387",
+      "found_at": "2026-03-24T11:24:15.053417+00:00",
+      "price_history": [
+        {
+          "price": 64.0,
+          "original_price": 69.3,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 68.64,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 67.39,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "dd53ed30a1d7",
+      "title": "Eufy by Anker Video Doorbell Battery",
+      "price": 83.0,
+      "original_price": 104.1,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/eufy-by-anker-video-doorbell-battery-r-16506",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1542794_a52c3041-f96f-4d2b-92ae-edd6b9808f0e.jpg?v=1773138651",
+      "found_at": "2026-03-24T11:24:18.295361+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 105.82,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 107.49,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 115.51,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 113.86,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 112.7,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "b5f8e64945b0",
+      "title": "Samsung Galaxy Book4 NP750XGJ-KS3NL QWERTY",
+      "price": 509.0,
+      "original_price": 579.0,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-book4-np750xgj-ks3nl-qwerty-r-16462",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053639.jpg?v=1773138191",
+      "found_at": "2026-03-24T11:24:24.728096+00:00",
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "a4453e599304",
+      "title": "Logitech G502 Lightspeed Wireless Gaming Mouse",
+      "price": 151.0,
+      "original_price": 180.72,
+      "discount_percent": 16,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-02-lightspeed-wireless-gaming-mouse-r-16507",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1438022_5a70f6bf-517a-4953-a4b6-648fe9866c34.jpg?v=1773138654",
+      "found_at": "2026-03-24T11:24:21.525084+00:00",
+      "price_history": [
+        {
+          "price": 170.0,
+          "original_price": 198.43,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 188.78,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 201.44,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 172.0,
+          "original_price": 187.44,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 187.44,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 160.0,
+          "original_price": 180.72,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 180.72,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "0dca27e7fc1b",
+      "title": "Nokia 3210 Gold mobiele telefoon 4G, een legende van telefonie in moderne versie, groot 2,4 inch display, comfortabel toetsenbord, 2 MP camera, FM-radio, zaklamp, bluetooth",
+      "price": 65.59,
+      "original_price": 79.99,
+      "discount_percent": 18,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DLF64Y4C?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71zb18IXEzL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:07:00.084246+00:00",
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "902cf99d2c3d",
+      "title": "Philips DiamondClean 9000 HX9911/94",
+      "price": 146.0,
+      "original_price": 172.28,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-diamondclean-9000-hx9911-94-r-16612",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1393607_a539823f-db5a-48d4-baae-91d7a5e77b0a.jpg?v=1773749742",
+      "found_at": "2026-03-24T11:24:21.527328+00:00",
+      "price_history": [
+        {
+          "price": 151.0,
+          "original_price": 177.22,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 173.58,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 145.0,
+          "original_price": 172.28,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 146.0,
+          "original_price": 172.28,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "056b8020b33a",
+      "title": "Corsair RM750 (2025) White",
+      "price": 118.0,
+      "original_price": 139.82,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/corsair-rm650e-2025-cybenetics-gold-r-16554",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_f6e8c673-8cca-4d0a-a7e1-e2b6fb95c449.jpg?v=1773139981",
+      "found_at": "2026-03-24T11:24:15.054187+00:00",
+      "price_history": [
+        {
+          "price": 125.0,
+          "original_price": 150.34,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 151.81,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 146.32,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 146.6,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 146.32,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 144.82,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 141.32,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "d60452d2c8d1",
+      "title": "Samsung MC28H5015AK/EF",
+      "price": 157.0,
+      "original_price": 182.0,
+      "discount_percent": 13,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-mc28h5015ak-ef-r-16580",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1362901_5296d7c0-c279-406e-89e8-562cde06380c.jpg?v=1773749329",
+      "found_at": "2026-03-24T11:24:24.729026+00:00",
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "22aeb0a6a36d",
+      "title": "Tanita Rd-953 Zwart",
+      "price": 177.0,
+      "original_price": 199.99,
+      "discount_percent": 11,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tanita-rd-953-zwart-r-16474",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843093.jpg?v=1773138326",
+      "found_at": "2026-03-24T11:24:24.730366+00:00",
+      "price_history": [
+        {
+          "price": 156.0,
+          "original_price": null,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 199.99,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 177.0,
+          "original_price": 199.99,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "b5e3fa373492",
+      "title": "Energizer Ultimate U652S Smartphone, 6,5 inch, 4G, batterij met 4000 mAh, 64 GB ROM-geheugen, 2 GB RAM, ontgrendeld, goedkoop, Europese versie",
+      "price": 57.35,
+      "original_price": 65.21,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DLKZPBQ3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71dsM5elMnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-24T11:06:45.466244+00:00",
+      "price_history": [
+        {
+          "price": 56.39,
+          "original_price": 65.21,
+          "scraped_at": "2026-03-18T15:00:22.774460+00:00"
+        },
+        {
+          "price": 57.35,
+          "original_price": 65.21,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "24-03-2026 12:27",
       "auto_approved": true
     }
   ]
