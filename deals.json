@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-25T11:37:48.248458+00:00",
-  "total": 298,
+  "updated_at": "2026-03-25T15:21:35.811293+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -3005,6 +3005,63 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/473385.jpg?v=1774254985",
       "found_at": "2026-03-24T15:12:56.437347+00:00",
       "approved_at": "24-03-2026 16:16",
+      "auto_approved": true
+    },
+    {
+      "id": "8e4a5ad2e431",
+      "title": "Logitech G 15 Lightspeed Wireless RGB Mechanical Gaming QWERTY",
+      "price": 121.8,
+      "original_price": 251.0,
+      "discount_percent": 51,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-15-lightspeed-wireless-rgb-mechanical-gaming-qwerty-r-16287",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2005504_053002c7-2bd1-4215-bb92-674bb1be0758.jpg?v=1772544768",
+      "found_at": "2026-03-25T15:17:54.024320+00:00",
+      "price_history": [
+        {
+          "price": 155.0,
+          "original_price": 249.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 229.0,
+          "original_price": null,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 210.0,
+          "original_price": null,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        },
+        {
+          "price": 197.4,
+          "original_price": null,
+          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
+        },
+        {
+          "price": 193.2,
+          "original_price": null,
+          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
+        },
+        {
+          "price": 191.1,
+          "original_price": null,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 189.0,
+          "original_price": 251.0,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 121.8,
+          "original_price": 251.0,
+          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 16:21",
       "auto_approved": true
     },
     {
@@ -6632,6 +6689,43 @@
       ]
     },
     {
+      "id": "596c5b6d3af2",
+      "title": "Mova P50 Pro Ultra",
+      "price": 424.0,
+      "original_price": 578.55,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/mova-p50-pro-ultra-r-16266",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176161.jpg?v=1772198602",
+      "found_at": "2026-03-25T15:17:54.025784+00:00",
+      "price_history": [
+        {
+          "price": 528.27,
+          "original_price": 529.0,
+          "scraped_at": "2026-02-27T15:00:19.932298+00:00"
+        },
+        {
+          "price": 554.0,
+          "original_price": 653.43,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 439.0,
+          "original_price": 557.46,
+          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
+        },
+        {
+          "price": 424.0,
+          "original_price": 568.16,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 16:21",
+      "auto_approved": true
+    },
+    {
       "id": "9a6a2e1a7ab7",
       "title": "Apple Magic Keyboard met numeriek toetsenblok en Touch ID (2024) Zwart QWERTZ",
       "price": 137.0,
@@ -7113,6 +7207,33 @@
       "auto_approved": true
     },
     {
+      "id": "285de5555681",
+      "title": "Xiaomi pad 7 8+128 Blue",
+      "price": 228.32,
+      "original_price": 331.75,
+      "discount_percent": 31,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DQ5LZ33Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61xRwbzdL1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-25T15:03:54.204703+00:00",
+      "price_history": [
+        {
+          "price": 271.81,
+          "original_price": 331.75,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        },
+        {
+          "price": 228.32,
+          "original_price": 331.75,
+          "scraped_at": "2026-03-25T15:00:17.591162+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 16:21",
+      "auto_approved": true
+    },
+    {
       "id": "36dc488fefab",
       "title": "Jabra Evolve2 65 Flex - stereo headset met Bluetooth, draadloos oplaadstation, noise cancelling Jabra ClearVoice-technologie en hybride ANC - Gecertificeerd voor MS Teams - zwart",
       "price": 113.22,
@@ -7125,6 +7246,21 @@
       "image": "https://m.media-amazon.com/images/I/51qJvTLI5LL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-22T11:10:23.973750+00:00",
       "approved_at": "22-03-2026 12:58",
+      "auto_approved": true
+    },
+    {
+      "id": "577e1c436527",
+      "title": "2,5K 4MP bewakingscamera binnen accu, 360° WLAN binnencamera met accu, 2,4/5 GHz wifi, 360° camera binnen, kleuren-nachtzicht, bewegingsdetectie, twee-weg audio, voor baby/huisdieren/thuis",
+      "price": 60.31,
+      "original_price": 99.24,
+      "discount_percent": 39,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FJXDJW5J?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61maWVkRihL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-25T15:11:52.875234+00:00",
+      "approved_at": "25-03-2026 16:21",
       "auto_approved": true
     },
     {
@@ -9734,63 +9870,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_88f60c1f-f550-4c44-9627-c5f64592476c.jpg?v=1774255144",
       "found_at": "2026-03-25T11:34:14.315932+00:00",
       "approved_at": "25-03-2026 12:37",
-      "auto_approved": true
-    },
-    {
-      "id": "6cdc7b601684",
-      "title": "Samsung S25 128GB Donkerblauw",
-      "price": 499.0,
-      "original_price": 615.0,
-      "discount_percent": 18,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-s25-128gb-donkerblauw-r-16745",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134054_095f2d90-5859-49be-afe1-168a40f3123e.jpg?v=1774019085",
-      "found_at": "2026-03-20T15:20:36.848881+00:00",
-      "approved_at": "20-03-2026 16:24",
-      "auto_approved": true
-    },
-    {
-      "id": "f8c7d463e5bf",
-      "title": "Microsoft Surface Pro 11 Snapdragon X Elite / 16GB / 512GB D",
-      "price": 1359.0,
-      "original_price": 1527.0,
-      "discount_percent": 11,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/microsoft-surface-pro-11-snapdragon-x-elite-16gb-512gb-d-r-16301",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117561.jpg?v=1772544912",
-      "found_at": "2026-03-19T19:16:59.241131+00:00",
-      "price_history": [
-        {
-          "price": 1123.0,
-          "original_price": 1429.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 1461.0,
-          "original_price": 1707.33,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 1655.0,
-          "original_price": 1718.49,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 1601.0,
-          "original_price": 1799.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 1359.0,
-          "original_price": 1527.0,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        }
-      ],
-      "approved_at": "19-03-2026 20:21",
       "auto_approved": true
     }
   ]
