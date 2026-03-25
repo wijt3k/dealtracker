@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-25T15:21:38.377276+00:00",
-  "total": 291,
+  "updated_at": "2026-03-25T19:23:01.474436+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "a9c96a6e3035",
@@ -498,6 +498,58 @@
           "scraped_at": "2026-03-19T11:00:23.069484+00:00"
         }
       ]
+    },
+    {
+      "id": "f8c7d463e5bf",
+      "title": "Microsoft Surface Pro 11 Snapdragon X Elite / 16GB / 512GB D",
+      "price": 916.0,
+      "original_price": 1527.0,
+      "discount_percent": 40,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/microsoft-surface-pro-11-snapdragon-x-elite-16gb-512gb-d-r-16301",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117561.jpg?v=1772544912",
+      "found_at": "2026-03-25T19:19:12.615085+00:00",
+      "price_history": [
+        {
+          "price": 1123.0,
+          "original_price": 1429.0,
+          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
+        },
+        {
+          "price": 1461.0,
+          "original_price": 1707.33,
+          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
+        },
+        {
+          "price": 1655.0,
+          "original_price": 1718.49,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        },
+        {
+          "price": 1601.0,
+          "original_price": 1799.0,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 1359.0,
+          "original_price": 1527.0,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 1282.0,
+          "original_price": 1527.0,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 916.0,
+          "original_price": 1527.0,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
     },
     {
       "id": "5d37d3e7419c",
@@ -1605,6 +1657,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069686_56bc7867-bb77-4f91-8de4-f8f73c6c4560.jpg?v=1774255053",
       "found_at": "2026-03-25T11:34:14.316146+00:00",
       "approved_at": "25-03-2026 12:37",
+      "auto_approved": true
+    },
+    {
+      "id": "22641484832f",
+      "title": "PHILIPS 16B1P3302D Professionele laptopmonitor 16 inch FHD (1920 x 1080, USB-C poort, multi-hoekstandaard) zwart",
+      "price": 74.28,
+      "original_price": 218.7,
+      "discount_percent": 66,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BVBDP3CK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71ADxhEmRLL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-25T19:14:02.693220+00:00",
+      "approved_at": "25-03-2026 20:23",
       "auto_approved": true
     },
     {
@@ -9537,6 +9604,33 @@
       "auto_approved": true
     },
     {
+      "id": "918d0f47b5b7",
+      "title": "Xiaomi Redmi Note 14 6+128GB 6.67\" 4G Lime Green NFC EU",
+      "price": 110.1,
+      "original_price": 152.99,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DRD2J39F?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71+Fij7j2yL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-25T19:16:05.082419+00:00",
+      "price_history": [
+        {
+          "price": 129.6,
+          "original_price": 152.99,
+          "scraped_at": "2026-03-20T15:00:16.223615+00:00"
+        },
+        {
+          "price": 110.1,
+          "original_price": 152.99,
+          "scraped_at": "2026-03-25T19:00:18.566672+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
+    },
+    {
       "id": "cb79ca7fdbd6",
       "title": "Blackview Tablet, Android 15 Tab 90WLAN, 12 GB RAM, 128 GB ROM/1 TB TF Gaming Tablet, Widevine L1 / 8200 mAh / 5G WiFi / Octa Core / GPS / WPS / 8MP + 13 MP / Face ID / Bluetooth 5.0 / 2 luidsprekers",
       "price": 104.0,
@@ -9564,6 +9658,135 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_88f60c1f-f550-4c44-9627-c5f64592476c.jpg?v=1774255144",
       "found_at": "2026-03-25T11:34:14.315932+00:00",
       "approved_at": "25-03-2026 12:37",
+      "auto_approved": true
+    },
+    {
+      "id": "fe3b684b732d",
+      "title": "Nuki Bridge (White)",
+      "price": 87.0,
+      "original_price": 121.56,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nuki-bridge-white-r-16641",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2199777.jpg?v=1774254627",
+      "found_at": "2026-03-25T19:19:16.075582+00:00",
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
+    },
+    {
+      "id": "add952573fc6",
+      "title": "Refurbished iPhone 15 128GB Blauw",
+      "price": 458.0,
+      "original_price": 565.0,
+      "discount_percent": 18,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-blauw-r-16720",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969002_88c7301c-972c-40c1-8ef7-134ccf5fcb23.jpg?v=1774255247",
+      "found_at": "2026-03-25T19:19:16.077827+00:00",
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
+    },
+    {
+      "id": "c171316436ab",
+      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
+      "price": 256.0,
+      "original_price": 332.09,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-16627",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_b08d1a40-da04-43f1-8acb-0ea21298db3b.jpg?v=1774254524",
+      "found_at": "2026-03-25T19:19:16.075489+00:00",
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
+    },
+    {
+      "id": "bcf9b89e8cf4",
+      "title": "Miele Guard M1 Silence",
+      "price": 239.0,
+      "original_price": 309.18,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-guard-m1-silence-r-16515",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129123_43a5d6e8-d538-48b4-bbea-604e4ed131d5.jpg?v=1773138738",
+      "found_at": "2026-03-25T19:19:12.615227+00:00",
+      "price_history": [
+        {
+          "price": 276.0,
+          "original_price": 308.17,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 263.0,
+          "original_price": 305.67,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 254.0,
+          "original_price": 307.94,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 305.89,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
+    },
+    {
+      "id": "6cdc7b601684",
+      "title": "Samsung S25 128GB Donkerblauw",
+      "price": 561.0,
+      "original_price": 675.2,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-128gb-donkerblauw-r-16745",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134054_095f2d90-5859-49be-afe1-168a40f3123e.jpg?v=1774019085",
+      "found_at": "2026-03-25T19:19:19.240618+00:00",
+      "price_history": [
+        {
+          "price": 499.0,
+          "original_price": 615.0,
+          "scraped_at": "2026-03-20T15:00:16.223615+00:00"
+        },
+        {
+          "price": 563.0,
+          "original_price": 671.53,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 561.0,
+          "original_price": 675.2,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        }
+      ],
+      "approved_at": "25-03-2026 20:23",
+      "auto_approved": true
+    },
+    {
+      "id": "5bc9ceb9be38",
+      "title": "Garmin Venu 3S Goud/Wit",
+      "price": 302.0,
+      "original_price": 382.04,
+      "discount_percent": 20,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-venu-3s-goud-wit-r-16634",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1961401_f59f01aa-943d-4076-80f7-0770998e9f2c.jpg?v=1774254570",
+      "found_at": "2026-03-25T19:19:09.700183+00:00",
+      "approved_at": "25-03-2026 20:23",
       "auto_approved": true
     }
   ]
