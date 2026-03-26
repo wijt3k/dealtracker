@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-26T11:26:26.306837+00:00",
-  "total": 277,
+  "updated_at": "2026-03-26T15:19:07.889349+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "4398f85e8497",
@@ -125,6 +125,21 @@
       "auto_approved": true
     },
     {
+      "id": "b1c6f383670c",
+      "title": "Samsung Galaxy S25 128GB Donkerblauw Refurbished",
+      "price": 408.0,
+      "original_price": 882.74,
+      "discount_percent": 53,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-128gb-donkerblauw-r-16757",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134054_d83409a4-3c89-4746-9fc2-b26d1ccfed92.jpg?v=1774363827",
+      "found_at": "2026-03-26T15:15:32.978566+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "4a3fa0666735",
       "title": "Apple iPhone 15 Pro Max 256GB White Titanium",
       "price": 709.0,
@@ -194,6 +209,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2060721_f3c96136-3ca2-431c-9f14-b10eef3c8509.jpg?v=1774254790",
       "found_at": "2026-03-24T15:12:53.702222+00:00",
       "approved_at": "24-03-2026 16:16",
+      "auto_approved": true
+    },
+    {
+      "id": "6b8b447c56a6",
+      "title": "Apple iPad Pro (2024) Nano 13 inch 2 TB Wifi Zwart",
+      "price": 1558.0,
+      "original_price": 2909.0,
+      "discount_percent": 46,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-nano-13-inch-2-tb-wifi-zwart-r-16687",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049144_f7617d52-9df4-4597-a9c1-ee0b7a6772a4.jpg?v=1773841106",
+      "found_at": "2026-03-26T15:15:20.180356+00:00",
+      "price_history": [
+        {
+          "price": 1949.0,
+          "original_price": 2119.0,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 2676.0,
+          "original_price": 2909.0,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        },
+        {
+          "price": 1558.0,
+          "original_price": 2909.0,
+          "scraped_at": "2026-03-26T15:00:28.542598+00:00"
+        }
+      ],
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -953,6 +1000,21 @@
       "auto_approved": true
     },
     {
+      "id": "52ba15282f28",
+      "title": "Acer Predator Helios Neo 16 (PHN16-72-95HS) QWERTY",
+      "price": 1439.0,
+      "original_price": 1999.0,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-predator-helios-neo-16-phn16-72-95hs-qwerty-r-16665",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2045287_02cc3914-0568-4472-8311-9d619c92f14b.jpg?v=1774363720",
+      "found_at": "2026-03-26T15:15:20.178812+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "91521e4227d3",
       "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY",
       "price": 2129.0,
@@ -1037,6 +1099,21 @@
           "scraped_at": "2026-03-19T11:00:23.069484+00:00"
         }
       ]
+    },
+    {
+      "id": "2f6a514ef725",
+      "title": "Samsung Galaxy S25 128GB Donkerblauw Refurbished",
+      "price": 499.0,
+      "original_price": 882.74,
+      "discount_percent": 43,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-128gb-donkerblauw-r-16765",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134054_5cd7d113-381b-4749-bf3d-00f879954ce1.jpg?v=1774363899",
+      "found_at": "2026-03-26T15:15:32.978619+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
     },
     {
       "id": "0544ddffd2f4",
@@ -1544,6 +1621,21 @@
       "auto_approved": true
     },
     {
+      "id": "7cf7ae2b3491",
+      "title": "Samsung Galaxy S25 128GB Donkerblauw Refurbished",
+      "price": 522.0,
+      "original_price": 866.16,
+      "discount_percent": 39,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-128gb-donkerblauw-r-16756",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134054_f1fc9877-4e94-49ac-b324-8c94a825304d.jpg?v=1774363827",
+      "found_at": "2026-03-26T15:15:32.978511+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "7fe10e57b628",
       "title": "HUAWEI WATCH FIT 4 Smartwatch voor mannen vrouwen, ultra slank, iOS & Android, tot 10 dagen batterijduur, Bluetooth-oproep, GPS Running Smartwatch, Aluminium Case, AMOLED Display, Fitness Tracker",
       "price": 90.98,
@@ -1677,6 +1769,21 @@
         }
       ],
       "approved_at": "22-03-2026 16:32",
+      "auto_approved": true
+    },
+    {
+      "id": "d4ddaeb7bd2a",
+      "title": "Apple iPhone 16 Pro Max 256GB Desert Titanium Refurbished",
+      "price": 848.0,
+      "original_price": 1232.51,
+      "discount_percent": 31,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-16-pro-max-256gb-desert-titanium-r-16761",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092570_0cb6058f-cd6f-4982-adcc-6ee3b4a15be9.jpg?v=1774363863",
+      "found_at": "2026-03-26T15:15:20.180518+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -2103,6 +2210,48 @@
       "auto_approved": true
     },
     {
+      "id": "2ea7cf808171",
+      "title": "Samsung Galaxy S25 Ultra 256GB Zwart",
+      "price": 809.0,
+      "original_price": 1149.24,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-ultra-256gb-zwart-r-16746",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133554_b40d24f2-b295-4f87-baf6-116686876a0c.jpg?v=1774255371",
+      "found_at": "2026-03-26T15:15:32.978839+00:00",
+      "price_history": [
+        {
+          "price": 834.0,
+          "original_price": 1170.45,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 809.0,
+          "original_price": 1160.05,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        }
+      ],
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
+      "id": "3b923a6c5486",
+      "title": "Samsung Galaxy S25 Ultra 256 GB Zwart Refurbished",
+      "price": 809.0,
+      "original_price": 1149.24,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-ultra-256-gb-zwart-r-16764",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133554_6ad13172-68e5-401f-9263-61a61a12d818.jpg?v=1774363897",
+      "found_at": "2026-03-26T15:15:32.978786+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "31946c3a19fd",
       "title": "Samsung Galaxy Watch 6 Classic Zwart 47mm",
       "price": 124.0,
@@ -2290,6 +2439,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069619.jpg?v=1774254554",
       "found_at": "2026-03-24T15:12:50.412824+00:00",
       "approved_at": "24-03-2026 16:16",
+      "auto_approved": true
+    },
+    {
+      "id": "3fe7f5881757",
+      "title": "Samsung 24' S36GD Curved Monitor",
+      "price": 73.91,
+      "original_price": 179.99,
+      "discount_percent": 58,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DJMP9679?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61j5sEDn7IL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-26T15:11:22.706798+00:00",
+      "price_history": [
+        {
+          "price": 73.04,
+          "original_price": 92.07,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        },
+        {
+          "price": 73.25,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-10T15:00:15.652099+00:00"
+        },
+        {
+          "price": 75.02,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-15T19:00:36.240876+00:00"
+        },
+        {
+          "price": 73.91,
+          "original_price": 92.07,
+          "scraped_at": "2026-03-21T07:00:28.440048+00:00"
+        }
+      ],
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -3016,6 +3202,21 @@
       "auto_approved": true
     },
     {
+      "id": "08670a1ef921",
+      "title": "HP Laptop 15s-eq2978nd QWERTY",
+      "price": 479.0,
+      "original_price": 727.0,
+      "discount_percent": 34,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laptop-15s-eq2978nd-qwerty-r-16728",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068115.jpg?v=1774363780",
+      "found_at": "2026-03-26T15:15:24.264555+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "b12be01d87f3",
       "title": "Sony LinkBuds Fit Zwart",
       "price": 71.0,
@@ -3080,6 +3281,21 @@
       "image": "https://m.media-amazon.com/images/I/71VqiO3HJ9L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-24T07:06:43.118221+00:00",
       "approved_at": "24-03-2026 08:23",
+      "auto_approved": true
+    },
+    {
+      "id": "2b2360ecb04d",
+      "title": "Samsung Galaxy S25 Ultra 256 GB Zwart Refurbished",
+      "price": 846.0,
+      "original_price": 1149.24,
+      "discount_percent": 26,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-s25-ultra-256-gb-zwart-r-16755",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133554_2c59192e-d8a8-452b-adac-f1d9909ae1be.jpg?v=1774363823",
+      "found_at": "2026-03-26T15:15:32.978725+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -3310,6 +3526,21 @@
       "image": "https://m.media-amazon.com/images/I/71j-NY+GumL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-23T07:17:19.892465+00:00",
       "approved_at": "23-03-2026 08:30",
+      "auto_approved": true
+    },
+    {
+      "id": "4a830343eaef",
+      "title": "Garmin Venu 3S Goud/Beige Refurbished",
+      "price": 223.0,
+      "original_price": 384.83,
+      "discount_percent": 42,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-venu-3s-goud-beige-r-16759",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1961347_92962fed-f42f-412b-9ac6-2a3650ff60ec.jpg?v=1774363856",
+      "found_at": "2026-03-26T15:15:24.263734+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -3697,6 +3928,21 @@
       "auto_approved": true
     },
     {
+      "id": "29ff5fb5ceaf",
+      "title": "Krups NESCAFE Dolce Gusto Mini Me KP1238",
+      "price": 38.0,
+      "original_price": 84.59,
+      "discount_percent": 55,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp1238-r-16630",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127909_c2500222-a2a3-423b-917a-dbdc8c8673c9.jpg?v=1774363713",
+      "found_at": "2026-03-26T15:15:26.778849+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "8b5b15b118d0",
       "title": "Sennheiser Accentum Wireless Zwart",
       "price": 61.0,
@@ -3950,6 +4196,36 @@
       "auto_approved": true
     },
     {
+      "id": "4bb0b73618ad",
+      "title": "Dreame X50 White",
+      "price": 543.0,
+      "original_price": 769.35,
+      "discount_percent": 29,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-x50-white-r-16737",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132163_bcb8452e-86de-4b1a-b696-8e7e357f1fc2.jpg?v=1774363777",
+      "found_at": "2026-03-26T15:15:24.262962+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
+      "id": "b31ee6629986",
+      "title": "Dyson Airwrap Long Multistyler Nikkel/Koper",
+      "price": 362.0,
+      "original_price": 549.0,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-airwrap-long-multistyler-nikkel-koper-r-16644",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1980076_e6c03622-7abd-4464-adc8-375ee24e134f.jpg?v=1774363712",
+      "found_at": "2026-03-26T15:15:24.263058+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "cf0e0ba03516",
       "title": "Rowenta Silence Force RO7457",
       "price": 131.0,
@@ -4124,6 +4400,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050459.jpg?v=1774255516",
       "found_at": "2026-03-24T15:12:50.413657+00:00",
       "approved_at": "24-03-2026 16:16",
+      "auto_approved": true
+    },
+    {
+      "id": "887e8d599136",
+      "title": "Stanley Gereedschapswagen 1-79-206",
+      "price": 65.0,
+      "original_price": 126.2,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/stanley-gereedschapswagen-1-79-206-r-16738",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1361861_f4e86354-5cf3-45cf-b3f1-d18f52877e5a.jpg?v=1774363811",
+      "found_at": "2026-03-26T15:15:36.622994+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -5029,6 +5320,21 @@
         }
       ],
       "approved_at": "24-03-2026 20:27",
+      "auto_approved": true
+    },
+    {
+      "id": "7a71454fddbb",
+      "title": "Garmin Lily active Lunar Gold with Bone Silicone Band",
+      "price": 203.0,
+      "original_price": 316.95,
+      "discount_percent": 35,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-lily-active-lunar-gold-with-bone-silicone-band-r-16758",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2100848.jpg?v=1774363854",
+      "found_at": "2026-03-26T15:15:24.263649+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -6215,6 +6521,21 @@
       "auto_approved": true
     },
     {
+      "id": "e3ad7577f81e",
+      "title": "HP Chromebook 14a-na0950nd QWERTY",
+      "price": 308.0,
+      "original_price": 429.0,
+      "discount_percent": 28,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-chromebook-14a-na0950nd-qwerty-r-16667",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1772481.jpg?v=1774363769",
+      "found_at": "2026-03-26T15:15:24.264459+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "67a997a5beca",
       "title": "eufy security SoloCam S340, 360° PTZ camera op zonne-energie, draadloze buitencamera, 2K dual lens bewaking, geen blinde vlekken, 2,4GHz-wifi, geen maandelijkse kosten, compatibel met HomeBase 3",
       "price": 101.15,
@@ -6227,6 +6548,21 @@
       "image": "https://m.media-amazon.com/images/I/51w+eZr4D8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-24T15:11:36.075135+00:00",
       "approved_at": "24-03-2026 16:16",
+      "auto_approved": true
+    },
+    {
+      "id": "7bc5ff540878",
+      "title": "Braun MultiQuick 7 MQ7035X",
+      "price": 56.0,
+      "original_price": 92.5,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-multiquick-7-mq7035x-r-16668",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391269_6adb1652-dd7d-4996-bdf1-420aa217cc0d.jpg?v=1774363771",
+      "found_at": "2026-03-26T15:15:24.261980+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
@@ -8548,6 +8884,21 @@
       "auto_approved": true
     },
     {
+      "id": "b57f06613eb0",
+      "title": "ASUS VA259HGA Eye Care, Monitor 24,5 inch, Full HD IPS (1920 x 1080), 1 ms MPRT, 120 Hz, frameloos, HDMI- en VGA-aansluitingen, Low Blue Light, Flicker Free technologie, Adaptive-Sync, wandmontage,",
+      "price": 75.99,
+      "original_price": 107.0,
+      "discount_percent": 28,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DSW1V861?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51PA92DWhwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-26T15:11:41.459467+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "bcf9b89e8cf4",
       "title": "Miele Guard M1 Silence",
       "price": 239.0,
@@ -8600,6 +8951,21 @@
       "auto_approved": true
     },
     {
+      "id": "355b7738f2fd",
+      "title": "KODAK Memo Shot ERA Kids Instant Digitale Camera en Fotolabelprinter, Wit (Camera met 1 rol One-Touch Label Cartridge)",
+      "price": 58.84,
+      "original_price": 79.99,
+      "discount_percent": 26,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CYGCZG3M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71ngtLfzjIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-26T15:09:07.829094+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "5bc9ceb9be38",
       "title": "Garmin Venu 3S Goud/Wit",
       "price": 302.0,
@@ -8615,6 +8981,21 @@
       "auto_approved": true
     },
     {
+      "id": "8253e3a281a2",
+      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP123H",
+      "price": 51.0,
+      "original_price": 69.35,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp123h-r-16631",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1971395.jpg?v=1774363712",
+      "found_at": "2026-03-26T15:15:26.778949+00:00",
+      "approved_at": "26-03-2026 16:19",
+      "auto_approved": true
+    },
+    {
       "id": "3c32b3ec8880",
       "title": "Samsung Galaxy Watch 8 Donkergrijs 40mm",
       "price": 224.0,
@@ -8627,6 +9008,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2194679.jpg?v=1774254941",
       "found_at": "2026-03-26T11:22:34.594999+00:00",
       "approved_at": "26-03-2026 12:26",
+      "auto_approved": true
+    },
+    {
+      "id": "cf98168c5930",
+      "title": "Sportcamera 4K 30fps 20MP WiFi - 4K camera waterdicht tot 30m met stabilisatie, 170° groothoek - 2,4G afstandsbediening - Ultra HD-beeldkwaliteit voor avontuurlijke liefhebbers",
+      "price": 59.46,
+      "original_price": 79.99,
+      "discount_percent": 25,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CK216WL7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71V7OAUnrjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-26T15:09:25.939613+00:00",
+      "approved_at": "26-03-2026 16:19",
       "auto_approved": true
     },
     {
