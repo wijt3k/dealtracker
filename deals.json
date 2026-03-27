@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-27T15:50:03.351143+00:00",
-  "total": 296,
+  "updated_at": "2026-03-27T19:20:02.921132+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -4597,6 +4597,33 @@
       "auto_approved": true
     },
     {
+      "id": "3e49209e81bb",
+      "title": "Xiaomi Outdoor Camera BW500",
+      "price": 59.35,
+      "original_price": 129.99,
+      "discount_percent": 54,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CY5SJLYN?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/512Zu6KHNUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-27T19:11:56.852268+00:00",
+      "price_history": [
+        {
+          "price": 63.13,
+          "original_price": 69.95,
+          "scraped_at": "2026-03-02T15:00:29.801790+00:00"
+        },
+        {
+          "price": 59.35,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-27T19:00:19.265333+00:00"
+        }
+      ],
+      "approved_at": "27-03-2026 20:20",
+      "auto_approved": true
+    },
+    {
       "id": "b445f580db09",
       "title": "ASUS VZ27EHF 27 Zoll Eye Care Gaming Monitor (Full HD (1920 x 1080), IPS, rahmenlos, 100Hz, Adaptive-Sync, 1ms MPRT, HDMI, Low Blue Light, Flicker Free,",
       "price": 93.18,
@@ -8698,6 +8725,21 @@
       "auto_approved": true
     },
     {
+      "id": "a3dda4ae33e4",
+      "title": "Philips 24E1N1100-24 inch Full HD-monitor, 120 Hz, adaptieve synchronisatie. (1920 x 1080, 1 x D-sub, 1 x HDMI 1.4) zwart",
+      "price": 70.38,
+      "original_price": 103.46,
+      "discount_percent": 31,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1Z699G3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71v6t9LMHCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-27T19:13:44.277417+00:00",
+      "approved_at": "27-03-2026 20:20",
+      "auto_approved": true
+    },
+    {
       "id": "11731b2c32fb",
       "title": "Insta360 X5 Essentials Bundle Zwart",
       "price": 497.0,
@@ -9793,6 +9835,48 @@
         }
       ],
       "approved_at": "27-03-2026 08:27",
+      "auto_approved": true
+    },
+    {
+      "id": "0835d09f587b",
+      "title": "Revamp Progloss Perfect Blow Dry Airstyler DR-2000",
+      "price": 45.0,
+      "original_price": 59.98,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/revamp-progloss-perfect-blow-dry-airstyler-dr-2000-r-16654",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2030495.jpg?v=1774254742",
+      "found_at": "2026-03-27T19:17:11.558457+00:00",
+      "approved_at": "27-03-2026 20:20",
+      "auto_approved": true
+    },
+    {
+      "id": "5a9ec4128cb3",
+      "title": "Samsung Galaxy Buds3 Pro Zilver Refurbished",
+      "price": 159.0,
+      "original_price": 201.1,
+      "discount_percent": 20,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-pro-zwart-r-16614",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075719_b8342594-1eeb-4999-9e0c-96a929159970.jpg?v=1773749778",
+      "found_at": "2026-03-27T19:17:11.559034+00:00",
+      "price_history": [
+        {
+          "price": 164.0,
+          "original_price": 192.38,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 204.47,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        }
+      ],
+      "approved_at": "27-03-2026 20:20",
       "auto_approved": true
     }
   ]
