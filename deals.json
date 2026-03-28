@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-28T15:18:08.763953+00:00",
-  "total": 297,
+  "updated_at": "2026-03-28T19:31:35.314000+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -6328,6 +6328,33 @@
       "auto_approved": true
     },
     {
+      "id": "1083f4e3584c",
+      "title": "Xiaomi Redmi Pad Pro 256GB 8RAM Wi-Fi EU grey",
+      "price": 182.89,
+      "original_price": 299.99,
+      "discount_percent": 39,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D6N7GW4P?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51tgUQjkG5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:06:05.415496+00:00",
+      "price_history": [
+        {
+          "price": 233.36,
+          "original_price": null,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 182.89,
+          "original_price": 299.99,
+          "scraped_at": "2026-03-23T15:00:23.738035+00:00"
+        }
+      ],
+      "approved_at": "28-03-2026 20:31",
+      "auto_approved": true
+    },
+    {
       "id": "fe0080cab8fd",
       "title": "LG LG GLM71MCCSF DoorCooling+ - Koelkast zonder vriesvak - breedte 59.5 cm - hoogte 186 cm - inhoud 386 l",
       "price": 666.0,
@@ -7156,6 +7183,38 @@
       "auto_approved": true
     },
     {
+      "id": "45e5b0273a1d",
+      "title": "Samsung tablet, 4 GB RAM, 64 GB, grijs",
+      "price": 129.34,
+      "original_price": 212.95,
+      "discount_percent": 39,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CMD5YVG9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51dHpNMlFIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:04:44.858253+00:00",
+      "price_history": [
+        {
+          "price": 145.66,
+          "original_price": 212.95,
+          "scraped_at": "2026-03-13T07:00:41.087994+00:00"
+        },
+        {
+          "price": 141.24,
+          "original_price": 212.95,
+          "scraped_at": "2026-03-23T15:00:23.738035+00:00"
+        },
+        {
+          "price": 129.34,
+          "original_price": 212.95,
+          "scraped_at": "2026-03-28T19:00:24.663375+00:00"
+        }
+      ],
+      "approved_at": "28-03-2026 20:31",
+      "auto_approved": true
+    },
+    {
       "id": "a3c1339d310e",
       "title": "KODAK Printomatic Instant Camera (Grijs) Basisbundel + Zink Papier (20 Vellen) + Deluxe Case",
       "price": 52.57,
@@ -7972,6 +8031,68 @@
       "auto_approved": true
     },
     {
+      "id": "a4453e599304",
+      "title": "Logitech G502 Lightspeed Wireless Gaming Mouse Refurbished",
+      "price": 114.8,
+      "original_price": 179.91,
+      "discount_percent": 36,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-02-lightspeed-wireless-gaming-mouse-r-16507",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1438022_5a70f6bf-517a-4953-a4b6-648fe9866c34.jpg?v=1773138654",
+      "found_at": "2026-03-28T19:28:13.100291+00:00",
+      "price_history": [
+        {
+          "price": 170.0,
+          "original_price": 198.43,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 188.78,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 201.44,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 172.0,
+          "original_price": 187.44,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 187.44,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 160.0,
+          "original_price": 180.72,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 180.72,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 140.0,
+          "original_price": 179.91,
+          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
+        },
+        {
+          "price": 114.8,
+          "original_price": 179.91,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        }
+      ],
+      "approved_at": "28-03-2026 20:31",
+      "auto_approved": true
+    },
+    {
       "id": "964bd6b191c2",
       "title": "Samsung Galaxy Tab S6 Lite P613N (2022) WiFi EU 128GB, Android, oxford grey",
       "price": 217.82,
@@ -8234,6 +8355,21 @@
       "auto_approved": true
     },
     {
+      "id": "d0062812df62",
+      "title": "Poly Blackwire 8225 Premium Wired Headset – Actieve ruisonderdrukking – Hifi Stereo - Aansluiten op pc/Mac - Werkt met teams, Zoom",
+      "price": 81.1,
+      "original_price": 126.73,
+      "discount_percent": 36,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C6FKB9CY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71gZ3f7-fnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:14:11.839590+00:00",
+      "approved_at": "28-03-2026 20:31",
+      "auto_approved": true
+    },
+    {
       "id": "ef25bf823dbf",
       "title": "Refurbished iPhone 13 Midnight 256GB",
       "price": 289.0,
@@ -8298,6 +8434,36 @@
         }
       ],
       "approved_at": "28-03-2026 12:29",
+      "auto_approved": true
+    },
+    {
+      "id": "339f02afaef5",
+      "title": "iiyama ProLite XUB2793HSU-B7 27' IPS Monitor, 1920 x 1080 Full HD, 100Hz, 1ms",
+      "price": 111.65,
+      "original_price": 166.92,
+      "discount_percent": 33,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DHD1KVWR?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61XeuZgbjvL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:24:10.273601+00:00",
+      "approved_at": "28-03-2026 20:31",
+      "auto_approved": true
+    },
+    {
+      "id": "27941d65bc61",
+      "title": "POCO C75 6GB 128GB Zwart, Android-smartphone, 2.0GHz, 6,88\" display, 50MP AI dual-camera, 5160mAh batterij",
+      "price": 95.13,
+      "original_price": 143.9,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DG64L8QX?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51FpAYKwH4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:09:44.290615+00:00",
+      "approved_at": "28-03-2026 20:31",
       "auto_approved": true
     },
     {
@@ -8407,6 +8573,33 @@
         }
       ],
       "approved_at": "28-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "3398fc032e2a",
+      "title": "Neewer Dolly Draadloze videocamera met 3 wielen, 3 gemotoriseerde snelheden met afstandsbediening, compatibel met DSLR-camera, camcorder, Gopro, iPhone en Android-smartphones",
+      "price": 61.57,
+      "original_price": 94.28,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07SJCZKTQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61JVzobzrtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:18:58.718820+00:00",
+      "price_history": [
+        {
+          "price": 63.16,
+          "original_price": 94.21,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 61.57,
+          "original_price": 94.29,
+          "scraped_at": "2026-03-23T15:00:23.738035+00:00"
+        }
+      ],
+      "approved_at": "28-03-2026 20:31",
       "auto_approved": true
     },
     {
@@ -8800,6 +8993,38 @@
         }
       ],
       "approved_at": "27-03-2026 16:50",
+      "auto_approved": true
+    },
+    {
+      "id": "8a69bf8b69d4",
+      "title": "Jabra Evolve2 40 SE bedrade noise cancelling stereo headset met 3-microfoongesprekstechnologie en USB-A kabel - MS Teams gecertificeerd, werkt met alle andere platforms - zwart",
+      "price": 70.41,
+      "original_price": 101.08,
+      "discount_percent": 30,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C6V54N2S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61MZmS++a8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-28T19:13:52.293628+00:00",
+      "price_history": [
+        {
+          "price": 68.87,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 66.36,
+          "original_price": 69.74,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 70.41,
+          "original_price": 101.08,
+          "scraped_at": "2026-03-28T19:00:24.663375+00:00"
+        }
+      ],
+      "approved_at": "28-03-2026 20:31",
       "auto_approved": true
     },
     {
@@ -9645,125 +9870,6 @@
         }
       ],
       "approved_at": "28-03-2026 12:29",
-      "auto_approved": true
-    },
-    {
-      "id": "975ec8b4dc7a",
-      "title": "Blackvue DR970X-2CH LTE Plus 4K UHD Dashcam 256GB",
-      "price": 915.0,
-      "original_price": 1039.95,
-      "discount_percent": 12,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-lte-plus-4k-uhd-dashcam-256gb-r-16632",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069619.jpg?v=1774254554",
-      "found_at": "2026-03-27T07:24:34.120529+00:00",
-      "price_history": [
-        {
-          "price": 688.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 659.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 915.0,
-          "original_price": 1039.95,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        }
-      ],
-      "approved_at": "27-03-2026 08:27",
-      "auto_approved": true
-    },
-    {
-      "id": "5bc9ceb9be38",
-      "title": "Garmin Venu 3S Goud/Wit",
-      "price": 302.0,
-      "original_price": 373.37,
-      "discount_percent": 19,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-venu-3s-goud-wit-r-16634",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1961401_f59f01aa-943d-4076-80f7-0770998e9f2c.jpg?v=1774254570",
-      "found_at": "2026-03-27T07:24:37.554631+00:00",
-      "approved_at": "27-03-2026 08:27",
-      "auto_approved": true
-    },
-    {
-      "id": "8253e3a281a2",
-      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP123H",
-      "price": 51.0,
-      "original_price": 69.35,
-      "discount_percent": 26,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp123h-r-16631",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1971395.jpg?v=1774363712",
-      "found_at": "2026-03-27T07:24:40.043289+00:00",
-      "approved_at": "27-03-2026 08:27",
-      "auto_approved": true
-    },
-    {
-      "id": "e16e80f30201",
-      "title": "KODAK Printomatic+ Direct-Print Digitale Camera 10MP met RGB LED, print kleurenfoto’s op Zink 2x3” fotopapier – Geel",
-      "price": 67.24,
-      "original_price": 89.99,
-      "discount_percent": 25,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F57BRFD2?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71+MbQcG9lL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-27T15:26:06.430016+00:00",
-      "price_history": [
-        {
-          "price": 72.83,
-          "original_price": 89.99,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 71.9,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
-        },
-        {
-          "price": 70.97,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
-        },
-        {
-          "price": 69.11,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
-        },
-        {
-          "price": 67.24,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        }
-      ],
-      "approved_at": "27-03-2026 16:50",
-      "auto_approved": true
-    },
-    {
-      "id": "3c32b3ec8880",
-      "title": "Samsung Galaxy Watch 8 Donkergrijs 40mm",
-      "price": 224.0,
-      "original_price": 283.2,
-      "discount_percent": 20,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-watch-8-donkergrijs-40mm-r-16674",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2194679.jpg?v=1774254941",
-      "found_at": "2026-03-27T07:24:46.852983+00:00",
-      "approved_at": "27-03-2026 08:27",
       "auto_approved": true
     }
   ]
