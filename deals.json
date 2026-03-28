@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-28T15:18:06.437275+00:00",
-  "total": 300,
+  "updated_at": "2026-03-28T15:18:08.763953+00:00",
+  "total": 297,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -3425,33 +3425,6 @@
       "auto_approved": true
     },
     {
-      "id": "ebc79d8494e9",
-      "title": "MIELE WTD 160 WCS -  Was-droogcombinatie - 8 kg + 5 kg - 1500 rpm - 71 dB",
-      "price": 1049.25,
-      "original_price": 1399.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328449",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c1399f26ed3_ASSET_MMS_80754072-500x500.png",
-      "found_at": "2026-03-24T15:12:43.104874+00:00",
-      "price_history": [
-        {
-          "price": 1199.25,
-          "original_price": 1599.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 1049.25,
-          "original_price": 1399.0,
-          "scraped_at": "2026-03-20T15:00:16.223615+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "1b4c307e9832",
       "title": "Philips 24E1N1300AE/00",
       "price": 64.0,
@@ -5919,21 +5892,6 @@
       ]
     },
     {
-      "id": "351e6153c336",
-      "title": "BOSCH WQH246CLNL - Warmtepomdroger - 9 kg - 59 dB - Energielabel B",
-      "price": 696.75,
-      "original_price": 929.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=329291",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c252ac26238_ASSET_MMS_167819300-500x500.png",
-      "found_at": "2026-03-24T15:12:14.552845+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "4f225d51f3f9",
       "title": "Philips Sonicare DiamondClean Smart 9400 HX9918/89",
       "price": 153.0,
@@ -6842,53 +6800,6 @@
           "price": 623.25,
           "original_price": 831.0,
           "scraped_at": "2026-03-21T15:00:40.615730+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "ba3373654b16",
-      "title": "Samsung Galaxy Tab A9+ 64 GB Graphite Wifi",
-      "price": 138.0,
-      "original_price": 231.16,
-      "discount_percent": 40,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-tab-a9-64-gb-graphite-wifi-r-16446",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1994663_0ac496d1-715f-4f3e-95b1-991685ab01cf.jpg?v=1773138003",
-      "found_at": "2026-03-24T15:12:59.392144+00:00",
-      "price_history": [
-        {
-          "price": 176.0,
-          "original_price": 264.91,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 145.0,
-          "original_price": 227.18,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 146.0,
-          "original_price": 227.41,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 149.0,
-          "original_price": 230.71,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 144.0,
-          "original_price": 231.16,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 138.0,
-          "original_price": 231.16,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
         }
       ],
       "approved_at": "26-03-2026 21:03",
