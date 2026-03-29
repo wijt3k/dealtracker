@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-29T10:20:30.403140+00:00",
-  "total": 300,
+  "updated_at": "2026-03-29T10:20:32.324838+00:00",
+  "total": 290,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -1513,33 +1513,6 @@
       "auto_approved": true
     },
     {
-      "id": "1f5696b4db07",
-      "title": "LG OLED77B56LA 77\" OLED Smart 4K TV (2025)",
-      "price": 1656.75,
-      "original_price": 2209.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328485",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69bfcc738a607_ASSET_MMS_151396354-500x500.png",
-      "found_at": "2026-03-25T07:19:43.417455+00:00",
-      "price_history": [
-        {
-          "price": 1649.25,
-          "original_price": 2199.0,
-          "scraped_at": "2026-03-16T15:00:24.100941+00:00"
-        },
-        {
-          "price": 1656.75,
-          "original_price": 2209.0,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "45910104d5b7",
       "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY Refurbished",
       "price": 2231.23,
@@ -1895,21 +1868,6 @@
         }
       ],
       "approved_at": "27-03-2026 08:27",
-      "auto_approved": true
-    },
-    {
-      "id": "b5b555b0bac9",
-      "title": "HISENSE 100E77Q PRO QLED (2025)",
-      "price": 1349.25,
-      "original_price": 1799.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328439",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69bfe7fff33d4_ASSET_MMS_165266557-500x500.png",
-      "found_at": "2026-03-25T07:19:43.423025+00:00",
-      "approved_at": "26-03-2026 21:03",
       "auto_approved": true
     },
     {
@@ -2294,58 +2252,6 @@
       "auto_approved": true
     },
     {
-      "id": "3a8f923a39c0",
-      "title": "Lenovo Idea Tab Pro 8GB 256GB incl. tab pen plus",
-      "price": 190.0,
-      "original_price": 396.21,
-      "discount_percent": 52,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-incl-tab-pen-plus-r-16371",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306.jpg?v=1772545232",
-      "found_at": "2026-03-25T07:19:53.016000+00:00",
-      "price_history": [
-        {
-          "price": 294.0,
-          "original_price": 372.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 267.0,
-          "original_price": 398.53,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 256.0,
-          "original_price": 401.33,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 254.0,
-          "original_price": 401.97,
-          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
-        },
-        {
-          "price": 236.0,
-          "original_price": 399.89,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 210.0,
-          "original_price": 396.78,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 190.0,
-          "original_price": 396.21,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "9c8348ed2025",
       "title": "Sonos Era 300 standaard WW (zwart)",
       "price": 57.0,
@@ -2414,53 +2320,6 @@
           "price": 354.0,
           "original_price": 626.59,
           "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "8eda6b7b0ade",
-      "title": "Magimix Nespresso CitiZ M196 CN Zwart",
-      "price": 50.0,
-      "original_price": 148.65,
-      "discount_percent": 66,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-m196-cn-zwart-r-16461",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843717_68f3cd01-9017-4f22-9994-4d673d0c81b7.jpg?v=1773138185",
-      "found_at": "2026-03-25T07:19:53.017328+00:00",
-      "price_history": [
-        {
-          "price": 79.0,
-          "original_price": 148.81,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 73.0,
-          "original_price": 149.16,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 71.0,
-          "original_price": 149.74,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 65.0,
-          "original_price": 148.41,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 62.0,
-          "original_price": 147.11,
-          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
-        },
-        {
-          "price": 50.0,
-          "original_price": 150.41,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
         }
       ],
       "approved_at": "26-03-2026 21:03",
@@ -3120,29 +2979,6 @@
       "auto_approved": true
     },
     {
-      "id": "15696b97a0e3",
-      "title": "T220 Galaxy Tab A7 Lite WiFi 32GB Black",
-      "price": 78.17,
-      "original_price": 189.99,
-      "discount_percent": 58,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B094NZT75N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51nBXMYS23L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-25T07:05:07.383668+00:00",
-      "approved_at": "25-03-2026 08:23",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 78.17,
-          "original_price": 189.99,
-          "discount_percent": 58,
-          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
-        }
-      ]
-    },
-    {
       "id": "7864b19d1147",
       "title": "Motorola Moto G73 (5G) Dual-SIM 256 GB ROM + 8 GB RAM (alleen GSM | Geen CDMA) Fabriek ontgrendeld 5G-smartphone (Midnight Blue) - Internationale versie",
       "price": 95.41,
@@ -3557,21 +3393,6 @@
       "auto_approved": true
     },
     {
-      "id": "daceba794d9c",
-      "title": "LENOVO ThinkPad P16s Gen 4 (Intel) - 16 inch - Intel Core Ultra 7 255H - 32 GB - 512 GB - NVIDIA RTX Pro 500 - Windows 11 Pro",
-      "price": 1002.75,
-      "original_price": 1337.0,
-      "discount_percent": 25,
-      "category": "laptops",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=329384",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c2b52a58082_ASSET_MMS_165946712-500x500.png",
-      "found_at": "2026-03-25T07:19:11.494333+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "10d081477967",
       "title": "Tado Slimme Thermostaat X startpakket + 2 radiatorknoppen",
       "price": 203.0,
@@ -3689,21 +3510,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328725",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c3c092776aa_ASSET_MMS_161340356-500x500.png",
       "found_at": "2026-03-26T19:59:17.486756+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "a954781af580",
-      "title": "SONY 75S35B BRAVIA 3 4K LED (2025)",
-      "price": 974.25,
-      "original_price": 1299.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328435",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69bfe7f139fe4_ASSET_MMS_165396729-500x500.png",
-      "found_at": "2026-03-25T07:19:43.423807+00:00",
       "approved_at": "26-03-2026 21:03",
       "auto_approved": true
     },
@@ -4755,35 +4561,6 @@
         }
       ],
       "approved_at": "27-03-2026 08:27",
-      "auto_approved": true
-    },
-    {
-      "id": "9cbc20c6ad19",
-      "title": "KOORUI 27 Inch QHD Gaming Monitor 144 Hz, VA, 1ms, DCI-P3 90% Color Gamut, FreeSync G-Sync Compatible, (2560x1440, HDMI, DisplayPort) Black",
-      "price": 97.96,
-      "original_price": 189.99,
-      "discount_percent": 48,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09G6TJ3BW?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71ZB9MB+J3L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-25T07:15:49.361675+00:00",
-      "price_history": [
-        {
-          "price": 95.95,
-          "original_price": 179.99,
-          "discount_percent": 46,
-          "scraped_at": "2026-03-01T19:00:22.448266+00:00"
-        },
-        {
-          "price": 97.96,
-          "original_price": 189.99,
-          "discount_percent": 48,
-          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
-        }
-      ],
-      "approved_at": "25-03-2026 08:23",
       "auto_approved": true
     },
     {
@@ -5884,33 +5661,6 @@
       "auto_approved": true
     },
     {
-      "id": "0afb20f6c149",
-      "title": "SONOS Arc Ultra Soundbar Zwart",
-      "price": 674.25,
-      "original_price": 899.0,
-      "discount_percent": 25,
-      "category": "audio",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328401",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69bfda0914a87_ASSET_MMS_145950902-500x500.png",
-      "found_at": "2026-03-25T07:19:43.431600+00:00",
-      "price_history": [
-        {
-          "price": 824.25,
-          "original_price": 1099.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 674.25,
-          "original_price": 899.0,
-          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "172098e914a1",
       "title": "SAMSUNG DW60DG770B00U1 Waterjet Clean Inbouw vaatwasser – Volledig geïntegreerd - 12 couverts - 43 dB(A) - Nisbreedte 60 cm",
       "price": 674.25,
@@ -6125,21 +5875,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328322",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c12c039d413_ASSET_MMS_83740941-500x500.png",
       "found_at": "2026-03-26T11:22:09.663831+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "21df2906bcaf",
-      "title": "BOSCH WQH245B5NL -  Warmtepompdroger - 9 kg - 63 dB - Energielabel C",
-      "price": 666.0,
-      "original_price": 888.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328770",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c0050577c59_ASSET_MMS_166490516-500x500.png",
-      "found_at": "2026-03-25T07:19:28.472983+00:00",
       "approved_at": "26-03-2026 21:03",
       "auto_approved": true
     },
