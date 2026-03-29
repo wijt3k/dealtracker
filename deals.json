@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-28T19:31:37.243192+00:00",
-  "total": 295,
+  "updated_at": "2026-03-29T06:17:05.302814+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -7130,6 +7130,38 @@
       "auto_approved": true
     },
     {
+      "id": "a1fbd2c9b998",
+      "title": "Dreame D20 Pro Plus",
+      "price": 183.0,
+      "original_price": 285.81,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-d20-pro-plus-r-16578",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2207143_e336b060-ddd7-4f4d-b05d-9f97718a6c10.jpg?v=1773749297",
+      "found_at": "2026-03-29T06:13:45.153831+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 333.69,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 257.45,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 285.81,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        }
+      ],
+      "approved_at": "29-03-2026 07:17",
+      "auto_approved": true
+    },
+    {
       "id": "0ad8e385091e",
       "title": "Sony PlayStation 5 Disk Edition Slim",
       "price": 345.0,
@@ -7372,6 +7404,33 @@
         }
       ],
       "approved_at": "28-03-2026 08:21",
+      "auto_approved": true
+    },
+    {
+      "id": "ebe415bd7c85",
+      "title": "JBL Sense Pro True Wireless open-ear hoofdtelefoon, tot 38 uur totale afspeeltijd, 4 beamforming microfoons, IP54 water- en stofbestendig, JBL OpenSound technologie, Spatial Sound, Paars",
+      "price": 123.84,
+      "original_price": 199.0,
+      "discount_percent": 37,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FSKZHH6M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61OS8rywoxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-29T06:06:09.148638+00:00",
+      "price_history": [
+        {
+          "price": 143.59,
+          "original_price": 149.57,
+          "scraped_at": "2026-03-14T19:00:30.611206+00:00"
+        },
+        {
+          "price": 123.84,
+          "original_price": 199.0,
+          "scraped_at": "2026-03-29T06:00:23.240500+00:00"
+        }
+      ],
+      "approved_at": "29-03-2026 07:17",
       "auto_approved": true
     },
     {
@@ -9521,6 +9580,21 @@
       "auto_approved": true
     },
     {
+      "id": "3c32b3ec8880",
+      "title": "Samsung Galaxy Watch 8 Donkergrijs 40mm",
+      "price": 224.0,
+      "original_price": 284.64,
+      "discount_percent": 21,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-watch-8-donkergrijs-40mm-r-16674",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2194679.jpg?v=1774254941",
+      "found_at": "2026-03-29T06:13:51.542567+00:00",
+      "approved_at": "29-03-2026 07:17",
+      "auto_approved": true
+    },
+    {
       "id": "dcf86baadc07",
       "title": "VTech Kidizoom DX2 Smartwatch Magenta, interactief horloge voor kinderen met dubbele camera, kleurendisplay, smartwatch met bewegingssensor, schokbestendig, Italiaanse taal, 3-12 jaar",
       "price": 56.89,
@@ -9592,6 +9666,95 @@
         }
       ],
       "approved_at": "28-03-2026 12:29",
+      "auto_approved": true
+    },
+    {
+      "id": "975ec8b4dc7a",
+      "title": "Blackvue DR970X-2CH LTE Plus 4K UHD Dashcam 256GB",
+      "price": 915.0,
+      "original_price": 1039.95,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-lte-plus-4k-uhd-dashcam-256gb-r-16632",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069619.jpg?v=1774254554",
+      "found_at": "2026-03-29T06:13:41.326259+00:00",
+      "price_history": [
+        {
+          "price": 688.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 659.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
+        },
+        {
+          "price": 915.0,
+          "original_price": 1039.95,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        }
+      ],
+      "approved_at": "29-03-2026 07:17",
+      "auto_approved": true
+    },
+    {
+      "id": "056b8020b33a",
+      "title": "Corsair RM750 (2025) White",
+      "price": 109.0,
+      "original_price": 143.49,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/corsair-rm650e-2025-cybenetics-gold-r-16554",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_f6e8c673-8cca-4d0a-a7e1-e2b6fb95c449.jpg?v=1773139981",
+      "found_at": "2026-03-29T06:13:45.153410+00:00",
+      "price_history": [
+        {
+          "price": 125.0,
+          "original_price": 150.34,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 151.81,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 146.32,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 146.6,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 146.32,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 144.82,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 141.32,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 141.99,
+          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
+        }
+      ],
+      "approved_at": "29-03-2026 07:17",
       "auto_approved": true
     }
   ]
