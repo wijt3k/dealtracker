@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-29T14:24:36.914456+00:00",
-  "total": 300,
+  "updated_at": "2026-03-29T14:24:38.773693+00:00",
+  "total": 294,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -53,29 +53,6 @@
           "price": 778.0,
           "original_price": 1779.0,
           "discount_percent": 56,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        }
-      ]
-    },
-    {
-      "id": "2e33a5c8d09a",
-      "title": "Refurbished iPhone 15 Pro Max 256GB Natural Titanium",
-      "price": 461.0,
-      "original_price": 1010.0,
-      "discount_percent": 54,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-15-pro-max-256gb-natural-titanium-r-16711",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969217_5200933e-eb4a-4c3b-94fe-b41323fad1cd.jpg?v=1774255176",
-      "found_at": "2026-03-25T11:34:14.315991+00:00",
-      "approved_at": "25-03-2026 12:37",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 461.0,
-          "original_price": 1010.0,
-          "discount_percent": 54,
           "scraped_at": "2026-03-25T11:00:20.752558+00:00"
         }
       ]
@@ -1340,21 +1317,6 @@
       ]
     },
     {
-      "id": "772f126d5272",
-      "title": "Samsung S25 Plus 256GB Donkerblauw",
-      "price": 499.0,
-      "original_price": 882.74,
-      "discount_percent": 43,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-s25-plus-256gb-donkerblauw-r-16731",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133973_e4fb7004-d103-4a2e-867e-c8945bc60a3f.jpg?v=1774255305",
-      "found_at": "2026-03-25T11:34:18.331025+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "0544ddffd2f4",
       "title": "Apple MacBook Pro 13\" (2022) M2 (8/10) 24GB/512GB Space Gray QWERTY",
       "price": 1271.0,
@@ -2324,29 +2286,6 @@
       ],
       "approved_at": "26-03-2026 21:03",
       "auto_approved": true
-    },
-    {
-      "id": "c8f7c2f24f2b",
-      "title": "Refurbished iPhone 15 128GB Blauw",
-      "price": 323.0,
-      "original_price": 585.0,
-      "discount_percent": 44,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-blauw-r-16718",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969002_fbfd5b1c-a162-4e25-b436-40e92da31c42.jpg?v=1774255225",
-      "found_at": "2026-03-25T11:34:14.315826+00:00",
-      "approved_at": "25-03-2026 12:37",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 323.0,
-          "original_price": 585.0,
-          "discount_percent": 44,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        }
-      ]
     },
     {
       "id": "0507c244d184",
@@ -4182,47 +4121,6 @@
       ]
     },
     {
-      "id": "6d0ebaf6ce3d",
-      "title": "AOC 24G4HA, Gaming-Monitor - (60.5 cm (23.8 Zoll), schwarz (matt), FullHD, Fast-IPS, Adaptive-Sync, G-Sync kompatibel, 200Hz Panel)(TFT/LCD) [Energieklasse E] (24G4HA)",
-      "price": 86.44,
-      "original_price": 179.99,
-      "discount_percent": 51,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F5BQZL79?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71+YkswD4HL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-25T11:26:55.975751+00:00",
-      "price_history": [
-        {
-          "price": 107.37,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        },
-        {
-          "price": 107.15,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-04T17:38:40.675458+00:00"
-        },
-        {
-          "price": 103.93,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-14T19:00:30.611206+00:00"
-        },
-        {
-          "price": 86.44,
-          "original_price": 179.99,
-          "discount_percent": 51,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        }
-      ],
-      "approved_at": "25-03-2026 12:37",
-      "auto_approved": true
-    },
-    {
       "id": "3e49209e81bb",
       "title": "Xiaomi Outdoor Camera BW500",
       "price": 59.35,
@@ -5557,41 +5455,6 @@
       "auto_approved": true
     },
     {
-      "id": "885a0c7f964a",
-      "title": "Redmi Note 9 Pro Smartphone 6GB RAM 64GB ROM 6.67\" DotDisplay 64MP AI Quad Camera 5020mAh (typ)* NFC Grijs [Globale versie]",
-      "price": 110.65,
-      "original_price": 197.99,
-      "discount_percent": 44,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0888P4CB7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61MbO2xGlFL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-25T11:14:24.409212+00:00",
-      "price_history": [
-        {
-          "price": 114.92,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 117.34,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-14T19:00:30.611206+00:00"
-        },
-        {
-          "price": 110.65,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-20T07:00:22.773240+00:00"
-        }
-      ],
-      "approved_at": "25-03-2026 12:37",
-      "auto_approved": true
-    },
-    {
       "id": "e48f02644d1e",
       "title": "JURA E6 Piano Black (EC)",
       "price": 677.25,
@@ -6391,33 +6254,6 @@
           "price": 347.0,
           "original_price": 517.13,
           "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "8f31cf81e6bb",
-      "title": "CANON EOS R100 + RF-S 18-45 + RF-S 55-210",
-      "price": 623.25,
-      "original_price": 831.0,
-      "discount_percent": 25,
-      "category": "camera",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328409",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c28b145cd41_ASSET_MMS_137144497-500x500.png",
-      "found_at": "2026-03-25T11:33:58.731973+00:00",
-      "price_history": [
-        {
-          "price": 624.0,
-          "original_price": 832.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 623.25,
-          "original_price": 831.0,
-          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
         }
       ],
       "approved_at": "26-03-2026 21:03",
