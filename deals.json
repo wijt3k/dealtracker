@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T06:29:18.633590+00:00",
-  "total": 296,
+  "updated_at": "2026-03-30T10:26:12.616111+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -6123,6 +6123,38 @@
       "auto_approved": true
     },
     {
+      "id": "691272a018b7",
+      "title": "Lenovo Legion R27s - 27\" FHD-gamingmonitor (IPS, 144Hz vernieuwingsfrequentie, 1ms reactietijd, 16:9, HDMI 2.1 - DP 1.2, VESA Media Sync, 100 mm VESA-montage, kantelstandaard) Zwart",
+      "price": 103.67,
+      "original_price": 179.99,
+      "discount_percent": 42,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FLQ82C5G?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/615AX1UGkoL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-30T10:18:40.803009+00:00",
+      "price_history": [
+        {
+          "price": 105.27,
+          "original_price": 179.99,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 87.6,
+          "original_price": 179.99,
+          "scraped_at": "2026-03-01T15:00:20.730172+00:00"
+        },
+        {
+          "price": 103.67,
+          "original_price": 179.99,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "30-03-2026 11:26",
+      "auto_approved": true
+    },
+    {
       "id": "fa7b34c5d858",
       "title": "Oral-B iO 9n Onyx Zwart Speciale Editie",
       "price": 135.0,
@@ -6920,6 +6952,21 @@
         }
       ],
       "approved_at": "27-03-2026 16:50",
+      "auto_approved": true
+    },
+    {
+      "id": "98be7f3d9cf1",
+      "title": "Samsung Galaxy A02s A025G Dual-SIM 3/32GB, Android, black",
+      "price": 91.91,
+      "original_price": 152.88,
+      "discount_percent": 39,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08T9T7177?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61XtzVgF8XL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-30T10:08:41.515686+00:00",
+      "approved_at": "30-03-2026 11:26",
       "auto_approved": true
     },
     {
@@ -8673,6 +8720,21 @@
       "auto_approved": true
     },
     {
+      "id": "5bc9ceb9be38",
+      "title": "Garmin Venu 3S Goud/Wit",
+      "price": 302.0,
+      "original_price": 387.54,
+      "discount_percent": 22,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-venu-3s-goud-wit-r-16634",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1961401_f59f01aa-943d-4076-80f7-0770998e9f2c.jpg?v=1774254570",
+      "found_at": "2026-03-30T10:21:55.421957+00:00",
+      "approved_at": "30-03-2026 11:26",
+      "auto_approved": true
+    },
+    {
       "id": "7acee977ee7e",
       "title": "KODAK Printomatic Volledig in kleur Direct printen camera Starterbundel + Zachte Hoes + Zink 20pk fotopapier - Kleurrijke foto's op 2x3\" zelfklevend papier - Roze",
       "price": 59.08,
@@ -8902,6 +8964,60 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1801299_c4bb1f54-f967-4e3e-b4b4-de693c0dffd4.jpg?v=1774254662",
       "found_at": "2026-03-27T07:24:49.605249+00:00",
       "approved_at": "27-03-2026 08:27",
+      "auto_approved": true
+    },
+    {
+      "id": "05395c238c4c",
+      "title": "Refurbished Microsoft Surface Pro 12\" Copilot+ PC Snapdragon X Plus / 16GB / 256 GB",
+      "price": 817.47,
+      "original_price": 954.67,
+      "discount_percent": 14,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-pro-12-copilot-pc-snapdragon-x-plus-16gb-256-gb-r-16704",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2172871.jpg?v=1774255099",
+      "found_at": "2026-03-30T10:22:01.687803+00:00",
+      "price_history": [
+        {
+          "price": 879.0,
+          "original_price": 959.31,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 817.47,
+          "original_price": 954.67,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "30-03-2026 11:26",
+      "auto_approved": true
+    },
+    {
+      "id": "1c23ef035eab",
+      "title": "Refurbished Microsoft Surface Pro 12 inches Copilot+ PC Snapdragon X Plus/16GB/256GB",
+      "price": 817.47,
+      "original_price": 954.67,
+      "discount_percent": 14,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-pro-12-inches-copilot-pc-snapdragon-x-plus-16gb-256gb-r-16707",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2172871_e70ae93c-e908-494d-8633-2e66ae72f654.jpg?v=1774255139",
+      "found_at": "2026-03-30T10:22:01.687750+00:00",
+      "price_history": [
+        {
+          "price": 879.0,
+          "original_price": 959.31,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 817.47,
+          "original_price": 954.67,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "30-03-2026 11:26",
       "auto_approved": true
     },
     {
@@ -9172,6 +9288,93 @@
       "auto_approved": true
     },
     {
+      "id": "1aeedc08baa8",
+      "title": "AOC 24G2SPAE/BK",
+      "price": 63.94,
+      "original_price": 89.0,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g2spae-bk-r-16406",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1954001_9dddc596-e7a3-4763-82f1-7ca97ec0d6bc.jpg?v=1772545735",
+      "found_at": "2026-03-30T10:21:52.414122+00:00",
+      "price_history": [
+        {
+          "price": 122.32,
+          "original_price": null,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        },
+        {
+          "price": 120.93,
+          "original_price": null,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 119.54,
+          "original_price": null,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 118.15,
+          "original_price": null,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 116.76,
+          "original_price": null,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 115.37,
+          "original_price": null,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 113.98,
+          "original_price": null,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 112.59,
+          "original_price": null,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 80.62,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
+        },
+        {
+          "price": 77.84,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 75.06,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
+        },
+        {
+          "price": 72.28,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 69.5,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 63.94,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "30-03-2026 11:26",
+      "auto_approved": true
+    },
+    {
       "id": "8b78ef1b1e11",
       "title": "ASUS TUF Gaming VG279QE5A Gamingmonitor - 27 inch, Full HD (1920 x 1080), overklokken tot 146 Hz (boven 144 Hz), IPS, ELMB Sync, 1ms MPRT, stereoluidspreker, variabele overdrive, DisplayWidget Center",
       "price": 110.03,
@@ -9429,6 +9632,43 @@
       "auto_approved": true
     },
     {
+      "id": "2c44df3bfd56",
+      "title": "Philips Hue Gradient Signe vloerlamp - Zwart",
+      "price": 257.0,
+      "original_price": 324.36,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hue-gradient-signe-vloerlamp-zwart-r-16536",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1763433.jpg?v=1773139007",
+      "found_at": "2026-03-30T10:21:58.643693+00:00",
+      "price_history": [
+        {
+          "price": 303.0,
+          "original_price": null,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 293.0,
+          "original_price": 321.32,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 277.0,
+          "original_price": 322.62,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 257.0,
+          "original_price": 291.03,
+          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
+        }
+      ],
+      "approved_at": "30-03-2026 11:26",
+      "auto_approved": true
+    },
+    {
       "id": "2f86d92fc7cd",
       "title": "Xiaomi Redmi 10 5G 64GB Graphite Grey",
       "price": 81.42,
@@ -9473,110 +9713,6 @@
         }
       ],
       "approved_at": "27-03-2026 13:17",
-      "auto_approved": true
-    },
-    {
-      "id": "975ec8b4dc7a",
-      "title": "Blackvue DR970X-2CH LTE Plus 4K UHD Dashcam 256GB",
-      "price": 915.0,
-      "original_price": 1039.95,
-      "discount_percent": 12,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-lte-plus-4k-uhd-dashcam-256gb-r-16632",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069619.jpg?v=1774254554",
-      "found_at": "2026-03-29T14:21:10.514687+00:00",
-      "price_history": [
-        {
-          "price": 688.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 659.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 915.0,
-          "original_price": 1039.95,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        }
-      ],
-      "approved_at": "29-03-2026 15:24",
-      "auto_approved": true
-    },
-    {
-      "id": "056b8020b33a",
-      "title": "Corsair RM750 (2025) White",
-      "price": 109.0,
-      "original_price": 143.49,
-      "discount_percent": 24,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/corsair-rm650e-2025-cybenetics-gold-r-16554",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_f6e8c673-8cca-4d0a-a7e1-e2b6fb95c449.jpg?v=1773139981",
-      "found_at": "2026-03-29T14:21:14.395735+00:00",
-      "price_history": [
-        {
-          "price": 125.0,
-          "original_price": 150.34,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 134.0,
-          "original_price": 151.81,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 130.0,
-          "original_price": 146.32,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 131.0,
-          "original_price": 146.6,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 130.0,
-          "original_price": 146.32,
-          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
-        },
-        {
-          "price": 122.0,
-          "original_price": 144.82,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 141.32,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        },
-        {
-          "price": 109.0,
-          "original_price": 141.99,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        }
-      ],
-      "approved_at": "29-03-2026 15:24",
-      "auto_approved": true
-    },
-    {
-      "id": "d2bfbc1e2a3f",
-      "title": "Crucial 16GB DDR4 DIMM 3200MHz CL22",
-      "price": 110.0,
-      "original_price": 143.65,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/crucial-16gb-ddr4-dimm-3200mhz-cl22-r-16736",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2246250.jpg?v=1774255332",
-      "found_at": "2026-03-29T14:21:14.395865+00:00",
-      "approved_at": "29-03-2026 15:24",
       "auto_approved": true
     }
   ]
