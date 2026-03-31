@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T10:29:29.815910+00:00",
-  "total": 289,
+  "updated_at": "2026-03-31T14:26:01.834362+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -1406,6 +1406,21 @@
       "auto_approved": true
     },
     {
+      "id": "37f5f84fcfdf",
+      "title": "SAMSUNG Galaxy Z Flip4 Smartphone 5G, inclusief oplader, SIM Free Android, opvouwbaar 256 GB, Dynamic Display 2 x 6,7 inch / Super AMOLED 1,9 inch 1,2, roségoud (roze goud), 2022 [Italiaanse versie]",
+      "price": 172.1,
+      "original_price": 410.0,
+      "discount_percent": 58,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B6GHX168?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71fAAOZ0VkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-31T14:18:39.991638+00:00",
+      "approved_at": "31-03-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "61ece3c2717c",
       "title": "Apple iPad Pro (2024) Nano 11 inch 1 TB Wifi + 5G Zwart",
       "price": 1474.0,
@@ -1856,6 +1871,85 @@
         }
       ],
       "approved_at": "26-03-2026 21:03",
+      "auto_approved": true
+    },
+    {
+      "id": "5e5179db2242",
+      "title": "Audio-Technica AD900X Hifi Open-back Koptelefoon Zwart",
+      "price": 114.24,
+      "original_price": 292.92,
+      "discount_percent": 60,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B009S331VU?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/710IL0fPVRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-03-31T14:07:28.664853+00:00",
+      "price_history": [
+        {
+          "price": 117.06,
+          "original_price": 300.0,
+          "scraped_at": "2026-03-02T07:00:24.818344+00:00"
+        },
+        {
+          "price": 114.24,
+          "original_price": 292.92,
+          "scraped_at": "2026-03-31T14:00:27.383964+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "58f67449b6d9",
+      "title": "Apple Magic Keyboard iPad Air 13 inch  AZERTY Zwart Refurbished",
+      "price": 157.76,
+      "original_price": 365.51,
+      "discount_percent": 56,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-magic-keyboard-ipad-air-13-inch-azerty-zwart-r-16524",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2231628.jpg?v=1773138870",
+      "found_at": "2026-03-31T14:21:56.411404+00:00",
+      "price_history": [
+        {
+          "price": 321.0,
+          "original_price": 350.21,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 310.0,
+          "original_price": 361.6,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 293.0,
+          "original_price": 365.51,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 272.0,
+          "original_price": 365.51,
+          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
+        },
+        {
+          "price": 223.04,
+          "original_price": 365.51,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 217.6,
+          "original_price": 365.51,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 157.76,
+          "original_price": 365.51,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
       "auto_approved": true
     },
     {
@@ -4687,6 +4781,48 @@
       "auto_approved": true
     },
     {
+      "id": "bb0f17365d0c",
+      "title": "Clean Air Optima CA-704",
+      "price": 179.0,
+      "original_price": 307.52,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/clean-air-optima-ca-704-r-16488",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/bosch_1_210aed65-e294-4fd9-8ce9-59afa973c14b.jpg?v=1774948138",
+      "found_at": "2026-03-31T14:21:59.779192+00:00",
+      "price_history": [
+        {
+          "price": 275.0,
+          "original_price": 305.63,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 266.0,
+          "original_price": 308.94,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 307.52,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 233.0,
+          "original_price": 307.52,
+          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
+        },
+        {
+          "price": 179.0,
+          "original_price": 307.52,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "9482a4cd9c8d",
       "title": "Microsoft Surface Flex Keyboard + Pen AZERTY Refurbished",
       "price": 349.0,
@@ -6406,6 +6542,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1990365_9c487477-f124-4742-92d9-b3cde257524a.jpg?v=1774255206",
       "found_at": "2026-03-27T07:24:43.336579+00:00",
       "approved_at": "27-03-2026 08:27",
+      "auto_approved": true
+    },
+    {
+      "id": "392bc89f9879",
+      "title": "Acer Nitro KG242YEbiif 24 inch Full HD Gaming PC Monitor, 100Hz (1920x1080, 16:9, FreeSync, 1ms VRB, 250 Nits, Comfyview, BlueLightShield, 2 x HDMI 2.0/DP 1.2) kantelbare pc-monitor, kleur zwart",
+      "price": 76.31,
+      "original_price": 136.15,
+      "discount_percent": 43,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C28SG29Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Fn5+TmQtL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-31T14:16:08.869460+00:00",
+      "approved_at": "31-03-2026 15:26",
       "auto_approved": true
     },
     {
@@ -8129,6 +8280,33 @@
       "auto_approved": true
     },
     {
+      "id": "160c4e523ea4",
+      "title": "ZyXEL VMG4005-B50A VDSL2 Modem",
+      "price": 81.0,
+      "original_price": 128.04,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/zyxel-vmg4005-b50a-vdsl2-modem-r-16645",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1801299_c4bb1f54-f967-4e3e-b4b4-de693c0dffd4.jpg?v=1774254662",
+      "found_at": "2026-03-30T14:33:34.176540+00:00",
+      "price_history": [
+        {
+          "price": 84.0,
+          "original_price": 114.39,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 128.04,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "2e85ba4b00ad",
       "title": "MSI G24C4 E2",
       "price": 116.0,
@@ -8196,6 +8374,33 @@
       "auto_approved": true
     },
     {
+      "id": "c171316436ab",
+      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
+      "price": 260.0,
+      "original_price": 364.33,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-16627",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_b08d1a40-da04-43f1-8acb-0ea21298db3b.jpg?v=1774254524",
+      "found_at": "2026-03-31T14:22:06.837766+00:00",
+      "price_history": [
+        {
+          "price": 256.0,
+          "original_price": 332.09,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 260.0,
+          "original_price": 348.5,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "75b1277e2f49",
       "title": "Eufy E10 T8D03321",
       "price": 77.0,
@@ -8245,6 +8450,33 @@
         }
       ],
       "approved_at": "29-03-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "2ce50690d41a",
+      "title": "Sony Linkbuds Open Wit",
+      "price": 111.0,
+      "original_price": 169.73,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-linkbuds-open-wit-r-16650",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101293_783a7f32-0bbf-4d29-becb-dd051cabc5ec.jpg?v=1774254700",
+      "found_at": "2026-03-31T14:22:14.565665+00:00",
+      "price_history": [
+        {
+          "price": 115.0,
+          "original_price": 138.17,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 169.73,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
       "auto_approved": true
     },
     {
@@ -8330,6 +8562,43 @@
       "auto_approved": true
     },
     {
+      "id": "11731b2c32fb",
+      "title": "Insta360 X5 Essentials Bundle Zwart",
+      "price": 480.0,
+      "original_price": 619.72,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/insta360-x5-essentials-bundle-zwart-r-16694",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2166210.jpg?v=1774254992",
+      "found_at": "2026-03-30T14:33:24.183948+00:00",
+      "price_history": [
+        {
+          "price": 497.0,
+          "original_price": 620.47,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 484.0,
+          "original_price": 619.02,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 497.0,
+          "original_price": 617.12,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 480.0,
+          "original_price": 619.72,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "a3cca6526a73",
       "title": "Microsoft Surface Flex Keyboard",
       "price": 240.0,
@@ -8372,6 +8641,48 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1850429_13071a97-c93a-4595-bf4b-5c3efc3dc99b.jpg?v=1774878212",
       "found_at": "2026-03-31T10:24:35.500082+00:00",
       "approved_at": "31-03-2026 11:29",
+      "auto_approved": true
+    },
+    {
+      "id": "5a9ec4128cb3",
+      "title": "Samsung Galaxy Buds3 Pro Zilver Refurbished",
+      "price": 136.74,
+      "original_price": 200.53,
+      "discount_percent": 31,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-pro-zwart-r-16614",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075719_b8342594-1eeb-4999-9e0c-96a929159970.jpg?v=1773749778",
+      "found_at": "2026-03-31T14:22:10.832576+00:00",
+      "price_history": [
+        {
+          "price": 164.0,
+          "original_price": 192.38,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 204.47,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 141.51,
+          "original_price": 192.74,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 138.33,
+          "original_price": 204.84,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 136.74,
+          "original_price": 200.53,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
       "auto_approved": true
     },
     {
@@ -8494,6 +8805,48 @@
         }
       ],
       "approved_at": "27-03-2026 08:27",
+      "auto_approved": true
+    },
+    {
+      "id": "7e570bfe4c75",
+      "title": "Polaroid Go Generation 2 - Instant Film Camera - Blauw (9147) - Alleen compatibel met Go Film",
+      "price": 51.98,
+      "original_price": 79.99,
+      "discount_percent": 35,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CWNVXH2B?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71D-yJdZlsL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-03-31T14:12:00.188784+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 83.97,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 55.78,
+          "original_price": 79.99,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        },
+        {
+          "price": 53.97,
+          "original_price": 83.97,
+          "scraped_at": "2026-03-07T07:00:24.227112+00:00"
+        },
+        {
+          "price": 50.52,
+          "original_price": 83.97,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 51.98,
+          "original_price": 79.99,
+          "scraped_at": "2026-03-31T14:00:27.383964+00:00"
+        }
+      ],
+      "approved_at": "31-03-2026 15:26",
       "auto_approved": true
     }
   ]
