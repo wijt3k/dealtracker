@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T10:25:27.153112+00:00",
-  "total": 300,
+  "updated_at": "2026-04-01T10:25:30.446812+00:00",
+  "total": 294,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -210,53 +210,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1827387_48841474-3bff-454d-a13f-2aeb763dcdaf.jpg?v=1774948458",
       "found_at": "2026-04-01T10:22:15.204418+00:00",
       "approved_at": "01-04-2026 11:25",
-      "auto_approved": true
-    },
-    {
-      "id": "60498e02f424",
-      "title": "Apple iPad Pro (2024) Nano 11 inch 2 TB Wifi Zwart",
-      "price": 1020.0,
-      "original_price": 1876.75,
-      "discount_percent": 45,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-nano-11-inch-2-tb-wifi-zwart-r-16283",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049087_0137ce6e-a8b9-4130-948d-29ace8d51784.jpg?v=1772544699",
-      "found_at": "2026-03-26T19:59:32.246025+00:00",
-      "price_history": [
-        {
-          "price": 1907.0,
-          "original_price": 2029.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 1673.0,
-          "original_price": 1793.33,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 1564.0,
-          "original_price": 1780.0,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 1513.0,
-          "original_price": 1852.2,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 1428.0,
-          "original_price": 1852.2,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 1020.0,
-          "original_price": 1838.2,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
       "auto_approved": true
     },
     {
@@ -1798,93 +1751,6 @@
       "auto_approved": true
     },
     {
-      "id": "bbfa49596773",
-      "title": "Samsung Galaxy S24 Plus 512GB Zwart 5G",
-      "price": 725.0,
-      "original_price": 1099.0,
-      "discount_percent": 34,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-s24-plus-512gb-zwart-5g-r-16328",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2006155.jpg?v=1772545117",
-      "found_at": "2026-03-26T19:59:46.400538+00:00",
-      "price_history": [
-        {
-          "price": 1116.0,
-          "original_price": 1334.48,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 850.0,
-          "original_price": 1183.69,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 1116.0,
-          "original_price": 1422.65,
-          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
-        },
-        {
-          "price": 967.0,
-          "original_price": 1255.98,
-          "scraped_at": "2026-03-09T11:00:19.513215+00:00"
-        },
-        {
-          "price": 1231.0,
-          "original_price": 1499.48,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 1407.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 1359.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 1016.0,
-          "original_price": 1397.26,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 956.0,
-          "original_price": 1397.26,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 1279.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        },
-        {
-          "price": 879.0,
-          "original_price": 1099.0,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 533.0,
-          "original_price": 954.0,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        },
-        {
-          "price": 1055.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 725.0,
-          "original_price": 1099.0,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "5e5179db2242",
       "title": "Audio-Technica AD900X Hifi Open-back Koptelefoon Zwart",
       "price": 114.24,
@@ -2007,58 +1873,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328355",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c2c42a344a7_ASSET_MMS_148450773-500x500.png",
       "found_at": "2026-03-26T11:22:09.658824+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "dc7a06a4f8a9",
-      "title": "Mova P50 Pro Ultra",
-      "price": 316.0,
-      "original_price": 592.53,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/mova-p50-pro-ultra-r-16514",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176161_6c49f3a6-6c3b-49d4-be1f-3d4e232b3b82.jpg?v=1773138729",
-      "found_at": "2026-03-26T19:59:39.425962+00:00",
-      "price_history": [
-        {
-          "price": 359.0,
-          "original_price": 568.16,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 344.0,
-          "original_price": 579.46,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 378.0,
-          "original_price": 631.36,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 351.0,
-          "original_price": 593.08,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 345.0,
-          "original_price": 617.59,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        },
-        {
-          "price": 349.0,
-          "original_price": 618.34,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 316.0,
-          "original_price": 592.53,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        }
-      ],
       "approved_at": "26-03-2026 21:03",
       "auto_approved": true
     },
@@ -3222,53 +3036,6 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c5666424f00_ASSET_MMS_145951035-500x500.png",
       "found_at": "2026-03-26T19:59:26.916173+00:00",
       "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
-      "id": "7864b19d1147",
-      "title": "Motorola Moto G73 (5G) Dual-SIM 256 GB ROM + 8 GB RAM (alleen GSM | Geen CDMA) Fabriek ontgrendeld 5G-smartphone (Midnight Blue) - Internationale versie",
-      "price": 95.41,
-      "original_price": 219.99,
-      "discount_percent": 56,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BSLJNW5G?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71l6wh3uQTL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-28T07:06:41.014094+00:00",
-      "price_history": [
-        {
-          "price": 103.41,
-          "original_price": 154.99,
-          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
-        },
-        {
-          "price": 102.26,
-          "original_price": 109.99,
-          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
-        },
-        {
-          "price": 105.26,
-          "original_price": 109.99,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 93.55,
-          "original_price": 459.0,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 114.86,
-          "original_price": 169.99,
-          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
-        },
-        {
-          "price": 95.41,
-          "original_price": 219.99,
-          "scraped_at": "2026-03-28T07:00:37.248317+00:00"
-        }
-      ],
-      "approved_at": "28-03-2026 08:21",
       "auto_approved": true
     },
     {
@@ -5773,21 +5540,6 @@
       "auto_approved": true
     },
     {
-      "id": "4dfc3a4d60b6",
-      "title": "BOSCH  KGN392LBF -  Koel-vriescombinatie - breedte 60 cm - hoogte 203 cm - inhoud 363 l - NoFrost",
-      "price": 674.25,
-      "original_price": 899.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=329605",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c5582a24958_ASSET_MMS_93055658-500x500.png",
-      "found_at": "2026-03-26T19:58:53.577722+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "684b2a55b5b8",
       "title": "SAMSUNG  RB38C607AS9/EF -  Koel-vriescombinatie - breedte 59.5 cm - hoogte 203 cm - inhoud 387 l - NoFrost",
       "price": 674.25,
@@ -7659,43 +7411,6 @@
       "image": "https://m.media-amazon.com/images/I/61XtzVgF8XL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-03-30T10:08:41.515686+00:00",
       "approved_at": "30-03-2026 11:26",
-      "auto_approved": true
-    },
-    {
-      "id": "fa39ac74f949",
-      "title": "ASUS Vivobook Go 15 S1504FA-NJ179W 15.6 FHD draagbare pc (AMD Ryzen 5 7520U, 8 GB RAM, 512 GB SSD, Windows 11 Home) - toetsenbord AZERTY",
-      "price": 364.03,
-      "original_price": 507.43,
-      "discount_percent": 28,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B086ZSQ443?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71qLvGfooiL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-28T07:03:07.653848+00:00",
-      "price_history": [
-        {
-          "price": 378.72,
-          "original_price": 507.43,
-          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
-        },
-        {
-          "price": 377.56,
-          "original_price": 507.43,
-          "scraped_at": "2026-03-10T15:00:15.652099+00:00"
-        },
-        {
-          "price": 384.21,
-          "original_price": 507.43,
-          "scraped_at": "2026-03-17T15:00:29.398508+00:00"
-        },
-        {
-          "price": 364.03,
-          "original_price": 507.43,
-          "scraped_at": "2026-03-28T07:00:37.248317+00:00"
-        }
-      ],
-      "approved_at": "28-03-2026 08:21",
       "auto_approved": true
     },
     {
