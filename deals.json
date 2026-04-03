@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-02T18:19:28.577791+00:00",
-  "total": 298,
+  "updated_at": "2026-04-03T06:33:31.640147+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -5744,6 +5744,53 @@
       "auto_approved": true
     },
     {
+      "id": "4262f98380e5",
+      "title": "Philips 24E2N1100LB - 24\" Full HD-monitor, adaptieve beeldsynchronisatie (1920x1080, 100 Hz, 1x D-Sub, 1x HDMI 1.4) zwart",
+      "price": 61.99,
+      "original_price": 119.99,
+      "discount_percent": 48,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DXL2KV86?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71284d-fciL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-03T06:21:32.417850+00:00",
+      "price_history": [
+        {
+          "price": 70.55,
+          "original_price": 83.56,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 69.08,
+          "original_price": 78.01,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 66.86,
+          "original_price": 78.01,
+          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
+        },
+        {
+          "price": 68.62,
+          "original_price": 83.95,
+          "scraped_at": "2026-03-15T07:00:49.834082+00:00"
+        },
+        {
+          "price": 65.44,
+          "original_price": 84.0,
+          "scraped_at": "2026-03-29T06:00:23.240500+00:00"
+        },
+        {
+          "price": 61.99,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-03T06:00:28.801778+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 07:33",
+      "auto_approved": true
+    },
+    {
       "id": "4f225d51f3f9",
       "title": "Philips Sonicare DiamondClean Smart 9400 HX9918/89",
       "price": 153.0,
@@ -8446,6 +8493,33 @@
         }
       ],
       "approved_at": "02-04-2026 19:19",
+      "auto_approved": true
+    },
+    {
+      "id": "381ffde2cd61",
+      "title": "Vogels PFW 6900",
+      "price": 117.6,
+      "original_price": 178.96,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/vogels-pfw-6900-r-16957",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944958.jpg?v=1774948715",
+      "found_at": "2026-04-03T06:28:51.699938+00:00",
+      "price_history": [
+        {
+          "price": 112.0,
+          "original_price": 180.6,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 117.6,
+          "original_price": 178.96,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 07:33",
       "auto_approved": true
     }
   ]
