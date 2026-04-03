@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T06:33:35.178103+00:00",
-  "total": 291,
+  "updated_at": "2026-04-03T10:17:16.806644+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -5947,6 +5947,38 @@
       "auto_approved": true
     },
     {
+      "id": "15062d80005a",
+      "title": "ASUS VZ24EHF 24 inch Eye Care Gaming Monitor (IPS, Full HD, frameloos, 100Hz, Adaptive-Sync, 1ms MPRT, HDMI, blauwlichtfilter, Flicker-Free technologie, wandmontage)",
+      "price": 63.46,
+      "original_price": 119.99,
+      "discount_percent": 47,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BVPB92MW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71waMwxJmFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-03T10:09:44.904749+00:00",
+      "price_history": [
+        {
+          "price": 77.19,
+          "original_price": 119.01,
+          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
+        },
+        {
+          "price": 74.62,
+          "original_price": 115.07,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 63.46,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-03T10:00:26.351640+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
       "id": "696353c02ef5",
       "title": "ETNA KKD7178 - Inbouw Koelkast zonder vriesvak - Nishoogte 179 cm",
       "price": 659.25,
@@ -7261,6 +7293,21 @@
       "auto_approved": true
     },
     {
+      "id": "a763545d4ad6",
+      "title": "iiyama 23,8\" XU2493HS-B6 IPS 0,5ms HDMI/DP speakers",
+      "price": 68.13,
+      "original_price": 119.99,
+      "discount_percent": 43,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CRF1SGTP?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71KbFJ2J6eL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-03T10:09:54.028346+00:00",
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
       "id": "8bae2158727d",
       "title": "[Gispen] Gispen Zinn Smart NPR Bureaustoel",
       "price": 420.0,
@@ -8242,6 +8289,220 @@
         }
       ],
       "approved_at": "03-04-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "e71b789d8c92",
+      "title": "Philips Shaver i9000 Prestige Ultra XP9402/31",
+      "price": 259.35,
+      "original_price": 365.23,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-ultra-xp9402-31-r-16789",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156221.jpg?v=1774947922",
+      "found_at": "2026-04-03T10:12:59.687061+00:00",
+      "price_history": [
+        {
+          "price": 305.0,
+          "original_price": 371.11,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 259.35,
+          "original_price": 365.23,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "5a9ec4128cb3",
+      "title": "Samsung Galaxy Buds3 Pro Zilver Refurbished",
+      "price": 133.56,
+      "original_price": 199.15,
+      "discount_percent": 32,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-pro-zwart-r-16614",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075719_b8342594-1eeb-4999-9e0c-96a929159970.jpg?v=1773749778",
+      "found_at": "2026-04-03T10:13:02.495873+00:00",
+      "price_history": [
+        {
+          "price": 164.0,
+          "original_price": 192.38,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 204.47,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 141.51,
+          "original_price": 192.74,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 138.33,
+          "original_price": 204.84,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 136.74,
+          "original_price": 200.53,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 135.15,
+          "original_price": 205.91,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 133.56,
+          "original_price": 199.15,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "917aea8a10c2",
+      "title": "Samsung Galaxy Buds3 Zwart",
+      "price": 72.45,
+      "original_price": 110.36,
+      "discount_percent": 34,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-zwart-r-16934",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075691_c3c7448d-dc12-4d13-821a-437c593fac0a.jpg?v=1774878570",
+      "found_at": "2026-04-03T10:13:02.496055+00:00",
+      "price_history": [
+        {
+          "price": 69.0,
+          "original_price": 114.67,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 72.45,
+          "original_price": 110.36,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "98767a683468",
+      "title": "Sage the Oracle Jet Black Truffle",
+      "price": 1477.35,
+      "original_price": 1680.16,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-bespoke-jet-plus-woody-green-r-16908",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_cd4034d8-ed35-4207-bebc-44778e48b077.avif?v=1774949572",
+      "found_at": "2026-04-03T10:13:02.495663+00:00",
+      "price_history": [
+        {
+          "price": 1468.0,
+          "original_price": 1697.14,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 1477.35,
+          "original_price": 1680.16,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "fc675e0eedd5",
+      "title": "Shark PowerPro Pet IZ380EUT",
+      "price": 177.45,
+      "original_price": 252.42,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/shark-powerpro-pet-iz380eut-r-16814",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2232228.jpg?v=1774877836",
+      "found_at": "2026-04-03T10:13:05.306045+00:00",
+      "price_history": [
+        {
+          "price": 169.0,
+          "original_price": 256.71,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 177.45,
+          "original_price": 252.42,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "856549570ca2",
+      "title": "Duux Threesixty Smart Fan + Heater Gray",
+      "price": 58.8,
+      "original_price": 90.37,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/duux-threesixty-smart-fan-heater-gray-r-16876",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1850429_13071a97-c93a-4595-bf4b-5c3efc3dc99b.jpg?v=1774878212",
+      "found_at": "2026-04-03T10:12:54.544629+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 88.69,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 58.8,
+          "original_price": 90.37,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "15798a52184c",
+      "title": "AOC 24G2SPAE/BK",
+      "price": 58.0,
+      "original_price": 89.0,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g2spae-bk-r-16819",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1954001_089ff401-263f-4750-b378-37d5777a2f68.jpg?v=1774877905",
+      "found_at": "2026-04-03T10:12:49.112149+00:00",
+      "price_history": [
+        {
+          "price": 78.0,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 89.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 11:17",
       "auto_approved": true
     }
   ]
