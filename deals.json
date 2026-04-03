@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T10:17:20.117581+00:00",
-  "total": 298,
+  "updated_at": "2026-04-03T14:20:51.908683+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -7981,6 +7981,33 @@
       "auto_approved": true
     },
     {
+      "id": "7f8057943812",
+      "title": "Refurbished iPad (2020) 32GB Wifi Space Gray",
+      "price": 135.0,
+      "original_price": 208.95,
+      "discount_percent": 35,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-2020-32gb-wifi-space-gray-r-16825",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1945533_fe4561b9-b3f7-49c7-a076-587954432a84.jpg?v=1774948018",
+      "found_at": "2026-04-03T14:16:54.646611+00:00",
+      "price_history": [
+        {
+          "price": 115.0,
+          "original_price": 177.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 177.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 15:20",
+      "auto_approved": true
+    },
+    {
       "id": "bbaa0ae5b115",
       "title": "Oral-B iO9n Marineblauw Speciale Editie",
       "price": 166.95,
@@ -8456,6 +8483,38 @@
         }
       ],
       "approved_at": "03-04-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "e7f0d8c84a96",
+      "title": "HyperX Cloud III Wireless Gaming Headset - Zwart (PC, PS5, PS4)",
+      "price": 159.6,
+      "original_price": 223.65,
+      "discount_percent": 28,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hyperx-cloud-iii-wireless-gaming-headset-zwart-pc-ps5-ps4-r-16623",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1960406_92ab58cf-6f04-4c5f-9e17-2601e4f3d069.jpg?v=1774254476",
+      "found_at": "2026-04-03T14:16:51.731961+00:00",
+      "price_history": [
+        {
+          "price": 157.0,
+          "original_price": 171.0,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 152.0,
+          "original_price": 171.0,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 159.6,
+          "original_price": 223.65,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        }
+      ],
+      "approved_at": "03-04-2026 15:20",
       "auto_approved": true
     }
   ]
