@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T18:24:31.315487+00:00",
-  "total": 300,
+  "updated_at": "2026-04-03T18:24:35.611629+00:00",
+  "total": 295,
   "deals": [
     {
       "id": "2ae63c9ab722",
@@ -1740,21 +1740,6 @@
       "auto_approved": true
     },
     {
-      "id": "5d561b65c35f",
-      "title": "MIELE WWJ 880 WCS PowerWash TwinDos -  Wasmachine Voorlader - 9 kg - 1600 rpm - 68 dB - automatisch doseren",
-      "price": 1304.25,
-      "original_price": 1739.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328355",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69c2c42a344a7_ASSET_MMS_148450773-500x500.png",
-      "found_at": "2026-03-26T11:22:09.658824+00:00",
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "3b59f6329bd2",
       "title": "DeLonghi Dinamica ECAM350.55.B",
       "price": 358.0,
@@ -1867,33 +1852,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209492_a0a4cd1e-41c8-4392-8433-bb1f9a581e38.jpg?v=1774877904",
       "found_at": "2026-03-31T10:24:35.499503+00:00",
       "approved_at": "31-03-2026 11:29",
-      "auto_approved": true
-    },
-    {
-      "id": "1ac36df876e9",
-      "title": "Samsung Galaxy Watch 6 R940 44mm, NFC, BT 5.3, Silver EU SM-R940",
-      "price": 85.76,
-      "original_price": 227.5,
-      "discount_percent": 62,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CDTVG4FH?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61qafCK+whL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-03-30T18:12:26.692440+00:00",
-      "price_history": [
-        {
-          "price": 105.06,
-          "original_price": null,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        },
-        {
-          "price": 85.76,
-          "original_price": 227.5,
-          "scraped_at": "2026-03-30T18:00:43.987076+00:00"
-        }
-      ],
-      "approved_at": "30-03-2026 19:25",
       "auto_approved": true
     },
     {
@@ -2725,68 +2683,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1367011_02a8608c-32f2-4744-ac66-68fff6216718.jpg?v=1774877997",
       "found_at": "2026-03-31T10:24:41.301397+00:00",
       "approved_at": "31-03-2026 11:29",
-      "auto_approved": true
-    },
-    {
-      "id": "4feba7bbc575",
-      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
-      "price": 161.0,
-      "original_price": 331.61,
-      "discount_percent": 51,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-16302",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_8a3e7fed-60cd-423c-858a-c38724a2d829.jpg?v=1772544930",
-      "found_at": "2026-03-26T19:59:43.062133+00:00",
-      "price_history": [
-        {
-          "price": 249.0,
-          "original_price": 329.0,
-          "scraped_at": "2026-03-03T15:00:22.609541+00:00"
-        },
-        {
-          "price": 219.0,
-          "original_price": 343.12,
-          "scraped_at": "2026-03-04T11:00:19.183326+00:00"
-        },
-        {
-          "price": 231.0,
-          "original_price": 366.28,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 251.0,
-          "original_price": 384.39,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 248.0,
-          "original_price": 382.69,
-          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
-        },
-        {
-          "price": 238.0,
-          "original_price": 379.75,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 220.0,
-          "original_price": 379.75,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 178.0,
-          "original_price": 363.21,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 161.0,
-          "original_price": 332.09,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
       "auto_approved": true
     },
     {
@@ -6829,33 +6725,6 @@
       "auto_approved": true
     },
     {
-      "id": "9cf6cf1f4c0e",
-      "title": "BOSCH SMV6YCX02E PerfectDry Inbouwvaatwasser - Volledig geïntegreerd - 14 couverts - 44 dB(A) - Nisbreedte 60.8 cm",
-      "price": 605.25,
-      "original_price": 807.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=328854",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69be88ac6e871_ASSET_MMS_120889824-500x500.png",
-      "found_at": "2026-03-26T19:59:17.465610+00:00",
-      "price_history": [
-        {
-          "price": 539.25,
-          "original_price": 719.0,
-          "scraped_at": "2026-03-18T19:00:29.314956+00:00"
-        },
-        {
-          "price": 605.25,
-          "original_price": 807.0,
-          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
-        }
-      ],
-      "approved_at": "26-03-2026 21:03",
-      "auto_approved": true
-    },
-    {
       "id": "23b49f1e2123",
       "title": "Kitchenaid 5K7FB Menghaak",
       "price": 39.0,
@@ -7444,33 +7313,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101231_ba4c8b12-d5ad-4772-935e-c900e9f6d03e.jpg?v=1774254943",
       "found_at": "2026-03-27T07:24:46.854666+00:00",
       "approved_at": "27-03-2026 08:27",
-      "auto_approved": true
-    },
-    {
-      "id": "6620d74f993c",
-      "title": "Samsung 24' Essential S4 S406GD FHD Monitor",
-      "price": 76.42,
-      "original_price": 132.51,
-      "discount_percent": 42,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DTR3RHGK?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/518u3xHD6gL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-03-30T18:16:40.620824+00:00",
-      "price_history": [
-        {
-          "price": 91.18,
-          "original_price": 115.62,
-          "scraped_at": "2026-03-02T07:00:24.818344+00:00"
-        },
-        {
-          "price": 76.42,
-          "original_price": 132.51,
-          "scraped_at": "2026-03-30T18:00:43.987076+00:00"
-        }
-      ],
-      "approved_at": "30-03-2026 19:25",
       "auto_approved": true
     },
     {
