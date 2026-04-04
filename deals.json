@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-04T10:26:00.720117+00:00",
-  "total": 298,
+  "updated_at": "2026-04-04T14:23:09.865378+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "4398f85e8497",
@@ -5261,6 +5261,33 @@
       "auto_approved": true
     },
     {
+      "id": "98be7f3d9cf1",
+      "title": "Samsung Galaxy A02s A025G Dual-SIM 3/32GB, Android, black",
+      "price": 76.91,
+      "original_price": 152.88,
+      "discount_percent": 49,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08T9T7177?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61XtzVgF8XL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-04T14:07:49.249702+00:00",
+      "price_history": [
+        {
+          "price": 91.91,
+          "original_price": 152.88,
+          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
+        },
+        {
+          "price": 76.91,
+          "original_price": 152.88,
+          "scraped_at": "2026-04-04T14:00:26.567779+00:00"
+        }
+      ],
+      "approved_at": "04-04-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "d90e1990ff41",
       "title": "Samsung MC32DG7646KKE1",
       "price": 205.8,
@@ -8065,6 +8092,43 @@
       "auto_approved": true
     },
     {
+      "id": "18c9c2ad91c3",
+      "title": "Sony A7CII Body Silver",
+      "price": 1841.7,
+      "original_price": 2047.65,
+      "discount_percent": 10,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-a7cii-body-silver-r-16652",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1962158.jpg?v=1774254735",
+      "found_at": "2026-04-04T14:21:05.198128+00:00",
+      "price_history": [
+        {
+          "price": 1839.0,
+          "original_price": 2153.43,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 1859.0,
+          "original_price": 2142.38,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 1951.95,
+          "original_price": 2047.65,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 1841.7,
+          "original_price": 2047.65,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        }
+      ],
+      "approved_at": "04-04-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "e7f0d8c84a96",
       "title": "HyperX Cloud III Wireless Gaming Headset - Zwart (PC, PS5, PS4)",
       "price": 159.6,
@@ -10674,6 +10738,63 @@
       "auto_approved": true
     },
     {
+      "id": "30a33b5db4f1",
+      "title": "DJI Mic 1V1",
+      "price": 138.6,
+      "original_price": 163.79,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-mic-1v1-r-16288",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1870276_00ed55da-f4f1-469b-bc15-6cad4171db2b.jpg?v=1773749952",
+      "found_at": "2026-04-04T14:20:54.717718+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 161.33,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 157.0,
+          "original_price": 164.6,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 152.0,
+          "original_price": 164.6,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 160.19,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 160.19,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 143.0,
+          "original_price": 163.84,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 139.65,
+          "original_price": 164.2,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 138.6,
+          "original_price": 163.79,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        }
+      ],
+      "approved_at": "04-04-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "f8fc4ec593cf",
       "title": "Sony LinkBuds Fit Zwart",
       "price": 137.55,
@@ -10713,33 +10834,6 @@
         }
       ],
       "approved_at": "04-04-2026 11:25",
-      "auto_approved": true
-    },
-    {
-      "id": "47c5deef86ea",
-      "title": "Philips Sonicare 6100 Series HX7400/01 Wit",
-      "price": 81.9,
-      "original_price": 98.57,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-sonicare-6100-series-hx7400-01-wit-r-16774",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2088880_f3e0bfe0-a530-434d-bbf8-34348140cbf7.jpg?v=1774947793",
-      "found_at": "2026-04-04T06:15:43.950443+00:00",
-      "price_history": [
-        {
-          "price": 78.0,
-          "original_price": 100.86,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 81.9,
-          "original_price": 98.57,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        }
-      ],
-      "approved_at": "04-04-2026 07:19",
       "auto_approved": true
     }
   ]
