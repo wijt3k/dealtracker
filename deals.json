@@ -1,44 +1,7 @@
 {
-  "updated_at": "2026-04-06T06:21:41.550643+00:00",
-  "total": 300,
+  "updated_at": "2026-04-06T06:21:47.230559+00:00",
+  "total": 290,
   "deals": [
-    {
-      "id": "4398f85e8497",
-      "title": "Refurbished Microsoft Surface Pro 11 Snapdragon X Elite/16GB/512GB Black",
-      "price": 707.98,
-      "original_price": 1748.93,
-      "discount_percent": 59,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-pro-11-snapdragon-x-elite-16gb-512gb-black-r-16701",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2141551_5c23ddea-1f5a-4b2c-9fbc-438959c1db14.jpg?v=1774255059",
-      "found_at": "2026-04-02T06:20:50.164064+00:00",
-      "price_history": [
-        {
-          "price": 778.0,
-          "original_price": 1779.0,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 723.54,
-          "original_price": 1748.93,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 715.76,
-          "original_price": 1748.93,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 707.98,
-          "original_price": 1748.93,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        }
-      ],
-      "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
     {
       "id": "bd52eb738f6f",
       "title": "Refurbished iPhone 14 Pro Max 128GB Zilver",
@@ -873,93 +836,6 @@
           "price": 1218.0,
           "original_price": 1956.98,
           "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        }
-      ],
-      "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
-    {
-      "id": "e52b2039d61b",
-      "title": "LG DS80QY",
-      "price": 260.0,
-      "original_price": 607.95,
-      "discount_percent": 57,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lg-ds80qy-r-16368",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1750436_18deee2a-88dd-46f5-b065-50b4f5b9fcd9.jpg?v=1772441574",
-      "found_at": "2026-04-02T06:20:44.057279+00:00",
-      "price_history": [
-        {
-          "price": 324.0,
-          "original_price": 429.0,
-          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
-        },
-        {
-          "price": 597.0,
-          "original_price": 644.25,
-          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
-        },
-        {
-          "price": 532.0,
-          "original_price": 638.63,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 597.0,
-          "original_price": 642.78,
-          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
-        },
-        {
-          "price": 577.0,
-          "original_price": 642.78,
-          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
-        },
-        {
-          "price": 506.0,
-          "original_price": 621.63,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 451.0,
-          "original_price": 607.95,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 347.0,
-          "original_price": 607.95,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 451.0,
-          "original_price": 607.95,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 506.0,
-          "original_price": 621.63,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        },
-        {
-          "price": 347.0,
-          "original_price": 607.95,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 289.0,
-          "original_price": 607.95,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 292.0,
-          "original_price": 621.63,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 260.0,
-          "original_price": 607.95,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
         }
       ],
       "approved_at": "04-04-2026 07:19",
@@ -2988,83 +2864,6 @@
       "auto_approved": true
     },
     {
-      "id": "21718226eace",
-      "title": "Beats Powerbeats Pro Zwart",
-      "price": 103.0,
-      "original_price": 224.99,
-      "discount_percent": 54,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/beats-powerbeats-pro-zwart-r-16334",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1385753_bf0457dd-ed7d-4efe-a55d-b8b15bc88231.jpg?v=1772441298",
-      "found_at": "2026-04-02T06:20:36.512652+00:00",
-      "price_history": [
-        {
-          "price": 177.0,
-          "original_price": 253.0,
-          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
-        },
-        {
-          "price": 192.0,
-          "original_price": 229.7,
-          "scraped_at": "2026-03-03T11:00:20.534527+00:00"
-        },
-        {
-          "price": 186.0,
-          "original_price": 204.81,
-          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
-        },
-        {
-          "price": 140.0,
-          "original_price": 198.31,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 122.0,
-          "original_price": 198.31,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 163.0,
-          "original_price": 201.76,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 125.0,
-          "original_price": 201.76,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 163.0,
-          "original_price": 216.06,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 125.0,
-          "original_price": 216.32,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 104.0,
-          "original_price": 216.32,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 115.0,
-          "original_price": 223.32,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 103.0,
-          "original_price": 224.99,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        }
-      ],
-      "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
-    {
       "id": "e89b1dab5dd8",
       "title": "Asus TUF Gaming A15 FA706ICB-HX089W-BE Azerty",
       "price": 788.0,
@@ -3855,21 +3654,6 @@
       "auto_approved": true
     },
     {
-      "id": "a25bd2017b58",
-      "title": "Dyson V11 Fluffy 476550-01",
-      "price": 265.0,
-      "original_price": 447.62,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-v11-fluffy-476550-01-r-16809",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1981173_633c765e-700c-4aef-9f01-7f465ff79055.jpg?v=1774877790",
-      "found_at": "2026-04-02T06:20:39.951930+00:00",
-      "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
-    {
       "id": "086593729d7a",
       "title": "Polar Ignite 2 - Fitness Smartwatch met ingebouwde GPS - Ingebouwde hartslagmeter - Gepersonaliseerde workouts, Slaap en herstelmeting - Muziekbediening, Weerbericht, Slimme telefoon meldingen",
       "price": 72.77,
@@ -4073,29 +3857,6 @@
       "auto_approved": true
     },
     {
-      "id": "d82c34cd5a4b",
-      "title": "AOC Gaming C32G2ze 80 cm (31,5 inch) gebogen monitor (FHD, HDMI, DisplayPort, 1ms MPRT responstijd, 1920 x 1080 pixels, 240 Hertz, Free-Sync Premium) zwart",
-      "price": 100.74,
-      "original_price": 198.45,
-      "discount_percent": 49,
-      "category": "gaming",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B08CKNH2ZM?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81P2i2NrnmL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-02T06:18:57.368825+00:00",
-      "approved_at": "02-04-2026 07:24",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 100.74,
-          "original_price": 198.45,
-          "discount_percent": 49,
-          "scraped_at": "2026-04-02T06:00:30.360866+00:00"
-        }
-      ]
-    },
-    {
       "id": "713ba712c11b",
       "title": "TCL 75C6K QD-MiniLED Google TV (2025)",
       "price": 824.25,
@@ -4266,53 +4027,6 @@
       "url": "https://stekkerstore.com/products/philips-performer-silent-fc8780-09-r-16891",
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1378729.jpg?v=1774878352",
       "found_at": "2026-04-04T06:15:43.950085+00:00",
-      "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
-    {
-      "id": "22aeb0a6a36d",
-      "title": "Tanita Rd-953 Zwart",
-      "price": 103.0,
-      "original_price": 199.99,
-      "discount_percent": 48,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tanita-rd-953-zwart-r-16474",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843093.jpg?v=1773138326",
-      "found_at": "2026-04-02T06:20:56.596765+00:00",
-      "price_history": [
-        {
-          "price": 156.0,
-          "original_price": null,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 183.0,
-          "original_price": 199.99,
-          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
-        },
-        {
-          "price": 177.0,
-          "original_price": 199.99,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 183.0,
-          "original_price": 199.99,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 106.0,
-          "original_price": 199.99,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 103.0,
-          "original_price": 199.99,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        }
-      ],
       "approved_at": "04-04-2026 07:19",
       "auto_approved": true
     },
@@ -5049,29 +4763,6 @@
       "auto_approved": true
     },
     {
-      "id": "d5bcfe8867c9",
-      "title": "Gigabyte MO32U 31,5\" Gaming Monitor OLED 4K UHD - 3840 x 2160, 165Hz, 0,03ms, 250CD/m², Display HDR True Black 400, HDMI 2.1, DisplayPort 1.4",
-      "price": 505.03,
-      "original_price": 709.98,
-      "discount_percent": 28,
-      "category": "gaming",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DRYRGJ7P?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71Ncl9l9ejL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-02T06:19:28.297180+00:00",
-      "approved_at": "02-04-2026 07:24",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 505.03,
-          "original_price": 709.98,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-02T06:00:30.360866+00:00"
-        }
-      ]
-    },
-    {
       "id": "e713c25a96a8",
       "title": "Samsung Galaxy Buds3 Zwart",
       "price": 56.7,
@@ -5326,58 +5017,6 @@
       "auto_approved": true
     },
     {
-      "id": "6cdc7b601684",
-      "title": "Samsung Galaxy S25 128GB Donkerblauw Refurbished",
-      "price": 493.68,
-      "original_price": 686.6,
-      "discount_percent": 28,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-s25-128gb-donkerblauw-r-16745",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134054_095f2d90-5859-49be-afe1-168a40f3123e.jpg?v=1774019085",
-      "found_at": "2026-04-02T06:20:53.164675+00:00",
-      "price_history": [
-        {
-          "price": 499.0,
-          "original_price": 615.0,
-          "scraped_at": "2026-03-20T15:00:16.223615+00:00"
-        },
-        {
-          "price": 563.0,
-          "original_price": 671.53,
-          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
-        },
-        {
-          "price": 561.0,
-          "original_price": 675.2,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 516.12,
-          "original_price": 668.44,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 504.9,
-          "original_price": 663.3,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 499.29,
-          "original_price": 639.9,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 493.68,
-          "original_price": 686.6,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        }
-      ],
-      "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
-    {
       "id": "c7e3cc542b88",
       "title": "Soundcore By Anker Soundcore Liberty 4 NC Wit",
       "price": 39.9,
@@ -5486,29 +5125,6 @@
       ],
       "approved_at": "02-04-2026 15:31",
       "auto_approved": true
-    },
-    {
-      "id": "3bdd3d18f185",
-      "title": "Motorola Moto G55 5G, Dual, 256GB 8GB Ram, Twilight Purple",
-      "price": 108.5,
-      "original_price": 189.99,
-      "discount_percent": 42,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DV9B91FC?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/717EUVAhcXL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-02T06:07:27.804974+00:00",
-      "approved_at": "02-04-2026 07:24",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 108.5,
-          "original_price": 189.99,
-          "discount_percent": 42,
-          "scraped_at": "2026-04-02T06:00:30.360866+00:00"
-        }
-      ]
     },
     {
       "id": "ac7fdf58683d",
@@ -6201,35 +5817,6 @@
         }
       ],
       "approved_at": "04-04-2026 07:19",
-      "auto_approved": true
-    },
-    {
-      "id": "781d4013ece8",
-      "title": "Oral-B iO9N Black",
-      "price": 130.0,
-      "original_price": 208.57,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io9n-black-r-16890",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1809169_45ac3dfe-bada-46db-8e16-627655d4616d.jpg?v=1774878346",
-      "found_at": "2026-04-02T06:20:46.426392+00:00",
-      "price_history": [
-        {
-          "price": 177.0,
-          "original_price": 212.3,
-          "discount_percent": 16,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 130.0,
-          "original_price": 208.57,
-          "discount_percent": 37,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        }
-      ],
-      "approved_at": "02-04-2026 11:23",
       "auto_approved": true
     },
     {
