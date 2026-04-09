@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T10:30:00.004686+00:00",
+  "updated_at": "2026-04-09T14:20:41.300842+00:00",
   "total": 300,
   "deals": [
     {
@@ -9793,6 +9793,33 @@
       "auto_approved": true
     },
     {
+      "id": "a3e9211c818f",
+      "title": "GIGABYTE G27Q2 Gaming Monitor 27\" 2K QHD - 2560 x 1440, 200Hz, 1ms, 350CD/m², compatibel met G-Sync, FreeSync Premium, HDR10, HDMI 2.0, DisplayPort 1.4",
+      "price": 113.53,
+      "original_price": 182.66,
+      "discount_percent": 37,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FWS4L67W?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61cQZxRsB6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-09T14:14:07.621704+00:00",
+      "price_history": [
+        {
+          "price": 112.12,
+          "original_price": 189.99,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 113.53,
+          "original_price": 149.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        }
+      ],
+      "approved_at": "09-04-2026 15:20",
+      "auto_approved": true
+    },
+    {
       "id": "1d4295cef6e0",
       "title": "APPLE MacBook Pro 14\" M4 Pro 2024 1 TB - 24GB QWERTY 14‑core CPU - 20‑core GPU - Zilver",
       "price": 2402.1,
@@ -10660,6 +10687,58 @@
       "auto_approved": true
     },
     {
+      "id": "b31ee6629986",
+      "title": "Dyson Airwrap Long Multistyler Nikkel/Koper",
+      "price": 425.25,
+      "original_price": 549.0,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-airwrap-long-multistyler-nikkel-koper-r-16644",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1980076_e6c03622-7abd-4464-adc8-375ee24e134f.jpg?v=1774363712",
+      "found_at": "2026-04-09T14:17:13.553229+00:00",
+      "price_history": [
+        {
+          "price": 362.0,
+          "original_price": 549.0,
+          "scraped_at": "2026-03-26T15:00:28.542598+00:00"
+        },
+        {
+          "price": 449.0,
+          "original_price": 549.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 444.0,
+          "original_price": 549.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 450.45,
+          "original_price": 549.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 435.75,
+          "original_price": 549.0,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 430.5,
+          "original_price": 549.0,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 425.25,
+          "original_price": 549.0,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        }
+      ],
+      "approved_at": "09-04-2026 15:20",
+      "auto_approved": true
+    },
+    {
       "id": "b534ee55cecd",
       "title": "AEG AP82AF25DG ANIMAL 8000",
       "price": 137.55,
@@ -10772,76 +10851,6 @@
           "original_price": 285.0,
           "discount_percent": 28,
           "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "4359206bcfb8",
-      "title": "Bose QuietComfort Headphones Zwart",
-      "price": 195.3,
-      "original_price": 269.95,
-      "discount_percent": 27,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-headphones-zwart-r-16864",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969950_2d138968-4897-4f10-83a5-2c1c4c7efd13.jpg?v=1774948171",
-      "found_at": "2026-04-08T14:15:17.557474+00:00",
-      "price_history": [
-        {
-          "price": 194.0,
-          "original_price": 269.95,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 203.7,
-          "original_price": 269.95,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 195.3,
-          "original_price": 269.95,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "59dbdbc076e7",
-      "title": "Duux Threesixty 2 Smart Heater Wit",
-      "price": 58.8,
-      "original_price": 88.15,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/duux-threesixty-2-smart-heater-wit-r-16874",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1850451.jpg?v=1774878175",
-      "found_at": "2026-04-08T14:15:17.559569+00:00",
-      "price_history": [
-        {
-          "price": 58.0,
-          "original_price": 87.19,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 60.9,
-          "original_price": 89.78,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 58.8,
-          "original_price": 88.15,
-          "discount_percent": 33,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
         }
       ],
       "approved_at": "08-04-2026 15:18",
