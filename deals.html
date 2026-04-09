@@ -112,6 +112,9 @@
 
     /* tweakers market price row */
     .tweakers-row{font-size:.72rem;color:var(--verified);display:flex;align-items:center;gap:.3rem;margin-top:-.1rem}
+    /* freshness */
+    .deal-freshness{font-size:.7rem;color:var(--muted);margin-bottom:.2rem}
+    .deal-freshness.today{color:#4ade80;font-weight:600}
 
     /* favorite button */
     .fav-btn{position:absolute;top:.45rem;right:.5rem;background:rgba(15,23,42,.65);backdrop-filter:blur(4px);border:none;border-radius:6px;width:28px;height:28px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:.9rem;transition:background .15s;line-height:1;padding:0;z-index:2}
@@ -209,6 +212,10 @@
 
   <div class="cat-pills" id="cat-pills"></div>
 
+  <button class="pill" id="verified-pill" onclick="toggleVerified()" style="background:rgba(14,165,233,.08);border-color:rgba(14,165,233,.3);color:#0ea5e9">
+    ✓ Geverifieerd
+  </button>
+
   <span class="count-badge" id="count-badge">— deals</span>
 </div>
 
@@ -239,7 +246,7 @@ const ICON = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'�
 
 // ── STATE ────────────────────────────────────────────────────────────────
 let allDeals=[], filteredDeals=[], currentPage=1;
-let activeCategory='all', searchQuery='';
+let activeCategory='all', searchQuery='', onlyVerified=false;
 
 // ── FAVORIETEN ────────────────────────────────────────────────────────────
 let favorieten = new Set(JSON.parse(localStorage.getItem('dt_favs') || '[]'));
@@ -357,6 +364,22 @@ function setCategory(slug) {
   buildCatPills(); applyFilters(); updatePageMeta(); pushURLState();
 }
 
+function toggleVerified() {
+  onlyVerified = !onlyVerified;
+  currentPage = 1;
+  const pill = document.getElementById('verified-pill');
+  if (onlyVerified) {
+    pill.style.background = '#0ea5e9';
+    pill.style.color = '#fff';
+    pill.style.borderColor = '#0ea5e9';
+  } else {
+    pill.style.background = 'rgba(14,165,233,.08)';
+    pill.style.color = '#0ea5e9';
+    pill.style.borderColor = 'rgba(14,165,233,.3)';
+  }
+  applyFilters(); updatePageMeta(); pushURLState();
+}
+
 // ── SEARCH ───────────────────────────────────────────────────────────────
 let searchTimer;
 function onSearch() {
@@ -395,8 +418,8 @@ function applyFilters() {
       } else if (cat !== activeCategory) return false;
     }
     if ((d.price||0) > maxPrijs) return false;
-    // Minimum korting: alleen filteren als deal een kortingspercentage heeft
     if (minKorting > 0 && (d.discount_percent||0) < minKorting) return false;
+    if (onlyVerified && !d.tweakers_price) return false;
     if (searchQuery) {
       const hay = ((d.title||'')+' '+(d.source||'')+' '+(d.category||'')).toLowerCase();
       if (!hay.includes(searchQuery)) return false;
@@ -485,8 +508,17 @@ function renderCard(d) {
     prijsHtml += `<div class="tweakers-row">✓ Marktprijs €${d.tweakers_price.toFixed(0)} · bespaar €${twSaving}</div>`;
   }
 
-  // Conditie tonen als het iets toevoegt (niet "Outlet" als de badge al Outlet is)
-  const condLabel = d.condition && !(isOutlet && disc === 0) ? `<div class="deal-condition">${d.condition}</div>` : '';
+  // Versheid-label
+  let freshnessHtml = '';
+  try {
+    const ts = d.first_seen || d.found_at || d.scraped_at;
+    if (ts) {
+      const diffH = (Date.now() - new Date(ts).getTime()) / 3600000;
+      if (diffH < 2)        freshnessHtml = '<div class="deal-freshness today">🟢 Zojuist toegevoegd</div>';
+      else if (diffH < 24)  freshnessHtml = '<div class="deal-freshness today">🟢 Vandaag toegevoegd</div>';
+      else if (diffH < 48)  freshnessHtml = '<div class="deal-freshness">Gisteren toegevoegd</div>';
+    }
+  } catch(_) {}
 
   const isFav = favorieten.has(d.id);
   return `
@@ -499,7 +531,7 @@ function renderCard(d) {
     <div class="deal-body">
       <div class="deal-source">${d.source||''}</div>
       <div class="deal-title">${d.title||''}</div>
-      ${condLabel}
+      ${freshnessHtml}
     </div>
     <div class="deal-price">
       ${prijsHtml}
@@ -620,5 +652,19 @@ document.addEventListener('click', e => {
 
 boot();
 </script>
+
+<footer style="border-top:1px solid var(--border);padding:1.5rem;text-align:center;color:var(--muted);font-size:.82rem;margin-top:1rem">
+  <p>
+    <a href="./" style="color:var(--muted)">Home</a> &nbsp;·&nbsp;
+    <a href="./laptops.html" style="color:var(--muted)">Laptops</a> &nbsp;·&nbsp;
+    <a href="./smartphones.html" style="color:var(--muted)">Smartphones</a> &nbsp;·&nbsp;
+    <a href="./audio.html" style="color:var(--muted)">Audio</a> &nbsp;·&nbsp;
+    <a href="./gaming.html" style="color:var(--muted)">Gaming</a> &nbsp;·&nbsp;
+    <a href="./tv.html" style="color:var(--muted)">TV's</a> &nbsp;·&nbsp;
+    <a href="./huishouden.html" style="color:var(--muted)">Huishouden</a>
+  </p>
+  <p style="margin-top:.5rem">© 2026 DealTracker &nbsp;·&nbsp; Prijzen en beschikbaarheid kunnen afwijken.</p>
+  <p style="margin-top:.3rem;font-size:.72rem;color:#4a5568">DealTracker neemt deel aan het Amazon Associates-programma. Als affiliate ontvangen wij een commissie bij aankopen via onze links — zonder extra kosten voor jou.</p>
+</footer>
 </body>
 </html>

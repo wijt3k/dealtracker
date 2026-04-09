@@ -167,27 +167,42 @@
 
     /* ── FEATURED DEALS ── */
     .deals-grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;
     }
     .deal-card {
       background: var(--card); border: 1px solid var(--border); border-radius: 12px;
-      overflow: hidden; transition: all .2s; display: flex; flex-direction: column;
+      overflow: hidden; transition: border-color .2s, transform .15s; display: flex;
+      flex-direction: column; cursor: pointer; position: relative;
     }
     .deal-card:hover { border-color: var(--primary); transform: translateY(-2px); }
-    .deal-img { width: 100%; height: 140px; object-fit: contain; background: #0f172a; padding: .5rem; }
-    .deal-img-placeholder { width: 100%; height: 100px; display: flex; align-items: center; justify-content: center; font-size: 3rem; background: rgba(255,107,53,.06); }
+    .deal-card.verified { border-color: rgba(14,165,233,.35); }
+    .deal-card.verified:hover { border-color: #0ea5e9; }
+    .deal-img-wrap { height: 130px; background: #0a1120; display: flex; align-items: center;
+      justify-content: center; overflow: hidden; padding: .5rem; }
+    .deal-img-wrap img { max-width: 100%; max-height: 100%; object-fit: contain; }
+    .deal-img-placeholder { font-size: 2.5rem; display: flex; align-items: center; justify-content: center;
+      width: 100%; height: 100%; }
     .deal-body { padding: .9rem; flex: 1; display: flex; flex-direction: column; }
     .deal-source { font-size: .7rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin-bottom: .3rem; }
     .deal-title { font-size: .875rem; font-weight: 600; line-height: 1.4; margin-bottom: .6rem; flex: 1;
       display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-    .deal-price-row { display: flex; align-items: center; gap: .6rem; margin-bottom: .75rem; }
+    .deal-price-row { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; margin-bottom: .75rem; }
     .price-now { font-size: 1.15rem; font-weight: 800; }
     .price-was { font-size: .8rem; color: var(--muted); text-decoration: line-through; }
-    .discount { background: var(--success); color: #fff; border-radius: 4px; padding: .1rem .4rem; font-size: .75rem; font-weight: 700; }
+    .saving { background: rgba(34,197,94,.15); color: var(--success); border-radius: 4px; padding: .1rem .4rem; font-size: .75rem; font-weight: 700; }
+    .no-orig-label { font-size: .75rem; color: var(--muted); font-style: italic; }
     .deal-btn { display: block; background: var(--primary); color: #fff; text-align: center;
       padding: .5rem; border-radius: 8px; font-weight: 600; font-size: .875rem;
       transition: opacity .2s; margin-top: auto; }
     .deal-btn:hover { opacity: .85; }
+    /* badges */
+    .badge { position: absolute; top: .5rem; left: .5rem; border-radius: 5px;
+      padding: .15rem .45rem; font-size: .7rem; font-weight: 700; z-index: 2; }
+    .badge-new { background: var(--primary); color: #fff; }
+    .badge-verified { background: #0ea5e9; color: #fff; }
+    .badge-disc { background: var(--success); color: #fff; }
+    .badge-outlet { background: rgba(247,184,1,.2); color: #F7B801; border: 1px solid rgba(247,184,1,.3); }
+    .verified-strip { height: 2px; background: linear-gradient(90deg, #0ea5e9, #38bdf8); margin-top: auto; }
 
     /* ── SOURCES ── */
     .sources-grid { display: flex; gap: 1rem; flex-wrap: wrap; }
@@ -303,7 +318,7 @@
 <div class="stats-bar">
   <div class="stat-item"><div class="stat-num" id="stat-deals">—</div><div class="stat-label">Actieve deals</div></div>
   <div class="stat-item"><div class="stat-num" id="stat-korting">—</div><div class="stat-label">Gem. korting</div></div>
-  <div class="stat-item"><div class="stat-num" id="stat-bronnen">4</div><div class="stat-label">Winkels</div></div>
+  <div class="stat-item"><div class="stat-num" id="stat-verified">—</div><div class="stat-label">✓ Geverifieerd</div></div>
   <div class="stat-item"><div class="stat-num" id="stat-updated">—</div><div class="stat-label">Bijgewerkt</div></div>
 </div>
 
@@ -323,6 +338,17 @@
   </div>
   <div style="text-align:center; margin-top:2rem;">
     <a class="btn-hero btn-primary" href="./deals.html">Bekijk alle deals →</a>
+  </div>
+</section>
+
+<!-- VANDAAG TOEGEVOEGD -->
+<section class="section" id="vandaag">
+  <h2 class="section-title">🆕 <span>Vandaag</span> toegevoegd</h2>
+  <div class="deals-grid" id="today-grid">
+    <!-- filled by JS -->
+  </div>
+  <div style="text-align:center;margin-top:1.5rem" id="today-cta" style="display:none">
+    <a class="btn-hero btn-outline" href="./deals.html?sort=nieuw">Bekijk alle nieuwe deals →</a>
   </div>
 </section>
 
@@ -346,12 +372,20 @@
 
 <!-- FOOTER -->
 <footer>
-  <p>© 2026 DealTracker &nbsp;·&nbsp; <a href="./deals.html">Alle deals</a> &nbsp;·&nbsp;
-  <a href="./laptops.html">Laptops</a> &nbsp;·&nbsp;
-  <a href="./audio.html">Audio</a> &nbsp;·&nbsp;
-  <a href="./gaming.html">Gaming</a> &nbsp;·&nbsp;
-  <a href="./tv.html">TV's</a></p>
-  <p style="margin-top:.5rem; font-size:.75rem;">Prijzen en beschikbaarheid kunnen afwijken. DealTracker is een onafhankelijke vergelijkingssite.</p>
+  <p>
+    <a href="./deals.html">Alle deals</a> &nbsp;·&nbsp;
+    <a href="./laptops.html">Laptops</a> &nbsp;·&nbsp;
+    <a href="./smartphones.html">Smartphones</a> &nbsp;·&nbsp;
+    <a href="./audio.html">Audio</a> &nbsp;·&nbsp;
+    <a href="./gaming.html">Gaming</a> &nbsp;·&nbsp;
+    <a href="./tv.html">TV's</a> &nbsp;·&nbsp;
+    <a href="./tablets.html">Tablets</a> &nbsp;·&nbsp;
+    <a href="./wearables.html">Wearables</a> &nbsp;·&nbsp;
+    <a href="./camera.html">Camera's</a> &nbsp;·&nbsp;
+    <a href="./huishouden.html">Huishouden</a>
+  </p>
+  <p style="margin-top:.75rem; font-size:.75rem;">© 2026 DealTracker &nbsp;·&nbsp; Prijzen en beschikbaarheid kunnen afwijken. DealTracker is een onafhankelijke vergelijkingssite.</p>
+  <p style="margin-top:.4rem; font-size:.72rem; color:#64748b;">DealTracker neemt deel aan het Amazon Associates-programma. Als affiliate ontvangen wij een commissie bij aankopen via onze links — zonder extra kosten voor jou.</p>
 </footer>
 
 <script>
@@ -363,15 +397,17 @@ const CATEGORIES = [
   { slug: 'tv',          icon: '📺', name: "TV's" },
   { slug: 'tablets',     icon: '📟', name: 'Tablets' },
   { slug: 'wearables',   icon: '⌚', name: 'Wearables' },
-  { slug: 'camera',      icon: '📷', name: 'Camera\'s' },
+  { slug: 'camera',      icon: '📷', name: "Camera's" },
   { slug: 'huishouden',  icon: '🏠', name: 'Huishouden' },
-  { slug: 'elektronica', icon: '⚡', name: 'Elektronica' },
+  { slug: 'elektronica', icon: '⚡', name: 'Overig' },
 ];
 
+// Zelfde score-algoritme als deals.html
 function dealScore(d) {
   const k = d.discount_percent || 0;
-  const besparing = d.original_price && d.price ? Math.min(d.original_price - d.price, 400) : 0;
-  return k * 0.6 + (besparing / 400) * 40;
+  const besparing = d.original_price && d.price ? (d.original_price - d.price) : 0;
+  const verified_bonus = d.tweakers_price ? 25 : 0;
+  return besparing * 0.7 + k * 0.5 + verified_bonus;
 }
 
 function timeAgo(isoStr) {
@@ -383,12 +419,67 @@ function timeAgo(isoStr) {
   } catch { return ''; }
 }
 
+const CAT_ICONS = { laptops:'💻', smartphones:'📱', audio:'🎧', gaming:'🎮', tv:'📺', tablets:'📟', wearables:'⌚', camera:'📷', huishouden:'🏠', elektronica:'⚡' };
+
+function renderCard(d) {
+  const disc = d.discount_percent || 0;
+  const besparing = d.original_price && d.price ? (d.original_price - d.price) : 0;
+  const isVerified = !!(d.tweakers_price);
+  const isNew = d.first_seen && (Date.now() - new Date(d.first_seen).getTime()) < 86400000;
+  const isOutlet = !d.original_price;
+  const OUTLET_LABELS = ['Outlet','Retour','Tweedekans','Buitenkansje','Refurbished'];
+  const conditionIsOutlet = d.condition && OUTLET_LABELS.some(l => d.condition.includes(l));
+
+  // Eén badge – prioriteit: NIEUW > Geverifieerd > korting% > Outlet
+  let badge = '';
+  if (isNew) badge = '<span class="badge badge-new">NIEUW</span>';
+  else if (isVerified) badge = '<span class="badge badge-verified">✓ Geverifieerd</span>';
+  else if (disc > 0) badge = `<span class="badge badge-disc">−${disc}%</span>`;
+  else if (isOutlet || conditionIsOutlet) badge = '<span class="badge badge-outlet">Outlet</span>';
+
+  const safeId    = (d.id   || '').replace(/['"]/g, '');
+  const safeUrl   = (d.url  || '').replace(/'/g, '%27');
+  const safeTitle = (d.title|| '').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const icon = CAT_ICONS[d.category] || '⚡';
+
+  return `
+  <div class="deal-card${isVerified ? ' verified' : ''}" onclick="window.location.href='./deal.html?id=${safeId}'">
+    ${badge}
+    <div class="deal-img-wrap">
+      ${d.image
+        ? `<img src="${d.image}" alt="${safeTitle.substring(0,60)}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+        : ''}
+      <div class="deal-img-placeholder" style="${d.image ? 'display:none' : ''}">${icon}</div>
+    </div>
+    <div class="deal-body">
+      <div class="deal-source">${d.source || ''}</div>
+      <div class="deal-title">${safeTitle}</div>
+      <div class="deal-price-row">
+        <span class="price-now">€${(d.price || 0).toFixed(2)}</span>
+        ${d.original_price ? `<span class="price-was">€${d.original_price.toFixed(0)}</span>` : '<span class="no-orig-label">outlet / retourprijs</span>'}
+        ${besparing > 0 ? `<span class="saving">−€${Math.round(besparing)}</span>` : ''}
+      </div>
+      <a class="deal-btn" href="${d.url || '#'}" target="_blank" rel="nofollow noopener" onclick="event.stopPropagation()">Bekijk deal →</a>
+    </div>
+    ${isVerified ? '<div class="verified-strip"></div>' : ''}
+  </div>`;
+}
+
+function trackAndOpen(id, url, title, price, source) {
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'deal_click', { deal_title: title, deal_price: price, deal_source: source, page: 'homepage' });
+  }
+  // Ga eerst naar deal-detailpagina voor context; "Bekijk deal" knop gaat direct
+  window.location.href = './deal.html?id=' + id;
+}
+
 async function init() {
-  let deals = [];
+  let deals = [], updatedAt = null;
   try {
     const res = await fetch('deals.json?t=' + Date.now());
     const data = await res.json();
     deals = data.deals || [];
+    updatedAt = data.updated_at || null;
   } catch(e) {
     console.warn('deals.json laden mislukt', e);
   }
@@ -398,50 +489,55 @@ async function init() {
   if (deals.length) {
     const avgK = Math.round(deals.reduce((s, d) => s + (d.discount_percent || 0), 0) / deals.length);
     document.getElementById('stat-korting').textContent = avgK + '%';
+    const verified = deals.filter(d => d.tweakers_price).length;
+    document.getElementById('stat-verified').textContent = verified;
   }
-  // Last updated
-  try {
-    const res2 = await fetch('deals.json?t=' + Date.now());
-    const data2 = await res2.json();
-    if (data2.updated_at) {
-      document.getElementById('stat-updated').textContent = timeAgo(data2.updated_at);
-    }
-  } catch {}
+  if (updatedAt) {
+    document.getElementById('stat-updated').textContent = timeAgo(updatedAt);
+  }
 
   // ── Categories ──
   const counts = {};
-  deals.forEach(d => { const c = d.category || 'elektronica'; counts[c] = (counts[c] || 0) + 1; });
+  deals.forEach(d => {
+    const c = (d.category === 'overig' || d.category === 'elektronica') ? 'elektronica' : (d.category || 'elektronica');
+    counts[c] = (counts[c] || 0) + 1;
+  });
   const grid = document.getElementById('category-grid');
-  grid.innerHTML = CATEGORIES.map(c => `
-    <a href="./deals.html?categorie=${c.slug}" class="cat-card">
+  grid.innerHTML = CATEGORIES
+    .filter(c => (counts[c.slug] || 0) > 0)
+    .map(c => `
+    <a href="./${c.slug === 'elektronica' ? 'deals.html' : c.slug + '.html'}" class="cat-card">
       <span class="cat-icon">${c.icon}</span>
       <span class="cat-name">${c.name}</span>
       <span class="cat-count">${counts[c.slug] || 0} deals</span>
     </a>`).join('');
 
-  // ── Featured deals (top 6 by score) ──
-  const top6 = [...deals].sort((a, b) => dealScore(b) - dealScore(a)).slice(0, 6);
+  // ── Featured deals (top 6 by score, alleen deals met kortingsbewijs of verificatie) ──
+  const kwaliteit = deals.filter(d => d.tweakers_price || (d.original_price && (d.discount_percent || 0) >= 20));
+  const top6 = [...kwaliteit].sort((a, b) => dealScore(b) - dealScore(a)).slice(0, 6);
   const fg = document.getElementById('featured-grid');
-  fg.innerHTML = top6.map(d => {
-    const disc = d.discount_percent || 0;
-    const url  = encodeURIComponent(d.url || '');
-    return `
-    <div class="deal-card" onclick="window.open(decodeURIComponent('${url}'), '_blank')">
-      ${d.image
-        ? `<img class="deal-img" src="${d.image}" alt="${(d.title||'').substring(0,60)}" loading="lazy" onerror="this.style.display='none'">`
-        : `<div class="deal-img-placeholder">${d.category === 'audio' ? '🎧' : d.category === 'laptops' ? '💻' : '⚡'}</div>`}
-      <div class="deal-body">
-        <div class="deal-source">${d.source || ''}</div>
-        <div class="deal-title">${d.title || ''}</div>
-        <div class="deal-price-row">
-          <span class="price-now">€${(d.price || 0).toFixed(2)}</span>
-          ${d.original_price ? `<span class="price-was">€${d.original_price.toFixed(0)}</span>` : ''}
-          ${disc > 0 ? `<span class="discount">-${disc}%</span>` : ''}
-        </div>
-        <a class="deal-btn" href="${d.url || '#'}" target="_blank" rel="nofollow noopener" onclick="event.stopPropagation()">Bekijk deal →</a>
-      </div>
-    </div>`;
-  }).join('');
+  fg.innerHTML = top6.map(renderCard).join('');
+
+  // ── Vandaag toegevoegd (laatste 24u) ──
+  const nu = Date.now();
+  const vandaag = deals.filter(d => {
+    const ts = d.first_seen || d.found_at || d.scraped_at;
+    if (!ts) return false;
+    try { return (nu - new Date(ts).getTime()) < 86400000; } catch { return false; }
+  }).sort((a, b) => {
+    const ta = new Date(a.first_seen || a.found_at || 0).getTime();
+    const tb = new Date(b.first_seen || b.found_at || 0).getTime();
+    return tb - ta;
+  }).slice(0, 6);
+
+  const tg = document.getElementById('today-grid');
+  const todaySec = document.getElementById('vandaag');
+  if (vandaag.length === 0) {
+    todaySec.style.display = 'none';
+  } else {
+    tg.innerHTML = vandaag.map(renderCard).join('');
+    if (vandaag.length >= 6) document.getElementById('today-cta').style.display = 'block';
+  }
 }
 
 init();
@@ -458,7 +554,6 @@ function toggleMobileMenu() {
   btn.classList.toggle('open');
   menu.classList.toggle('open');
 }
-// Sluit menu bij klik buiten nav
 document.addEventListener('click', function(e) {
   const menu = document.getElementById('nav-mobile-menu');
   const btn  = document.getElementById('nav-hamburger');

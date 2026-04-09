@@ -3,67 +3,43 @@
 <head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-D11S1578NB"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-D11S1578NB');
-  </script>
-
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-D11S1578NB');</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Audio Deals — DealTracker</title>
-  <meta name="description" content="Retour- en outletdeals op koptelefoons, speakers en soundbars. Bespaar op Sony, Bose, JBL en meer.">
+  <meta name="description" content="De beste retour- en outletdeals op koptelefoons, speakers en soundbars.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://dealtracker.nl/audio.html">
   <link rel="icon" type="image/svg+xml" href="./favicon.svg">
   <link rel="apple-touch-icon" href="./og-image.png">
-
-  <!-- Open Graph -->
   <meta property="og:title" content="Audio Deals — DealTracker">
-  <meta property="og:description" content="Retour- en outletdeals op koptelefoons, speakers en soundbars. Bespaar op Sony, Bose, JBL en meer.">
+  <meta property="og:description" content="De beste retour- en outletdeals op koptelefoons, speakers en soundbars.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://dealtracker.nl/audio.html">
   <meta property="og:image" content="https://dealtracker.nl/og-image.png">
-
-  <!-- Schema.org: BreadcrumbList + CollectionPage -->
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "CollectionPage",
-        "@id": "https://dealtracker.nl/audio.html",
-        "name": "Audio Deals",
-        "description": "Retour- en outletdeals op koptelefoons, speakers en soundbars. Bespaar op Sony, Bose, JBL en meer.",
-        "url": "https://dealtracker.nl/audio.html",
-        "isPartOf": {"@type": "WebSite", "name": "DealTracker", "url": "https://dealtracker.nl/"}
-      },
-      {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {"@type": "ListItem", "position": 1, "name": "Home",        "item": "https://dealtracker.nl/"},
-          {"@type": "ListItem", "position": 2, "name": "Alle deals",  "item": "https://dealtracker.nl/deals.html"},
-          {"@type": "ListItem", "position": 3, "name": "Audio", "item": "https://dealtracker.nl/audio.html"}
-        ]
-      }
+    "@context":"https://schema.org",
+    "@graph":[
+      {"@type":"CollectionPage","@id":"https://dealtracker.nl/audio.html","name":"Audio Deals","description":"De beste retour- en outletdeals op koptelefoons, speakers en soundbars.","url":"https://dealtracker.nl/audio.html","isPartOf":{"@type":"WebSite","name":"DealTracker","url":"https://dealtracker.nl/"}},
+      {"@type":"BreadcrumbList","itemListElement":[
+        {"@type":"ListItem","position":1,"name":"Home","item":"https://dealtracker.nl/"},
+        {"@type":"ListItem","position":2,"name":"Alle deals","item":"https://dealtracker.nl/deals.html"},
+        {"@type":"ListItem","position":3,"name":"Audio","item":"https://dealtracker.nl/audio.html"}
+      ]}
     ]
   }
   </script>
-  <!-- ItemList: wordt dynamisch gevuld door JS na het laden van deals -->
   <script type="application/ld+json" id="itemlist-schema">
   {"@context":"https://schema.org","@type":"ItemList","name":"Audio Deals","itemListElement":[]}
   </script>
-
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;900&display=swap" rel="stylesheet">
-
   <style>
-    :root{--bg:#0f172a;--card:#1e293b;--border:#334155;--primary:#FF6B35;--success:#22c55e;--text:#e2e8f0;--muted:#94a3b8}
+    :root{--bg:#0f172a;--card:#1e293b;--border:#334155;--primary:#FF6B35;--success:#22c55e;--text:#e2e8f0;--muted:#94a3b8;--verified:#0ea5e9}
     *{box-sizing:border-box;margin:0;padding:0}
     body{background:var(--bg);color:var(--text);font-family:'Outfit',sans-serif;min-height:100vh}
     a{color:inherit;text-decoration:none}
-    /* NAV */
     nav{background:rgba(15,23,42,.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:.85rem 1.5rem;display:flex;align-items:center;gap:1rem;position:sticky;top:0;z-index:50}
     .nav-logo{background:var(--primary);color:#fff;border-radius:8px;width:36px;height:36px;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:1.1rem;flex-shrink:0}
     .nav-brand{font-weight:700;font-size:1.05rem}
@@ -79,76 +55,73 @@
     .nav-mobile-menu{display:none;position:fixed;top:57px;left:0;right:0;background:rgba(15,23,42,.98);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:1rem 1.5rem;flex-direction:column;gap:.5rem;z-index:49}
     .nav-mobile-menu.open{display:flex}
     .nav-mobile-menu a{padding:.65rem .75rem;border-radius:8px;font-size:.95rem;font-weight:600;color:var(--text);border:1px solid transparent}
-    .nav-mobile-menu a:hover,.nav-mobile-menu a.active{border-color:var(--border);background:var(--card)}
-    /* BREADCRUMB */
+    .nav-mobile-menu a:hover{border-color:var(--border);background:var(--card)}
     .breadcrumb{max-width:1400px;margin:0 auto;padding:.75rem 1.5rem;font-size:.8rem;color:var(--muted);display:flex;gap:.4rem;align-items:center}
     .breadcrumb a{color:var(--muted)}
     .breadcrumb a:hover{color:var(--text)}
-    /* HEADER */
-    .page-header{padding:1.25rem 1.5rem .75rem;max-width:1400px;margin:0 auto}
-    .page-header h1{font-size:1.5rem;font-weight:800;margin-bottom:.25rem}
+    .page-header{padding:1.25rem 1.5rem .5rem;max-width:1400px;margin:0 auto}
+    .page-header h1{font-size:1.5rem;font-weight:800;margin-bottom:.2rem}
     .page-header p{color:var(--muted);font-size:.9rem}
-    /* GRID */
+    .intro-text{max-width:1400px;margin:0 auto;padding:.25rem 1.5rem .75rem;font-size:.88rem;color:var(--muted);line-height:1.6}
     .deals-wrap{max-width:1400px;margin:0 auto;padding:1rem 1.5rem}
-    .deals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem}
+    .deals-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:1rem}
     /* DEAL CARD */
     .deal-card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;cursor:pointer;transition:border-color .2s,transform .15s;display:flex;flex-direction:column;position:relative}
     .deal-card:hover{border-color:var(--primary);transform:translateY(-2px)}
-    .hot-bar{position:absolute;bottom:0;left:0;height:2px;background:linear-gradient(90deg,var(--primary),#F7B801);border-radius:0}
+    .deal-card.verified{border-color:rgba(14,165,233,.35)}
+    .deal-card.verified:hover{border-color:var(--verified)}
     .deal-img-wrap{height:130px;background:#0a1120;display:flex;align-items:center;justify-content:center;overflow:hidden;padding:.5rem}
     .deal-img-wrap img{max-width:100%;max-height:100%;object-fit:contain}
     .deal-img-placeholder{font-size:2.5rem}
-    .badge-row{display:flex;gap:.4rem;padding:.6rem .8rem 0;flex-wrap:wrap}
-    .badge{border-radius:4px;padding:.1rem .45rem;font-size:.7rem;font-weight:700}
-    .badge-hot{background:var(--primary);color:#fff}
-    .badge-deal{background:#0284c7;color:#fff}
-    .badge-top{background:rgba(247,184,1,.2);color:#F7B801}
-    .badge-new{background:#22c55e;color:#fff}
-    .deal-body{padding:.75rem .8rem;flex:1;display:flex;flex-direction:column;gap:.35rem}
-    .deal-source{font-size:.68rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
-    .deal-title{font-size:.875rem;font-weight:600;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-    .deal-meta{font-size:.72rem;color:var(--muted);display:flex;gap:.5rem;flex-wrap:wrap}
-    .deal-price-col{padding:.5rem .8rem .8rem;display:flex;flex-direction:column;gap:.3rem;border-top:1px solid rgba(51,65,85,.5)}
-    .price-now{font-size:1.2rem;font-weight:900}
+    .deal-body{padding:.75rem .8rem;flex:1;display:flex;flex-direction:column}
+    .deal-source{font-size:.68rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:.25rem}
+    .deal-title{font-size:.875rem;font-weight:600;line-height:1.4;flex:1;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:.45rem}
+    .deal-freshness{font-size:.7rem;color:var(--muted);margin-bottom:.35rem}
+    .deal-freshness.today{color:#4ade80;font-weight:600}
+    .deal-freshness.yesterday{color:var(--muted)}
+    .deal-price-row{display:flex;align-items:center;gap:.45rem;flex-wrap:wrap;margin-bottom:.55rem}
+    .price-now{font-size:1.15rem;font-weight:800}
     .price-was{font-size:.8rem;color:var(--muted);text-decoration:line-through}
-    .discount-badge{background:var(--success);color:#fff;border-radius:4px;padding:.1rem .4rem;font-size:.75rem;font-weight:700;display:inline-block}
-    .view-btn{background:var(--primary);color:#fff;border:none;padding:.5rem .9rem;border-radius:8px;font-weight:600;cursor:pointer;font-family:inherit;font-size:.875rem;transition:opacity .2s;align-self:flex-start;margin-top:.2rem}
-    .view-btn:hover{opacity:.85}
-    /* LOADING */
+    .saving{background:rgba(34,197,94,.15);color:var(--success);border-radius:4px;padding:.1rem .4rem;font-size:.75rem;font-weight:700}
+    .no-orig-label{font-size:.72rem;color:var(--muted);font-style:italic}
+    .tweakers-row{font-size:.72rem;color:var(--verified);display:flex;align-items:center;gap:.3rem;margin-bottom:.5rem}
+    .deal-btn{display:block;background:var(--primary);color:#fff;text-align:center;padding:.5rem;border-radius:8px;font-weight:600;font-size:.875rem;transition:opacity .2s;margin-top:auto}
+    .deal-btn:hover{opacity:.85}
+    .badge{position:absolute;top:.5rem;left:.5rem;border-radius:5px;padding:.15rem .45rem;font-size:.7rem;font-weight:700;z-index:2}
+    .badge-new{background:var(--success);color:#fff}
+    .badge-verified{background:#0ea5e9;color:#fff}
+    .badge-disc{background:var(--primary);color:#fff}
+    .badge-outlet{background:rgba(247,184,1,.2);color:#F7B801;border:1px solid rgba(247,184,1,.3)}
+    .verified-strip{height:2px;background:linear-gradient(90deg,#0ea5e9,#38bdf8)}
     .skel{background:linear-gradient(90deg,var(--card) 25%,#273348 50%,var(--card) 75%);background-size:200% 100%;animation:sh 1.5s infinite;border-radius:6px}
     @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
-    /* CTA */
     .more-cta{text-align:center;padding:2rem 1.5rem}
     .btn-more{background:var(--primary);color:#fff;padding:.75rem 2rem;border-radius:10px;font-weight:700;font-size:1rem;display:inline-block;transition:opacity .2s}
     .btn-more:hover{opacity:.85}
-    /* EMPTY */
     .empty-state{text-align:center;padding:5rem 2rem;color:var(--muted)}
     .empty-state h2{font-size:1.5rem;margin-bottom:.5rem;color:var(--text)}
+    footer{border-top:1px solid var(--border);padding:1.5rem;text-align:center;color:var(--muted);font-size:.82rem;margin-top:1rem}
+    footer a{color:var(--muted)}
     @media(max-width:640px){
       .deals-grid{grid-template-columns:1fr}
-      nav .nav-link{display:none}
-      nav .nav-cta{display:none}
+      nav .nav-link,.nav-cta{display:none}
       .nav-hamburger{display:flex}
     }
   </style>
 </head>
 <body>
-
 <nav>
   <a href="./" style="display:flex;align-items:center;gap:.6rem;text-decoration:none">
-    <div class="nav-logo">D</div>
-    <span class="nav-brand">DealTracker</span>
+    <div class="nav-logo">D</div><span class="nav-brand">DealTracker</span>
   </a>
   <div class="spacer"></div>
   <a class="nav-link" href="./deals.html">Alle deals</a>
   <a class="nav-link" href="./laptops.html">Laptops</a>
   <a class="nav-link" href="./smartphones.html">Smartphones</a>
-  <a class="nav-link" href="./audio.html">Audio</a>
+  <a class="nav-link active" href="./audio.html">Audio</a>
   <a class="nav-link" href="./gaming.html">Gaming</a>
   <a class="nav-cta" href="./">Home</a>
-  <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" onclick="toggleMobileMenu()">
-    <span></span><span></span><span></span>
-  </button>
+  <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu" onclick="toggleMobileMenu()"><span></span><span></span><span></span></button>
 </nav>
 <div class="nav-mobile-menu" id="nav-mobile-menu">
   <a href="./deals.html">🛍️ Alle deals</a>
@@ -158,126 +131,135 @@
   <a href="./gaming.html">🎮 Gaming</a>
   <a href="./tv.html">📺 TV's</a>
   <a href="./huishouden.html">🏠 Huishouden</a>
-  <a href="./">🏠 Home</a>
 </div>
-
 <div class="breadcrumb">
-  <a href="./">Home</a> ›
-  <a href="./deals.html">Alle deals</a> ›
-  <span>Audio</span>
+  <a href="./">Home</a> › <a href="./deals.html">Alle deals</a> › <span>Audio</span>
 </div>
-
 <div class="page-header">
   <h1>🎧 Audio Deals</h1>
-  <p id="page-sub">Koptelefoons, speakers en soundbars met korting — dagelijks bijgewerkt</p>
+  <p id="page-sub">Laden…</p>
 </div>
-
+<p class="intro-text">Koptelefoons, speakers, soundbars en earbuds — retour en outlet. Van Sony en Bose tot JBL en Sonos, altijd op echte korting gecontroleerd.</p>
 <div class="deals-wrap">
-  <div class="deals-grid" id="deals-grid">
-    <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div>
-  </div>
+  <div class="deals-grid" id="deals-grid"><div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div> <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden"><div class="skel" style="height:130px;border-radius:0"></div><div style="padding:.75rem .8rem;display:flex;flex-direction:column;gap:.5rem"><div class="skel" style="height:12px;width:60%"></div><div class="skel" style="height:14px"></div><div class="skel" style="height:12px;width:80%"></div></div></div></div>
   <div class="more-cta" id="more-cta" style="display:none">
-    <a class="btn-more" href="./deals.html?categorie=audio">
-      Bekijk alle Audio deals →
-    </a>
+    <a class="btn-more" href="./deals.html?categorie=audio">Bekijk alle Audio deals →</a>
   </div>
 </div>
-
+<footer>
+  <p>
+    <a href="./">Home</a> &nbsp;·&nbsp; <a href="./deals.html">Alle deals</a> &nbsp;·&nbsp;
+    <a href="./laptops.html">Laptops</a> &nbsp;·&nbsp; <a href="./smartphones.html">Smartphones</a> &nbsp;·&nbsp;
+    <a href="./audio.html">Audio</a> &nbsp;·&nbsp; <a href="./gaming.html">Gaming</a> &nbsp;·&nbsp;
+    <a href="./tv.html">TV's</a> &nbsp;·&nbsp; <a href="./huishouden.html">Huishouden</a>
+  </p>
+  <p style="margin-top:.5rem">© 2026 DealTracker &nbsp;·&nbsp; Prijzen en beschikbaarheid kunnen afwijken.</p>
+  <p style="margin-top:.3rem;font-size:.72rem;color:#4a5568">DealTracker neemt deel aan het Amazon Associates-programma. Als affiliate ontvangen wij een commissie bij aankopen via onze links — zonder extra kosten voor jou.</p>
+</footer>
 <script>
 const SLUG = 'audio';
+const CAT_ICONS = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'📺',tablets:'📟',wearables:'⌚',camera:'📷',huishouden:'🏠'};
+const OUTLET_LABELS = ['Outlet','Retour','Tweedekans','Buitenkansje','Refurbished'];
 
 function toggleMobileMenu() {
   document.getElementById('nav-hamburger').classList.toggle('open');
   document.getElementById('nav-mobile-menu').classList.toggle('open');
 }
+document.addEventListener('click', e => {
+  const menu=document.getElementById('nav-mobile-menu'), btn=document.getElementById('nav-hamburger');
+  if (menu?.classList.contains('open') && !menu.contains(e.target) && !btn.contains(e.target)) {
+    menu.classList.remove('open'); btn.classList.remove('open');
+  }
+});
 
 function dealScore(d) {
-  const prijs = d.price || 0, orig = d.original_price || 0, k = d.discount_percent || 0;
-  const abs = Math.max(orig - prijs, 0);
-  return k * 0.6 + Math.min(abs / 500, 1) * 100 * 0.4 + (orig > prijs ? 10 : 0);
+  const k = d.discount_percent || 0;
+  const besparing = d.original_price && d.price ? (d.original_price - d.price) : 0;
+  return besparing * 0.7 + k * 0.5 + (d.tweakers_price ? 25 : 0);
+}
+
+function freshnessLabel(d) {
+  const ts = d.first_seen || d.found_at || d.scraped_at;
+  if (!ts) return '';
+  try {
+    const diffH = (Date.now() - new Date(ts).getTime()) / 3600000;
+    if (diffH < 2)  return '<span class="deal-freshness today">🟢 Zojuist toegevoegd</span>';
+    if (diffH < 24) return '<span class="deal-freshness today">🟢 Vandaag toegevoegd</span>';
+    if (diffH < 48) return '<span class="deal-freshness yesterday">Gisteren</span>';
+    const d2 = Math.floor(diffH / 24);
+    if (d2 < 7) return `<span class="deal-freshness">${d2} dagen geleden</span>`;
+  } catch {}
+  return '';
 }
 
 function renderCard(d) {
   const disc = d.discount_percent || 0;
-  const isHot = disc >= 40;
-  const isTop = dealScore(d) >= 50;
-  const icon = {laptops:'💻',smartphones:'📱',audio:'🎧',gaming:'🎮',tv:'📺',tablets:'📟',wearables:'⌚',camera:'📷',huishouden:'🏠'}[d.category] || '⚡';
-  const safeUrl = encodeURIComponent(d.url || '#');
-  const safeTitle = (d.title || '').replace(/"/g, '&quot;');
-  let freshLabel = '';
-  try {
-    const diff = (Date.now() - new Date(d.found_at).getTime()) / 3600000;
-    if (diff < 6) freshLabel = '🟢 Nieuw';
-    else if (diff < 24) freshLabel = '🟡 Recent';
-  } catch {}
+  const besparing = d.original_price && d.price ? (d.original_price - d.price) : 0;
+  const isVerified = !!(d.tweakers_price && d.tweakers_price > d.price);
+  const isNew = d.first_seen && (Date.now() - new Date(d.first_seen).getTime()) < 86400000;
+  const conditionIsOutlet = d.condition && OUTLET_LABELS.some(l => d.condition.includes(l));
+  const isOutlet = !d.original_price;
+
+  let badge = '';
+  if (isNew)       badge = '<span class="badge badge-new">NIEUW</span>';
+  else if (isVerified) badge = '<span class="badge badge-verified">✓ Geverifieerd</span>';
+  else if (disc > 0)   badge = `<span class="badge badge-disc">−${disc}%</span>`;
+  else if (isOutlet || conditionIsOutlet) badge = '<span class="badge badge-outlet">Outlet</span>';
+
+  const icon     = CAT_ICONS[d.category] || '⚡';
+  const safeId   = (d.id || '').replace(/'/g, '\\x27');
+  const safeUrl  = (d.url || '').replace(/'/g, '%27');
+  const safeTitle= (d.title || '').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+
+  const besparingHtml = besparing > 0 ? `<span class="saving">−€${Math.round(besparing)}</span>` : '';
+  const tweakersHtml = isVerified
+    ? `<div class="tweakers-row">✓ Marktprijs €${d.tweakers_price.toFixed(0)} · bespaar €${(d.tweakers_price - d.price).toFixed(0)}</div>`
+    : '';
+
   return `
-  <div class="deal-card" onclick="window.open(decodeURIComponent('${safeUrl}'),'_blank','noopener'); trackClick(d)">
+  <div class="deal-card${isVerified ? ' verified' : ''}" onclick="viewDetail('${safeId}')">
+    ${badge}
     <div class="deal-img-wrap">
-      ${d.image ? `<img src="${d.image}" alt="${safeTitle}" loading="lazy">` : `<div class="deal-img-placeholder">${icon}</div>`}
-    </div>
-    <div class="badge-row">
-      ${isHot ? '<span class="badge badge-hot">HOT</span>' : disc>=20 ? '<span class="badge badge-deal">DEAL</span>' : ''}
-      ${isTop ? '<span class="badge badge-top">✨ TOP</span>' : ''}
+      ${d.image ? `<img src="${d.image}" alt="${safeTitle.substring(0,60)}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">` : ''}
+      <div class="deal-img-placeholder" style="${d.image ? 'display:none' : ''}">${icon}</div>
     </div>
     <div class="deal-body">
       <div class="deal-source">${d.source || ''}</div>
-      <div class="deal-title">${d.title || ''}</div>
-      <div class="deal-meta">
-        ${d.condition ? `<span>${d.condition}</span>` : ''}
-        ${freshLabel ? `<span>${freshLabel}</span>` : ''}
+      <div class="deal-title">${safeTitle}</div>
+      ${freshnessLabel(d)}
+      <div class="deal-price-row">
+        <span class="price-now">€${(d.price || 0).toFixed(2)}</span>
+        ${d.original_price ? `<span class="price-was">€${d.original_price.toFixed(0)}</span>` : '<span class="no-orig-label">outlet / retourprijs</span>'}
+        ${besparingHtml}
       </div>
+      ${tweakersHtml}
+      <a class="deal-btn" href="${d.url || '#'}" target="_blank" rel="nofollow noopener" onclick="event.stopPropagation();trackClick(d)">Bekijk deal →</a>
     </div>
-    <div class="deal-price-col">
-      <div style="display:flex;align-items:baseline;gap:.5rem;flex-wrap:wrap">
-        <span class="price-now">€${(d.price||0).toFixed(2)}</span>
-        ${d.original_price ? `<span class="price-was">€${d.original_price.toFixed(0)}</span>` : ''}
-        ${disc > 0 ? `<span class="discount-badge">-${disc}%</span>` : ''}
-      </div>
-      <button class="view-btn" onclick="event.stopPropagation(); window.open(decodeURIComponent('${safeUrl}'),'_blank','noopener'); trackClick(d)">Bekijk →</button>
-    </div>
-    ${isHot ? '<div class="hot-bar"></div>' : ''}
+    ${isVerified ? '<div class="verified-strip"></div>' : ''}
   </div>`;
+}
+
+function viewDetail(id) {
+  window.location.href = './deal.html?id=' + id;
 }
 
 function trackClick(deal) {
   if (typeof gtag === 'undefined') return;
   gtag('event', 'deal_click', {
-    deal_id:       deal.id || '',
-    deal_source:   deal.source || '',
-    deal_title:    (deal.title || '').substring(0, 100),
-    deal_price:    deal.price || 0,
-    deal_discount: deal.discount_percent || 0,
-    deal_category: deal.category || '',
-    currency:      'EUR',
-    value:         deal.price || 0,
+    deal_source: deal?.source || '', deal_title: (deal?.title||'').substring(0,100),
+    deal_price: deal?.price || 0, deal_discount: deal?.discount_percent || 0,
+    deal_category: SLUG, deal_verified: !!(deal?.tweakers_price), currency: 'EUR', value: deal?.price || 0,
   });
 }
 
 function updateItemListSchema(deals) {
-  const items = deals.slice(0, 10).map((d, i) => ({
-    "@type": "ListItem",
-    "position": i + 1,
-    "name": d.title || '',
-    "url": d.url || '',
-    "item": {
-      "@type": "Product",
-      "name": d.title || '',
-      "offers": {
-        "@type": "Offer",
-        "price": d.price || 0,
-        "priceCurrency": "EUR",
-        "availability": "https://schema.org/InStock",
-        "url": d.url || ''
-      }
-    }
+  const items = deals.slice(0,10).map((d,i) => ({
+    "@type":"ListItem","position":i+1,"name":d.title||'',"url":d.url||'',
+    "item":{"@type":"Product","name":d.title||'',
+      "offers":{"@type":"Offer","price":d.price||0,"priceCurrency":"EUR","availability":"https://schema.org/InStock","url":d.url||'' }}
   }));
-  const el = document.getElementById('itemlist-schema');
-  if (el) el.textContent = JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "name": "Audio Deals",
-    "itemListElement": items
-  });
+  const el=document.getElementById('itemlist-schema');
+  if (el) el.textContent=JSON.stringify({"@context":"https://schema.org","@type":"ItemList","name":"Audio Deals","itemListElement":items});
 }
 
 async function boot() {
@@ -286,35 +268,23 @@ async function boot() {
     const data = await res.json();
     const all  = data.deals || [];
     const cat  = all.filter(d => d.category === SLUG).sort((a,b) => dealScore(b) - dealScore(a));
-
     const grid = document.getElementById('deals-grid');
     if (!cat.length) {
-      grid.innerHTML = '<div class="empty-state"><h2>Geen audio deals</h2><p>Probeer het later opnieuw.</p></div>';
+      grid.innerHTML='<div class="empty-state"><h2>Geen Audio deals gevonden</h2><p>Probeer het later — deals worden dagelijks bijgewerkt.</p></div>';
+      document.getElementById('page-sub').textContent='Geen deals gevonden';
       return;
     }
-
-    // Toon top 24
-    const top = cat.slice(0, 24);
-    grid.innerHTML = top.map(d => renderCard(d)).join('');
-
-    // Toon "Bekijk alle" knop als er meer dan 24 zijn
-    if (cat.length > 24) document.getElementById('more-cta').style.display = 'block';
-
-    // Update teller in subtitel
-    document.getElementById('page-sub').textContent =
-      `${cat.length} audio deals — dagelijks bijgewerkt`;
-
-    // Vul JSON-LD ItemList met echte deals
+    const top=cat.slice(0,24);
+    grid.innerHTML=top.map(d=>renderCard(d)).join('');
+    if (cat.length>24) document.getElementById('more-cta').style.display='block';
+    document.getElementById('page-sub').textContent=`${cat.length} audio deals deals · dagelijks bijgewerkt`;
     updateItemListSchema(top);
-
   } catch(e) {
-    document.getElementById('page-sub').textContent = 'Deals laden mislukt.';
+    document.getElementById('page-sub').textContent='Deals laden mislukt.';
     console.warn(e);
   }
 }
-
 boot();
 </script>
-
 </body>
 </html>
