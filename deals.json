@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T06:34:55.139050+00:00",
+  "updated_at": "2026-04-10T16:43:28.349786+00:00",
   "total": 300,
   "deals": [
     {
@@ -915,6 +915,21 @@
         }
       ],
       "approved_at": "08-04-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "c9f44d7a0743",
+      "title": "Refurbished iPhone 15 Pro Max 256GB Natural Titanium",
+      "price": 619.0,
+      "original_price": 1071.0,
+      "discount_percent": 42,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-pro-max-256gb-natural-titanium-r-17160",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969217_f438c6d4-4afd-4118-8bb9-622c94158789.jpg?v=1775635759",
+      "found_at": "2026-04-10T16:40:43.736401+00:00",
+      "approved_at": "10-04-2026 17:43",
       "auto_approved": true
     },
     {
@@ -4762,6 +4777,21 @@
       "auto_approved": true
     },
     {
+      "id": "4324b59d2575",
+      "title": "Sennheiser ACCENTUM draadloze bluetooth-hoofdtelefoon - 50 uur accuduur, hoogwaardige audio, hybride ruisonderdrukking (ANC), langdurig comfort en helder spraakgeluid voor gesprekken, Wit",
+      "price": 89.0,
+      "original_price": 199.0,
+      "discount_percent": 55,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CGR7XRYW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/612HgKy45eL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-10T16:17:52.811285+00:00",
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "cf0e0ba03516",
       "title": "Rowenta Silence Force RO7457",
       "price": 97.65,
@@ -5065,6 +5095,33 @@
       "auto_approved": true
     },
     {
+      "id": "7fa37a3b40e4",
+      "title": "Corsair Vengeance RGB DDR5 6000MT/s 64GB",
+      "price": 558.6,
+      "original_price": 823.0,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/corsair-vengeance-rgb-ddr5-6000mt-s-64gb-r-17116",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242717.jpg?v=1775637326",
+      "found_at": "2026-04-10T16:40:35.217391+00:00",
+      "price_history": [
+        {
+          "price": 743.4,
+          "original_price": 770.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 558.6,
+          "original_price": 823.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "b79dcfff1e52",
       "title": "Dyson Airwrap Complete Long Volumise Blauw/Koper",
       "price": 382.2,
@@ -5296,6 +5353,33 @@
           "scraped_at": "2026-04-09T10:00:27.291082+00:00"
         }
       ]
+    },
+    {
+      "id": "985d813289b7",
+      "title": "Jabra Evolve2 50 bedrade mono headset met Jabra Air Comfort-technologie, noise cancelling mics en Active Noise Cancellation - werkt met toonaangevende UC-platforms zoals Zoom en Google Meet - zwart",
+      "price": 51.02,
+      "original_price": 119.26,
+      "discount_percent": 57,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BS1Q2PZT?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51ozyPcjdbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-10T16:17:01.500476+00:00",
+      "price_history": [
+        {
+          "price": 52.96,
+          "original_price": 304.03,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 51.02,
+          "original_price": 89.99,
+          "scraped_at": "2026-04-05T14:00:23.191981+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
     },
     {
       "id": "84f292571c6f",
@@ -5739,6 +5823,38 @@
       ]
     },
     {
+      "id": "664de95df3a6",
+      "title": "HUAWEI Watch GT 4 46mm Smartwatch, 14 dagen maximale gebruiksduur batterij, Compatibel met Android- en iOS-apparaten, Gezondheidsmanagement, SPo2, Mode Smartwatch, Nederlandse versie, Black",
+      "price": 91.94,
+      "original_price": 189.99,
+      "discount_percent": 51,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CG9NTJ92?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51EcjBdddJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-10T16:21:44.232891+00:00",
+      "price_history": [
+        {
+          "price": 97.24,
+          "original_price": 346.45,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 93.38,
+          "original_price": 169.0,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 91.94,
+          "original_price": 189.99,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "d90e1990ff41",
       "title": "Samsung MC32DG7646KKE1",
       "price": 196.35,
@@ -5980,6 +6096,21 @@
         }
       ],
       "approved_at": "08-04-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "8308875ece0f",
+      "title": "Refurbished iPhone 14 128GB Zwart",
+      "price": 316.0,
+      "original_price": 507.0,
+      "discount_percent": 37,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-zwart-r-16995",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950863_abc05fe7-7c7a-4039-a091-fbfe57da1e37.jpg?v=1775634275",
+      "found_at": "2026-04-10T16:40:43.736240+00:00",
+      "approved_at": "10-04-2026 17:43",
       "auto_approved": true
     },
     {
@@ -6882,6 +7013,21 @@
       "auto_approved": true
     },
     {
+      "id": "d1da74b28b5f",
+      "title": "Refurbished iPhone 14 128GB Zwart",
+      "price": 329.0,
+      "original_price": 508.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-zwart-r-16996",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950863_3acd76ab-1cf7-4034-b357-334100d5a241.jpg?v=1775634273",
+      "found_at": "2026-04-10T16:40:43.736189+00:00",
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "e498e8d940c9",
       "title": "Apple 13-inch iPad Air Wi-Fi 128GB - Space Grey",
       "price": 484.05,
@@ -7634,6 +7780,21 @@
       "auto_approved": true
     },
     {
+      "id": "a8e11bb21740",
+      "title": "Refurbished iPhone 15 128GB Zwart",
+      "price": 438.0,
+      "original_price": 628.0,
+      "discount_percent": 30,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-zwart-r-17085",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_de4ef849-d57c-4a6d-ad72-9d8c28fd8c29.jpg?v=1775634954",
+      "found_at": "2026-04-10T16:40:43.736346+00:00",
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "888816d74a82",
       "title": "Refurbished Microsoft Surface Laptop Copilot+ PC 13.8 Snapdragon X Plus / 16GB / 256GB Platinum QWERTY",
       "price": 849.24,
@@ -8035,6 +8196,21 @@
       ]
     },
     {
+      "id": "9fecafacb56a",
+      "title": "Refurbished iPhone 13 mini 128GB Zwart",
+      "price": 245.0,
+      "original_price": 385.0,
+      "discount_percent": 36,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-mini-128gb-zwart-r-17135",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631194_0f96f536-229a-42e6-a2b3-1f5f7e5ef2b6.jpg?v=1775635475",
+      "found_at": "2026-04-10T16:40:43.736083+00:00",
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "c06bdc4ca184",
       "title": "Oral-B iO9n Rozenkwarts en Onyx Zwart Duo Pack Speciale Edit",
       "price": 237.3,
@@ -8155,6 +8331,21 @@
         }
       ],
       "approved_at": "08-04-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "c5032d353d27",
+      "title": "Polar Vantage V3, sporthorloge met gps, gevanceerde hartslagmeter en verlengde batterijduur, smartwatch voor heren en dames, offline kaarten, hardloophorloge, triathlon horloge",
+      "price": 288.09,
+      "original_price": 439.95,
+      "discount_percent": 34,
+      "category": "wearables",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CKBMTT2C?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71HA3AbB6FL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-10T16:37:45.589127+00:00",
+      "approved_at": "10-04-2026 17:43",
       "auto_approved": true
     },
     {
@@ -9851,6 +10042,21 @@
       ]
     },
     {
+      "id": "a54c8a27410a",
+      "title": "HP 780D9E9 computer monitor 60,5 cm (23.8\") 1920 x 1080 Pixels Full HD Zwart",
+      "price": 77.12,
+      "original_price": 129.99,
+      "discount_percent": 40,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C4YV3J4M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61Z206oZhTL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-10T16:32:06.580797+00:00",
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "a2f332d3ffa0",
       "title": "Miele Guard S1 Obsidianschwarz",
       "price": 141.75,
@@ -9941,6 +10147,43 @@
         }
       ],
       "approved_at": "09-04-2026 15:20",
+      "auto_approved": true
+    },
+    {
+      "id": "6fd4aff41d76",
+      "title": "Dyson V12 Detect Slim Absolute",
+      "price": 469.35,
+      "original_price": 626.32,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v12-detect-slim-absolute-r-16794",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985260_5d6bb423-83fd-44af-9c37-a574cf7c2835.jpg?v=1774877585",
+      "found_at": "2026-04-10T16:40:35.220052+00:00",
+      "price_history": [
+        {
+          "price": 503.0,
+          "original_price": 607.77,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 528.15,
+          "original_price": 623.14,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 506.1,
+          "original_price": 605.92,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 469.35,
+          "original_price": 626.32,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
       "auto_approved": true
     },
     {
@@ -10394,6 +10637,53 @@
       "auto_approved": true
     },
     {
+      "id": "c171316436ab",
+      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
+      "price": 242.55,
+      "original_price": 345.11,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-16627",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_b08d1a40-da04-43f1-8acb-0ea21298db3b.jpg?v=1774254524",
+      "found_at": "2026-04-10T16:40:40.832466+00:00",
+      "price_history": [
+        {
+          "price": 256.0,
+          "original_price": 332.09,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 260.0,
+          "original_price": 348.5,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 273.0,
+          "original_price": 342.76,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 264.6,
+          "original_price": 343.12,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 257.25,
+          "original_price": 345.46,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 242.55,
+          "original_price": 345.11,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "23db8349da57",
       "title": "Sony Linkbuds Open Wit",
       "price": 105.0,
@@ -10468,6 +10758,43 @@
           "scraped_at": "2026-04-09T10:00:27.291082+00:00"
         }
       ]
+    },
+    {
+      "id": "26504e75b449",
+      "title": "Victrola Eastwood",
+      "price": 69.3,
+      "original_price": 111.0,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/victrola-eastwood-r-16861",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1701472_b6e8a616-1f71-4800-9e92-2d0ccad201bf.jpg?v=1774878162",
+      "found_at": "2026-04-10T16:40:46.552385+00:00",
+      "price_history": [
+        {
+          "price": 75.0,
+          "original_price": 111.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 78.75,
+          "original_price": 111.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 75.6,
+          "original_price": 111.0,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 69.3,
+          "original_price": 111.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
     },
     {
       "id": "69c34eecbc8b",
@@ -10628,6 +10955,43 @@
       "auto_approved": true
     },
     {
+      "id": "31333ced6b7d",
+      "title": "AEG AW82U1DB ULTIMATE 8000",
+      "price": 324.45,
+      "original_price": 442.67,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aeg-aw82u1db-ultimate-8000-r-16872",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/bosch_8450bce1-f57c-445f-8f06-d185fa90f5e1.jpg?v=1774948082",
+      "found_at": "2026-04-10T16:40:28.773027+00:00",
+      "price_history": [
+        {
+          "price": 339.0,
+          "original_price": 442.61,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 355.95,
+          "original_price": 431.93,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 344.4,
+          "original_price": 436.37,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 324.45,
+          "original_price": 442.67,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "10-04-2026 17:43",
+      "auto_approved": true
+    },
+    {
       "id": "f4375828776c",
       "title": "DJI Mini 3 Combo SC",
       "price": 400.05,
@@ -10784,526 +11148,6 @@
           "scraped_at": "2026-04-09T10:00:27.291082+00:00"
         }
       ]
-    },
-    {
-      "id": "856549570ca2",
-      "title": "Duux Threesixty Smart Fan + Heater Gray",
-      "price": 56.7,
-      "original_price": 89.12,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/duux-threesixty-smart-fan-heater-gray-r-16876",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1850429_13071a97-c93a-4595-bf4b-5c3efc3dc99b.jpg?v=1774878212",
-      "found_at": "2026-04-08T14:15:17.559752+00:00",
-      "price_history": [
-        {
-          "price": 56.0,
-          "original_price": 88.69,
-          "discount_percent": 36,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 58.8,
-          "original_price": 90.37,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 56.7,
-          "original_price": 89.12,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "26035f6c58c6",
-      "title": "Apple 11-inch iPad Air Wi-Fi 128GB - Paars",
-      "price": 376.95,
-      "original_price": 499.0,
-      "discount_percent": 24,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-11-inch-ipad-air-wi-fi-128gb-paars-r-17161",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145253_addfacce-1a36-4f3d-bfae-b906f595e5f6.jpg?v=1775635780",
-      "found_at": "2026-04-09T10:26:47.430391+00:00",
-      "approved_at": "09-04-2026 11:29",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 376.95,
-          "original_price": 499.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "917aea8a10c2",
-      "title": "Samsung Galaxy Buds3 Zwart",
-      "price": 70.35,
-      "original_price": 109.8,
-      "discount_percent": 35,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-zwart-r-16934",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075691_c3c7448d-dc12-4d13-821a-437c593fac0a.jpg?v=1774878570",
-      "found_at": "2026-04-08T14:15:25.715768+00:00",
-      "price_history": [
-        {
-          "price": 69.0,
-          "original_price": 114.67,
-          "discount_percent": 39,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 72.45,
-          "original_price": 110.36,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 70.35,
-          "original_price": 109.8,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 73.5,
-          "original_price": 108.54,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "018afa87e1b9",
-      "title": "SteelSeries Arctis GameBuds Wit",
-      "price": 105.0,
-      "original_price": 157.43,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/steelseries-arctis-gamebuds-wit-r-17122",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2098669.jpg?v=1775635350",
-      "found_at": "2026-04-09T10:27:08.254441+00:00",
-      "approved_at": "09-04-2026 11:29",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 105.0,
-          "original_price": 157.43,
-          "discount_percent": 33,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "730f5586c6c6",
-      "title": "Black & Decker  GTC1845L20-QW Heggenschaar",
-      "price": 63.0,
-      "original_price": 97.83,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/black-decker-gtc1845l20-qw-heggenschaar-r-17100",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1365297.jpg?v=1775635081",
-      "found_at": "2026-04-09T10:26:50.259198+00:00",
-      "approved_at": "09-04-2026 11:30",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 63.0,
-          "original_price": 97.83,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "374a32f405cf",
-      "title": "Google Pixel Buds Pro 2 Grijs",
-      "price": 156.45,
-      "original_price": 225.54,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/google-pixel-buds-pro-2-grijs-r-17121",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2083385.jpg?v=1775635333",
-      "found_at": "2026-04-09T10:26:55.873933+00:00",
-      "approved_at": "09-04-2026 11:30",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 156.45,
-          "original_price": 225.54,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6e4fb3656ace",
-      "title": "Philips Baristina Espressoapparaat BAR300/03 - Wit",
-      "price": 210.0,
-      "original_price": 293.1,
-      "discount_percent": 28,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-baristina-espressoapparaat-bar300-03-wit-r-17111",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050902_5d3528fb-d1c4-49a5-973b-a91d79c93352.jpg?v=1775635220",
-      "found_at": "2026-04-09T10:27:01.518901+00:00",
-      "approved_at": "09-04-2026 11:29",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 210.0,
-          "original_price": 293.1,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "74119dbf7e7b",
-      "title": "Lenovo Tab Plus 8 GB 256 GB",
-      "price": 234.15,
-      "original_price": 324.6,
-      "discount_percent": 27,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-tab-plus-8-gb-256-gb-r-17087",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2078833_280b66ae-b77e-4a35-b689-08799d37ac30.jpg?v=1775634975",
-      "found_at": "2026-04-09T10:26:58.508525+00:00",
-      "approved_at": "09-04-2026 11:29",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 234.15,
-          "original_price": 324.6,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "6b81331e512b",
-      "title": "Karcher Dakgoot- en Rioolset (20 m)",
-      "price": 69.3,
-      "original_price": 106.33,
-      "discount_percent": 34,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/karcher-k7-comfort-premium-connect-home-r-17153",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_d53d5f1f-d614-4b2b-b594-5ab65d965c90.avif?v=1775638197",
-      "found_at": "2026-04-09T10:26:55.876376+00:00",
-      "approved_at": "09-04-2026 11:30",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 69.3,
-          "original_price": 106.33,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "b31ee6629986",
-      "title": "Dyson Airwrap Long Multistyler Nikkel/Koper",
-      "price": 425.25,
-      "original_price": 549.0,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-long-multistyler-nikkel-koper-r-16644",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1980076_e6c03622-7abd-4464-adc8-375ee24e134f.jpg?v=1774363712",
-      "found_at": "2026-04-09T14:17:13.553229+00:00",
-      "price_history": [
-        {
-          "price": 362.0,
-          "original_price": 549.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-26T15:00:28.542598+00:00"
-        },
-        {
-          "price": 449.0,
-          "original_price": 549.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 444.0,
-          "original_price": 549.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 450.45,
-          "original_price": 549.0,
-          "discount_percent": 17,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 435.75,
-          "original_price": 549.0,
-          "discount_percent": 20,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 430.5,
-          "original_price": 549.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 425.25,
-          "original_price": 549.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        }
-      ],
-      "approved_at": "09-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "b534ee55cecd",
-      "title": "AEG AP82AF25DG ANIMAL 8000",
-      "price": 137.55,
-      "original_price": 199.0,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/aeg-ap82af25dg-animal-8000-r-16960",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2121316_6112838c-ae51-4bc8-a6c8-6ffba1c7b54a.jpg?v=1774948754",
-      "found_at": "2026-04-08T14:15:14.631489+00:00",
-      "price_history": [
-        {
-          "price": 143.0,
-          "original_price": 199.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 150.15,
-          "original_price": 199.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 139.65,
-          "original_price": 199.0,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 137.55,
-          "original_price": 199.0,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 136.5,
-          "original_price": 199.0,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "109c0de5d61f",
-      "title": "Refurbished iPhone 12 Zwart 64GB",
-      "price": 206.64,
-      "original_price": 285.0,
-      "discount_percent": 27,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-12-zwart-64gb-r-16710",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489503_b8a9dccf-9c72-4254-bfdf-9aba0b7bb1e5.jpg?v=1774255170",
-      "found_at": "2026-04-08T14:15:22.508010+00:00",
-      "price_history": [
-        {
-          "price": 246.0,
-          "original_price": 285.0,
-          "discount_percent": 13,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 226.32,
-          "original_price": 285.0,
-          "discount_percent": 20,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 223.86,
-          "original_price": 285.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 221.4,
-          "original_price": 285.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 216.48,
-          "original_price": 285.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 211.56,
-          "original_price": 285.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 209.1,
-          "original_price": 285.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 206.64,
-          "original_price": 285.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 204.18,
-          "original_price": 285.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "4359206bcfb8",
-      "title": "Bose QuietComfort Headphones Zwart",
-      "price": 195.3,
-      "original_price": 269.95,
-      "discount_percent": 27,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-headphones-zwart-r-16864",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969950_2d138968-4897-4f10-83a5-2c1c4c7efd13.jpg?v=1774948171",
-      "found_at": "2026-04-09T18:21:11.595254+00:00",
-      "price_history": [
-        {
-          "price": 194.0,
-          "original_price": 269.95,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 203.7,
-          "original_price": 269.95,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 195.3,
-          "original_price": 269.95,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        }
-      ],
-      "approved_at": "09-04-2026 19:24",
-      "auto_approved": true
-    },
-    {
-      "id": "59dbdbc076e7",
-      "title": "Duux Threesixty 2 Smart Heater Wit",
-      "price": 58.8,
-      "original_price": 88.15,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/duux-threesixty-2-smart-heater-wit-r-16874",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1850451.jpg?v=1774878175",
-      "found_at": "2026-04-09T18:21:14.965952+00:00",
-      "price_history": [
-        {
-          "price": 58.0,
-          "original_price": 87.19,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 60.9,
-          "original_price": 89.78,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 58.8,
-          "original_price": 88.15,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        }
-      ],
-      "approved_at": "09-04-2026 19:24",
-      "auto_approved": true
-    },
-    {
-      "id": "cdc0807b500d",
-      "title": "Refurbished iPad 9 64GB WIFI 10.2\" Space Gray",
-      "price": 191.7,
-      "original_price": 266.0,
-      "discount_percent": 27,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-ipad-9-64gb-wifi-10-2-space-gray-r-16841",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632013_93d9c9e6-5f26-45b0-8b3f-9324b5359a21.jpg?v=1774877976",
-      "found_at": "2026-04-09T18:21:23.744177+00:00",
-      "price_history": [
-        {
-          "price": 213.0,
-          "original_price": 266.0,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 198.09,
-          "original_price": 266.0,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 195.96,
-          "original_price": 266.0,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 193.83,
-          "original_price": 266.0,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 191.7,
-          "original_price": 266.0,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        }
-      ],
-      "approved_at": "09-04-2026 19:24",
-      "auto_approved": true
     }
   ]
 }
