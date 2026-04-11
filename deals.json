@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-11T06:19:17.773113+00:00",
-  "total": 299,
+  "updated_at": "2026-04-11T10:19:24.449619+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "9298f6a41a14",
@@ -4653,6 +4653,21 @@
         }
       ],
       "approved_at": "08-04-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "b57f06613eb0",
+      "title": "ASUS VA259HGA Eye Care, Monitor 24,5 inch, Full HD IPS (1920 x 1080), 1 ms MPRT, 120 Hz, frameloos, HDMI- en VGA-aansluitingen, Low Blue Light, Flicker Free technologie, Adaptive-Sync, wandmontage,",
+      "price": 75.99,
+      "original_price": 179.99,
+      "discount_percent": 57,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DSW1V861?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51PA92DWhwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-11T10:12:52.047423+00:00",
+      "approved_at": "11-04-2026 11:19",
       "auto_approved": true
     },
     {
@@ -9879,6 +9894,43 @@
       "auto_approved": true
     },
     {
+      "id": "f4375828776c",
+      "title": "DJI Mini 3 Combo SC",
+      "price": 376.95,
+      "original_price": 529.35,
+      "discount_percent": 28,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-mini-3-combo-sc-r-16813",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2036861_e0d2d875-1aee-48a2-82de-b9929f10834a.jpg?v=1774877826",
+      "found_at": "2026-04-11T10:16:26.255701+00:00",
+      "price_history": [
+        {
+          "price": 455.0,
+          "original_price": 641.29,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 414.75,
+          "original_price": 560.27,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 400.05,
+          "original_price": 536.85,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 376.95,
+          "original_price": 522.05,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "11-04-2026 11:19",
+      "auto_approved": true
+    },
+    {
       "id": "4ea57494c7b9",
       "title": "ASUS ROG Swift OLED PG27UCDM - OLED-Monitor - Gaming - 68,6 cm (27 inch) (90LM0B30-B01971)",
       "price": 672.91,
@@ -10018,6 +10070,68 @@
         }
       ],
       "approved_at": "08-04-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "08670a1ef921",
+      "title": "HP Laptop 15s-eq2978nd QWERTY",
+      "price": 550.2,
+      "original_price": 727.0,
+      "discount_percent": 24,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laptop-15s-eq2978nd-qwerty-r-16728",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068115.jpg?v=1774363780",
+      "found_at": "2026-04-11T10:16:29.523318+00:00",
+      "price_history": [
+        {
+          "price": 479.0,
+          "original_price": 727.0,
+          "scraped_at": "2026-03-26T15:00:28.542598+00:00"
+        },
+        {
+          "price": 594.0,
+          "original_price": 727.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 588.0,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 597.45,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 577.5,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 570.15,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 563.85,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 557.55,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 550.2,
+          "original_price": 727.0,
+          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
+        }
+      ],
+      "approved_at": "11-04-2026 11:19",
       "auto_approved": true
     },
     {
@@ -10717,6 +10831,43 @@
       ]
     },
     {
+      "id": "31333ced6b7d",
+      "title": "AEG AW82U1DB ULTIMATE 8000",
+      "price": 324.45,
+      "original_price": 447.62,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aeg-aw82u1db-ultimate-8000-r-16872",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/bosch_8450bce1-f57c-445f-8f06-d185fa90f5e1.jpg?v=1774948082",
+      "found_at": "2026-04-11T10:16:18.875597+00:00",
+      "price_history": [
+        {
+          "price": 339.0,
+          "original_price": 442.61,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 355.95,
+          "original_price": 431.93,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 344.4,
+          "original_price": 436.37,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 324.45,
+          "original_price": 442.67,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "11-04-2026 11:19",
+      "auto_approved": true
+    },
+    {
       "id": "a64b2c345bef",
       "title": "Fitbit Inspire 3 is een gezondheids- en fitnesstracker met een batterijduur tot 10 dagen. Compatibel met Android en iOS.",
       "price": 51.62,
@@ -10805,6 +10956,48 @@
         }
       ],
       "approved_at": "08-04-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "55e7c51351be",
+      "title": "DJI Avata 2 Fly More Combo",
+      "price": 757.05,
+      "original_price": 936.78,
+      "discount_percent": 19,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-avata-2-fly-more-combo-r-16943",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2048146_f7160c90-34d9-488b-9dc6-1fe364c59f93.jpg?v=1774878650",
+      "found_at": "2026-04-11T10:16:26.255465+00:00",
+      "price_history": [
+        {
+          "price": 845.0,
+          "original_price": 1041.15,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 869.0,
+          "original_price": 1039.72,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 829.5,
+          "original_price": 1042.81,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 802.2,
+          "original_price": 980.46,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 757.05,
+          "original_price": 962.33,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "11-04-2026 11:19",
       "auto_approved": true
     },
     {
@@ -11008,154 +11201,6 @@
         }
       ],
       "approved_at": "10-04-2026 17:43",
-      "auto_approved": true
-    },
-    {
-      "id": "23db8349da57",
-      "title": "Sony Linkbuds Open Wit",
-      "price": 105.0,
-      "original_price": 162.55,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-linkbuds-open-wit-r-16676",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101293_a62113ce-f63f-4fa7-b799-57543d64ec7f.jpg?v=1774254951",
-      "found_at": "2026-04-08T14:15:25.718186+00:00",
-      "price_history": [
-        {
-          "price": 121.0,
-          "original_price": 138.17,
-          "discount_percent": 12,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 117.0,
-          "original_price": 169.73,
-          "discount_percent": 31,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 177.85,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 119.7,
-          "original_price": 162.95,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 113.4,
-          "original_price": 162.55,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 105.0,
-          "original_price": 162.55,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "b4954ea9a63f",
-      "title": "Apple 11-inch iPad Air Wi-Fi 128GB - Paars",
-      "price": 429.45,
-      "original_price": 569.0,
-      "discount_percent": 24,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-11-inch-ipad-air-wi-fi-128gb-paars-r-17022",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145253_762e4305-2cd5-4f76-94df-5a8ae3fc887e.jpg?v=1775634499",
-      "found_at": "2026-04-09T10:26:47.430217+00:00",
-      "approved_at": "09-04-2026 11:29",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 429.45,
-          "original_price": 569.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        }
-      ]
-    },
-    {
-      "id": "26504e75b449",
-      "title": "Victrola Eastwood",
-      "price": 69.3,
-      "original_price": 111.0,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/victrola-eastwood-r-16861",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1701472_b6e8a616-1f71-4800-9e92-2d0ccad201bf.jpg?v=1774878162",
-      "found_at": "2026-04-10T16:40:46.552385+00:00",
-      "price_history": [
-        {
-          "price": 75.0,
-          "original_price": 111.0,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 78.75,
-          "original_price": 111.0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 75.6,
-          "original_price": 111.0,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 69.3,
-          "original_price": 111.0,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        }
-      ],
-      "approved_at": "10-04-2026 17:43",
-      "auto_approved": true
-    },
-    {
-      "id": "69c34eecbc8b",
-      "title": "Nothing Tech Nothing Ear (a) Zwart",
-      "price": 63.0,
-      "original_price": 101.53,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nothing-tech-nothing-ear-a-zwart-r-16933",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2042369.jpg?v=1774878566",
-      "found_at": "2026-04-08T14:15:22.505577+00:00",
-      "price_history": [
-        {
-          "price": 69.0,
-          "original_price": 105.11,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 72.45,
-          "original_price": 103.11,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 63.0,
-          "original_price": 101.53,
-          "discount_percent": 37,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        }
-      ],
-      "approved_at": "08-04-2026 15:18",
       "auto_approved": true
     }
   ]
