@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-11T10:19:26.724726+00:00",
-  "total": 298,
+  "updated_at": "2026-04-11T15:03:49.388936+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "9298f6a41a14",
@@ -3400,6 +3400,21 @@
         }
       ],
       "approved_at": "08-04-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "f10ae5168a84",
+      "title": "JBL Endurance Zone draadloze open-ear sporthoofdtelefoon met ergonomische oorhaken, JBL OpenSound technologie, 32 uur afspeeltijd, IP68 waterdicht, Google Finder, JBL Headphones App, paars",
+      "price": 73.77,
+      "original_price": 199.0,
+      "discount_percent": 62,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FG9D7JMQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61LVaE21boL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-11T14:40:02.336764+00:00",
+      "approved_at": "11-04-2026 16:03",
       "auto_approved": true
     },
     {
@@ -10008,6 +10023,43 @@
           "scraped_at": "2026-04-09T10:00:27.291082+00:00"
         }
       ]
+    },
+    {
+      "id": "69c34eecbc8b",
+      "title": "Nothing Tech Nothing Ear (a) Zwart",
+      "price": 58.8,
+      "original_price": 101.53,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-ear-a-zwart-r-16933",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2042369.jpg?v=1774878566",
+      "found_at": "2026-04-11T14:59:29.216951+00:00",
+      "price_history": [
+        {
+          "price": 69.0,
+          "original_price": 105.11,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 72.45,
+          "original_price": 103.11,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 101.53,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 58.8,
+          "original_price": 97.2,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "11-04-2026 16:03",
+      "auto_approved": true
     },
     {
       "id": "ed11cf9b7082",
