@@ -1,52 +1,7 @@
 {
-  "updated_at": "2026-04-14T17:09:32.680064+00:00",
-  "total": 273,
+  "updated_at": "2026-04-14T18:21:02.467938+00:00",
+  "total": 300,
   "deals": [
-    {
-      "id": "8f05091135a3",
-      "title": "Lenovo Laptop T15 G2 QWERTY Spaans",
-      "price": 408.82,
-      "original_price": 1112.28,
-      "discount_percent": 63,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D741545Z?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/411Sejw0LyL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-14T06:02:12.292982+00:00",
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true,
-      "refreshed_at": "2026-04-14T14:27:42.086375+00:00",
-      "price_history": [
-        {
-          "price": 408.82,
-          "original_price": 1112.28,
-          "discount_percent": 63,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ]
-    },
-    {
-      "id": "28c055da2afd",
-      "title": "TCL 98C6K QD-MiniLED Google TV (2025)",
-      "price": 1649.25,
-      "original_price": 2199.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=331242",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69dccd37dfb65_ASSET_MMS_172698074-500x500.png",
-      "found_at": "2026-04-14T14:25:05.185818+00:00",
-      "price_history": [
-        {
-          "price": 1649.25,
-          "original_price": 2199.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ]
-    },
     {
       "id": "e9114243f3fb",
       "title": "Dell Technologies accessoires PC en laptop merk model LATITUD 5330 I5-1235U 8/256 13 W11P, kleurrijk",
@@ -180,6 +135,30 @@
       ],
       "approved_at": "14-04-2026 07:36",
       "auto_approved": true
+    },
+    {
+      "id": "8f05091135a3",
+      "title": "Lenovo Laptop T15 G2 QWERTY Spaans",
+      "price": 408.82,
+      "original_price": 1112.28,
+      "discount_percent": 63,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D741545Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/411Sejw0LyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-14T06:02:12.292982+00:00",
+      "approved_at": "14-04-2026 07:36",
+      "auto_approved": true,
+      "refreshed_at": "2026-04-14T14:27:42.086375+00:00",
+      "price_history": [
+        {
+          "price": 408.82,
+          "original_price": 1112.28,
+          "discount_percent": 63,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ]
     },
     {
       "id": "487b161d35ad",
@@ -1405,6 +1384,88 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "1de03313831c",
+      "title": "Refurbished Microsoft Surface Laptop Copilot+ PC 13.8 Snapdragon X Plus / 16GB / 256GB Platinum QWERTY",
+      "price": 566.16,
+      "original_price": 1099.0,
+      "discount_percent": 48,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-laptop-copilot-pc-13-8-snapdragon-x-plus-16gb-256gb-platinum-qwerty-r-16706",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2057130_c315a32c-df39-49c6-acc0-9dac5cdeed17.jpg?v=1774255128",
+      "found_at": "2026-04-14T18:18:13.570365+00:00",
+      "price_history": [
+        {
+          "price": 1011.0,
+          "original_price": 1099.0,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 930.12,
+          "original_price": 1099.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 920.01,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 909.9,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 889.68,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 869.46,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 859.35,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 849.24,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 839.13,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 829.02,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 818.91,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
+        },
+        {
+          "price": 586.38,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 566.16,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
       "auto_approved": true
     },
     {
@@ -3300,6 +3361,30 @@
       "auto_approved": true
     },
     {
+      "id": "6fc0abde9589",
+      "title": "OPPO Pad 2 11,61 inch, grijs, 8 GB / 256 GB",
+      "price": 273.48,
+      "original_price": 580.42,
+      "discount_percent": 53,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B082F23FKG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/41IjHoMCgnL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T14:09:36.213342+00:00",
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 273.48,
+          "original_price": 580.42,
+          "discount_percent": 52,
+          "scraped_at": "2026-04-12T14:00:21.438573+00:00"
+        }
+      ],
+      "refreshed_at": "2026-04-14T06:35:11.923800+00:00"
+    },
+    {
       "id": "01704192fd11",
       "title": "Samsung GalaxyBook 4 Edge 16 NP960XMB-KB1DE QWERTZ",
       "price": 605.0,
@@ -3516,6 +3601,27 @@
       ],
       "approved_at": "14-04-2026 07:36",
       "auto_approved": true
+    },
+    {
+      "id": "28c055da2afd",
+      "title": "TCL 98C6K QD-MiniLED Google TV (2025)",
+      "price": 1649.25,
+      "original_price": 2199.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=331242",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69dccd37dfb65_ASSET_MMS_172698074-500x500.png",
+      "found_at": "2026-04-14T14:25:05.185818+00:00",
+      "price_history": [
+        {
+          "price": 1649.25,
+          "original_price": 2199.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ]
     },
     {
       "id": "6338dc7b13b3",
@@ -4394,6 +4500,38 @@
       ]
     },
     {
+      "id": "2e06df743be9",
+      "title": "Soundcore by Anker Q30-hoofdtelefoon met hybride actieve ruisonderdrukking en meerdere modi, Hi-Res, 40 uur afspeeltijd, heldere gesprekken, snelladen, zachte oorstukken, Bluetooth-hooftelefoon",
+      "price": 73.56,
+      "original_price": 199.0,
+      "discount_percent": 63,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08HMWZBXC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/514RLTa36cL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-14T18:08:50.150427+00:00",
+      "price_history": [
+        {
+          "price": 56.64,
+          "original_price": 199.0,
+          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
+        },
+        {
+          "price": 74.51,
+          "original_price": 79.99,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 73.56,
+          "original_price": 199.0,
+          "scraped_at": "2026-04-14T18:00:21.568899+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
       "id": "496971d26894",
       "title": "Dell 14 laptop DC14250 Intel Core 5 120U, 14 inch 2K IPS 300 nits ontspiegeld, Intel Graphics, 16 GB DDR5 RAM, 512 GB SSD, Windows 11 Home, toetsenbord met achtergrondverlichting AZERTY, zilver",
       "price": 399.1,
@@ -4707,6 +4845,54 @@
       "auto_approved": true
     },
     {
+      "id": "f10ae5168a84",
+      "title": "JBL Endurance Zone draadloze open-ear sporthoofdtelefoon met ergonomische oorhaken, JBL OpenSound technologie, 32 uur afspeeltijd, IP68 waterdicht, Google Finder, JBL Headphones App, paars",
+      "price": 77.09,
+      "original_price": 199.0,
+      "discount_percent": 62,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FG9D7JMQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61LVaE21boL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-11T14:40:02.336764+00:00",
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 73.77,
+          "original_price": 199.0,
+          "discount_percent": 62,
+          "scraped_at": "2026-04-11T14:00:27.429680+00:00"
+        }
+      ],
+      "refreshed_at": "2026-04-14T14:27:50.785711+00:00"
+    },
+    {
+      "id": "eec1635f12db",
+      "title": "JBL Endurance Zone draadloze open-ear sporthoofdtelefoon met ergonomische oorhaken, JBL OpenSound technologie, 32 uur afspeeltijd, IP68 waterdicht, Google Finder, JBL Headphones App, zwart/grijs",
+      "price": 78.05,
+      "original_price": 199.0,
+      "discount_percent": 62,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FG9BR7HK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51VZiMd69vL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T06:28:08.211140+00:00",
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 74.73,
+          "original_price": 199.0,
+          "discount_percent": 62,
+          "scraped_at": "2026-04-12T06:00:23.558107+00:00"
+        }
+      ],
+      "refreshed_at": "2026-04-14T14:28:05.706431+00:00"
+    },
+    {
       "id": "d60452d2c8d1",
       "title": "Samsung MC28H5015AK/EF",
       "price": 66.0,
@@ -4974,6 +5160,59 @@
       ],
       "approved_at": "14-04-2026 07:36",
       "auto_approved": true
+    },
+    {
+      "id": "98924f1a0156",
+      "title": "CMF Watch 3 Pro – Smartwatch 1,43\" AMOLED, 13 dagen batterij, dual-band GPS, Bluetooth-bellen met AI-ruisonderdrukking, hartslag- en slaapmonitor – Donkergrijs",
+      "price": 73.52,
+      "original_price": 184.95,
+      "discount_percent": 62,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F66MS88R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51RyMor1wiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T06:43:52.510964+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 96.65,
+          "original_price": 159.0,
+          "scraped_at": "2026-03-01T15:00:20.730172+00:00"
+        },
+        {
+          "price": 94.79,
+          "original_price": 159.0,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 104.6,
+          "original_price": null,
+          "scraped_at": "2026-03-12T07:00:18.865354+00:00"
+        },
+        {
+          "price": 72.11,
+          "original_price": 94.63,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 62.24,
+          "original_price": 349.0,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 69.07,
+          "original_price": 184.95,
+          "scraped_at": "2026-04-12T06:00:23.558107+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "refreshed_at": "2026-04-14T14:28:21.566670+00:00"
     },
     {
       "id": "c8ee5b8687c5",
@@ -5552,6 +5791,44 @@
       "auto_approved": true
     },
     {
+      "id": "8f3fb47d1e24",
+      "title": "SAMSUNG R850 Galaxy Watch 3 41 mm BT Mystic Bronze [Roemeense versie]",
+      "price": 70.04,
+      "original_price": 162.99,
+      "discount_percent": 57,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08FBLSMH3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71RQO7g6gdL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T06:44:08.269297+00:00",
+      "price_history": [
+        {
+          "price": 89.89,
+          "original_price": 164.99,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 85.66,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
+        },
+        {
+          "price": 77.85,
+          "original_price": 162.99,
+          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
+        },
+        {
+          "price": 70.04,
+          "original_price": 79.99,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "refreshed_at": "2026-04-14T06:34:57.995568+00:00"
+    },
+    {
       "id": "30a33b5db4f1",
       "title": "DJI Mic 1V1",
       "price": 68.0,
@@ -5957,6 +6234,44 @@
       ],
       "approved_at": "14-04-2026 07:36",
       "auto_approved": true
+    },
+    {
+      "id": "fc1edabb9f91",
+      "title": "Xiaomi Redmi Note 11 Smartphone, 4 + 128 GB, display 6,43 inch 90 Hz FHD+ Amoled Dotdisplay, Snapdragon 680, 4 camera, IA 50 MP, 5000 mAh, grafietgrijs met Alexa handsfree",
+      "price": 100.92,
+      "original_price": 211.22,
+      "discount_percent": 52,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09Q98JZ4S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51nGu3aN7JL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T06:21:21.874720+00:00",
+      "price_history": [
+        {
+          "price": 87.98,
+          "original_price": 211.22,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 83.65,
+          "original_price": 211.22,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        },
+        {
+          "price": 96.91,
+          "original_price": 211.22,
+          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
+        },
+        {
+          "price": 100.92,
+          "original_price": null,
+          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "refreshed_at": "2026-04-14T06:35:28.986606+00:00"
     },
     {
       "id": "8ec597690fe5",
@@ -7155,6 +7470,39 @@
       "auto_approved": true
     },
     {
+      "id": "ae796e5fc51a",
+      "title": "Jabra Evolve2 Buds True Wireless in-ear Bluetooth oordopjes met Active Noise Cancellation (ANC) en Jabra MultiSensor Voice-technologie - gecertificeerd voor apps voor virtuele vergaderingen - zwart",
+      "price": 116.74,
+      "original_price": 222.04,
+      "discount_percent": 47,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BKH2JK92?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/516RpeoNLBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T10:07:56.968336+00:00",
+      "price_history": [
+        {
+          "price": 124.51,
+          "original_price": 179.0,
+          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
+        },
+        {
+          "price": 119.58,
+          "original_price": 179.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 116.74,
+          "original_price": 222.04,
+          "scraped_at": "2026-04-12T10:00:14.577525+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "refreshed_at": "2026-04-14T06:36:22.567610+00:00"
+    },
+    {
       "id": "74119dbf7e7b",
       "title": "Lenovo Tab Plus 8 GB 256 GB",
       "price": 176.0,
@@ -7381,6 +7729,58 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "f254596f800a",
+      "title": "Alecto DVM200M",
+      "price": 66.0,
+      "original_price": 135.57,
+      "discount_percent": 51,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/alecto-dvm200m-r-16959",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1891047_a5b03198-d9d5-4629-9841-b8e8bcf59f27.jpg?v=1774948747",
+      "found_at": "2026-04-14T10:18:46.354350+00:00",
+      "price_history": [
+        {
+          "price": 66.0,
+          "original_price": 133.34,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 69.3,
+          "original_price": 133.34,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 71.4,
+          "original_price": 136.37,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 66.15,
+          "original_price": 133.93,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 60.9,
+          "original_price": 132.97,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 133.77,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 135.57,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
       "auto_approved": true
     },
     {
@@ -9795,6 +10195,43 @@
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
         }
       ]
+    },
+    {
+      "id": "2f2479124d37",
+      "title": "Samsung S36GD Essential S27D366GAU 27 inch gebogen monitor met VA-paneel, Full HD-resolutie, 4 ms reactietijd, 100 Hz verversingssnelheid, Eco Saving Plus, Flicker Free, zwart",
+      "price": 108.12,
+      "original_price": 179.99,
+      "discount_percent": 39,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DJMQP5FS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61tayNwB-8L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-14T18:14:38.050035+00:00",
+      "price_history": [
+        {
+          "price": 109.32,
+          "original_price": null,
+          "scraped_at": "2026-03-01T19:00:22.448266+00:00"
+        },
+        {
+          "price": 110.16,
+          "original_price": null,
+          "scraped_at": "2026-03-07T07:00:24.227112+00:00"
+        },
+        {
+          "price": 109.61,
+          "original_price": 139.99,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 108.12,
+          "original_price": 179.99,
+          "scraped_at": "2026-04-14T18:00:21.568899+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
     },
     {
       "id": "773a0e43c714",
@@ -13351,6 +13788,43 @@
       "auto_approved": true
     },
     {
+      "id": "c2525c6aaeec",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
+      "price": 798.0,
+      "original_price": 938.87,
+      "discount_percent": 15,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-qwerty-r-16886",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_4c975ef9-40c7-4e6c-b58d-73a795fbbdf7.jpg?v=1774878301",
+      "found_at": "2026-04-14T18:18:00.154781+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 919.24,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 830.55,
+          "original_price": 923.74,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 867.3,
+          "original_price": 942.52,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 798.0,
+          "original_price": 937.72,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
       "id": "e04436ab0767",
       "title": "Ninja Creami Deluxe NC501EU",
       "price": 228.0,
@@ -13671,6 +14145,543 @@
       ],
       "approved_at": "13-04-2026 15:35",
       "auto_approved": true
+    },
+    {
+      "id": "25155d54c675",
+      "title": "Philips 3000-serie Airfryer NA342/00",
+      "price": 262.0,
+      "original_price": 338.26,
+      "discount_percent": 22,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-3000-serie-airfryer-na342-00-r-17110",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107386.jpg?v=1775635186",
+      "found_at": "2026-04-14T18:18:10.877407+00:00",
+      "price_history": [
+        {
+          "price": 283.5,
+          "original_price": 341.36,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 270.0,
+          "original_price": 338.46,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 262.0,
+          "original_price": 338.26,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "36cf0e555d6f",
+      "title": "Sony WH-1000XM4 Zwart",
+      "price": 173.0,
+      "original_price": 230.36,
+      "discount_percent": 24,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm4-zwart-r-17067",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1462421_bc360dab-4304-4954-8896-f95076320e80.jpg?v=1775634733",
+      "found_at": "2026-04-14T18:18:13.573027+00:00",
+      "price_history": [
+        {
+          "price": 187.95,
+          "original_price": 230.12,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 179.0,
+          "original_price": 228.49,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 230.36,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "fddd515de308",
+      "title": "Blackvue DR970X-2CH Plus II 64GB",
+      "price": 579.0,
+      "original_price": 695.96,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-plus-ii-64gb-r-16791",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2190624_6bd8a0fb-800a-4572-9560-9b9d3e1af961.jpg?v=1774947929",
+      "found_at": "2026-04-14T18:18:00.156277+00:00",
+      "price_history": [
+        {
+          "price": 634.0,
+          "original_price": 694.96,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 665.7,
+          "original_price": 694.96,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 644.7,
+          "original_price": 694.96,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 616.35,
+          "original_price": 699.76,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 579.0,
+          "original_price": 695.96,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "636ff4d860d7",
+      "title": "Bosch Unlimited 7 BCS711A",
+      "price": 252.0,
+      "original_price": 323.83,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-unlimited-7-bcs711a-r-16909",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1725394_704e6da4-b9c8-4200-94d0-2fda8e899113.jpg?v=1774948316",
+      "found_at": "2026-04-14T18:18:00.156522+00:00",
+      "price_history": [
+        {
+          "price": 182.0,
+          "original_price": 277.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 290.85,
+          "original_price": 323.83,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 280.35,
+          "original_price": 323.83,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 264.6,
+          "original_price": 318.34,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 252.0,
+          "original_price": 323.83,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "6b20fe0158f4",
+      "title": "Dyson Purifier Humidify+Cool Formaldehyde - PH04",
+      "price": 679.0,
+      "original_price": 799.0,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-purifier-humidify-cool-formaldehyde-ph04-r-17048",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1652939_0de337c1-5938-4d2a-afae-258e46ba25e7.jpg?v=1775636288",
+      "found_at": "2026-04-14T18:18:03.641016+00:00",
+      "price_history": [
+        {
+          "price": 738.15,
+          "original_price": 799.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 703.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 679.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "ba16cd7243bd",
+      "title": "Philips DiamondClean 9000 HX9911/94",
+      "price": 127.0,
+      "original_price": 170.68,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-diamondclean-9000-hx9911-94-r-16930",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1393607_f8aa16e6-cf29-4c2c-968f-fbdfb1218814.jpg?v=1774878528",
+      "found_at": "2026-04-14T18:18:10.877719+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 175.27,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 145.95,
+          "original_price": 175.27,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 139.65,
+          "original_price": 171.35,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 141.75,
+          "original_price": 172.68,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 133.35,
+          "original_price": 170.58,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 170.04,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "2677f915cdf7",
+      "title": "DeLonghi Nespresso Lattissima One EN510.B Zwart",
+      "price": 179.0,
+      "original_price": 233.79,
+      "discount_percent": 23,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-nespresso-lattissima-one-en510-b-zwart-r-17251",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1891035_3d8dc6a0-4f30-48c5-87e7-ccf2a44c31b4.jpg?v=1775824307",
+      "found_at": "2026-04-14T18:18:03.639479+00:00",
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "846a3ab0d357",
+      "title": "ABUS UBAN-I 4.0 Zilver L",
+      "price": 65.0,
+      "original_price": 89.78,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/abus-uban-i-4-0-zilver-l-r-16931",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/353308145.jpg?v=1774878557",
+      "found_at": "2026-04-14T18:17:57.245903+00:00",
+      "price_history": [
+        {
+          "price": 63.0,
+          "original_price": 69.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 89.76,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 74.55,
+          "original_price": 90.4,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 72.45,
+          "original_price": 91.2,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 68.25,
+          "original_price": 90.32,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 65.0,
+          "original_price": 90.47,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "b3468d9948ae",
+      "title": "Philips Shaver 9000 series S9980/59",
+      "price": 230.0,
+      "original_price": 293.94,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-9000-series-s9980-59-r-17150",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970846_f28a3261-1c77-4018-9306-95dc119d8e32.jpg?v=1775635654",
+      "found_at": "2026-04-14T18:18:10.878436+00:00",
+      "price_history": [
+        {
+          "price": 249.9,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 238.0,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 230.0,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "f53d31f6e659",
+      "title": "JBL Tune 720BT Zwart",
+      "price": 49.0,
+      "original_price": 67.91,
+      "discount_percent": 27,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-tune-720bt-zwart-r-16867",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1882548.jpg?v=1774948218",
+      "found_at": "2026-04-14T18:18:07.595405+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 61.73,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 45.15,
+          "original_price": 60.94,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 53.55,
+          "original_price": 64.56,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 54.6,
+          "original_price": 62.92,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 55.65,
+          "original_price": 65.76,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 51.45,
+          "original_price": 68.74,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 70.69,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "7dd61c151776",
+      "title": "HP ENVY 6120e",
+      "price": 67.0,
+      "original_price": 91.71,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-envy-6120e-r-17137",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2099303_2ef5a729-937c-4431-b19d-a0bdc1cd9469.jpg?v=1775635504",
+      "found_at": "2026-04-14T18:18:03.642719+00:00",
+      "price_history": [
+        {
+          "price": 76.65,
+          "original_price": 91.39,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 91.86,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 91.71,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "d830e2876a5e",
+      "title": "Sony WH-1000XM6 Zwart",
+      "price": 318.0,
+      "original_price": 395.2,
+      "discount_percent": 19,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm6-zwart-r-16838",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2175273_778e870c-b2f8-4fc3-8369-a69ae530dfa4.jpg?v=1774948078",
+      "found_at": "2026-04-14T18:18:16.476478+00:00",
+      "price_history": [
+        {
+          "price": 348.0,
+          "original_price": 396.76,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 365.4,
+          "original_price": 393.63,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 353.85,
+          "original_price": 386.76,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 333.9,
+          "original_price": 387.15,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 318.0,
+          "original_price": 390.89,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "b74afeca6ac4",
+      "title": "Xtorm 35W Fuel Series Powerbank 20.000mAh - Midnight Black",
+      "price": 46.0,
+      "original_price": 63.04,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/xtorm-35w-fuel-series-powerbank-20-000mah-midnight-black-r-17124",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2167827.jpg?v=1775635377",
+      "found_at": "2026-04-14T18:18:16.477424+00:00",
+      "price_history": [
+        {
+          "price": 50.4,
+          "original_price": 63.24,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 63.04,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 63.04,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "6bfcf1653d80",
+      "title": "Denver MRD-51",
+      "price": 122.0,
+      "original_price": 161.08,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/denver-mrd-51-r-17176",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1382754.jpg?v=1775824132",
+      "found_at": "2026-04-14T18:18:03.639625+00:00",
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "0038289355e1",
+      "title": "VTech Kidizoom DX2 Smartwatch voor kinderen, interactief horloge met dubbele camera, kleuren-touchscreen, smartwatch met bewegingssensor, schokbestendig, Italiaanse taal, 3-12 jaar, zwart",
+      "price": 60.98,
+      "original_price": 82.67,
+      "discount_percent": 26,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FPG5D6RW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/615XkBpNvjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-12T06:42:18.906246+00:00",
+      "price_history": [
+        {
+          "price": 68.35,
+          "original_price": 129.0,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 67.32,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        },
+        {
+          "price": 65.27,
+          "original_price": 99.99,
+          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
+        },
+        {
+          "price": 64.2,
+          "original_price": 80.05,
+          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
+        },
+        {
+          "price": 62.04,
+          "original_price": 79.12,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 19:21",
+      "auto_approved": true,
+      "refreshed_at": "2026-04-14T06:36:03.604692+00:00"
     }
   ]
 }
