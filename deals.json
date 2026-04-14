@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T10:22:29.824914+00:00",
+  "updated_at": "2026-04-14T14:28:41.607920+00:00",
   "total": 300,
   "deals": [
     {
@@ -8700,6 +8700,38 @@
       "auto_approved": true
     },
     {
+      "id": "a3e9211c818f",
+      "title": "GIGABYTE G27Q2 Gaming Monitor 27\" 2K QHD - 2560 x 1440, 200Hz, 1ms, 350CD/m², compatibel met G-Sync, FreeSync Premium, HDR10, HDMI 2.0, DisplayPort 1.4",
+      "price": 111.44,
+      "original_price": 189.99,
+      "discount_percent": 41,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FWS4L67W?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61cQZxRsB6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-14T14:21:44.136073+00:00",
+      "price_history": [
+        {
+          "price": 112.12,
+          "original_price": 189.99,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 113.53,
+          "original_price": 149.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 111.44,
+          "original_price": 189.99,
+          "scraped_at": "2026-04-14T14:00:21.017420+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 15:28",
+      "auto_approved": true
+    },
+    {
       "id": "87cb368c1669",
       "title": "Apple iPad (2022) 10.9 inch 256GB Wifi Zilver",
       "price": 305.0,
@@ -12754,6 +12786,38 @@
       "auto_approved": true
     },
     {
+      "id": "cbb7b796bdae",
+      "title": "Xtorm 67W Fuel Series Powerbank 45.000 - Midnight Black",
+      "price": 76.0,
+      "original_price": 108.17,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/xtorm-67w-fuel-series-powerbank-45-000-midnight-black-r-17125",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2118787.jpg?v=1775635384",
+      "found_at": "2026-04-14T10:19:06.880816+00:00",
+      "price_history": [
+        {
+          "price": 82.95,
+          "original_price": 111.79,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 107.18,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": 108.17,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "14-04-2026 15:28",
+      "auto_approved": true
+    },
+    {
       "id": "e35537a43073",
       "title": "Oral-B iO 3 Zwart en Blauw Duo pack",
       "price": 96.0,
@@ -12957,94 +13021,6 @@
           "price": 170.5,
           "original_price": 228.99,
           "discount_percent": 25,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
-      "id": "47c5deef86ea",
-      "title": "Philips Sonicare 6100 Series HX7400/01 Wit",
-      "price": 68.0,
-      "original_price": 96.17,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-sonicare-6100-series-hx7400-01-wit-r-16774",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2088880_f3e0bfe0-a530-434d-bbf8-34348140cbf7.jpg?v=1774947793",
-      "found_at": "2026-04-13T18:15:59.137627+00:00",
-      "price_history": [
-        {
-          "price": 78.0,
-          "original_price": 100.86,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 81.9,
-          "original_price": 98.57,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 78.75,
-          "original_price": 99.26,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 75.6,
-          "original_price": 99.01,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 70.35,
-          "original_price": 97.84,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 68.0,
-          "original_price": 96.17,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "c2525c6aaeec",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
-      "price": 798.0,
-      "original_price": 937.72,
-      "discount_percent": 14,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-qwerty-r-16886",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_4c975ef9-40c7-4e6c-b58d-73a795fbbdf7.jpg?v=1774878301",
-      "found_at": "2026-04-13T14:31:04.847995+00:00",
-      "price_history": [
-        {
-          "price": 791.0,
-          "original_price": 919.24,
-          "discount_percent": 13,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 830.55,
-          "original_price": 923.74,
-          "discount_percent": 10,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 867.3,
-          "original_price": 942.52,
-          "discount_percent": 7,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 798.0,
-          "original_price": 937.72,
-          "discount_percent": 14,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
         }
       ],
