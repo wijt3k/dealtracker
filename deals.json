@@ -1,58 +1,7 @@
 {
-  "updated_at": "2026-04-14T20:10:23.820560+00:00",
-  "total": 287,
+  "updated_at": "2026-04-15T06:29:28.381843+00:00",
+  "total": 300,
   "deals": [
-    {
-      "id": "b28d4874b0a7",
-      "title": "HP OmniBook X 14-fe0100nd Ai PC QWERTY",
-      "price": 575.0,
-      "original_price": 1117.0,
-      "discount_percent": 48,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-omnibook-x-14-fe0100nd-ai-pc-qwerty-r-16656",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241554.jpg?v=1774254781",
-      "found_at": "2026-04-14T18:18:07.594119+00:00",
-      "price_history": [
-        {
-          "price": 1027.0,
-          "original_price": 1117.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 1078.35,
-          "original_price": 1117.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1043.7,
-          "original_price": 1117.0,
-          "discount_percent": 6,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 984.9,
-          "original_price": 1117.0,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 670.0,
-          "original_price": 1117.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 575.0,
-          "original_price": 1117.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ]
-    },
     {
       "id": "e9114243f3fb",
       "title": "Dell Technologies accessoires PC en laptop merk model LATITUD 5330 I5-1235U 8/256 13 W11P, kleurrijk",
@@ -1533,6 +1482,57 @@
       "auto_approved": true
     },
     {
+      "id": "b28d4874b0a7",
+      "title": "HP OmniBook X 14-fe0100nd Ai PC QWERTY",
+      "price": 575.0,
+      "original_price": 1117.0,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omnibook-x-14-fe0100nd-ai-pc-qwerty-r-16656",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241554.jpg?v=1774254781",
+      "found_at": "2026-04-14T18:18:07.594119+00:00",
+      "price_history": [
+        {
+          "price": 1027.0,
+          "original_price": 1117.0,
+          "discount_percent": 8,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 1078.35,
+          "original_price": 1117.0,
+          "discount_percent": 3,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 1043.7,
+          "original_price": 1117.0,
+          "discount_percent": 6,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 984.9,
+          "original_price": 1117.0,
+          "discount_percent": 11,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 670.0,
+          "original_price": 1117.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 575.0,
+          "original_price": 1117.0,
+          "discount_percent": 48,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        }
+      ]
+    },
+    {
       "id": "1ab907218306",
       "title": "iRobot  Max 705 Combo Robot + AutoWash¿  Dock Wit",
       "price": 415.0,
@@ -2013,6 +2013,21 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "a29997322acf",
+      "title": "Dell UltraSharp 34 Monitor - U3425WE",
+      "price": 621.0,
+      "original_price": 1103.19,
+      "discount_percent": 43,
+      "category": "tv",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D63Y6WYJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61pvKhr+T1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-15T06:24:40.154154+00:00",
+      "approved_at": "15-04-2026 07:29",
       "auto_approved": true
     },
     {
@@ -2780,6 +2795,33 @@
         }
       ],
       "approved_at": "13-04-2026 15:35",
+      "auto_approved": true
+    },
+    {
+      "id": "d6e4c7faf142",
+      "title": "LG Ultrafine 32U990A-S PC-monitor 6K 32 inch - IPS-paneel resolutie 6K (6144 x 3456, 224 ppi), 5 ms 60 Hz, HDR 10, DCI-P3 98% (CIE1976), Thunderbolt 5, kantel- en luidsprekerinstelling, geïntegreerde",
+      "price": 1193.81,
+      "original_price": 1809.07,
+      "discount_percent": 34,
+      "category": "tv",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FVG8DZFG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71qznLu-V6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-15T06:24:55.793329+00:00",
+      "price_history": [
+        {
+          "price": 1367.67,
+          "original_price": 1899.0,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 1193.81,
+          "original_price": 1809.07,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
       "auto_approved": true
     },
     {
@@ -5940,6 +5982,48 @@
       "auto_approved": true
     },
     {
+      "id": "002a4da6729e",
+      "title": "JBL Tune 720BT draadloze on-ear koptelefoon in zwart - Met JBL Pure Bass Sound, Bluetooth 5.3, handsfree bellen, audiokabel en 76 uur batterijduur",
+      "price": 57.82,
+      "original_price": 134.88,
+      "discount_percent": 57,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BWVQKSSY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51JNhjr4McL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-15T06:14:10.567826+00:00",
+      "price_history": [
+        {
+          "price": 53.85,
+          "original_price": 54.95,
+          "scraped_at": "2026-03-07T07:00:24.227112+00:00"
+        },
+        {
+          "price": 52.75,
+          "original_price": 79.99,
+          "scraped_at": "2026-03-12T15:00:30.412229+00:00"
+        },
+        {
+          "price": 52.2,
+          "original_price": 54.95,
+          "scraped_at": "2026-03-17T19:00:22.888640+00:00"
+        },
+        {
+          "price": 51.1,
+          "original_price": 54.95,
+          "scraped_at": "2026-03-30T06:00:49.881945+00:00"
+        },
+        {
+          "price": 57.82,
+          "original_price": 134.88,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
       "id": "6f543b77615d",
       "title": "Refurbished iPhone 13 256GB Zwart",
       "price": 313.2,
@@ -7888,6 +7972,21 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "1545473d137d",
+      "title": "AOC Gaming 27G4HA - 27 inch Full HD-monitor, 200 Hz, 1 ms, comp. G-Sync, HDR10 (1920 x 1080, 2 x HDMI 2.0, 1 x DisplayPort 1.4) zwart-rood",
+      "price": 100.19,
+      "original_price": 189.99,
+      "discount_percent": 47,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F5BX87K1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71ttcDecpkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-15T06:22:03.439845+00:00",
+      "approved_at": "15-04-2026 07:29",
       "auto_approved": true
     },
     {
@@ -13955,6 +14054,33 @@
       "auto_approved": true
     },
     {
+      "id": "eabf64375d80",
+      "title": "Samsung Galaxy Tab A11+ - Tablet - Android - 128 GB - 27.9 cm (11\")",
+      "price": 172.76,
+      "original_price": 229.0,
+      "discount_percent": 24,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0G2RM6DL6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/31telo7w-AL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-15T06:06:58.264431+00:00",
+      "price_history": [
+        {
+          "price": 202.08,
+          "original_price": 214.0,
+          "scraped_at": "2026-04-03T06:00:28.801778+00:00"
+        },
+        {
+          "price": 172.76,
+          "original_price": 229.0,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
       "id": "6b20fe0158f4",
       "title": "Dyson Purifier Humidify+Cool Formaldehyde - PH04",
       "price": 679.0,
@@ -14351,6 +14477,233 @@
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
         }
       ]
+    },
+    {
+      "id": "7299df40f772",
+      "title": "Garmin HRM-fit",
+      "price": 108.0,
+      "original_price": 143.43,
+      "discount_percent": 24,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-hrm-fit-r-16829",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2004403_1f2923b6-4877-442e-8f8d-600aec89a44a.jpg?v=1774948039",
+      "found_at": "2026-04-15T06:26:06.285473+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 144.09,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 123.9,
+          "original_price": 144.08,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 119.7,
+          "original_price": 145.4,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 113.4,
+          "original_price": 142.62,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 143.55,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "3ee78b04941f",
+      "title": "Nintendo Donkey Kong Bananza Nintendo Switch 2",
+      "price": 51.0,
+      "original_price": 68.98,
+      "discount_percent": 26,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nintendo-donkey-kong-bananza-nintendo-switch-2-r-17134",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2158952.jpg?v=1775635472",
+      "found_at": "2026-04-15T06:26:13.104644+00:00",
+      "price_history": [
+        {
+          "price": 55.65,
+          "original_price": 71.14,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 54.6,
+          "original_price": 69.75,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 68.9,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 68.98,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "95d3a164568c",
+      "title": "HP Smart Tank 5107 All-in-One-printer",
+      "price": 164.0,
+      "original_price": 211.25,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-smart-tank-5107-all-in-one-printer-r-17044",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1891012_0e500fb7-e931-441d-9d8f-7d2b32aae5d5.jpg?v=1775823852",
+      "found_at": "2026-04-15T06:26:10.043306+00:00",
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "c9c4fd4ed8df",
+      "title": "Apple iPad Air 2022 10.9 inch 256 GB Wifi Blauw",
+      "price": 870.0,
+      "original_price": 989.0,
+      "discount_percent": 12,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2022-10-9-inch-256-gb-wifi-blauw-r-16998",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712495.jpg?v=1775634273",
+      "found_at": "2026-04-15T06:26:00.138531+00:00",
+      "price_history": [
+        {
+          "price": 913.5,
+          "original_price": 989.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 870.0,
+          "original_price": 989.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "bc2dbe97d0dc",
+      "title": "LG DS60TR",
+      "price": 210.0,
+      "original_price": 264.31,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds60tr-r-17061",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2039438_1240d353-3acc-40cf-ba29-0a048c2a9fab.jpg?v=1775823952",
+      "found_at": "2026-04-15T06:26:10.047028+00:00",
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "3053a32a45c9",
+      "title": "Bose Smart Soundbar",
+      "price": 355.0,
+      "original_price": 431.19,
+      "discount_percent": 17,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-16b1p3302d-00-r-17132",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_512eaa03-1df1-4337-92f8-a710fd6b7772.avif?v=1775822420",
+      "found_at": "2026-04-15T06:26:03.342997+00:00",
+      "price_history": [
+        {
+          "price": 385.35,
+          "original_price": 431.19,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 367.0,
+          "original_price": 431.19,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 355.0,
+          "original_price": 431.19,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "b9d4edaafd2a",
+      "title": "Braun Series 9 Pro+ 9575cc Grafiet",
+      "price": 287.0,
+      "original_price": 352.38,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-9-pro-9575cc-grafiet-r-17146",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2008221_04a7919c-7a37-47a6-a8b6-6622406752fe.jpg?v=1775635605",
+      "found_at": "2026-04-15T06:26:03.343321+00:00",
+      "price_history": [
+        {
+          "price": 308.7,
+          "original_price": 357.29,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 297.0,
+          "original_price": 352.38,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 287.0,
+          "original_price": 352.38,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
+    },
+    {
+      "id": "38a3fdb170be",
+      "title": "Apple MacBook Pro 14 M5 16/512GB Zwart AZERTY",
+      "price": 1609.0,
+      "original_price": 1749.0,
+      "discount_percent": 8,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-14-m5-16-512gb-zwart-azerty-r-17037",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224507_dcd48ebe-6a55-4890-88fb-3713fcee2715.jpg?v=1775634618",
+      "found_at": "2026-04-15T06:26:03.341173+00:00",
+      "price_history": [
+        {
+          "price": 1689.45,
+          "original_price": 1749.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 1609.0,
+          "original_price": 1749.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        }
+      ],
+      "approved_at": "15-04-2026 07:29",
+      "auto_approved": true
     }
   ]
 }
