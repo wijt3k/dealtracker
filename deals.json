@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-15T14:20:55.177216+00:00",
-  "total": 300,
+  "updated_at": "2026-04-15T14:41:20.187494+00:00",
+  "total": 265,
   "deals": [
     {
       "id": "e9114243f3fb",
       "title": "Dell Technologies accessoires PC en laptop merk model LATITUD 5330 I5-1235U 8/256 13 W11P, kleurrijk",
-      "price": 292.11,
+      "price": 263.71,
       "original_price": 872.87,
       "discount_percent": 66,
       "category": "laptops",
@@ -33,108 +33,386 @@
           "discount_percent": 66,
           "scraped_at": "2026-04-14T14:00:21.017420+00:00"
         }
-      ]
+      ],
+      "refreshed_at": "2026-04-15T14:20:08.351030+00:00"
     },
     {
-      "id": "95f6ada8a4bb",
-      "title": "Refurbished Microsoft Surface Pro 11 Snapdragon X Elite/16GB/512GB Black",
-      "price": 639.16,
-      "original_price": 1808.93,
-      "discount_percent": 64,
-      "category": "laptops",
+      "id": "45910104d5b7",
+      "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY Refurbished",
+      "price": 1052.94,
+      "original_price": 2849.0,
+      "discount_percent": 63,
+      "category": "elektronica",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-pro-11-snapdragon-x-elite-16gb-512gb-black-r-16700",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2141551_8d68cb65-536f-4813-a30a-951be452f736.jpg?v=1774255059",
-      "found_at": "2026-04-13T14:31:17.777717+00:00",
+      "url": "https://stekkerstore.com/products/lenovo-yoga-book-9-83ff002wmh-qwerty-r-16607",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2024052_e9b1abc2-6aa6-4076-aad2-f45bba37fffe.jpg?v=1773749671",
+      "found_at": "2026-04-15T14:17:39.656950+00:00",
       "price_history": [
         {
-          "price": 1102.0,
-          "original_price": 1779.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+          "price": 2603.0,
+          "original_price": 2958.0,
+          "discount_percent": 12,
+          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
         },
         {
-          "price": 1024.86,
-          "original_price": 1748.93,
-          "discount_percent": 41,
+          "price": 2507.0,
+          "original_price": 2849.0,
+          "discount_percent": 12,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 2231.23,
+          "original_price": 2949.0,
+          "discount_percent": 24,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 2181.09,
+          "original_price": 2949.0,
+          "discount_percent": 26,
           "scraped_at": "2026-03-30T10:00:28.473447+00:00"
         },
         {
-          "price": 1013.84,
-          "original_price": 1748.93,
-          "discount_percent": 42,
+          "price": 2156.02,
+          "original_price": 2949.0,
+          "discount_percent": 26,
           "scraped_at": "2026-03-31T10:00:27.414029+00:00"
         },
         {
-          "price": 1002.82,
-          "original_price": 1748.93,
-          "discount_percent": 42,
+          "price": 2130.95,
+          "original_price": 2949.0,
+          "discount_percent": 27,
           "scraped_at": "2026-04-01T10:00:34.291663+00:00"
         },
         {
-          "price": 991.8,
-          "original_price": 1813.92,
-          "discount_percent": 45,
+          "price": 2105.88,
+          "original_price": 2949.0,
+          "discount_percent": 28,
           "scraped_at": "2026-04-02T10:00:27.063904+00:00"
         },
         {
-          "price": 980.78,
-          "original_price": 1800.93,
-          "discount_percent": 45,
+          "price": 2080.81,
+          "original_price": 2751.0,
+          "discount_percent": 24,
           "scraped_at": "2026-04-03T14:00:19.410617+00:00"
         },
         {
-          "price": 969.76,
-          "original_price": 1792.93,
-          "discount_percent": 45,
+          "price": 2055.74,
+          "original_price": 2751.0,
+          "discount_percent": 25,
           "scraped_at": "2026-04-04T10:00:23.657277+00:00"
         },
         {
-          "price": 947.72,
-          "original_price": 1748.93,
-          "discount_percent": 45,
+          "price": 2005.6,
+          "original_price": 2700.0,
+          "discount_percent": 25,
           "scraped_at": "2026-04-06T10:00:32.198032+00:00"
         },
         {
-          "price": 936.7,
-          "original_price": 1748.93,
-          "discount_percent": 46,
+          "price": 1454.06,
+          "original_price": 2649.0,
+          "discount_percent": 45,
           "scraped_at": "2026-04-07T10:00:23.854944+00:00"
         },
         {
-          "price": 925.68,
-          "original_price": 1748.93,
+          "price": 1403.92,
+          "original_price": 2649.0,
           "discount_percent": 47,
           "scraped_at": "2026-04-08T10:00:32.989333+00:00"
         },
         {
-          "price": 914.66,
-          "original_price": 1792.93,
+          "price": 1353.78,
+          "original_price": 2649.0,
           "discount_percent": 48,
           "scraped_at": "2026-04-09T06:00:57.139110+00:00"
         },
         {
-          "price": 903.64,
-          "original_price": 1792.93,
-          "discount_percent": 49,
+          "price": 1303.64,
+          "original_price": 2649.0,
+          "discount_percent": 50,
           "scraped_at": "2026-04-10T16:04:24.181170+00:00"
         },
         {
-          "price": 892.62,
-          "original_price": 1796.41,
+          "price": 1253.5,
+          "original_price": 2649.0,
+          "discount_percent": 52,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 1153.22,
+          "original_price": 2849.0,
+          "discount_percent": 59,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1103.08,
+          "original_price": 2849.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 1052.94,
+          "original_price": 2849.0,
+          "discount_percent": 63,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f68dbc9ca381",
+      "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY Refurbished",
+      "price": 1100.82,
+      "original_price": 2849.0,
+      "discount_percent": 61,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-yoga-book-9-83ff002wmh-qwerty-r-16608",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2024052_7180c839-a2b6-4ca9-8d65-8aa0e5703d43.jpg?v=1773749686",
+      "found_at": "2026-04-15T14:17:39.657053+00:00",
+      "price_history": [
+        {
+          "price": 2721.0,
+          "original_price": 2958.0,
+          "discount_percent": 8,
+          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
+        },
+        {
+          "price": 2621.0,
+          "original_price": 2849.0,
+          "discount_percent": 8,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 2332.69,
+          "original_price": 2949.0,
+          "discount_percent": 20,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 2280.27,
+          "original_price": 2949.0,
+          "discount_percent": 22,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 2254.06,
+          "original_price": 2949.0,
+          "discount_percent": 23,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 2227.85,
+          "original_price": 2949.0,
+          "discount_percent": 24,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 2201.64,
+          "original_price": 2949.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 2175.43,
+          "original_price": 2751.0,
+          "discount_percent": 20,
+          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
+        },
+        {
+          "price": 2149.22,
+          "original_price": 2751.0,
+          "discount_percent": 21,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 2096.8,
+          "original_price": 2700.0,
+          "discount_percent": 22,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 1520.18,
+          "original_price": 2649.0,
+          "discount_percent": 42,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 1467.76,
+          "original_price": 2649.0,
+          "discount_percent": 44,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 1415.34,
+          "original_price": 2649.0,
+          "discount_percent": 46,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 1362.92,
+          "original_price": 2649.0,
+          "discount_percent": 48,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 1310.5,
+          "original_price": 2649.0,
           "discount_percent": 50,
           "scraped_at": "2026-04-11T06:00:41.806392+00:00"
         },
         {
-          "price": 639.16,
-          "original_price": 1808.93,
-          "discount_percent": 64,
+          "price": 1205.66,
+          "original_price": 2849.0,
+          "discount_percent": 57,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1153.24,
+          "original_price": 2849.0,
+          "discount_percent": 59,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 1100.82,
+          "original_price": 2849.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
         }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
+      ]
+    },
+    {
+      "id": "40968c616869",
+      "title": "Refurbished Microsoft Surface Laptop 7 15 Snapdragon X Elite/16GB/512GB Graphite QWERTY",
+      "price": 699.3,
+      "original_price": 1799.0,
+      "discount_percent": 61,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-laptop-7-15-snapdragon-x-elite-16gb-512gb-graphite-qwerty-r-16699",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069686_56bc7867-bb77-4f91-8de4-f8f73c6c4560.jpg?v=1774255053",
+      "found_at": "2026-04-15T14:17:46.292343+00:00",
+      "price_history": [
+        {
+          "price": 1295.0,
+          "original_price": 1749.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 1204.35,
+          "original_price": 1799.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 1191.4,
+          "original_price": 1799.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 1178.45,
+          "original_price": 1799.0,
+          "discount_percent": 34,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 1165.5,
+          "original_price": 1799.0,
+          "discount_percent": 35,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 1152.55,
+          "original_price": 1799.0,
+          "discount_percent": 35,
+          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
+        },
+        {
+          "price": 1139.6,
+          "original_price": 1799.0,
+          "discount_percent": 36,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 1113.7,
+          "original_price": 1799.0,
+          "discount_percent": 38,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 1100.75,
+          "original_price": 1799.0,
+          "discount_percent": 38,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 1087.8,
+          "original_price": 1799.0,
+          "discount_percent": 39,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 1074.85,
+          "original_price": 1799.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 1061.9,
+          "original_price": 1799.0,
+          "discount_percent": 40,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 1048.95,
+          "original_price": 1799.0,
+          "discount_percent": 41,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 751.1,
+          "original_price": 1799.0,
+          "discount_percent": 58,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 725.2,
+          "original_price": 1799.0,
+          "discount_percent": 59,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 699.3,
+          "original_price": 1799.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ]
+    },
+    {
+      "id": "da2411cbde0d",
+      "title": "LENOVO ThinkBook 16p G6 ADR - 16 inch - AMD Ryzen 9 8940HX - 64 GB - 1 TB - GeForce RTX™ 5060 - Windows 11 Pro",
+      "price": 1815.0,
+      "original_price": 2420.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=331320",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69df867921daa_ASSET_MMS_163675730-500x500.png",
+      "found_at": "2026-04-15T14:16:45.325225+00:00",
+      "price_history": [
+        {
+          "price": 1815.0,
+          "original_price": 2420.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "8f05091135a3",
@@ -244,6 +522,12 @@
           "original_price": 866.0,
           "discount_percent": 63,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 303.0,
+          "original_price": 866.0,
+          "discount_percent": 65,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -345,352 +629,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176318_563fc1c8-f0ad-4b0b-8a28-17e7e7241084.jpg?v=1776167317",
       "found_at": "2026-04-15T14:17:32.596932+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "45910104d5b7",
-      "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY Refurbished",
-      "price": 1103.08,
-      "original_price": 2849.0,
-      "discount_percent": 61,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-yoga-book-9-83ff002wmh-qwerty-r-16607",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2024052_e9b1abc2-6aa6-4076-aad2-f45bba37fffe.jpg?v=1773749671",
-      "found_at": "2026-04-14T06:32:06.852705+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 2603.0,
-          "original_price": 2958.0,
-          "discount_percent": 12,
-          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
-        },
-        {
-          "price": 2507.0,
-          "original_price": 2849.0,
-          "discount_percent": 12,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        },
-        {
-          "price": 2231.23,
-          "original_price": 2949.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 2181.09,
-          "original_price": 2949.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 2156.02,
-          "original_price": 2949.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 2130.95,
-          "original_price": 2949.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 2105.88,
-          "original_price": 2949.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 2080.81,
-          "original_price": 2751.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
-        },
-        {
-          "price": 2055.74,
-          "original_price": 2751.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 2005.6,
-          "original_price": 2700.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 1454.06,
-          "original_price": 2649.0,
-          "discount_percent": 45,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 1403.92,
-          "original_price": 2649.0,
-          "discount_percent": 47,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 1353.78,
-          "original_price": 2649.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 1303.64,
-          "original_price": 2649.0,
-          "discount_percent": 50,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 1253.5,
-          "original_price": 2649.0,
-          "discount_percent": 52,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 1153.22,
-          "original_price": 2849.0,
-          "discount_percent": 59,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 1103.08,
-          "original_price": 2849.0,
+          "price": 352.0,
+          "original_price": 903.18,
           "discount_percent": 61,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "40968c616869",
-      "title": "Refurbished Microsoft Surface Laptop 7 15 Snapdragon X Elite/16GB/512GB Graphite QWERTY",
-      "price": 725.2,
-      "original_price": 1799.0,
-      "discount_percent": 59,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-laptop-7-15-snapdragon-x-elite-16gb-512gb-graphite-qwerty-r-16699",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069686_56bc7867-bb77-4f91-8de4-f8f73c6c4560.jpg?v=1774255053",
-      "found_at": "2026-04-14T06:32:09.666348+00:00",
-      "price_history": [
-        {
-          "price": 1295.0,
-          "original_price": 1749.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 1204.35,
-          "original_price": 1799.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 1191.4,
-          "original_price": 1799.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 1178.45,
-          "original_price": 1799.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 1165.5,
-          "original_price": 1799.0,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1152.55,
-          "original_price": 1799.0,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
-        },
-        {
-          "price": 1139.6,
-          "original_price": 1799.0,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 1113.7,
-          "original_price": 1799.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 1100.75,
-          "original_price": 1799.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 1087.8,
-          "original_price": 1799.0,
-          "discount_percent": 39,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 1074.85,
-          "original_price": 1799.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 1061.9,
-          "original_price": 1799.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 1048.95,
-          "original_price": 1799.0,
-          "discount_percent": 41,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 751.1,
-          "original_price": 1799.0,
-          "discount_percent": 58,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 725.2,
-          "original_price": 1799.0,
-          "discount_percent": 59,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "f68dbc9ca381",
-      "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY Refurbished",
-      "price": 1153.24,
-      "original_price": 2849.0,
-      "discount_percent": 59,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-yoga-book-9-83ff002wmh-qwerty-r-16608",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2024052_7180c839-a2b6-4ca9-8d65-8aa0e5703d43.jpg?v=1773749686",
-      "found_at": "2026-04-14T06:32:06.852805+00:00",
-      "price_history": [
-        {
-          "price": 2721.0,
-          "original_price": 2958.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
-        },
-        {
-          "price": 2621.0,
-          "original_price": 2849.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        },
-        {
-          "price": 2332.69,
-          "original_price": 2949.0,
-          "discount_percent": 20,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 2280.27,
-          "original_price": 2949.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 2254.06,
-          "original_price": 2949.0,
-          "discount_percent": 23,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 2227.85,
-          "original_price": 2949.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 2201.64,
-          "original_price": 2949.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 2175.43,
-          "original_price": 2751.0,
-          "discount_percent": 20,
-          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
-        },
-        {
-          "price": 2149.22,
-          "original_price": 2751.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 2096.8,
-          "original_price": 2700.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 1520.18,
-          "original_price": 2649.0,
-          "discount_percent": 42,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 1467.76,
-          "original_price": 2649.0,
-          "discount_percent": 44,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 1415.34,
-          "original_price": 2649.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 1362.92,
-          "original_price": 2649.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 1310.5,
-          "original_price": 2649.0,
-          "discount_percent": 50,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 1205.66,
-          "original_price": 2849.0,
-          "discount_percent": 57,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 1153.24,
-          "original_price": 2849.0,
-          "discount_percent": 59,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
+      ]
     },
     {
       "id": "975ec8b4dc7a",
@@ -859,89 +806,6 @@
       "auto_approved": true
     },
     {
-      "id": "451c146c1054",
-      "title": "Apple MacBook Pro 16\" (2023) M3 Max (14/30) 36/1TB SZ QWERTY",
-      "price": 1795.0,
-      "original_price": 4299.0,
-      "discount_percent": 58,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-pro-16-2023-m3-max-14-30-36-1tb-sz-qwerty-r-16648",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985981_77676e87-8991-446e-bcaf-a30fb3d41d10.jpg?v=1774254703",
-      "found_at": "2026-04-13T14:31:04.848756+00:00",
-      "price_history": [
-        {
-          "price": 3076.0,
-          "original_price": 4299.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 3095.0,
-          "original_price": 4299.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 2847.0,
-          "original_price": 4299.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 2816.0,
-          "original_price": 4299.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 2859.15,
-          "original_price": 4299.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 2761.5,
-          "original_price": 4299.0,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 2730.0,
-          "original_price": 4299.0,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 2697.45,
-          "original_price": 4299.0,
-          "discount_percent": 37,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 2664.9,
-          "original_price": 4299.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 2632.35,
-          "original_price": 4299.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
-        },
-        {
-          "price": 1795.0,
-          "original_price": 4299.0,
-          "discount_percent": 58,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
       "id": "c9339e1d2ff2",
       "title": "iRobot Roomba Combo j5",
       "price": 157.0,
@@ -977,6 +841,12 @@
           "original_price": 532.84,
           "discount_percent": 70,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 249.0,
+          "original_price": 582.57,
+          "discount_percent": 57,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -1061,71 +931,85 @@
         {
           "price": 1011.0,
           "original_price": 1099.0,
+          "discount_percent": 8,
           "scraped_at": "2026-03-25T11:00:20.752558+00:00"
         },
         {
           "price": 930.12,
           "original_price": 1099.0,
+          "discount_percent": 15,
           "scraped_at": "2026-03-31T10:00:27.414029+00:00"
         },
         {
           "price": 920.01,
           "original_price": 1099.0,
+          "discount_percent": 16,
           "scraped_at": "2026-04-01T10:00:34.291663+00:00"
         },
         {
           "price": 909.9,
           "original_price": 1099.0,
+          "discount_percent": 17,
           "scraped_at": "2026-04-02T10:00:27.063904+00:00"
         },
         {
           "price": 889.68,
           "original_price": 1099.0,
+          "discount_percent": 19,
           "scraped_at": "2026-04-04T10:00:23.657277+00:00"
         },
         {
           "price": 869.46,
           "original_price": 1099.0,
+          "discount_percent": 20,
           "scraped_at": "2026-04-06T10:00:32.198032+00:00"
         },
         {
           "price": 859.35,
           "original_price": 1099.0,
+          "discount_percent": 21,
           "scraped_at": "2026-04-07T10:00:23.854944+00:00"
         },
         {
           "price": 849.24,
           "original_price": 1099.0,
+          "discount_percent": 22,
           "scraped_at": "2026-04-08T10:00:32.989333+00:00"
         },
         {
           "price": 839.13,
           "original_price": 1099.0,
+          "discount_percent": 23,
           "scraped_at": "2026-04-09T06:00:57.139110+00:00"
         },
         {
           "price": 829.02,
           "original_price": 1099.0,
+          "discount_percent": 24,
           "scraped_at": "2026-04-10T16:04:24.181170+00:00"
         },
         {
           "price": 818.91,
           "original_price": 1099.0,
+          "discount_percent": 25,
           "scraped_at": "2026-04-11T10:00:28.360823+00:00"
         },
         {
           "price": 586.38,
           "original_price": 1099.0,
+          "discount_percent": 46,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
         },
         {
           "price": 566.16,
           "original_price": 1099.0,
+          "discount_percent": 48,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
         },
         {
           "price": 545.94,
           "original_price": 1099.0,
+          "discount_percent": 50,
           "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
@@ -1234,6 +1118,12 @@
           "original_price": 991.95,
           "discount_percent": 50,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 474.66,
+          "original_price": 988.23,
+          "discount_percent": 51,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -1341,6 +1231,12 @@
           "original_price": 991.95,
           "discount_percent": 50,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 474.66,
+          "original_price": 988.23,
+          "discount_percent": 51,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -1430,6 +1326,12 @@
           "original_price": 1679.0,
           "discount_percent": 50,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 797.0,
+          "original_price": 1679.0,
+          "discount_percent": 52,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -1578,6 +1480,12 @@
           "original_price": 1099.0,
           "discount_percent": 48,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 545.94,
+          "original_price": 1099.0,
+          "discount_percent": 50,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 19:21",
@@ -1631,6 +1539,12 @@
           "original_price": 1117.0,
           "discount_percent": 48,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 554.0,
+          "original_price": 1117.0,
+          "discount_percent": 50,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ]
     },
@@ -1700,142 +1614,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1762790.jpg?v=1776167732",
       "found_at": "2026-04-15T14:17:39.658926+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "d7251cf28bac",
-      "title": "OnePlus Open 512GB Emerald Dusk",
-      "price": 959.0,
-      "original_price": 1799.0,
-      "discount_percent": 46,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oneplus-open-512gb-emerald-dusk-r-16633",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1982593_bdd40bf8-bc3f-4a2e-9eb1-92e592a6394c.jpg?v=1774254557",
-      "found_at": "2026-04-13T14:31:14.587035+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 1224.0,
-          "original_price": 1799.0,
-          "discount_percent": 31,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 1655.0,
-          "original_price": 1799.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 1737.75,
-          "original_price": 1799.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 959.0,
-          "original_price": 1799.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 926.0,
-          "original_price": 1799.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+          "price": 471.0,
+          "original_price": 942.0,
+          "discount_percent": 50,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
-      "id": "addb1b41f485",
-      "title": "Lenovo ThinkPad X1 Carbon Gen 11 - 21HM002SMB AZERTY",
-      "price": 917.0,
-      "original_price": 1719.0,
-      "discount_percent": 46,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-thinkpad-x1-carbon-gen-11-21hm002smb-azerty-r-16659",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2060721_f3c96136-3ca2-431c-9f14-b10eef3c8509.jpg?v=1774254790",
-      "found_at": "2026-04-13T14:31:11.315350+00:00",
-      "price_history": [
-        {
-          "price": 897.0,
-          "original_price": 1719.0,
-          "discount_percent": 47,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 1660.05,
-          "original_price": 1719.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 917.0,
-          "original_price": 1719.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 885.0,
-          "original_price": 1719.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
-      "id": "c1c8357f950b",
-      "title": "Asus VivoBook 16X K3605ZC-RP533W AZERTY",
-      "price": 666.0,
-      "original_price": 1249.0,
-      "discount_percent": 46,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/asus-vivobook-16x-k3605zc-rp533w-azerty-r-16663",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2125096.jpg?v=1774254841",
-      "found_at": "2026-04-13T14:31:04.848941+00:00",
-      "price_history": [
-        {
-          "price": 823.0,
-          "original_price": 1249.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 1149.0,
-          "original_price": 1249.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 1206.45,
-          "original_price": 1249.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 666.0,
-          "original_price": 1249.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 643.0,
-          "original_price": 1249.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
+      ]
     },
     {
       "id": "5d37d3e7419c",
@@ -1974,7 +1761,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2148757_7f959c8a-6bf1-483a-88a8-cbac2a67955f.jpg?v=1776167284",
       "found_at": "2026-04-15T14:17:32.597000+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 449.0,
+          "original_price": 899.0,
+          "discount_percent": 50,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "91a1a3fc06f3",
@@ -2160,7 +1955,15 @@
       "image": "https://m.media-amazon.com/images/I/61pvKhr+T1L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-04-15T06:24:40.154154+00:00",
       "approved_at": "15-04-2026 07:29",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 621.0,
+          "original_price": 1103.19,
+          "discount_percent": 43,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ]
     },
     {
       "id": "1b8dde01851c",
@@ -2192,6 +1995,12 @@
           "original_price": 726.98,
           "discount_percent": 45,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 385.0,
+          "original_price": 809.33,
+          "discount_percent": 52,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -2487,59 +2296,6 @@
       ]
     },
     {
-      "id": "18c9c2ad91c3",
-      "title": "Sony A7CII Body Silver",
-      "price": 1253.0,
-      "original_price": 2021.55,
-      "discount_percent": 38,
-      "category": "camera",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-a7cii-body-silver-r-16652",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1962158.jpg?v=1774254735",
-      "found_at": "2026-04-13T14:31:17.780082+00:00",
-      "price_history": [
-        {
-          "price": 1839.0,
-          "original_price": 2153.43,
-          "discount_percent": 14,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 1859.0,
-          "original_price": 2142.38,
-          "discount_percent": 13,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 1951.95,
-          "original_price": 2047.65,
-          "discount_percent": 4,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1841.7,
-          "original_price": 2047.65,
-          "discount_percent": 10,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 1710.45,
-          "original_price": 2045.35,
-          "discount_percent": 16,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 1253.0,
-          "original_price": 2021.55,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "babca2a429f4",
       "title": "HP laptop 17-cn4053ng QWERTZ",
       "price": 250.0,
@@ -2623,6 +2379,12 @@
           "original_price": 599.0,
           "discount_percent": 59,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 232.0,
+          "original_price": 599.0,
+          "discount_percent": 61,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -2688,89 +2450,6 @@
       "auto_approved": true
     },
     {
-      "id": "8a45bea96685",
-      "title": "Apple iPad Air (2024) 13 inch 128GB Wifi + 5G Space Grey",
-      "price": 428.0,
-      "original_price": 840.0,
-      "discount_percent": 49,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-air-2024-13-inch-128gb-wifi-5g-space-grey-r-16724",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049510_d93e539f-36f5-43c8-bc08-6ce2a3b5b3fc.jpg?v=1774255276",
-      "found_at": "2026-04-13T14:31:01.923664+00:00",
-      "price_history": [
-        {
-          "price": 699.0,
-          "original_price": 840.0,
-          "discount_percent": 16,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 554.0,
-          "original_price": 840.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 680.0,
-          "original_price": 840.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 672.0,
-          "original_price": 840.0,
-          "discount_percent": 20,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 682.5,
-          "original_price": 840.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 659.4,
-          "original_price": 840.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 651.0,
-          "original_price": 840.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 643.65,
-          "original_price": 840.0,
-          "discount_percent": 23,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 636.3,
-          "original_price": 840.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 627.9,
-          "original_price": 840.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
-        },
-        {
-          "price": 428.0,
-          "original_price": 840.0,
-          "discount_percent": 49,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "c9f44d7a0743",
       "title": "Refurbished iPhone 15 Pro Max 256GB Natural Titanium",
       "price": 619.0,
@@ -2796,138 +2475,14 @@
           "original_price": 1071.0,
           "discount_percent": 45,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 619.0,
+          "original_price": 1071.0,
+          "discount_percent": 42,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ]
-    },
-    {
-      "id": "fa7ee138a184",
-      "title": "Asus VivoBook OLED X1505ZA-MA437W AZERTY",
-      "price": 482.0,
-      "original_price": 904.0,
-      "discount_percent": 46,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/asus-vivobook-oled-x1505za-ma437w-azerty-r-16660",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2124963_decf15b6-07ee-41de-9b15-360a612dba84.jpg?v=1774254832",
-      "found_at": "2026-04-13T14:31:04.848993+00:00",
-      "price_history": [
-        {
-          "price": 604.0,
-          "original_price": 904.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 831.0,
-          "original_price": 904.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 872.55,
-          "original_price": 904.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 482.0,
-          "original_price": 904.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 465.0,
-          "original_price": 904.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
-      "id": "5321fb28adbb",
-      "title": "Samsung Galaxy S25 Ultra Zilver 512GB 5G",
-      "price": 749.0,
-      "original_price": 1225.32,
-      "discount_percent": 38,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-s25-ultra-zilver-512gb-5g-r-16629",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133732.jpg?v=1774254549",
-      "found_at": "2026-04-13T14:31:17.778640+00:00",
-      "price_history": [
-        {
-          "price": 1004.0,
-          "original_price": 1224.0,
-          "discount_percent": 17,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 938.0,
-          "original_price": 1199.82,
-          "discount_percent": 21,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 1011.0,
-          "original_price": 1171.41,
-          "discount_percent": 13,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 1020.0,
-          "original_price": 1173.24,
-          "discount_percent": 13,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 1443.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 1515.15,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1254.75,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 1213.8,
-          "original_price": 1240.48,
-          "discount_percent": 2,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 1166.55,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 1101.45,
-          "original_price": 1183.38,
-          "discount_percent": 6,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 749.0,
-          "original_price": 1225.32,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
     },
     {
       "id": "f9204cbd0d51",
@@ -2942,7 +2497,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2113943_0f4f228e-a23a-414a-86c2-87df558708a3.jpg?v=1776167735",
       "found_at": "2026-04-15T14:17:29.143715+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1319.0,
+          "original_price": 1999.0,
+          "discount_percent": 34,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "d6e4c7faf142",
@@ -2960,11 +2523,13 @@
         {
           "price": 1367.67,
           "original_price": 1899.0,
+          "discount_percent": 27,
           "scraped_at": "2026-04-09T06:00:57.139110+00:00"
         },
         {
           "price": 1193.81,
           "original_price": 1809.07,
+          "discount_percent": 34,
           "scraped_at": "2026-04-15T06:00:49.213609+00:00"
         }
       ],
@@ -3001,6 +2566,12 @@
           "original_price": 1896.0,
           "discount_percent": 17,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 1551.0,
+          "original_price": 1896.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -3143,7 +2714,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2113943_883333ec-236a-4538-bf17-a6bc6dd57bf7.jpg?v=1776167478",
       "found_at": "2026-04-15T14:17:29.143781+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1511.0,
+          "original_price": 2274.52,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "097f6c353866",
@@ -3205,72 +2784,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1974504_accd47d1-dc6f-430d-a13c-076e112a918a.jpg?v=1776166878",
       "found_at": "2026-04-15T14:17:36.155968+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "30fa292ad57f",
-      "title": "Oppo Find X9 Pro Silk White",
-      "price": 719.0,
-      "original_price": 1170.57,
-      "discount_percent": 38,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oppo-find-x9-pro-silk-white-r-16628",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2227120.jpg?v=1774254540",
-      "found_at": "2026-04-13T14:31:14.587088+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 977.0,
-          "original_price": 1199.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 1103.0,
-          "original_price": 1199.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 1222.0,
-          "original_price": 1272.33,
-          "discount_percent": 3,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 1126.0,
-          "original_price": 1234.96,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        },
-        {
-          "price": 1182.3,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1143.45,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 1079.4,
-          "original_price": 1184.85,
-          "discount_percent": 8,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 719.0,
-          "original_price": 1170.57,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+          "price": 257.0,
+          "original_price": 582.57,
+          "discount_percent": 55,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
+      ]
     },
     {
       "id": "2f08f1f1bbd4",
@@ -3391,7 +2913,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2025389_a87de136-cd93-4ed8-aa57-c12de6069d06.jpg?v=1776167322",
       "found_at": "2026-04-15T14:17:43.310430+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 326.0,
+          "original_price": 672.51,
+          "discount_percent": 51,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "cb34bf7f79ee",
@@ -3565,7 +3095,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2047982.jpg?v=1776166451",
       "found_at": "2026-04-15T14:17:39.659314+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 2159.0,
+          "original_price": 2999.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "ad672bd77304",
@@ -3580,7 +3118,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2113934.jpg?v=1776167007",
       "found_at": "2026-04-15T14:17:29.143835+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1583.0,
+          "original_price": 2199.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "de3474c3f636",
@@ -3595,7 +3141,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224454_b8816834-2b20-459b-8813-c63636ffb39f.jpg?v=1776166972",
       "found_at": "2026-04-15T14:17:29.143629+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1247.0,
+          "original_price": 1755.66,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "01704192fd11",
@@ -3734,6 +3288,12 @@
           "original_price": 1095.0,
           "discount_percent": 38,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 662.0,
+          "original_price": 1095.0,
+          "discount_percent": 39,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -3781,35 +3341,6 @@
           "original_price": 740.42,
           "discount_percent": 47,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "bb3fd729b6cf",
-      "title": "Apple MacBook Pro 16\" M4 Pro (14/20) 24GB/512GB Zilver QWERTY",
-      "price": 2130.45,
-      "original_price": 2884.0,
-      "discount_percent": 26,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-pro-16-m4-pro-14-20-24gb-512gb-zilver-qwerty-r-17025",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2114108_b5ba21b2-d17e-4129-9ce7-d9cf3ce30beb.jpg?v=1775634526",
-      "found_at": "2026-04-13T10:16:46.032149+00:00",
-      "price_history": [
-        {
-          "price": 2198.7,
-          "original_price": 2929.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 2130.45,
-          "original_price": 2884.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -3870,7 +3401,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2037327_dce5dfcc-8f39-4dfc-b8ab-492d410a025f.jpg?v=1776167338",
       "found_at": "2026-04-15T14:17:32.597536+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 357.0,
+          "original_price": 685.06,
+          "discount_percent": 47,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "2a71f7adf609",
@@ -3885,96 +3424,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068711.jpg?v=1776166961",
       "found_at": "2026-04-15T14:17:36.154967+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "ef25bf823dbf",
-      "title": "Refurbished iPhone 13 Midnight 256GB",
-      "price": 167.62,
-      "original_price": 399.0,
-      "discount_percent": 57,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-13-midnight-256gb-r-16717",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1933878_2487ae6c-e3a5-4eaa-a970-6466092bc113.jpg?v=1774255218",
-      "found_at": "2026-04-13T14:31:14.589932+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 289.0,
-          "original_price": 399.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 265.88,
-          "original_price": 399.0,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 262.99,
-          "original_price": 399.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 260.1,
-          "original_price": 399.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 254.32,
-          "original_price": 399.0,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 248.54,
-          "original_price": 399.0,
-          "discount_percent": 37,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 245.65,
-          "original_price": 399.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 242.76,
-          "original_price": 399.0,
-          "discount_percent": 39,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 239.87,
-          "original_price": 399.0,
-          "discount_percent": 39,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 236.98,
-          "original_price": 399.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 234.09,
-          "original_price": 399.0,
-          "discount_percent": 41,
-          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
-        },
-        {
-          "price": 167.62,
-          "original_price": 399.0,
-          "discount_percent": 57,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+          "price": 1201.0,
+          "original_price": 1669.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
+      ]
     },
     {
       "id": "7f8057943812",
@@ -4066,7 +3524,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145381.jpg?v=1776167627",
       "found_at": "2026-04-15T14:17:22.282873+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 482.0,
+          "original_price": 828.38,
+          "discount_percent": 41,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "72d6e17c9140",
@@ -4196,53 +3662,6 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "2952a5008083",
-      "title": "Acer Aspire Go 14 AG14-21P-R0XS QWERTZ",
-      "price": 346.0,
-      "original_price": 649.0,
-      "discount_percent": 46,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-go-14-ag14-21p-r0xs-qwertz-r-16658",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2080442_9c6fbbc2-596b-45e0-b270-18c5e5a134a4.jpg?v=1774254792",
-      "found_at": "2026-04-13T14:31:01.922433+00:00",
-      "price_history": [
-        {
-          "price": 478.0,
-          "original_price": 649.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 597.0,
-          "original_price": 649.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 626.85,
-          "original_price": 649.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 346.0,
-          "original_price": 649.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 334.0,
-          "original_price": 649.0,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
       "auto_approved": true
     },
     {
@@ -4464,6 +3883,12 @@
           "original_price": 239.0,
           "discount_percent": 63,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 239.0,
+          "discount_percent": 58,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -4541,7 +3966,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146462_ca166f68-1ae3-4c69-9c27-90cec11ebd9e.jpg?v=1776167016",
       "found_at": "2026-04-15T14:17:25.362401+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 899.0,
+          "original_price": 1294.88,
+          "discount_percent": 30,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "f383da25dd71",
@@ -4556,7 +3989,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129323_6cdde590-bdc3-4e39-ae84-5d68ac5cb93a.jpg?v=1776167133",
       "found_at": "2026-04-15T14:17:39.657255+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 407.0,
+          "original_price": 711.34,
+          "discount_percent": 42,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "97a849c8d815",
@@ -4571,7 +4012,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241554_98addcc7-f188-444a-bcc4-610b3596a937.jpg?v=1776166534",
       "found_at": "2026-04-15T14:17:36.154709+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1050.0,
+          "original_price": 1459.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "af88ef68afe8",
@@ -4645,6 +4094,12 @@
           "original_price": 698.0,
           "discount_percent": 43,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 390.15,
+          "original_price": 698.0,
+          "discount_percent": 44,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -4757,7 +4212,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712570.jpg?v=1776167389",
       "found_at": "2026-04-15T14:17:29.144003+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1022.0,
+          "original_price": 1420.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "94119fe82faf",
@@ -4830,7 +4293,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2114416.jpg?v=1776166369",
       "found_at": "2026-04-15T14:17:49.084211+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 272.0,
+          "original_price": 519.0,
+          "discount_percent": 47,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "2e06df743be9",
@@ -4868,29 +4339,6 @@
       "auto_approved": true
     },
     {
-      "id": "496971d26894",
-      "title": "Dell 14 laptop DC14250 Intel Core 5 120U, 14 inch 2K IPS 300 nits ontspiegeld, Intel Graphics, 16 GB DDR5 RAM, 512 GB SSD, Windows 11 Home, toetsenbord met achtergrondverlichting AZERTY, zilver",
-      "price": 399.1,
-      "original_price": 686.89,
-      "discount_percent": 41,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FP2R3CJG?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/6176RpuqwvL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-04-13T10:02:37.577493+00:00",
-      "approved_at": "13-04-2026 11:20",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 399.1,
-          "original_price": 686.89,
-          "discount_percent": 41,
-          "scraped_at": "2026-04-13T10:00:20.354255+00:00"
-        }
-      ]
-    },
-    {
       "id": "b5235e2b8f24",
       "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw AZERTY",
       "price": 659.0,
@@ -4903,7 +4351,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340_38b7fe4e-3610-49e1-bf47-1377fde0da66.jpg?v=1776167555",
       "found_at": "2026-04-15T14:17:25.361847+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 659.0,
+          "original_price": 999.0,
+          "discount_percent": 34,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "2641b76d97e3",
@@ -4992,46 +4448,55 @@
         {
           "price": 135.0,
           "original_price": 204.17,
+          "discount_percent": 33,
           "scraped_at": "2026-03-24T15:00:17.130937+00:00"
         },
         {
           "price": 142.0,
           "original_price": 205.33,
+          "discount_percent": 30,
           "scraped_at": "2026-03-25T11:00:20.752558+00:00"
         },
         {
           "price": 137.0,
           "original_price": 202.47,
+          "discount_percent": 32,
           "scraped_at": "2026-03-30T10:00:28.473447+00:00"
         },
         {
           "price": 109.0,
           "original_price": 183.8,
+          "discount_percent": 40,
           "scraped_at": "2026-04-01T10:00:34.291663+00:00"
         },
         {
           "price": 88.2,
           "original_price": 165.6,
+          "discount_percent": 46,
           "scraped_at": "2026-04-02T10:00:27.063904+00:00"
         },
         {
           "price": 82.95,
           "original_price": 157.41,
+          "discount_percent": 47,
           "scraped_at": "2026-04-04T10:00:23.657277+00:00"
         },
         {
           "price": 68.25,
           "original_price": 163.99,
+          "discount_percent": 58,
           "scraped_at": "2026-04-08T10:00:32.989333+00:00"
         },
         {
           "price": 41.0,
           "original_price": 169.93,
+          "discount_percent": 75,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
         },
         {
           "price": 82.0,
           "original_price": 214.16,
+          "discount_percent": 61,
           "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
@@ -5187,6 +4652,12 @@
           "original_price": 184.44,
           "discount_percent": 63,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 171.11,
+          "discount_percent": 64,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5427,6 +4898,12 @@
           "original_price": 959.0,
           "discount_percent": 17,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 784.0,
+          "original_price": 959.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5521,6 +4998,12 @@
           "original_price": 899.0,
           "discount_percent": 38,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 543.0,
+          "original_price": 899.0,
+          "discount_percent": 39,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5556,6 +5039,12 @@
           "original_price": 607.81,
           "discount_percent": 42,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 351.0,
+          "original_price": 609.14,
+          "discount_percent": 42,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5574,7 +5063,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129323_6e2d4903-2abe-4d41-a000-1c9d635516f0.jpg?v=1776167403",
       "found_at": "2026-04-15T14:17:39.657361+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 431.0,
+          "original_price": 711.34,
+          "discount_percent": 39,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "6860922483d4",
@@ -5589,7 +5086,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2167141.jpg?v=1776167071",
       "found_at": "2026-04-15T14:17:36.157145+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 186.61,
+          "discount_percent": 61,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "314b86f73365",
@@ -5604,7 +5109,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_46afad09-b4fe-4330-b90e-fa9501a47c39.jpg?v=1776167021",
       "found_at": "2026-04-15T14:17:25.361466+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 650.0,
+          "original_price": 974.52,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "74ef553753d7",
@@ -5619,7 +5132,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1367011_97e6e070-4b87-44de-ac25-9f9a0f834610.jpg?v=1776167895",
       "found_at": "2026-04-15T14:17:39.655781+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 323.0,
+          "original_price": 571.81,
+          "discount_percent": 43,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "db0acb948e33",
@@ -5651,6 +5172,12 @@
           "original_price": 899.0,
           "discount_percent": 17,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 735.0,
+          "original_price": 899.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5686,6 +5213,12 @@
           "original_price": 899.0,
           "discount_percent": 17,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 735.0,
+          "original_price": 899.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5704,36 +5237,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1643016.jpg?v=1776167742",
       "found_at": "2026-04-15T14:17:22.280672+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "05204f274f66",
-      "title": "Philips 27M2N3200NF 27 Inch FHD-monitor, 144Hz, IPS, 1ms MPRT, Adaptieve Sync, G-Sync Comp., HDR10, (1920x1080, HDMI 1x 2.0, DP 1x 1.4) Zwart",
-      "price": 70.31,
-      "original_price": 179.99,
-      "discount_percent": 60,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F9YNCCH8?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/7156cD3XC2L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-13T14:25:14.129409+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 72.09,
-          "original_price": 89.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 70.31,
-          "original_price": 179.99,
-          "discount_percent": 60,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+          "price": 591.0,
+          "original_price": 896.0,
+          "discount_percent": 34,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
+      ]
     },
     {
       "id": "babb9d3325fe",
@@ -5748,7 +5260,15 @@
       "image": "https://m.media-amazon.com/images/I/51eQpXNbM3L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-04-15T14:04:51.743037+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 82.37,
+          "original_price": 199.88,
+          "discount_percent": 58,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "8bb404c27f99",
@@ -5816,6 +5336,12 @@
           "original_price": 480.9,
           "discount_percent": 44,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 310.0,
+          "original_price": 477.53,
+          "discount_percent": 35,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -5881,7 +5407,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2046446_457ac8e5-8b01-4902-94fb-1c7faed7275f.jpg?v=1776167506",
       "found_at": "2026-04-15T14:17:39.656625+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 547.0,
+          "original_price": 829.0,
+          "discount_percent": 34,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "ab5a7f997b1f",
@@ -5896,7 +5430,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146368_9c2afde3-6e7d-4369-a80b-fd289599b1c1.jpg?v=1776166965",
       "found_at": "2026-04-15T14:17:25.362654+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1079.0,
+          "original_price": 1434.0,
+          "discount_percent": 24,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "51892ea3ff8d",
@@ -5911,7 +5453,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1625321_5b7a21ed-7c1b-4475-9f8b-83360d9e45f9.jpg?v=1776166367",
       "found_at": "2026-04-15T14:17:43.309724+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 89.0,
+          "original_price": 203.4,
+          "discount_percent": 56,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "ddefb22c4d9c",
@@ -5979,6 +5529,12 @@
           "original_price": 649.0,
           "discount_percent": 38,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 392.0,
+          "original_price": 649.0,
+          "discount_percent": 39,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -6073,6 +5629,12 @@
           "original_price": 1713.69,
           "discount_percent": 22,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1383.0,
+          "original_price": 1715.83,
+          "discount_percent": 19,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -6150,6 +5712,12 @@
           "original_price": 148.95,
           "discount_percent": 59,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 148.95,
+          "discount_percent": 61,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -6440,7 +6008,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_9f56f2dc-cb79-4217-a9a1-dcfcc38855ae.jpg?v=1776167612",
       "found_at": "2026-04-15T14:17:25.361723+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 647.0,
+          "original_price": 931.05,
+          "discount_percent": 30,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "a8f004530b5a",
@@ -6455,7 +6031,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1972834_54dbf812-4955-4380-b048-8a111f81cfe1.jpg?v=1776167231",
       "found_at": "2026-04-15T14:17:46.291436+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 121.0,
+          "original_price": 247.25,
+          "discount_percent": 51,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "d2b22753e66a",
@@ -6508,11 +6092,13 @@
         {
           "price": 96.45,
           "original_price": 159.0,
+          "discount_percent": 39,
           "scraped_at": "2026-03-09T11:00:19.513215+00:00"
         },
         {
           "price": 115.91,
           "original_price": 239.19,
+          "discount_percent": 51,
           "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
       ],
@@ -6623,26 +6209,31 @@
         {
           "price": 53.85,
           "original_price": 54.95,
+          "discount_percent": 2,
           "scraped_at": "2026-03-07T07:00:24.227112+00:00"
         },
         {
           "price": 52.75,
           "original_price": 79.99,
+          "discount_percent": 34,
           "scraped_at": "2026-03-12T15:00:30.412229+00:00"
         },
         {
           "price": 52.2,
           "original_price": 54.95,
+          "discount_percent": 5,
           "scraped_at": "2026-03-17T19:00:22.888640+00:00"
         },
         {
           "price": 51.1,
           "original_price": 54.95,
+          "discount_percent": 7,
           "scraped_at": "2026-03-30T06:00:49.881945+00:00"
         },
         {
           "price": 57.82,
           "original_price": 134.88,
+          "discount_percent": 57,
           "scraped_at": "2026-04-15T06:00:49.213609+00:00"
         }
       ],
@@ -6715,6 +6306,12 @@
           "original_price": 521.0,
           "discount_percent": 40,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 306.0,
+          "original_price": 521.0,
+          "discount_percent": 41,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -6839,6 +6436,12 @@
           "original_price": 429.0,
           "discount_percent": 58,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 240.0,
+          "original_price": 429.0,
+          "discount_percent": 44,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -6910,6 +6513,12 @@
           "original_price": 584.0,
           "discount_percent": 38,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 357.0,
+          "original_price": 584.0,
+          "discount_percent": 38,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -6928,7 +6537,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1974088_ec4de877-7d19-4ffb-9ff6-42d9c5e9afbc.jpg?v=1776167539",
       "found_at": "2026-04-15T14:17:46.290961+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 272.5,
+          "discount_percent": 48,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "0346f32f5531",
@@ -6943,7 +6560,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340_a4172261-91a8-42bc-98ee-73be2edd0dba.jpg?v=1776167617",
       "found_at": "2026-04-15T14:17:25.361899+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 719.0,
+          "original_price": 999.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "4286f6702c0b",
@@ -6968,59 +6593,6 @@
           "price": 43.0,
           "original_price": 99.0,
           "discount_percent": 56,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "428e399b295f",
-      "title": "Oral-B iO 2 Zwart en Roze Duo Pack",
-      "price": 58.0,
-      "original_price": 131.68,
-      "discount_percent": 55,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-2-zwart-en-roze-duo-pack-r-16924",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147071_791c0f2f-f346-4ebd-ab12-10cc09229336.jpg?v=1774948520",
-      "found_at": "2026-04-13T14:31:14.587336+00:00",
-      "price_history": [
-        {
-          "price": 64.0,
-          "original_price": 134.56,
-          "discount_percent": 52,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 71.4,
-          "original_price": 129.51,
-          "discount_percent": 44,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 67.2,
-          "original_price": 134.74,
-          "discount_percent": 50,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 65.1,
-          "original_price": 131.12,
-          "discount_percent": 50,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 60.9,
-          "original_price": 132.06,
-          "discount_percent": 53,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 131.68,
-          "discount_percent": 55,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
         }
       ],
@@ -7223,6 +6795,12 @@
           "original_price": 249.0,
           "discount_percent": 51,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 249.0,
+          "discount_percent": 52,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -7288,7 +6866,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2014616_dbf12ed6-16b8-46b2-9204-51006260e30b.jpg?v=1776166626",
       "found_at": "2026-04-15T14:17:32.595999+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 219.0,
+          "original_price": 383.84,
+          "discount_percent": 42,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "5972877a2816",
@@ -7326,6 +6912,12 @@
           "original_price": 359.53,
           "discount_percent": 43,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 209.0,
+          "original_price": 361.53,
+          "discount_percent": 42,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -7361,6 +6953,12 @@
           "original_price": 949.0,
           "discount_percent": 32,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 635.0,
+          "original_price": 949.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -7382,21 +6980,25 @@
         {
           "price": 94.05,
           "original_price": 158.39,
+          "discount_percent": 40,
           "scraped_at": "2026-02-27T07:00:54.077785+00:00"
         },
         {
           "price": 96.03,
           "original_price": 99.0,
+          "discount_percent": 2,
           "scraped_at": "2026-03-05T15:00:16.853893+00:00"
         },
         {
           "price": 104.28,
           "original_price": 109.0,
+          "discount_percent": 4,
           "scraped_at": "2026-03-30T18:00:43.987076+00:00"
         },
         {
           "price": 87.35,
           "original_price": 179.99,
+          "discount_percent": 51,
           "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
@@ -7433,6 +7035,12 @@
           "original_price": 639.0,
           "discount_percent": 17,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 522.0,
+          "original_price": 639.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -7451,7 +7059,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_c4f455d8-90c3-49a9-8e28-ace8948b8089.jpg?v=1776166703",
       "found_at": "2026-04-15T14:17:43.307457+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 192.0,
+          "original_price": 342.37,
+          "discount_percent": 43,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "d013f822cafb",
@@ -7495,136 +7111,12 @@
           "original_price": 599.0,
           "discount_percent": 35,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "e871e9382c24",
-      "title": "Apple iPad Pro (2024) 11 inch 1 TB Wifi + 5G Zwart",
-      "price": 1073.0,
-      "original_price": 1379.0,
-      "discount_percent": 22,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-11-inch-1-tb-wifi-5g-zwart-r-15896",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049187_67f36477-ecef-4fc1-8afd-8eb33e44fb5c.jpg?v=1770889212",
-      "found_at": "2026-04-13T14:31:01.924308+00:00",
-      "price_history": [
-        {
-          "price": 1144.0,
-          "original_price": 1469.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-02-27T11:00:27.337062+00:00"
         },
         {
-          "price": 1158.0,
-          "original_price": 1894.0,
-          "discount_percent": 38,
-          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
-        },
-        {
-          "price": 1144.0,
-          "original_price": 1878.66,
-          "discount_percent": 39,
-          "scraped_at": "2026-03-03T19:00:18.272287+00:00"
-        },
-        {
-          "price": 1216.0,
-          "original_price": 1876.22,
+          "price": 408.0,
+          "original_price": 629.0,
           "discount_percent": 35,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 1144.0,
-          "original_price": 1469.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 1216.0,
-          "original_price": 1399.0,
-          "discount_percent": 13,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 1276.8,
-          "original_price": 1379.0,
-          "discount_percent": 7,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1216.0,
-          "original_price": 1288.5,
-          "discount_percent": 5,
-          "scraped_at": "2026-04-10T18:00:15.891953+00:00"
-        },
-        {
-          "price": 1073.0,
-          "original_price": 1379.0,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 1144.0,
-          "original_price": 1379.0,
-          "discount_percent": 17,
-          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
-      "id": "53f6e32fa0f9",
-      "title": "DJI Neo Fly More Combo",
-      "price": 158.55,
-      "original_price": 290.98,
-      "discount_percent": 45,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dji-neo-fly-more-combo-r-16621",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2137008.jpg?v=1774254479",
-      "found_at": "2026-04-13T10:16:49.380016+00:00",
-      "price_history": [
-        {
-          "price": 227.0,
-          "original_price": 302.3,
-          "discount_percent": 24,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 220.0,
-          "original_price": 299.86,
-          "discount_percent": 26,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 231.0,
-          "original_price": 293.63,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 217.35,
-          "original_price": 300.79,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 178.5,
-          "original_price": 300.98,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 158.55,
-          "original_price": 290.98,
-          "discount_percent": 45,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -7703,6 +7195,12 @@
           "original_price": 507.0,
           "discount_percent": 41,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 316.0,
+          "original_price": 507.0,
+          "discount_percent": 37,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ]
     },
@@ -7719,7 +7217,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2096956_0b5ebc37-4099-434f-9d28-9b45a4a7f56c.jpg?v=1776167219",
       "found_at": "2026-04-15T14:17:39.658145+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 150.0,
+          "original_price": 277.28,
+          "discount_percent": 45,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "e89898a50513",
@@ -7905,6 +7411,12 @@
           "original_price": 899.0,
           "discount_percent": 32,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 601.0,
+          "original_price": 899.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -7961,71 +7473,6 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "f4a33849af50",
-      "title": "Xiaomi Redmi Note 13 Pro+ 5G Midnight Black 12GB RAM 512GB ROM",
-      "price": 239.0,
-      "original_price": 399.0,
-      "discount_percent": 40,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/xiaomi-redmi-note-13-pro-5g-midnight-black-12gb-ram-512gb-rom-r-16635",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2035301_079c89b5-b3b0-4efb-bf08-d36272887aee.jpg?v=1774254579",
-      "found_at": "2026-04-13T14:31:20.816146+00:00",
-      "price_history": [
-        {
-          "price": 348.0,
-          "original_price": 379.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 367.0,
-          "original_price": 399.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 348.0,
-          "original_price": 389.0,
-          "discount_percent": 10,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 367.0,
-          "original_price": 399.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 385.35,
-          "original_price": 399.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 372.75,
-          "original_price": 399.0,
-          "discount_percent": 6,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 351.75,
-          "original_price": 399.0,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 239.0,
-          "original_price": 399.0,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
       "auto_approved": true
     },
     {
@@ -8223,6 +7670,12 @@
           "original_price": 1756.93,
           "discount_percent": 18,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1401.0,
+          "original_price": 1758.48,
+          "discount_percent": 20,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -8252,6 +7705,12 @@
           "original_price": 617.0,
           "discount_percent": 33,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 438.0,
+          "original_price": 617.0,
+          "discount_percent": 29,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -8317,172 +7776,6 @@
       "auto_approved": true
     },
     {
-      "id": "aa2ddff6c9e2",
-      "title": "HyperX Cloud III Wired Gaming Headset - Black Refurbished",
-      "price": 38.18,
-      "original_price": 83.66,
-      "discount_percent": 54,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hyperx-cloud-iii-wired-gaming-headset-black-r-16588",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935179_04d4ff89-f615-4fc1-8647-8121db2685bc.jpg?v=1773749423",
-      "found_at": "2026-04-13T14:31:11.312893+00:00",
-      "price_history": [
-        {
-          "price": 73.0,
-          "original_price": 95.64,
-          "discount_percent": 23,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 71.0,
-          "original_price": 94.44,
-          "discount_percent": 24,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": 94.07,
-          "discount_percent": 12,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        },
-        {
-          "price": 83.0,
-          "original_price": 94.64,
-          "discount_percent": 12,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 73.87,
-          "original_price": 92.35,
-          "discount_percent": 20,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 72.21,
-          "original_price": 92.07,
-          "discount_percent": 21,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 71.38,
-          "original_price": 93.56,
-          "discount_percent": 23,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 70.55,
-          "original_price": 92.94,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 69.72,
-          "original_price": 90.38,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 68.89,
-          "original_price": 93.49,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
-        },
-        {
-          "price": 68.06,
-          "original_price": 90.73,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 66.4,
-          "original_price": 91.27,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 48.14,
-          "original_price": 91.67,
-          "discount_percent": 47,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 46.48,
-          "original_price": 90.31,
-          "discount_percent": 48,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 44.82,
-          "original_price": 88.65,
-          "discount_percent": 49,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 43.16,
-          "original_price": 88.41,
-          "discount_percent": 51,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 41.5,
-          "original_price": 87.0,
-          "discount_percent": 52,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 38.18,
-          "original_price": 83.66,
-          "discount_percent": 54,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "c06bdc4ca184",
-      "title": "Oral-B iO9n Rozenkwarts en Onyx Zwart Duo Pack Speciale Edit",
-      "price": 224.7,
-      "original_price": 374.67,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io9n-rozenkwarts-en-onyx-zwart-duo-pack-speciale-edit-r-16927",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1799001_d6eacd4a-ecc8-46ab-b005-dbb99da34ee3.jpg?v=1774878520",
-      "found_at": "2026-04-13T06:31:18.140794+00:00",
-      "price_history": [
-        {
-          "price": 234.0,
-          "original_price": 430.72,
-          "discount_percent": 45,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 245.7,
-          "original_price": 388.23,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 237.3,
-          "original_price": 378.87,
-          "discount_percent": 37,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 224.7,
-          "original_price": 374.86,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "798f147cd76f",
       "title": "Apple 11-inch iPad Air Wi-Fi 128GB - Paars",
       "price": 375.0,
@@ -8512,6 +7805,12 @@
           "original_price": 569.0,
           "discount_percent": 17,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 465.0,
+          "original_price": 569.0,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -8589,6 +7888,12 @@
           "original_price": 515.0,
           "discount_percent": 36,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 323.85,
+          "original_price": 515.0,
+          "discount_percent": 37,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -8660,7 +7965,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049158_dc73e34b-15db-4fc8-92b9-2c167a57d8c2.jpg?v=1776167711",
       "found_at": "2026-04-15T14:17:22.282753+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 395.0,
+          "original_price": 591.75,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "381ffde2cd61",
@@ -8740,7 +8053,15 @@
       "image": "https://m.media-amazon.com/images/I/71ttcDecpkL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-04-15T06:22:03.439845+00:00",
       "approved_at": "15-04-2026 07:29",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 100.19,
+          "original_price": 189.99,
+          "discount_percent": 47,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        }
+      ]
     },
     {
       "id": "77ab082916d8",
@@ -8755,7 +8076,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_89d8acd1-d80d-4d0a-8523-cee49367981e.jpg?v=1776167662",
       "found_at": "2026-04-15T14:17:25.362154+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 1053.11,
+          "discount_percent": 24,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "d1da74b28b5f",
@@ -8783,6 +8112,12 @@
           "original_price": 508.0,
           "discount_percent": 39,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 329.0,
+          "original_price": 508.0,
+          "discount_percent": 35,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ]
     },
@@ -8799,28 +8134,13 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2230126_e46a1fc4-5a7e-42d7-8c1f-44a714f5551a.jpg?v=1776167264",
       "found_at": "2026-04-15T14:17:32.595466+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "e498e8d940c9",
-      "title": "Apple 13-inch iPad Air Wi-Fi 128GB - Space Grey",
-      "price": 484.05,
-      "original_price": 699.0,
-      "discount_percent": 30,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-13-inch-ipad-air-wi-fi-128gb-space-grey-r-17162",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_448795a4-4054-426f-a571-f0be5cc4ce12.jpg?v=1775635794",
-      "found_at": "2026-04-13T10:16:42.621235+00:00",
-      "approved_at": "14-04-2026 07:36",
       "auto_approved": true,
       "price_history": [
         {
-          "price": 484.05,
-          "original_price": 699.0,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+          "price": 301.0,
+          "original_price": 471.0,
+          "discount_percent": 36,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
       ]
     },
@@ -8837,7 +8157,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1848059_f0a0bf3e-e85d-471e-9f36-71168aa16181.jpg?v=1776167396",
       "found_at": "2026-04-15T14:17:49.083523+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 1105.0,
+          "original_price": 1393.71,
+          "discount_percent": 20,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "de34f1b35ae5",
@@ -8922,65 +8250,6 @@
       ]
     },
     {
-      "id": "dfd0602e1bbb",
-      "title": "OnePlus 13R CPH2645 Europe 256GB 12GB Nebula Noir EU",
-      "price": 368.55,
-      "original_price": 555.67,
-      "discount_percent": 33,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oneplus-13r-cph2645-europe-256gb-12gb-nebula-noir-eu-r-16732",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2171739_20e9990a-fafc-4367-8740-22fc1f6c2ccf.jpg?v=1774255309",
-      "found_at": "2026-04-13T10:16:56.319709+00:00",
-      "price_history": [
-        {
-          "price": 397.0,
-          "original_price": 609.24,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 354.0,
-          "original_price": 626.59,
-          "discount_percent": 43,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        },
-        {
-          "price": 339.0,
-          "original_price": 566.4,
-          "discount_percent": 40,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 355.0,
-          "original_price": 598.07,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 416.85,
-          "original_price": 612.67,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 399.0,
-          "original_price": 623.27,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 368.55,
-          "original_price": 605.67,
-          "discount_percent": 39,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "459ffd10777a",
       "title": "Apple iPad Air (2025) 13 inch 128GB Wifi Space Gray",
       "price": 575.0,
@@ -8993,7 +8262,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_479ccfc7-cc27-4a48-8a12-c7fcfc644c85.jpg?v=1776167648",
       "found_at": "2026-04-15T14:17:22.282934+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 575.0,
+          "original_price": 799.0,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "08670a1ef921",
@@ -9073,6 +8350,12 @@
           "original_price": 727.0,
           "discount_percent": 48,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 499.0,
+          "original_price": 727.0,
+          "discount_percent": 31,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -9132,7 +8415,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985353_6bdecf6c-c1d9-46d1-a437-3624ea03798d.jpg?v=1776167914",
       "found_at": "2026-04-15T14:17:32.596783+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 543.0,
+          "original_price": 763.55,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "68bfdfcbc3c8",
@@ -9147,54 +8438,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110016_9aeb7df6-3842-4fa3-8efb-7bed15bb5687.jpg?v=1776167181",
       "found_at": "2026-04-15T14:17:43.309427+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "7f3054e2503b",
-      "title": "Polar Loop Gen 2 Black",
-      "price": 96.0,
-      "original_price": 180.0,
-      "discount_percent": 46,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/polar-loop-gen-2-black-r-16679",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/473385.jpg?v=1774254985",
-      "found_at": "2026-04-13T14:31:14.589488+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 80.0,
-          "original_price": 180.0,
-          "discount_percent": 55,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 165.0,
-          "original_price": 180.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 173.25,
-          "original_price": 180.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 96.0,
-          "original_price": 180.0,
-          "discount_percent": 46,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 180.0,
+          "price": 74.0,
+          "original_price": 143.63,
           "discount_percent": 48,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
+      ]
     },
     {
       "id": "f4375828776c",
@@ -9256,7 +8508,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2025389_e48cb174-9ad2-4d90-9c85-71f97887af41.jpg?v=1776167876",
       "found_at": "2026-04-15T14:17:43.310513+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 469.0,
+          "original_price": 672.51,
+          "discount_percent": 30,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "8d68ac226e9f",
@@ -9288,6 +8548,12 @@
           "original_price": 338.26,
           "discount_percent": 39,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 341.92,
+          "discount_percent": 30,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -9347,6 +8613,12 @@
           "original_price": 139.88,
           "discount_percent": 49,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 141.04,
+          "discount_percent": 47,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -9382,6 +8654,12 @@
           "original_price": 398.82,
           "discount_percent": 37,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 240.0,
+          "original_price": 399.52,
+          "discount_percent": 39,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -9653,6 +8931,12 @@
           "original_price": 599.0,
           "discount_percent": 31,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 401.0,
+          "original_price": 599.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -9788,6 +9072,12 @@
           "original_price": 1412.33,
           "discount_percent": 19,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 1319.0,
+          "original_price": 1434.0,
+          "discount_percent": 8,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -9842,49 +9132,14 @@
           "original_price": 385.0,
           "discount_percent": 40,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 385.0,
+          "discount_percent": 36,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ]
-    },
-    {
-      "id": "fc675e0eedd5",
-      "title": "Shark PowerPro Pet IZ380EUT",
-      "price": 156.45,
-      "original_price": 264.66,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/shark-powerpro-pet-iz380eut-r-16814",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2232228.jpg?v=1774877836",
-      "found_at": "2026-04-13T10:16:59.995393+00:00",
-      "price_history": [
-        {
-          "price": 169.0,
-          "original_price": 256.71,
-          "discount_percent": 34,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 177.45,
-          "original_price": 252.42,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 169.05,
-          "original_price": 261.6,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 156.45,
-          "original_price": 267.6,
-          "discount_percent": 41,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
     },
     {
       "id": "e7431310acd9",
@@ -9946,7 +9201,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1692407_173ce5d5-f693-4c6b-8fa4-84fe02358179.jpg?v=1776167188",
       "found_at": "2026-04-15T14:17:43.306836+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 135.0,
+          "original_price": 230.86,
+          "discount_percent": 41,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "f58b2bdd0681",
@@ -10031,7 +9294,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815751.jpg?v=1776166602",
       "found_at": "2026-04-15T14:17:49.084516+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 87.0,
+          "original_price": 156.2,
+          "discount_percent": 44,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "4c721dc7547e",
@@ -10099,54 +9370,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1382105_63bd3e8f-200e-40a8-80ba-97b4979b9b83.jpg?v=1776167440",
       "found_at": "2026-04-15T14:17:29.145686+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "37bfdefd7df3",
-      "title": "Apple iPad Pro (2024) 13 inch 2 TB Wifi + 5G Zilver",
-      "price": 1427.0,
-      "original_price": 1699.0,
-      "discount_percent": 16,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-13-inch-2-tb-wifi-5g-zilver-r-16688",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049279_c1f5fae9-87d5-4dfd-9b16-f309788942a2.jpg?v=1773841120",
-      "found_at": "2026-04-13T14:31:01.924707+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 1673.0,
-          "original_price": 1819.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 1631.0,
-          "original_price": 2424.0,
-          "discount_percent": 32,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 1712.55,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1427.0,
-          "original_price": 1699.0,
-          "discount_percent": 16,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 1529.0,
-          "original_price": 1699.0,
-          "discount_percent": 10,
-          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
+          "price": 124.0,
+          "original_price": 211.86,
+          "discount_percent": 41,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
+      ]
     },
     {
       "id": "e22f98b04dc0",
@@ -10161,72 +9393,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2025804_cdc13f56-5e49-43e0-b199-c7bbeb90f7ca.jpg?v=1776167256",
       "found_at": "2026-04-15T14:17:39.658288+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "7cab12385da6",
-      "title": "Samsung Galaxy Watch6 Classic 47mm BT Black",
-      "price": 132.0,
-      "original_price": 221.45,
-      "discount_percent": 40,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-watch6-classic-47mm-bt-black-r-16636",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944122_6b886d70-70b6-4cd6-9f6e-b7433ce1c6d1.jpg?v=1774254589",
-      "found_at": "2026-04-13T14:31:17.778729+00:00",
+      "auto_approved": true,
       "price_history": [
         {
-          "price": 206.0,
-          "original_price": 224.99,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 202.0,
-          "original_price": 219.99,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        },
-        {
-          "price": 204.0,
-          "original_price": 222.45,
-          "discount_percent": 8,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 216.3,
-          "original_price": 224.99,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 214.2,
-          "original_price": 222.45,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 206.85,
-          "original_price": 221.45,
-          "discount_percent": 6,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 195.3,
-          "original_price": 221.45,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 132.0,
-          "original_price": 221.45,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+          "price": 188.0,
+          "original_price": 301.86,
+          "discount_percent": 37,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
+      ]
     },
     {
       "id": "c9439a88ac4c",
@@ -10382,7 +9557,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2086635_087e1234-36cb-441a-97e9-fa9149d4762c.jpg?v=1776167114",
       "found_at": "2026-04-15T14:17:29.144343+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 162.0,
+          "original_price": 263.43,
+          "discount_percent": 38,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "a3e9211c818f",
@@ -10526,50 +9709,15 @@
           "original_price": 549.0,
           "discount_percent": 48,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 376.0,
+          "original_price": 549.0,
+          "discount_percent": 31,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "6f9cf14ebce8",
-      "title": "Gigaset N300A IP",
-      "price": 31.0,
-      "original_price": 59.0,
-      "discount_percent": 47,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/gigaset-n300a-ip-r-16727",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1360224.jpg?v=1774255284",
-      "found_at": "2026-04-13T14:31:08.320329+00:00",
-      "price_history": [
-        {
-          "price": 54.0,
-          "original_price": 59.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 56.7,
-          "original_price": 59.0,
-          "discount_percent": 3,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 59.0,
-          "discount_percent": 47,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 30.0,
-          "original_price": 59.0,
-          "discount_percent": 49,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
       "auto_approved": true
     },
     {
@@ -10661,7 +9809,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1514529_1e9ef9ae-20fc-471c-8245-6936a36988d0.jpg?v=1776166443",
       "found_at": "2026-04-15T14:17:22.282530+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 431.0,
+          "original_price": 599.99,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "55b25d582410",
@@ -10693,6 +9849,12 @@
           "original_price": 599.0,
           "discount_percent": 32,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 401.0,
+          "original_price": 599.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -10769,6 +9931,12 @@
           "original_price": 41.47,
           "discount_percent": 46,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 20.0,
+          "original_price": 42.48,
+          "discount_percent": 52,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -10787,7 +9955,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2094916_8bea2b53-4cab-49b6-aba2-5970f4408cd7.jpg?v=1776167489",
       "found_at": "2026-04-15T14:17:32.596860+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 271.0,
+          "original_price": 402.44,
+          "discount_percent": 32,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "b4954ea9a63f",
@@ -10819,6 +9995,12 @@
           "original_price": 569.0,
           "discount_percent": 32,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 381.0,
+          "original_price": 569.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -10965,6 +10147,12 @@
           "original_price": 550.0,
           "discount_percent": 32,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 368.0,
+          "original_price": 550.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -11000,6 +10188,12 @@
           "original_price": 257.96,
           "discount_percent": 36,
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 257.95,
+          "discount_percent": 32,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -11041,7 +10235,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2054748.jpg?v=1776166839",
       "found_at": "2026-04-15T14:17:36.156427+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 153.45,
+          "discount_percent": 40,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "856549570ca2",
@@ -11103,7 +10305,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950444_4f380ff6-1db2-474c-b5db-94691647f94b.jpg?v=1776167058",
       "found_at": "2026-04-15T14:17:32.596081+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 339.0,
+          "original_price": 483.22,
+          "discount_percent": 29,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "764dcbf52ade",
@@ -11129,6 +10339,12 @@
           "original_price": 1748.22,
           "discount_percent": 14,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1525.0,
+          "original_price": 1755.66,
+          "discount_percent": 13,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -11317,7 +10533,15 @@
       "image": "https://m.media-amazon.com/images/I/81ZDB8ILS1L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-04-15T14:13:43.825535+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 106.55,
+          "original_price": 174.0,
+          "discount_percent": 38,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "26035f6c58c6",
@@ -11349,6 +10573,12 @@
           "original_price": 499.0,
           "discount_percent": 32,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 334.0,
+          "original_price": 499.0,
+          "discount_percent": 33,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -11367,7 +10597,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2122034_c0210845-1bda-413f-b094-09589cdf9e2c.jpg?v=1776167847",
       "found_at": "2026-04-15T14:17:36.154443+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 121.19,
+          "discount_percent": 40,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "3b8452944f7f",
@@ -11575,83 +10813,6 @@
       "auto_approved": true
     },
     {
-      "id": "7d882059aeef",
-      "title": "Samsung VG-SOCA05 One Invisible Cable",
-      "price": 90.0,
-      "original_price": 146.17,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-vg-soca05-one-invisible-cable-r-16651",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1386659_6a4dd8eb-134b-4729-94db-e483d40071c8.jpg?v=1774254701",
-      "found_at": "2026-04-13T14:31:17.779463+00:00",
-      "price_history": [
-        {
-          "price": 139.0,
-          "original_price": 149.05,
-          "discount_percent": 6,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 134.0,
-          "original_price": 142.71,
-          "discount_percent": 6,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 139.78,
-          "discount_percent": 20,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 176.4,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 109.2,
-          "original_price": 139.78,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 161.7,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 150.15,
-          "original_price": 158.47,
-          "discount_percent": 5,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 130.2,
-          "original_price": 159.9,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 123.9,
-          "original_price": 146.17,
-          "discount_percent": 15,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 90.0,
-          "original_price": 146.17,
-          "discount_percent": 38,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
       "id": "50d32eb8cf2f",
       "title": "Krups Grind en Brew KM8328",
       "price": 104.0,
@@ -11664,7 +10825,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1479059.jpg?v=1776167383",
       "found_at": "2026-04-15T14:17:39.656157+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 104.0,
+          "original_price": 167.59,
+          "discount_percent": 37,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "7d1c2698f1e1",
@@ -11780,6 +10949,12 @@
           "original_price": 361.1,
           "discount_percent": 30,
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 249.0,
+          "original_price": 360.8,
+          "discount_percent": 30,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ]
     },
@@ -11799,21 +10974,25 @@
         {
           "price": 67.51,
           "original_price": 106.99,
+          "discount_percent": 36,
           "scraped_at": "2026-03-15T19:00:36.240876+00:00"
         },
         {
           "price": 81.15,
           "original_price": 107.29,
+          "discount_percent": 24,
           "scraped_at": "2026-03-23T11:00:21.181791+00:00"
         },
         {
           "price": 78.23,
           "original_price": 93.99,
+          "discount_percent": 16,
           "scraped_at": "2026-03-30T10:00:28.473447+00:00"
         },
         {
           "price": 65.59,
           "original_price": 107.84,
+          "discount_percent": 39,
           "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
@@ -11915,7 +11094,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1569007_9fa1ff9b-24ae-4c25-9f61-8fa7eb9ce161.jpg?v=1776167936",
       "found_at": "2026-04-15T14:17:32.597303+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 578.0,
+          "original_price": 745.07,
+          "discount_percent": 22,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "265598e38f0c",
@@ -12036,7 +11223,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2208585.jpg?v=1776167076",
       "found_at": "2026-04-15T14:17:39.656342+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 74.0,
+          "original_price": 119.99,
+          "discount_percent": 38,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "89e5604759e3",
@@ -12092,68 +11287,15 @@
           "original_price": 251.82,
           "discount_percent": 34,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 249.77,
+          "discount_percent": 35,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "0835d09f587b",
-      "title": "Revamp Progloss Perfect Blow Dry Airstyler DR-2000",
-      "price": 41.0,
-      "original_price": 69.49,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/revamp-progloss-perfect-blow-dry-airstyler-dr-2000-r-16654",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2030495.jpg?v=1774254742",
-      "found_at": "2026-04-13T14:31:17.778047+00:00",
-      "price_history": [
-        {
-          "price": 45.0,
-          "original_price": 61.31,
-          "discount_percent": 26,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 52.0,
-          "original_price": 66.31,
-          "discount_percent": 21,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 69.65,
-          "discount_percent": 12,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 64.05,
-          "original_price": 69.49,
-          "discount_percent": 7,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 59.85,
-          "original_price": 69.49,
-          "discount_percent": 13,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 55.65,
-          "original_price": 69.49,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 69.49,
-          "discount_percent": 40,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
       "auto_approved": true
     },
     {
@@ -12169,7 +11311,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1942334_5d8da8d5-fbd1-4e2d-b7e9-2a1719fa05a2.jpg?v=1776167171",
       "found_at": "2026-04-15T14:17:39.658529+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 141.0,
+          "original_price": 214.0,
+          "discount_percent": 34,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "5a93861ad75c",
@@ -12257,135 +11407,6 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "1e4e4d2f958e",
-      "title": "ASUS VY279HF-W - Monitor LED - gaming - 68,6 cm (27\")",
-      "price": 90.3,
-      "original_price": 142.37,
-      "discount_percent": 36,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DD3VDHHX?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71KM5pijhmL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-13T06:26:28.230145+00:00",
-      "price_history": [
-        {
-          "price": 94.89,
-          "original_price": 142.37,
-          "discount_percent": 33,
-          "scraped_at": "2026-03-30T14:00:25.437872+00:00"
-        },
-        {
-          "price": 92.55,
-          "original_price": 142.2,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-05T18:00:20.050755+00:00"
-        },
-        {
-          "price": 90.3,
-          "original_price": 142.37,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-13T06:00:29.259880+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 07:35",
-      "auto_approved": true
-    },
-    {
-      "id": "39612238cc4f",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelsblauw QWERTY",
-      "price": 798.0,
-      "original_price": 980.35,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-hemelsblauw-qwerty-r-16903",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_e6c7761f-eb2a-4c33-ad94-0b7201de89ba.jpg?v=1774878478",
-      "found_at": "2026-04-13T14:31:04.847935+00:00",
-      "price_history": [
-        {
-          "price": 791.0,
-          "original_price": 933.96,
-          "discount_percent": 15,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 830.55,
-          "original_price": 971.23,
-          "discount_percent": 14,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 876.75,
-          "original_price": 991.61,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 867.3,
-          "original_price": 954.1,
-          "discount_percent": 9,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 798.0,
-          "original_price": 980.35,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
-      "id": "1788f925d50c",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelsblauw AZERTY",
-      "price": 798.0,
-      "original_price": 980.35,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-hemelsblauw-azerty-r-16877",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340.jpg?v=1774878229",
-      "found_at": "2026-04-13T14:31:04.847872+00:00",
-      "price_history": [
-        {
-          "price": 791.0,
-          "original_price": 933.96,
-          "discount_percent": 15,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 830.55,
-          "original_price": 971.23,
-          "discount_percent": 14,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 876.75,
-          "original_price": 991.61,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 867.3,
-          "original_price": 954.1,
-          "discount_percent": 9,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 798.0,
-          "original_price": 980.35,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
       "auto_approved": true
     },
     {
@@ -12519,7 +11540,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_afea7bdb-e707-4d61-9154-a38852c38e2b.jpg?v=1776167754",
       "found_at": "2026-04-15T14:17:25.361517+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 795.0,
+          "original_price": 974.52,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "ecaefecd67a7",
@@ -12557,6 +11586,12 @@
           "original_price": 1109.76,
           "discount_percent": 19,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 849.0,
+          "original_price": 1070.71,
+          "discount_percent": 20,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -12575,7 +11610,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1589546_a9c2f307-40de-4888-8148-fb5c849b47cb.jpg?v=1776167127",
       "found_at": "2026-04-15T14:17:43.308755+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 156.0,
+          "original_price": 230.0,
+          "discount_percent": 32,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "374a32f405cf",
@@ -12825,7 +11868,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_92c54d93-67ad-4d9d-bd0b-6c661ad6f542.jpg?v=1776166650",
       "found_at": "2026-04-15T14:17:43.307284+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 245.0,
+          "original_price": 342.37,
+          "discount_percent": 28,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "e793f5b7dd3b",
@@ -12849,59 +11900,6 @@
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
         }
       ]
-    },
-    {
-      "id": "2c366a7eeb91",
-      "title": "Polaroid - Now Generatie 3 - Instant Camera - Arctisch Blauw (9157)",
-      "price": 75.73,
-      "original_price": 117.79,
-      "discount_percent": 35,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DTTNFT97?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61qJFgqG0zL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-13T14:21:51.186439+00:00",
-      "price_history": [
-        {
-          "price": 79.47,
-          "original_price": 79.99,
-          "discount_percent": 0,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        },
-        {
-          "price": 77.62,
-          "original_price": 119.92,
-          "discount_percent": 35,
-          "scraped_at": "2026-03-08T15:00:19.508119+00:00"
-        },
-        {
-          "price": 76.2,
-          "original_price": 118.33,
-          "discount_percent": 35,
-          "scraped_at": "2026-03-22T19:00:23.593666+00:00"
-        },
-        {
-          "price": 74.62,
-          "original_price": 79.99,
-          "discount_percent": 6,
-          "scraped_at": "2026-03-27T19:00:19.265333+00:00"
-        },
-        {
-          "price": 76.2,
-          "original_price": 118.0,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-03T06:00:28.801778+00:00"
-        },
-        {
-          "price": 75.73,
-          "original_price": 117.79,
-          "discount_percent": 35,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
     },
     {
       "id": "e4c5a2be8b84",
@@ -12939,7 +11937,15 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2212805_fff54557-8c8c-4a09-b435-58e3d43e265a.jpg?v=1776166693",
       "found_at": "2026-04-15T14:17:25.361415+00:00",
       "approved_at": "15-04-2026 15:20",
-      "auto_approved": true
+      "auto_approved": true,
+      "price_history": [
+        {
+          "price": 761.0,
+          "original_price": 928.28,
+          "discount_percent": 18,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        }
+      ]
     },
     {
       "id": "77652994a304",
@@ -12989,6 +11995,12 @@
           "original_price": 192.67,
           "discount_percent": 32,
           "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 191.66,
+          "discount_percent": 32,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
@@ -13010,26 +12022,31 @@
         {
           "price": 259.99,
           "original_price": null,
+          "discount_percent": 0,
           "scraped_at": "2026-03-20T11:00:23.254122+00:00"
         },
         {
           "price": 273.28,
           "original_price": 349.0,
+          "discount_percent": 21,
           "scraped_at": "2026-03-30T14:00:25.437872+00:00"
         },
         {
           "price": 259.8,
           "original_price": 259.99,
+          "discount_percent": 0,
           "scraped_at": "2026-04-04T18:00:19.415032+00:00"
         },
         {
           "price": 234.99,
           "original_price": 259.99,
+          "discount_percent": 9,
           "scraped_at": "2026-04-10T06:00:41.216387+00:00"
         },
         {
           "price": 230.14,
           "original_price": 320.19,
+          "discount_percent": 28,
           "scraped_at": "2026-04-15T10:00:25.696906+00:00"
         }
       ],
@@ -13066,83 +12083,6 @@
       "auto_approved": true
     },
     {
-      "id": "f860c8094186",
-      "title": "Insta360 X4 Battery",
-      "price": 35.0,
-      "original_price": 56.42,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/insta360-x4-battery-r-16673",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041071.jpg?v=1774254929",
-      "found_at": "2026-04-13T14:31:11.313301+00:00",
-      "price_history": [
-        {
-          "price": 38.0,
-          "original_price": 54.76,
-          "discount_percent": 30,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 55.0,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 23.0,
-          "original_price": 51.9,
-          "discount_percent": 55,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 53.0,
-          "original_price": 55.4,
-          "discount_percent": 4,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 55.65,
-          "original_price": null,
-          "discount_percent": 0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 52.5,
-          "original_price": 55.4,
-          "discount_percent": 5,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 48.3,
-          "original_price": 54.44,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 36.75,
-          "original_price": 53.84,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 48.3,
-          "original_price": 55.81,
-          "discount_percent": 13,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 35.0,
-          "original_price": 56.42,
-          "discount_percent": 37,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
-      "auto_approved": true
-    },
-    {
       "id": "0dca27e7fc1b",
       "title": "Nokia 3210 Gold mobiele telefoon 4G, een legende van telefonie in moderne versie, groot 2,4 inch display, comfortabel toetsenbord, 2 MP camera, FM-radio, zaklamp, bluetooth",
       "price": 64.77,
@@ -13169,35 +12109,6 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "d0062812df62",
-      "title": "Poly Blackwire 8225 Premium Wired Headset – Actieve ruisonderdrukking – Hifi Stereo - Aansluiten op pc/Mac - Werkt met teams, Zoom",
-      "price": 83.27,
-      "original_price": 126.73,
-      "discount_percent": 34,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0C6FKB9CY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71gZ3f7-fnL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-13T14:15:12.151488+00:00",
-      "price_history": [
-        {
-          "price": 81.1,
-          "original_price": 126.73,
-          "discount_percent": 36,
-          "scraped_at": "2026-03-23T19:00:16.663258+00:00"
-        },
-        {
-          "price": 83.27,
-          "original_price": 126.73,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "13-04-2026 15:35",
       "auto_approved": true
     }
   ]
