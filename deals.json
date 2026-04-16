@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T10:21:23.097246+00:00",
+  "updated_at": "2026-04-16T14:17:35.318181+00:00",
   "total": 300,
   "deals": [
     {
@@ -829,6 +829,21 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "4fc1f0ba7fc6",
+      "title": "Apple iPad Pro (2024) 11 inch 1 TB Wifi + 5G Zilver",
+      "price": 930.0,
+      "original_price": 1936.75,
+      "discount_percent": 51,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-11-inch-1-tb-wifi-5g-zilver-r-17369",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049205_4e0231d4-8fcb-40a1-aba3-359e13927500.jpg?v=1776251351",
+      "found_at": "2026-04-16T14:14:15.548039+00:00",
+      "approved_at": "16-04-2026 15:17",
       "auto_approved": true
     },
     {
@@ -1740,6 +1755,81 @@
       ]
     },
     {
+      "id": "50275ad636bf",
+      "title": "Apple iPad Pro (2024) 11 inch 2 TB Wifi Zwart",
+      "price": 1098.0,
+      "original_price": 2044.0,
+      "discount_percent": 46,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-11-inch-2-tb-wifi-zwart-r-17372",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049087_c10efaab-59d2-4416-969c-af2e2bb90a4d.jpg?v=1776251354",
+      "found_at": "2026-04-16T14:14:18.413011+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "49355ce9ee41",
+      "title": "Apple MacBook Air 15\" M2 (8/10) 8GB/1TB Spacegrijs QWERTZ",
+      "price": 929.0,
+      "original_price": 1699.0,
+      "discount_percent": 45,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-m2-8-10-8gb-1tb-spacegrijs-qwertz-r-17376",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1928438.jpg?v=1776251376",
+      "found_at": "2026-04-16T14:14:18.414903+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "5f48c87751f3",
+      "title": "Apple iPad Pro (2024) 13 inch 2 TB Wifi Zilver",
+      "price": 1292.0,
+      "original_price": 2365.67,
+      "discount_percent": 45,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-13-inch-2-tb-wifi-zilver-r-17374",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049174_6214f519-06c5-4929-b592-5dac13fabfd0.jpg?v=1776251371",
+      "found_at": "2026-04-16T14:14:18.413241+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "dc9329c1a813",
+      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/512GB Zilver QWERTY",
+      "price": 1156.0,
+      "original_price": 2130.0,
+      "discount_percent": 45,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-512gb-zilver-qwerty-r-17365",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986135_0370b1b9-f953-4c21-9057-45ef99622771.jpg?v=1776251330",
+      "found_at": "2026-04-16T14:14:15.547001+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "f58ac3e275f4",
+      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/512GB Blauw QWERTY",
+      "price": 1156.0,
+      "original_price": 2130.0,
+      "discount_percent": 45,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-512gb-blauw-qwerty-r-17367",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986164_0ca085a3-9459-49a3-853d-b9766ec7516d.jpg?v=1776251330",
+      "found_at": "2026-04-16T14:14:15.546899+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "5d37d3e7419c",
       "title": "Apple iPad Pro (2024) 11 inch 2 TB Wifi + 5G Zwart",
       "price": 1294.0,
@@ -1990,6 +2080,21 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "058f765d8ab0",
+      "title": "Apple iPad Pro (2024) 13 inch 2 TB Wifi Zwart",
+      "price": 1295.0,
+      "original_price": 2204.0,
+      "discount_percent": 41,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-13-inch-2-tb-wifi-zwart-r-17375",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049144_800878bf-2d27-43f1-801b-5518403e2666.jpg?v=1776251371",
+      "found_at": "2026-04-16T14:14:18.413299+00:00",
+      "approved_at": "16-04-2026 15:17",
       "auto_approved": true
     },
     {
@@ -3225,6 +3330,21 @@
       ]
     },
     {
+      "id": "bb53361f3ace",
+      "title": "Refurbished iPad Pro 12.9\" 5th 128GB WIFI 12.9\" Silver",
+      "price": 499.0,
+      "original_price": 898.0,
+      "discount_percent": 44,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-pro-12-9-5th-128gb-wifi-12-9-silver-r-17324",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1572278_cd8f9d04-b4cd-4dc0-ad3e-12fa70eab403.jpg?v=1776167709",
+      "found_at": "2026-04-16T14:14:40.068773+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "cb34bf7f79ee",
       "title": "Siemens EQ.6 Plus S100 TE651209RW",
       "price": 411.0,
@@ -3896,6 +4016,21 @@
       "auto_approved": true
     },
     {
+      "id": "5706183c2642",
+      "title": "Apple iPad Pro (2024) Nano 13 inch 1 TB Wifi + 5G Zilver",
+      "price": 1332.0,
+      "original_price": 1799.0,
+      "discount_percent": 25,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-nano-13-inch-1-tb-wifi-5g-zilver-r-17373",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049279_764d3956-f97d-44ff-a93c-dee208c13735.jpg?v=1776251371",
+      "found_at": "2026-04-16T14:14:18.413475+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "14baf6198eb6",
       "title": "Apple iPad Air (2025) 13 inch 128GB Wifi Paars",
       "price": 482.0,
@@ -4187,6 +4322,21 @@
         }
       ],
       "approved_at": "14-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "d32606aaa28d",
+      "title": "Apple iPad Pro (2024) 11 inch 2 TB Wifi Zilver",
+      "price": 1078.0,
+      "original_price": 1499.0,
+      "discount_percent": 28,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-11-inch-2-tb-wifi-zilver-r-17371",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049123_f77d338f-a7d8-40bc-ac32-1f5ccea0e8df.jpg?v=1776251354",
+      "found_at": "2026-04-16T14:14:18.412837+00:00",
+      "approved_at": "16-04-2026 15:17",
       "auto_approved": true
     },
     {
@@ -8166,6 +8316,36 @@
       "auto_approved": true
     },
     {
+      "id": "05dc66c4b880",
+      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/256GB Zilver QWERTY",
+      "price": 1102.0,
+      "original_price": 1399.0,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-256gb-zilver-qwerty-r-17368",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986135_74596371-5a5a-428f-a4b1-bd9637c0f58e.jpg?v=1776251330",
+      "found_at": "2026-04-16T14:14:15.546802+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "8b0e75c2ad39",
+      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/256GB Blauw QWERTY",
+      "price": 1102.0,
+      "original_price": 1399.0,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-256gb-blauw-qwerty-r-17366",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986164_b1fdf3c9-fb5d-46e1-919c-96f505a1e664.jpg?v=1776251330",
+      "found_at": "2026-04-16T14:14:15.546694+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "586e3e46266c",
       "title": "Refurbished iPhone SE (3rd gen) Midnight 64GB",
       "price": 99.76,
@@ -8908,6 +9088,21 @@
       ]
     },
     {
+      "id": "2268302f2226",
+      "title": "Apple Mac Mini (2023) M2 (8 CPU/10 GPU) 16GB/512GB",
+      "price": 572.0,
+      "original_price": 799.0,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-mac-mini-2023-m2-8-cpu-10-gpu-16gb-512gb-r-17378",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1870486_5e41cd7b-ad33-4422-9687-f0c4d38add33.jpg?v=1776251390",
+      "found_at": "2026-04-16T14:14:18.414033+00:00",
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "de34f1b35ae5",
       "title": "Apple iPad Pro (2024) 11 inch 1 TB Wifi + 5G Zwart",
       "price": 1092.0,
@@ -8988,6 +9183,88 @@
           "scraped_at": "2026-04-14T06:00:29.171665+00:00"
         }
       ]
+    },
+    {
+      "id": "61ece3c2717c",
+      "title": "Apple iPad Pro (2024) Nano 11 inch 1 TB Wifi + 5G Zwart",
+      "price": 1300.0,
+      "original_price": 1599.0,
+      "discount_percent": 18,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-nano-11-inch-1-tb-wifi-5g-zwart-r-15899",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049187_54fbcfd4-d20e-4f04-82da-a76a26b39f32.jpg?v=1770889212",
+      "found_at": "2026-04-16T14:14:18.413357+00:00",
+      "price_history": [
+        {
+          "price": 1387.0,
+          "original_price": 2039.0,
+          "scraped_at": "2026-02-27T11:00:27.337062+00:00"
+        },
+        {
+          "price": 1404.0,
+          "original_price": 1931.0,
+          "scraped_at": "2026-03-02T08:32:34.945357+00:00"
+        },
+        {
+          "price": 1387.0,
+          "original_price": 1931.0,
+          "scraped_at": "2026-03-03T19:00:18.272287+00:00"
+        },
+        {
+          "price": 1474.0,
+          "original_price": 1881.0,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 1387.0,
+          "original_price": 1579.0,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 1474.0,
+          "original_price": 1579.0,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 1560.0,
+          "original_price": 1579.0,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 1474.0,
+          "original_price": 1579.0,
+          "scraped_at": "2026-03-23T15:00:23.738035+00:00"
+        },
+        {
+          "price": 1547.7,
+          "original_price": 1599.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 1474.0,
+          "original_price": 1599.0,
+          "scraped_at": "2026-04-10T18:00:15.891953+00:00"
+        },
+        {
+          "price": 1300.0,
+          "original_price": 1599.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1387.0,
+          "original_price": 1599.0,
+          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
+        },
+        {
+          "price": 1300.0,
+          "original_price": 1599.0,
+          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
+        }
+      ],
+      "approved_at": "16-04-2026 15:17",
+      "auto_approved": true
     },
     {
       "id": "459ffd10777a",
@@ -13167,592 +13444,6 @@
           "original_price": 249.77,
           "discount_percent": 35,
           "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "0835d09f587b",
-      "title": "Revamp Progloss Perfect Blow Dry Airstyler DR-2000",
-      "price": 41.0,
-      "original_price": 69.49,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/revamp-progloss-perfect-blow-dry-airstyler-dr-2000-r-16654",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2030495.jpg?v=1774254742",
-      "found_at": "2026-04-15T18:36:35.098126+00:00",
-      "price_history": [
-        {
-          "price": 45.0,
-          "original_price": 61.31,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 52.0,
-          "original_price": 66.31,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 69.65,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 64.05,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 59.85,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 55.65,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "15-04-2026 19:39",
-      "auto_approved": true
-    },
-    {
-      "id": "b6c1656415a6",
-      "title": "Makita DUR193RT",
-      "price": 141.0,
-      "original_price": 214.0,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/makita-dur193rt-r-17271",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1942334_5d8da8d5-fbd1-4e2d-b7e9-2a1719fa05a2.jpg?v=1776167171",
-      "found_at": "2026-04-15T14:17:39.658529+00:00",
-      "approved_at": "15-04-2026 15:20",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 141.0,
-          "original_price": 214.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        }
-      ]
-    },
-    {
-      "id": "5a93861ad75c",
-      "title": "Revamp Dynamic Radiance Pro Blow Dry 7-in-1 DR-2850GD",
-      "price": 137.0,
-      "original_price": 209.73,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/revamp-dynamic-radiance-pro-blow-dry-7-in-1-dr-2850gd-r-17149",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2111435.jpg?v=1775635628",
-      "found_at": "2026-04-14T06:32:09.666652+00:00",
-      "price_history": [
-        {
-          "price": 127.05,
-          "original_price": 169.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 150.15,
-          "original_price": 204.89,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 143.0,
-          "original_price": 209.73,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 137.0,
-          "original_price": 209.73,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "47cffa4aa7c5",
-      "title": "BK Q-linair Master Glas Pannenset 5-delig",
-      "price": 167.0,
-      "original_price": 249.08,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bk-q-linair-master-glas-pannenset-5-delig-r-16804",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1361085_4e41d482-bb62-47bf-b7f3-24f0aa99d38b.jpg?v=1774877725",
-      "found_at": "2026-04-14T06:32:00.251242+00:00",
-      "price_history": [
-        {
-          "price": 183.0,
-          "original_price": 215.5,
-          "discount_percent": 15,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 192.15,
-          "original_price": 215.5,
-          "discount_percent": 10,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 185.85,
-          "original_price": 252.48,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 175.35,
-          "original_price": 252.48,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 167.0,
-          "original_price": 249.08,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "bca29e852384",
-      "title": "Electronic Arts EA Sports FC 26 Xbox Series X & Xbox One",
-      "price": 37.0,
-      "original_price": 61.41,
-      "discount_percent": 39,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/electronic-arts-ea-sports-fc-26-xbox-series-x-xbox-one-r-17145",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2217028.jpg?v=1775635593",
-      "found_at": "2026-04-14T06:32:02.926118+00:00",
-      "price_history": [
-        {
-          "price": 56.7,
-          "original_price": 61.97,
-          "discount_percent": 8,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 47.25,
-          "original_price": 62.81,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 40.95,
-          "original_price": 54.98,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 39.0,
-          "original_price": 59.48,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 37.0,
-          "original_price": 61.41,
-          "discount_percent": 39,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "cdc0807b500d",
-      "title": "Refurbished iPad 9 64GB WIFI 10.2\" Space Gray",
-      "price": 183.18,
-      "original_price": 266.0,
-      "discount_percent": 31,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-ipad-9-64gb-wifi-10-2-space-gray-r-16841",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632013_93d9c9e6-5f26-45b0-8b3f-9324b5359a21.jpg?v=1774877976",
-      "found_at": "2026-04-14T06:32:09.665413+00:00",
-      "price_history": [
-        {
-          "price": 213.0,
-          "original_price": 266.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 198.09,
-          "original_price": 266.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 195.96,
-          "original_price": 266.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 193.83,
-          "original_price": 266.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 191.7,
-          "original_price": 266.0,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 189.57,
-          "original_price": 266.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 187.44,
-          "original_price": 266.0,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
-        },
-        {
-          "price": 183.18,
-          "original_price": 266.0,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 181.05,
-          "original_price": 266.0,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "04495614f9e1",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw QWERTY",
-      "price": 795.0,
-      "original_price": 974.52,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-hemelblauw-qwerty-r-17027",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_17ea316e-42f3-4a5a-a00c-fed470e90a5b.jpg?v=1775634532",
-      "found_at": "2026-04-15T18:36:16.450245+00:00",
-      "price_history": [
-        {
-          "price": 876.75,
-          "original_price": 991.61,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 867.3,
-          "original_price": 954.1,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 826.0,
-          "original_price": 980.35,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 795.0,
-          "original_price": 974.52,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "15-04-2026 19:39",
-      "auto_approved": true
-    },
-    {
-      "id": "7c344273836e",
-      "title": "Apple MacBook Air 13 inch (2025) M4 (10 CPU/8 GPU) 16GB/256GB Hemelsblauw QWERTY",
-      "price": 795.0,
-      "original_price": 974.52,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-inch-2025-m4-10-cpu-8-gpu-16gb-256gb-hemelsblauw-qwerty-r-17329",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_afea7bdb-e707-4d61-9154-a38852c38e2b.jpg?v=1776167754",
-      "found_at": "2026-04-15T14:17:25.361517+00:00",
-      "approved_at": "15-04-2026 15:20",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 795.0,
-          "original_price": 974.52,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        }
-      ]
-    },
-    {
-      "id": "ecaefecd67a7",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
-      "price": 891.0,
-      "original_price": 1077.85,
-      "discount_percent": 17,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/eufy-c20-omni-r-16900",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2_cf870768-2d17-43d7-b870-f754c1b15474.jpg?v=1774879203",
-      "found_at": "2026-04-14T06:32:00.249934+00:00",
-      "price_history": [
-        {
-          "price": 879.0,
-          "original_price": 1119.37,
-          "discount_percent": 21,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 922.95,
-          "original_price": 1071.37,
-          "discount_percent": 13,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 969.15,
-          "original_price": 1085.88,
-          "discount_percent": 10,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 891.0,
-          "original_price": 1109.76,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 849.0,
-          "original_price": 1070.71,
-          "discount_percent": 20,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "d683cb1e0768",
-      "title": "Panasonic SD-YR2540HXD",
-      "price": 156.0,
-      "original_price": 230.0,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/panasonic-sd-yr2540hxd-r-17268",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1589546_a9c2f307-40de-4888-8148-fb5c849b47cb.jpg?v=1776167127",
-      "found_at": "2026-04-15T14:17:43.308755+00:00",
-      "approved_at": "15-04-2026 15:20",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 156.0,
-          "original_price": 230.0,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        }
-      ]
-    },
-    {
-      "id": "374a32f405cf",
-      "title": "Google Pixel Buds Pro 2 Grijs",
-      "price": 153.0,
-      "original_price": 226.85,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/google-pixel-buds-pro-2-grijs-r-17121",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2083385.jpg?v=1775635333",
-      "found_at": "2026-04-14T06:32:02.926721+00:00",
-      "price_history": [
-        {
-          "price": 156.45,
-          "original_price": 225.54,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 168.0,
-          "original_price": 226.85,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 160.0,
-          "original_price": 226.85,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": 226.85,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "c216f92856a7",
-      "title": "Oral-B iO 10 Zwart Special Edition",
-      "price": 266.0,
-      "original_price": 369.67,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-10-zwart-special-edition-r-16929",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1939173_95a5f774-3022-4fba-878d-03446e7b2a27.jpg?v=1774878523",
-      "found_at": "2026-04-16T06:19:05.711281+00:00",
-      "price_history": [
-        {
-          "price": 302.0,
-          "original_price": 329.0,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 314.0,
-          "original_price": 478.72,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 329.7,
-          "original_price": 478.72,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 319.2,
-          "original_price": 369.67,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 301.35,
-          "original_price": 383.57,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 287.0,
-          "original_price": 383.57,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 266.0,
-          "original_price": 369.67,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 07:22",
-      "auto_approved": true
-    },
-    {
-      "id": "960e2c32131a",
-      "title": "Dreame H15 Pro Foam Wash",
-      "price": 413.0,
-      "original_price": 546.5,
-      "discount_percent": 24,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-h15-pro-foam-wash-r-17129",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2216459.jpg?v=1775635427",
-      "found_at": "2026-04-14T06:32:02.925066+00:00",
-      "price_history": [
-        {
-          "price": 452.55,
-          "original_price": 599.0,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 431.0,
-          "original_price": 549.0,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 413.0,
-          "original_price": 546.5,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "14-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "be2e2429c28f",
-      "title": "Logitech MX Keys S Grafiet Qwerty",
-      "price": 74.0,
-      "original_price": 116.89,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-mx-keys-s-grafiet-qwerty-r-16780",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2139926_6c54cfeb-2e0c-49ba-9324-cb652fd75967.jpg?v=1774947833",
-      "found_at": "2026-04-14T06:32:06.853546+00:00",
-      "price_history": [
-        {
-          "price": 81.0,
-          "original_price": 120.71,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 85.05,
-          "original_price": 120.02,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 82.95,
-          "original_price": 120.45,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 77.7,
-          "original_price": 117.14,
-          "discount_percent": 33,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 74.0,
-          "original_price": 117.0,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
         }
       ],
       "approved_at": "14-04-2026 07:36",
