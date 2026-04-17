@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T06:25:17.732857+00:00",
+  "updated_at": "2026-04-17T11:00:43.735978+00:00",
   "total": 300,
   "deals": [
     {
@@ -4104,6 +4104,21 @@
       ]
     },
     {
+      "id": "d4d1e3b5065b",
+      "title": "Apple MacBook Pro 16\" M4 Pro (14/20) 24GB/512GB SB AZERTY",
+      "price": 2016.0,
+      "original_price": 2599.0,
+      "discount_percent": 22,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-16-m4-pro-14-20-24gb-512gb-sb-azerty-r-17390",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2113831.jpg?v=1776411603",
+      "found_at": "2026-04-17T10:57:46.781996+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "8bc18abec588",
       "title": "Apple 13-inch iPad Air Wi-Fi 128GB - Space Grey",
       "price": 537.0,
@@ -4460,6 +4475,38 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "9105ed7888af",
+      "title": "JBL Tune 680 NC draadloze on-ear koptelefoon - met Adaptive Noise Cancelling, Bluetooth, lichtgewicht ontwerp, 76 uur batterijduur, Google Fast Pair, en Microsoft Swift Pair, wit",
+      "price": 78.08,
+      "original_price": 229.99,
+      "discount_percent": 66,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FV3QWBJN?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51YJMm28oTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-17T10:25:55.889123+00:00",
+      "price_history": [
+        {
+          "price": 78.08,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-07T11:00:22.752490+00:00"
+        },
+        {
+          "price": 79.7,
+          "original_price": 81.33,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 78.08,
+          "original_price": 81.33,
+          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
+        }
+      ],
+      "approved_at": "17-04-2026 12:00",
       "auto_approved": true
     },
     {
@@ -5107,6 +5154,21 @@
       ]
     },
     {
+      "id": "b18adbf493a6",
+      "title": "Apple Studio Display kantelbare standaard",
+      "price": 1255.0,
+      "original_price": 1669.0,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-studio-display-kantelbare-standaard-r-17385",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712570_da312c10-7926-486a-b85a-3734da5ca86e.jpg?v=1776411568",
+      "found_at": "2026-04-17T10:57:46.782203+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "9c8348ed2025",
       "title": "Sonos Era 300 standaard WW (zwart)",
       "price": 50.0,
@@ -5501,6 +5563,36 @@
       "auto_approved": true
     },
     {
+      "id": "584f3e5f06f0",
+      "title": "Apple MacBook Pro 14 M5 16/512GB Zwart QWERTY",
+      "price": 1294.0,
+      "original_price": 1699.0,
+      "discount_percent": 23,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-14-m5-16-512gb-zwart-qwerty-r-17358",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224454_928cde30-8c6c-45ea-b504-64298b7f7e43.jpg?v=1776411412",
+      "found_at": "2026-04-17T10:57:46.781744+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
+      "id": "b9a9fb208b4f",
+      "title": "Apple MacBook Pro 14 M5 16/512GB Zwart AZERTY",
+      "price": 1294.0,
+      "original_price": 1699.0,
+      "discount_percent": 23,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-14-m5-16-512gb-zwart-azerty-r-17361",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224507_32c1c5a2-0d7e-45a6-bf96-7e70cb63b253.jpg?v=1776411462",
+      "found_at": "2026-04-17T10:57:46.781587+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "6da827fda7c7",
       "title": "Lenovo Yoga Tab Plus 16GB 256GB incl. tab pen pro & keyboard",
       "price": 431.0,
@@ -5853,6 +5945,21 @@
           "scraped_at": "2026-04-16T10:00:23.646435+00:00"
         }
       ]
+    },
+    {
+      "id": "2d46765d6ee3",
+      "title": "Samsung Galaxy S25 Ultra 256GB Zwart 5G",
+      "price": 558.0,
+      "original_price": 859.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-s25-ultra-256gb-zwart-5g-r-17398",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133554_d9ce68d8-8242-4543-a93f-6ffb094e10fd.jpg?v=1776411666",
+      "found_at": "2026-04-17T10:58:01.867080+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
     },
     {
       "id": "ddefb22c4d9c",
@@ -6398,6 +6505,21 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "7c50e3278802",
+      "title": "Samsung Galaxy Z Flip 6 256GB Zilver 5G",
+      "price": 480.0,
+      "original_price": 746.0,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-z-flip-6-256gb-zilver-5g-r-17348",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075564.jpg?v=1776411409",
+      "found_at": "2026-04-17T10:58:01.867307+00:00",
+      "approved_at": "17-04-2026 12:00",
       "auto_approved": true
     },
     {
@@ -7306,6 +7428,38 @@
       "auto_approved": true
     },
     {
+      "id": "5ac428f01d3f",
+      "title": "Austrian Audio Hi-X50 hoofdtelefoon, met oorschelp (hoog comfort dankzij oorkussens met trage grip, maximale flexibiliteit, 3,5 mm jack-aansluiting, incl. adapter naar 6,3 mm), zwart",
+      "price": 95.91,
+      "original_price": 199.0,
+      "discount_percent": 51,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09CZ71Y42?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71qdlCO2q-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-17T10:29:52.098183+00:00",
+      "price_history": [
+        {
+          "price": 96.04,
+          "original_price": 100.04,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 96.61,
+          "original_price": 100.64,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 95.91,
+          "original_price": 199.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        }
+      ],
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "d013f822cafb",
       "title": "Dreame L10s Pro Ultra Heat RLL82CE",
       "price": 408.0,
@@ -7391,6 +7545,21 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "619ceaa645ac",
+      "title": "Samsung Galaxy A56 128GB Zwart 5G",
+      "price": 174.0,
+      "original_price": 319.0,
+      "discount_percent": 45,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a56-128gb-zwart-5g-r-17403",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144340.jpg?v=1776411712",
+      "found_at": "2026-04-17T10:58:01.866913+00:00",
+      "approved_at": "17-04-2026 12:00",
       "auto_approved": true
     },
     {
@@ -8025,6 +8194,21 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "d9bc0b4737e9",
+      "title": "Samsung Galaxy A36 128GB Zwart 5G",
+      "price": 137.0,
+      "original_price": 255.0,
+      "discount_percent": 46,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a36-128gb-zwart-5g-r-17404",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144290.jpg?v=1776411715",
+      "found_at": "2026-04-17T10:58:01.866859+00:00",
+      "approved_at": "17-04-2026 12:00",
       "auto_approved": true
     },
     {
@@ -9832,6 +10016,68 @@
       ]
     },
     {
+      "id": "77652994a304",
+      "title": "Samsung Galaxy Buds3 Pro Zwart",
+      "price": 108.0,
+      "original_price": 192.01,
+      "discount_percent": 43,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-pro-zwart-r-16845",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075719_19880711-b0ca-4631-9d6a-529f7afd23df.jpg?v=1774948124",
+      "found_at": "2026-04-17T10:58:01.866972+00:00",
+      "price_history": [
+        {
+          "price": 157.0,
+          "original_price": 205.91,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 164.85,
+          "original_price": 199.15,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 159.6,
+          "original_price": 206.14,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 147.0,
+          "original_price": 196.33,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 137.55,
+          "original_price": 198.18,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 192.67,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 191.66,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 192.01,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 192.01,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        }
+      ],
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "6f9cf14ebce8",
       "title": "Gigaset N300A IP",
       "price": 29.0,
@@ -10175,6 +10421,33 @@
         }
       ],
       "approved_at": "16-04-2026 07:22",
+      "auto_approved": true
+    },
+    {
+      "id": "1dfdb196c15c",
+      "title": "WOLFANG Solar Wildlife Camera 4K 46MP, WiFi Bluetooth Trail Camera met Nachtzicht Motion Activated 0.1s Trigger Time IP66 Waterdichte Game Camera voor Wildlife Monitoring met U3 32GB Micro SD-kaart",
+      "price": 51.85,
+      "original_price": 99.16,
+      "discount_percent": 47,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D2HY4FXL?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71drjmIdbJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-17T10:54:04.588403+00:00",
+      "price_history": [
+        {
+          "price": 50.76,
+          "original_price": 73.99,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 51.85,
+          "original_price": 99.16,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        }
+      ],
+      "approved_at": "17-04-2026 12:00",
       "auto_approved": true
     },
     {
@@ -11611,6 +11884,21 @@
       ]
     },
     {
+      "id": "96b6778cd2ea",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
+      "price": 849.0,
+      "original_price": 1061.74,
+      "discount_percent": 20,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-r-16900",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2_cf870768-2d17-43d7-b870-f754c1b15474.jpg?v=1774879203",
+      "found_at": "2026-04-17T10:57:43.789827+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "ecaefecd67a7",
       "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
       "price": 849.0,
@@ -11878,6 +12166,33 @@
         }
       ],
       "approved_at": "17-04-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "db9bea762cf5",
+      "title": "Jabra Evolve2 55 draadloze stereo headset met oplaadstandaard, Jabra Air Comfort technologie, noise cancelling microfoons en ANC - MS Teams-gecertificeerd, werkt met andere platforms - zwart",
+      "price": 89.75,
+      "original_price": 150.03,
+      "discount_percent": 40,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BS1Q7R1C?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51jFD7Cc8hL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-17T10:28:11.454252+00:00",
+      "price_history": [
+        {
+          "price": 76.85,
+          "original_price": 141.75,
+          "scraped_at": "2026-02-23T15:56:06.852203+00:00"
+        },
+        {
+          "price": 89.75,
+          "original_price": 150.03,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        }
+      ],
+      "approved_at": "17-04-2026 12:00",
       "auto_approved": true
     },
     {
@@ -12229,6 +12544,38 @@
           "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
       ]
+    },
+    {
+      "id": "445fca9be872",
+      "title": "JBL Tune 760NC draadloze over-ear koptelefoon met Active Noise Cancelling en JBL Pure Bass Sound, in zwart",
+      "price": 50.03,
+      "original_price": 84.99,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B096FYLJ6M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61eyoBHdV3L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-17T10:24:10.166005+00:00",
+      "price_history": [
+        {
+          "price": 53.79,
+          "original_price": 54.99,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        },
+        {
+          "price": 56.51,
+          "original_price": 59.48,
+          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
+        },
+        {
+          "price": 50.03,
+          "original_price": 84.99,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        }
+      ],
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
     },
     {
       "id": "af59e3a53ed4",
@@ -12835,6 +13182,21 @@
       "auto_approved": true
     },
     {
+      "id": "9781fdf5a5dd",
+      "title": "Apple iPad mini 7 (2024) 128GB Wifi Space Gray",
+      "price": 415.0,
+      "original_price": 559.0,
+      "discount_percent": 25,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-mini-7-2024-128gb-wifi-space-gray-r-17396",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2106919.jpg?v=1776411650",
+      "found_at": "2026-04-17T10:57:40.758397+00:00",
+      "approved_at": "17-04-2026 12:00",
+      "auto_approved": true
+    },
+    {
       "id": "f81a7447e7af",
       "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5678",
       "price": 74.0,
@@ -13003,600 +13365,6 @@
           "scraped_at": "2026-04-15T14:00:27.417236+00:00"
         }
       ]
-    },
-    {
-      "id": "fe2c2b63d2f6",
-      "title": "Apple iPad Pro (2021) 12.9 inch 128GB Wifi Zilver",
-      "price": 776.0,
-      "original_price": 959.0,
-      "discount_percent": 19,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2021-12-9-inch-128gb-wifi-zilver-r-17005",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1572263.jpg?v=1775634357",
-      "found_at": "2026-04-16T18:56:56.240633+00:00",
-      "price_history": [
-        {
-          "price": 663.6,
-          "original_price": 959.0,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 632.0,
-          "original_price": 959.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 793.0,
-          "original_price": 959.0,
-          "discount_percent": 17,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 784.0,
-          "original_price": 959.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 776.0,
-          "original_price": 959.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "93a3edace6dd",
-      "title": "Logitech Combo Touch iPad Air 13\"  2024 Graphite QWERTY",
-      "price": 173.0,
-      "original_price": 257.95,
-      "discount_percent": 32,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-combo-touch-ipad-air-13-2024-graphite-qwerty-r-17083",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2065715.jpg?v=1775634929",
-      "found_at": "2026-04-16T18:57:11.586307+00:00",
-      "price_history": [
-        {
-          "price": 180.6,
-          "original_price": 258.4,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 180.0,
-          "original_price": 263.38,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 164.0,
-          "original_price": 257.96,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 173.0,
-          "original_price": 257.95,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "71df3ba34e6a",
-      "title": "AEG AP61AB21DG ANIMAL 6000",
-      "price": 132.0,
-      "original_price": 200.0,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/aeg-ap61ab21dg-animal-6000-r-16915",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2121305_8e17e2b8-7c3f-41e8-a1ac-8dc2e47f24e8.jpg?v=1774948394",
-      "found_at": "2026-04-17T06:22:08.065507+00:00",
-      "price_history": [
-        {
-          "price": 176.0,
-          "original_price": 200.0,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 184.8,
-          "original_price": 200.0,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 178.5,
-          "original_price": 200.0,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 168.0,
-          "original_price": 200.0,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 160.0,
-          "original_price": 200.0,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 132.0,
-          "original_price": 200.0,
-          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
-        }
-      ],
-      "approved_at": "17-04-2026 07:25",
-      "auto_approved": true
-    },
-    {
-      "id": "fddd515de308",
-      "title": "Blackvue DR970X-2CH Plus II 64GB",
-      "price": 538.0,
-      "original_price": 695.96,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-plus-ii-64gb-r-16791",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2190624_6bd8a0fb-800a-4572-9560-9b9d3e1af961.jpg?v=1774947929",
-      "found_at": "2026-04-17T06:22:14.639088+00:00",
-      "price_history": [
-        {
-          "price": 634.0,
-          "original_price": 694.96,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 665.7,
-          "original_price": 694.96,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 644.7,
-          "original_price": 694.96,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 616.35,
-          "original_price": 699.76,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 579.0,
-          "original_price": 695.96,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 538.0,
-          "original_price": 695.96,
-          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
-        }
-      ],
-      "approved_at": "17-04-2026 07:25",
-      "auto_approved": true
-    },
-    {
-      "id": "c39b2a68c83b",
-      "title": "Epson Expression Home XP-3200",
-      "price": 46.0,
-      "original_price": 76.24,
-      "discount_percent": 39,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/epson-expression-home-xp-3200-r-17114",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806450.jpg?v=1775637334",
-      "found_at": "2026-04-16T18:57:05.121025+00:00",
-      "price_history": [
-        {
-          "price": 53.55,
-          "original_price": 76.37,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 80.71,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 80.83,
-          "discount_percent": 43,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "4d2b9db4ff65",
-      "title": "Kenwood FDM73.850SS",
-      "price": 144.0,
-      "original_price": 216.11,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kenwood-fdm73-850ss-r-17169",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2012220_bd15dd1e-857d-4d1b-9c19-c281b4667e38.jpg?v=1775824065",
-      "found_at": "2026-04-16T18:57:07.645478+00:00",
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 144.0,
-          "original_price": 213.9,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ]
-    },
-    {
-      "id": "04495614f9e1",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw QWERTY",
-      "price": 791.0,
-      "original_price": 972.68,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-hemelblauw-qwerty-r-17027",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_17ea316e-42f3-4a5a-a00c-fed470e90a5b.jpg?v=1775634532",
-      "found_at": "2026-04-16T18:56:59.827790+00:00",
-      "price_history": [
-        {
-          "price": 876.75,
-          "original_price": 991.61,
-          "discount_percent": 11,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 867.3,
-          "original_price": 954.1,
-          "discount_percent": 9,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 826.0,
-          "original_price": 980.35,
-          "discount_percent": 15,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 795.0,
-          "original_price": 974.52,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 791.0,
-          "original_price": 972.68,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "7c344273836e",
-      "title": "Apple MacBook Air 13 inch (2025) M4 (10 CPU/8 GPU) 16GB/256GB Hemelsblauw QWERTY",
-      "price": 791.0,
-      "original_price": 972.68,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-inch-2025-m4-10-cpu-8-gpu-16gb-256gb-hemelsblauw-qwerty-r-17329",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_afea7bdb-e707-4d61-9154-a38852c38e2b.jpg?v=1776167754",
-      "found_at": "2026-04-16T18:56:59.827533+00:00",
-      "price_history": [
-        {
-          "price": 795.0,
-          "original_price": 974.52,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 791.0,
-          "original_price": 972.68,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "db0acb948e33",
-      "title": "Apple iPad Air 13-inch Wi-Fi 128GB - Space Grey",
-      "price": 727.0,
-      "original_price": 899.0,
-      "discount_percent": 19,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-13-inch-ipad-air-wi-fi-128gb-space-grey-r-17001",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_df79e19c-fe1f-4007-bc0a-e8a05d26617d.jpg?v=1775634317",
-      "found_at": "2026-04-16T18:56:56.240459+00:00",
-      "price_history": [
-        {
-          "price": 622.65,
-          "original_price": 899.0,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 593.0,
-          "original_price": 899.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 743.0,
-          "original_price": 899.0,
-          "discount_percent": 17,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 735.0,
-          "original_price": 899.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 727.0,
-          "original_price": 899.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "50399aab6c74",
-      "title": "Apple 13-inch iPad Air Wi-Fi 128GB - Space Grey",
-      "price": 727.0,
-      "original_price": 899.0,
-      "discount_percent": 19,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-13-inch-ipad-air-wi-fi-128gb-space-grey-r-17065",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_50fb8378-4627-4a6b-9d77-b9f405765af6.jpg?v=1775634719",
-      "found_at": "2026-04-16T18:56:56.239311+00:00",
-      "price_history": [
-        {
-          "price": 622.65,
-          "original_price": 899.0,
-          "discount_percent": 30,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 593.0,
-          "original_price": 899.0,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 743.0,
-          "original_price": 899.0,
-          "discount_percent": 17,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 735.0,
-          "original_price": 899.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 727.0,
-          "original_price": 899.0,
-          "discount_percent": 19,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "c216f92856a7",
-      "title": "Oral-B iO 10 Zwart Special Edition",
-      "price": 266.0,
-      "original_price": 369.67,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-10-zwart-special-edition-r-16929",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1939173_95a5f774-3022-4fba-878d-03446e7b2a27.jpg?v=1774878523",
-      "found_at": "2026-04-16T18:57:15.054330+00:00",
-      "price_history": [
-        {
-          "price": 302.0,
-          "original_price": 329.0,
-          "discount_percent": 8,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 314.0,
-          "original_price": 478.72,
-          "discount_percent": 34,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 329.7,
-          "original_price": 478.72,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 319.2,
-          "original_price": 369.67,
-          "discount_percent": 13,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 301.35,
-          "original_price": 383.57,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 287.0,
-          "original_price": 383.57,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 266.0,
-          "original_price": 369.67,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "285551738612",
-      "title": "Bose Quietcomfort Ultra Earbuds Zwart",
-      "price": 170.0,
-      "original_price": 249.77,
-      "discount_percent": 31,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-earbuds-zwart-r-17157",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970034_6da4ff54-4c1e-400c-9929-745daf81bd26.jpg?v=1775635714",
-      "found_at": "2026-04-16T18:57:02.451167+00:00",
-      "price_history": [
-        {
-          "price": 191.1,
-          "original_price": 247.63,
-          "discount_percent": 22,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 182.0,
-          "original_price": 246.63,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 176.0,
-          "original_price": 248.35,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 170.0,
-          "original_price": 249.77,
-          "discount_percent": 31,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "5dea80f08f8e",
-      "title": "Dreame L10s Ultra Gen 2",
-      "price": 321.0,
-      "original_price": 435.0,
-      "discount_percent": 26,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-l10s-ultra-gen-2-r-17097",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095790_c0adda86-4174-4e5d-90d9-09ab84de09d0.jpg?v=1775635024",
-      "found_at": "2026-04-16T18:57:05.119235+00:00",
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 321.0,
-          "original_price": 435.0,
-          "discount_percent": 26,
-          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
-        }
-      ]
-    },
-    {
-      "id": "85342a88d11e",
-      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
-      "price": 245.0,
-      "original_price": 342.37,
-      "discount_percent": 28,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-17213",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_92c54d93-67ad-4d9d-bd0b-6c661ad6f542.jpg?v=1776166650",
-      "found_at": "2026-04-16T18:57:11.587925+00:00",
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 245.0,
-          "original_price": 342.37,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        }
-      ]
-    },
-    {
-      "id": "e793f5b7dd3b",
-      "title": "Philips Airfryer XXL Premium HD9867/90",
-      "price": 246.0,
-      "original_price": 343.0,
-      "discount_percent": 28,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-airfryer-xxl-premium-hd9867-90-r-17172",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1625298.jpg?v=1775824094",
-      "found_at": "2026-04-16T18:57:15.056028+00:00",
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 246.0,
-          "original_price": 343.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ]
-    },
-    {
-      "id": "53cd00e56708",
-      "title": "CORSAIR HS80 MAX WIRELESS Multiplatform Gaming Headset met Bluetooth - Dolby Atmos - Microfoon van Uitzendkwaliteit - iCUE Compatibel - Xbox, PC, Mac, Mobiel - Staalgrijs",
-      "price": 119.92,
-      "original_price": 179.0,
-      "discount_percent": 33,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FLKRYRP1?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/712dJj51paL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-17T06:13:43.264581+00:00",
-      "approved_at": "17-04-2026 07:25",
-      "auto_approved": true
     }
   ]
 }
