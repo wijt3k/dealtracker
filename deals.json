@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T14:30:16.362195+00:00",
-  "total": 299,
+  "updated_at": "2026-04-19T18:19:45.255109+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "1ab907218306",
@@ -2525,6 +2525,38 @@
       "auto_approved": true
     },
     {
+      "id": "b94361e18325",
+      "title": "MSI Modern 14 C13M-613IT, Notebook 14 inch FHD 60 Hz, Intel i7-1355U, Intel Iris Xe, RAM 16 GB DDR4 3200 MHz, 512 GB SSD PCIe3, WiFi 6, Win 11 Home, Layout en Italiaanse garantie, zwart",
+      "price": 369.93,
+      "original_price": 747.67,
+      "discount_percent": 50,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09YXPRN14?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71X1tqn9GoL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T18:01:58.126331+00:00",
+      "price_history": [
+        {
+          "price": 384.98,
+          "original_price": 747.67,
+          "scraped_at": "2026-03-02T19:00:18.342479+00:00"
+        },
+        {
+          "price": 361.04,
+          "original_price": 747.67,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 369.93,
+          "original_price": 747.67,
+          "scraped_at": "2026-04-19T18:00:29.266107+00:00"
+        }
+      ],
+      "approved_at": "19-04-2026 19:19",
+      "auto_approved": true
+    },
+    {
       "id": "bc3d5e6166c1",
       "title": "Apple MacBook Pro 14\" 2023 M3 Max (16/40) 48/2TB Spacezwart QWERTY",
       "price": 2536.0,
@@ -4691,6 +4723,21 @@
       ]
     },
     {
+      "id": "0af28fb84c0f",
+      "title": "Ozeino Draadloze gamingheadset voor pc, PS5, PS4-2,4 GHz, lossless audio USB & Type-C Ultra Stabiele Gaming Hoofdtelefoon met Flip Microfoon, 30 uur Batterij Gamer Headset voor Switch, Laptop, Mobiel",
+      "price": 58.58,
+      "original_price": 169.99,
+      "discount_percent": 65,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C4F9JGTJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71epDZgbjQL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T18:07:45.318527+00:00",
+      "approved_at": "19-04-2026 19:19",
+      "auto_approved": true
+    },
+    {
       "id": "b5235e2b8f24",
       "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw AZERTY",
       "price": 659.0,
@@ -6078,6 +6125,21 @@
       "auto_approved": true
     },
     {
+      "id": "b2c031b5fd79",
+      "title": "Audio-Technica M40x Professionele Monitorkoptelefoon Zwart",
+      "price": 88.87,
+      "original_price": 199.0,
+      "discount_percent": 55,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B00HVLUR54?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71K0dHGLmCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T18:08:06.119927+00:00",
+      "approved_at": "19-04-2026 19:19",
+      "auto_approved": true
+    },
+    {
       "id": "b985861098c5",
       "title": "Logicom - Tab 80 – tablet 8 inch Android 15 – Octa-Core 1,8 GHz – 64 GB",
       "price": 68.02,
@@ -6291,6 +6353,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1972834_54dbf812-4955-4380-b048-8a111f81cfe1.jpg?v=1776167231",
       "found_at": "2026-04-18T10:27:21.188587+00:00",
       "approved_at": "18-04-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "8bfc0cf2164b",
+      "title": "Anker PowerConf C200, 2k-USB Webcam, laptopwebcam, computercamera, microfoons met AI-ruisonderdrukking, stereomicrofoons, instelbaar gezichtsveld, correctie bij weinig licht, ingebouwde privacysluiter",
+      "price": 59.99,
+      "original_price": 139.99,
+      "discount_percent": 57,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09MFMTMPD?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51HiUb92pRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T18:10:44.691960+00:00",
+      "approved_at": "19-04-2026 19:19",
       "auto_approved": true
     },
     {
@@ -12846,73 +12923,6 @@
           "scraped_at": "2026-04-16T06:00:38.622437+00:00"
         }
       ],
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "285551738612",
-      "title": "Bose Quietcomfort Ultra Earbuds Zwart",
-      "price": 170.0,
-      "original_price": 249.77,
-      "discount_percent": 31,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-earbuds-zwart-r-17157",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970034_6da4ff54-4c1e-400c-9929-745daf81bd26.jpg?v=1775635714",
-      "found_at": "2026-04-18T10:27:08.593037+00:00",
-      "price_history": [
-        {
-          "price": 191.1,
-          "original_price": 247.63,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 182.0,
-          "original_price": 246.63,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 176.0,
-          "original_price": 248.35,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 170.0,
-          "original_price": 249.77,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "5dea80f08f8e",
-      "title": "Dreame L10s Ultra Gen 2",
-      "price": 321.0,
-      "original_price": 435.0,
-      "discount_percent": 26,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-l10s-ultra-gen-2-r-17097",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095790_c0adda86-4174-4e5d-90d9-09ab84de09d0.jpg?v=1775635024",
-      "found_at": "2026-04-18T10:27:11.783415+00:00",
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "f0f15eb04f9b",
-      "title": "Xiaomi Redmi 15, Smartphone 6+128GB, 6.9\" FHD+ 144Hz DotDisplay, Snapdragon 685, 50MP AI dual camera, 7000mAh Battery, Titan Gray, Charger Not Included",
-      "price": 118.19,
-      "original_price": 179.0,
-      "discount_percent": 33,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FH2YXWG9?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61W470+BA4L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-18T10:10:29.030614+00:00",
       "approved_at": "18-04-2026 11:30",
       "auto_approved": true
     }
