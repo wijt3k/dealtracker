@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-18T18:31:46.357931+00:00",
-  "total": 299,
+  "updated_at": "2026-04-19T06:17:50.697602+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "1ab907218306",
@@ -59,6 +59,21 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "8f05091135a3",
+      "title": "Lenovo Laptop T15 G2 QWERTY Spaans",
+      "price": 408.82,
+      "original_price": 1112.28,
+      "discount_percent": 63,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D741545Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/411Sejw0LyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T06:02:27.912727+00:00",
+      "approved_at": "19-04-2026 07:17",
       "auto_approved": true
     },
     {
@@ -8542,6 +8557,33 @@
       "auto_approved": true
     },
     {
+      "id": "f0ad24f51001",
+      "title": "Lenovo L27I-4A Computer Monitor 68.6 Cm (27) 1920 X 1080 Pixels, W129019144 (Cm (27) 1920 X 1080 Pixels Lcd Grey)",
+      "price": 93.5,
+      "original_price": 178.25,
+      "discount_percent": 47,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DCBZHZ5F?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61AgP4YcWhL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T06:11:26.067636+00:00",
+      "price_history": [
+        {
+          "price": 113.89,
+          "original_price": 162.75,
+          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
+        },
+        {
+          "price": 93.5,
+          "original_price": 178.25,
+          "scraped_at": "2026-04-19T06:00:45.417687+00:00"
+        }
+      ],
+      "approved_at": "19-04-2026 07:17",
+      "auto_approved": true
+    },
+    {
       "id": "2268302f2226",
       "title": "Apple Mac Mini (2023) M2 (8 CPU/10 GPU) 16GB/512GB",
       "price": 572.0,
@@ -9989,6 +10031,33 @@
         }
       ],
       "approved_at": "17-04-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "a404dd1e8a11",
+      "title": "Google Pixel Watch 2 – het beste van Google en Fitbit – hartslagmeting, stressmanagement, veiligheidsfuncties – Android – aluminium behuizing in gepolijst zilver – sportarmband in Bay – WLAN",
+      "price": 96.05,
+      "original_price": 169.0,
+      "discount_percent": 43,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CGVN9LZR?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61ZEutwQeGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-19T06:07:51.610219+00:00",
+      "price_history": [
+        {
+          "price": 100.35,
+          "original_price": null,
+          "scraped_at": "2026-03-02T19:00:18.342479+00:00"
+        },
+        {
+          "price": 96.05,
+          "original_price": 169.0,
+          "scraped_at": "2026-04-19T06:00:45.417687+00:00"
+        }
+      ],
+      "approved_at": "19-04-2026 07:17",
       "auto_approved": true
     },
     {
@@ -12849,36 +12918,6 @@
           "scraped_at": "2026-04-18T10:00:52.550613+00:00"
         }
       ],
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "e4c5a2be8b84",
-      "title": "Epson EcoTank ET-3850",
-      "price": 428.0,
-      "original_price": 558.13,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/epson-ecotank-et-3850-r-17040",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1647822_4cb58e66-be32-455b-bd11-44ea9fad8301.jpg?v=1775823849",
-      "found_at": "2026-04-18T10:27:11.784874+00:00",
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "1805e3c78220",
-      "title": "Refurbished iPhone 12 Black 128GB",
-      "price": 201.0,
-      "original_price": 285.0,
-      "discount_percent": 29,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-12-black-128gb-a-r-17302",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489503_c8d25c3e-6972-4c6e-aa2e-85971b410fd5.jpg?v=1776167443",
-      "found_at": "2026-04-18T10:27:21.189063+00:00",
       "approved_at": "18-04-2026 11:30",
       "auto_approved": true
     }
