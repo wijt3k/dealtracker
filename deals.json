@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T18:20:29.054525+00:00",
-  "total": 292,
+  "updated_at": "2026-04-22T07:03:57.019650+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "1ab907218306",
@@ -414,6 +414,83 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1762790.jpg?v=1776167732",
       "found_at": "2026-04-18T10:27:18.143686+00:00",
       "approved_at": "18-04-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "0eb7b29f62ea",
+      "title": "Refurbished Microsoft Surface Laptop Copilot+ PC Snapdragon X Plus / 16GB / 256GB Platinum QWERTY",
+      "price": 586.38,
+      "original_price": 1099.0,
+      "discount_percent": 46,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-laptop-copilot-pc-13-8-snapdragon-x-plus-16gb-256gb-platinum-qwerty-r-16705",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2057130_1948f2e8-db01-48a4-86c7-738560ef8af8.jpg?v=1774255101",
+      "found_at": "2026-04-22T06:59:32.478619+00:00",
+      "price_history": [
+        {
+          "price": 1011.0,
+          "original_price": 1099.0,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 930.12,
+          "original_price": 1099.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 920.01,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 909.9,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 889.68,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 869.46,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 859.35,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 849.24,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 839.13,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 829.02,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 818.91,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
+        },
+        {
+          "price": 586.38,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
       "auto_approved": true
     },
     {
@@ -3183,6 +3260,43 @@
       "auto_approved": true
     },
     {
+      "id": "52445651f36d",
+      "title": "Dyson V15 Detect Absolute",
+      "price": 433.65,
+      "original_price": 738.78,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v15-detect-absolute-r-16899",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985353_8a54b80a-5bb4-41b4-a93a-333d6bdbd9cd.jpg?v=1774878452",
+      "found_at": "2026-04-22T06:59:22.354506+00:00",
+      "price_history": [
+        {
+          "price": 575.0,
+          "original_price": 736.2,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 603.75,
+          "original_price": 728.29,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 452.55,
+          "original_price": 726.92,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 433.65,
+          "original_price": 725.96,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
       "id": "2ce50690d41a",
       "title": "Sony Linkbuds Open Wit",
       "price": 52.0,
@@ -4959,6 +5073,43 @@
       "auto_approved": true
     },
     {
+      "id": "b0f260d2cd7f",
+      "title": "Amazfit GTR 2 46mm Smartwatch mit Bluetooth-Anrufe, 3 GB Musikspeicher, Sportuhr mit 90 Sportmodi, Herzfrequenz- und SpO2-Überwachung, works with Alexa",
+      "price": 75.03,
+      "original_price": 169.0,
+      "discount_percent": 55,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09XXJMX1D?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51Tk9vKoxtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T06:45:06.382004+00:00",
+      "price_history": [
+        {
+          "price": 70.14,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
+        },
+        {
+          "price": 67.69,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 71.36,
+          "original_price": 599.95,
+          "scraped_at": "2026-04-01T06:01:05.696489+00:00"
+        },
+        {
+          "price": 75.03,
+          "original_price": 169.0,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
       "id": "d1da74b28b5f",
       "title": "Refurbished iPhone 14 128GB Zwart",
       "price": 302.68,
@@ -5630,6 +5781,38 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "bd50fced59bc",
+      "title": "Apple MacBook Pro 14 M5 16/512GB Zwart QWERTY",
+      "price": 1407.0,
+      "original_price": 1744.93,
+      "discount_percent": 19,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-14-m5-16-512gb-zwart-qwerty-r-17359",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224454_818632e5-c4a8-4709-b7d6-b7d813d541c1.jpg?v=1776411443",
+      "found_at": "2026-04-22T06:59:19.606915+00:00",
+      "price_history": [
+        {
+          "price": 1294.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 1495.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 1407.0,
+          "original_price": 1744.93,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
       "auto_approved": true
     },
     {
@@ -6839,6 +7022,73 @@
       "auto_approved": true
     },
     {
+      "id": "888816d74a82",
+      "title": "Refurbished Microsoft Surface Laptop Copilot+ PC 13.8 Snapdragon X Plus / 16GB / 256GB Platinum QWERTY",
+      "price": 829.02,
+      "original_price": 1099.0,
+      "discount_percent": 24,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-microsoft-surface-laptop-copilot-pc-13-8-snapdragon-x-plus-16gb-256gb-platinum-qwerty-r-16703",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2057130_17946ccb-4f65-429e-b70e-4eecd5920176.jpg?v=1774255099",
+      "found_at": "2026-04-22T06:59:32.478565+00:00",
+      "price_history": [
+        {
+          "price": 1011.0,
+          "original_price": 1099.0,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 930.12,
+          "original_price": 1099.0,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 920.01,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 909.9,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 889.68,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 869.46,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 859.35,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 849.24,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 839.13,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 829.02,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
       "id": "7faabf5c83b9",
       "title": "HTC VIVE XR Elite",
       "price": 759.0,
@@ -7812,6 +8062,63 @@
       "auto_approved": true
     },
     {
+      "id": "6f2f1f02cabc",
+      "title": "Philips DiamondClean 9000 HX9911/94",
+      "price": 91.0,
+      "original_price": 170.25,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-diamondclean-9000-hx9911-94-r-16778",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1393607_513dd73e-901f-4349-99f2-7ab4d3e4cd11.jpg?v=1774947828",
+      "found_at": "2026-04-22T06:59:32.476884+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 175.27,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 145.95,
+          "original_price": 175.27,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 139.65,
+          "original_price": 171.35,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 141.75,
+          "original_price": 172.68,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 133.35,
+          "original_price": 172.64,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 170.04,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 170.04,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 170.25,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
       "id": "e0f1d53054d0",
       "title": "Miele Triflex HX2 Cat & Dog Obsidiaanzwart",
       "price": 415.0,
@@ -8097,6 +8404,63 @@
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
         }
       ]
+    },
+    {
+      "id": "35e9da4e1728",
+      "title": "Oral-B iO 9n Onyx Zwart Speciale Editie",
+      "price": 142.0,
+      "original_price": 241.5,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-9n-onyx-zwart-speciale-editie-r-16788",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1799004_2a2c3767-43a9-46bc-8bac-e9b6a7486a0a.jpg?v=1774947903",
+      "found_at": "2026-04-22T06:59:29.532294+00:00",
+      "price_history": [
+        {
+          "price": 207.0,
+          "original_price": 226.07,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 238.35,
+          "original_price": null,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 232.05,
+          "original_price": 247.5,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 225.75,
+          "original_price": 244.0,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 213.15,
+          "original_price": 244.0,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 199.0,
+          "original_price": 241.5,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 184.0,
+          "original_price": 241.5,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 142.0,
+          "original_price": 241.5,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
     },
     {
       "id": "77652994a304",
@@ -10022,6 +10386,83 @@
       "auto_approved": true
     },
     {
+      "id": "f53d31f6e659",
+      "title": "JBL Tune 720BT Zwart",
+      "price": 34.0,
+      "original_price": 63.44,
+      "discount_percent": 46,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-tune-720bt-zwart-r-16867",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1882548.jpg?v=1774948218",
+      "found_at": "2026-04-22T06:59:25.618312+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 61.73,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 45.15,
+          "original_price": 60.94,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 53.55,
+          "original_price": 64.56,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 54.6,
+          "original_price": 62.92,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 55.65,
+          "original_price": 65.76,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 51.45,
+          "original_price": 68.74,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 70.69,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 36.0,
+          "original_price": 65.29,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 64.14,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 64.14,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 63.44,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 34.0,
+          "original_price": 63.44,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
       "id": "e22f98b04dc0",
       "title": "Logitech G923 Racing Wheel and Pedals voor Xbox en PC",
       "price": 201.0,
@@ -11681,6 +12122,33 @@
       "auto_approved": true
     },
     {
+      "id": "5dea80f08f8e",
+      "title": "Dreame L10s Ultra Gen 2",
+      "price": 310.0,
+      "original_price": 435.38,
+      "discount_percent": 28,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-l10s-ultra-gen-2-r-17097",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095790_c0adda86-4174-4e5d-90d9-09ab84de09d0.jpg?v=1775635024",
+      "found_at": "2026-04-22T06:59:22.353410+00:00",
+      "price_history": [
+        {
+          "price": 321.0,
+          "original_price": 435.0,
+          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
+        },
+        {
+          "price": 310.0,
+          "original_price": 435.38,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
       "id": "3053a32a45c9",
       "title": "Bose Smart Soundbar",
       "price": 335.0,
@@ -11886,97 +12354,70 @@
       "auto_approved": true
     },
     {
-      "id": "e4c5a2be8b84",
-      "title": "Epson EcoTank ET-3850",
-      "price": 414.0,
-      "original_price": 548.13,
-      "discount_percent": 24,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/epson-ecotank-et-3850-r-17040",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1647822_4cb58e66-be32-455b-bd11-44ea9fad8301.jpg?v=1775823849",
-      "found_at": "2026-04-21T14:13:04.784159+00:00",
+      "id": "3ee1173e02ae",
+      "title": "Logitech Zone Vibe 100 lichte draadloze over ear koptelefoon met ruisonderdrukkende microfoon, Advanced Multipoint Bluetooth koptelefoon, werkt met Teams, Google Meet, Zoom, Mac/PC - Grijs",
+      "price": 52.33,
+      "original_price": 84.99,
+      "discount_percent": 38,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07W7JYN4P?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71sTJ38K8+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T06:32:17.240333+00:00",
       "price_history": [
         {
-          "price": 428.0,
-          "original_price": 558.13,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+          "price": 55.07,
+          "original_price": 84.99,
+          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
         },
         {
-          "price": 414.0,
-          "original_price": 548.13,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+          "price": 56.22,
+          "original_price": 75.59,
+          "scraped_at": "2026-03-05T19:00:23.323326+00:00"
+        },
+        {
+          "price": 53.53,
+          "original_price": 84.99,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 53.84,
+          "original_price": 75.59,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 52.99,
+          "original_price": 75.59,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        },
+        {
+          "price": 51.05,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-26T19:00:29.603331+00:00"
+        },
+        {
+          "price": 50.5,
+          "original_price": 89.99,
+          "scraped_at": "2026-04-01T06:01:05.696489+00:00"
+        },
+        {
+          "price": 52.15,
+          "original_price": 75.59,
+          "scraped_at": "2026-04-11T14:00:27.429680+00:00"
+        },
+        {
+          "price": 51.73,
+          "original_price": 75.59,
+          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
+        },
+        {
+          "price": 52.33,
+          "original_price": 84.99,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
         }
       ],
-      "approved_at": "21-04-2026 15:16",
-      "auto_approved": true
-    },
-    {
-      "id": "d0bde0f25be9",
-      "title": "BaByliss For Men  Super-X Metal 15 in 1 Multitrimmer MT991E",
-      "price": 74.0,
-      "original_price": 116.72,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/babyliss-for-men-super-x-metal-15-in-1-multitrimmer-mt991e-r-16824",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815345_b3ed99a0-c551-44ec-b012-dce1299bfe9f.jpg?v=1774948018",
-      "found_at": "2026-04-21T18:16:31.635200+00:00",
-      "price_history": [
-        {
-          "price": 87.0,
-          "original_price": 120.83,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 91.35,
-          "original_price": 120.83,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 88.2,
-          "original_price": 115.52,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 86.1,
-          "original_price": 114.51,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 87.15,
-          "original_price": 111.88,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 81.9,
-          "original_price": 112.1,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 75.0,
-          "original_price": 111.57,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 78.0,
-          "original_price": 111.23,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 70.0,
-          "original_price": 115.66,
-          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
-        },
-        {
-          "price": 74.0,
-          "original_price": 116.72,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "21-04-2026 19:20",
+      "approved_at": "22-04-2026 08:03",
       "auto_approved": true
     }
   ]
