@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-22T15:03:14.418875+00:00",
-  "total": 298,
+  "updated_at": "2026-04-22T18:48:34.451230+00:00",
+  "total": 300,
   "deals": [
+    {
+      "id": "886ec7c90752",
+      "title": "Microsoft Surface Laptop 3, 13,5 Inch Laptop (Intel Core I5, 8 GB RAM, 128 GB SSD, Win 10 Home), Platina, Duits toetsenbord",
+      "price": 364.0,
+      "original_price": 1174.7,
+      "discount_percent": 69,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07XVWXW1Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71QIdMA8qqL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:04:28.444764+00:00",
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
     {
       "id": "8f05091135a3",
       "title": "Lenovo Laptop T15 G2 QWERTY Spaans",
@@ -2390,6 +2405,33 @@
       "auto_approved": true
     },
     {
+      "id": "80e11c9db79e",
+      "title": "Razer Kraken Kitty V3 Pro - RGB Kitty draadloze gamingheadset - reactieve kattenoren voor streaming Hoofdtelefoon - Triforce 40mm Driver - Hyperspeed Wireless & Bluetooth - THX Spatial Audio | Zwart",
+      "price": 122.16,
+      "original_price": 338.51,
+      "discount_percent": 63,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FBWX8SPT?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71y6ikkVHBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:38:01.111718+00:00",
+      "price_history": [
+        {
+          "price": 124.68,
+          "original_price": 178.02,
+          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
+        },
+        {
+          "price": 122.16,
+          "original_price": 338.51,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
       "id": "e45fb581a268",
       "title": "Bose Smart Ultra Soundbar Zwart",
       "price": 541.2,
@@ -4257,6 +4299,73 @@
       "auto_approved": true
     },
     {
+      "id": "89e5604759e3",
+      "title": "Bose Quietcomfort Ultra Earbuds Zwart",
+      "price": 115.0,
+      "original_price": 259.76,
+      "discount_percent": 55,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-earbuds-zwart-r-16837",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970034_bdb61381-0db7-403c-88d8-67af12255ff8.jpg?v=1774948078",
+      "found_at": "2026-04-22T18:43:39.364403+00:00",
+      "price_history": [
+        {
+          "price": 317.0,
+          "original_price": null,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 190.05,
+          "original_price": 249.57,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 332.85,
+          "original_price": null,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 307.65,
+          "original_price": null,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 184.8,
+          "original_price": 247.63,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 174.3,
+          "original_price": 246.63,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 251.82,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 249.77,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 149.0,
+          "original_price": 249.77,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 259.76,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
       "id": "e38f4087a4b5",
       "title": "Dreame X50 White",
       "price": 542.0,
@@ -4825,6 +4934,58 @@
         }
       ],
       "approved_at": "20-04-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "583bf65d4d76",
+      "title": "Philips Series 9000 15-in-1 MG9531/15",
+      "price": 31.0,
+      "original_price": 87.16,
+      "discount_percent": 64,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-9000-15-in-1-mg9531-15-r-16776",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224809.jpg?v=1774947833",
+      "found_at": "2026-04-22T06:59:32.477338+00:00",
+      "price_history": [
+        {
+          "price": 69.0,
+          "original_price": 83.06,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 72.45,
+          "original_price": 83.06,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 65.1,
+          "original_price": 81.51,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 61.95,
+          "original_price": 86.85,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 84.89,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 87.99,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 31.0,
+          "original_price": 87.16,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
       "auto_approved": true
     },
     {
@@ -6304,6 +6465,83 @@
         }
       ],
       "approved_at": "20-04-2026 11:43",
+      "auto_approved": true
+    },
+    {
+      "id": "7d882059aeef",
+      "title": "Samsung VG-SOCA05 One Invisible Cable",
+      "price": 68.0,
+      "original_price": 146.17,
+      "discount_percent": 53,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-vg-soca05-one-invisible-cable-r-16651",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1386659_6a4dd8eb-134b-4729-94db-e483d40071c8.jpg?v=1774254701",
+      "found_at": "2026-04-22T18:43:59.582534+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 149.05,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 142.71,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 139.78,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 176.4,
+          "original_price": null,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 109.2,
+          "original_price": 139.78,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 161.7,
+          "original_price": null,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 150.15,
+          "original_price": 158.47,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 130.2,
+          "original_price": 159.9,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 123.9,
+          "original_price": 146.17,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 146.17,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 146.17,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 146.17,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
       "auto_approved": true
     },
     {
@@ -8120,6 +8358,63 @@
       "auto_approved": true
     },
     {
+      "id": "e646b0ae7f72",
+      "title": "SAMSUNG PC-monitor S30GD, afmeting 24 inch, IPS-paneel, FHD resolutie (1920 x 1080), 100 Hz, VESA 100 x 100, contrast 1000:1, Eye Saver Mode, Flicker Free, HDMI (1,4), S24D302GAUXEN",
+      "price": 59.05,
+      "original_price": 119.99,
+      "discount_percent": 50,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DLC5GSTQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61Q0d5+BLWL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:26:04.909544+00:00",
+      "price_history": [
+        {
+          "price": 67.88,
+          "original_price": 199.99,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 62.86,
+          "original_price": 79.99,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 60.97,
+          "original_price": 98.52,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 63.98,
+          "original_price": 79.0,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 60.97,
+          "original_price": 79.0,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 63.98,
+          "original_price": 79.0,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 61.97,
+          "original_price": 79.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 59.05,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
       "id": "0b4fad2cba3f",
       "title": "VEO-XS 4,3\" DUOX PLUS-MONITOR",
       "price": 67.3,
@@ -8413,6 +8708,63 @@
         }
       ],
       "approved_at": "21-04-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "cea47d3ab157",
+      "title": "KOSPET Tank T3 Smartwatch voor heren, 60 dagen acculatie, 50 m waterdicht, militair getest, volledig metalen behuizing, 1,43 inch AMOLED",
+      "price": 100.39,
+      "original_price": 187.2,
+      "discount_percent": 46,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FPFYRRKD?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Nqd4JOx4L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:19:38.896937+00:00",
+      "price_history": [
+        {
+          "price": 110.99,
+          "original_price": null,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 108.47,
+          "original_price": null,
+          "scraped_at": "2026-03-01T15:00:20.730172+00:00"
+        },
+        {
+          "price": 107.31,
+          "original_price": null,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 80.36,
+          "original_price": 86.41,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 82.09,
+          "original_price": 86.41,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 104.75,
+          "original_price": null,
+          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
+        },
+        {
+          "price": 103.29,
+          "original_price": 122.01,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 100.39,
+          "original_price": 187.2,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
       "auto_approved": true
     },
     {
@@ -8921,6 +9273,68 @@
       "auto_approved": true
     },
     {
+      "id": "fe2c2b63d2f6",
+      "title": "Apple iPad Pro (2021) 12.9 inch 128GB Wifi Zilver",
+      "price": 725.0,
+      "original_price": 959.0,
+      "discount_percent": 24,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2021-12-9-inch-128gb-wifi-zilver-r-17005",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1572263.jpg?v=1775634357",
+      "found_at": "2026-04-22T18:43:35.788419+00:00",
+      "price_history": [
+        {
+          "price": 663.6,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 632.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 793.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 784.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 776.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
+        },
+        {
+          "price": 767.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 742.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 734.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 725.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
       "id": "24dd7d769ba3",
       "title": "Medisana TM 750",
       "price": 20.0,
@@ -8977,6 +9391,155 @@
           "scraped_at": "2026-04-14T10:00:16.849075+00:00"
         }
       ]
+    },
+    {
+      "id": "a3f7bfbbeaf8",
+      "title": "HP V22v G5 54,5 cm (21,5\") FHD Monitor 16",
+      "price": 62.47,
+      "original_price": 119.99,
+      "discount_percent": 47,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BRBGKYYJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/917uT0V4wOL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:24:17.488498+00:00",
+      "price_history": [
+        {
+          "price": 76.55,
+          "original_price": 102.43,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 75.1,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 117.33,
+          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
+        },
+        {
+          "price": 72.67,
+          "original_price": 99.95,
+          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
+        },
+        {
+          "price": 84.08,
+          "original_price": 114.8,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 86.47,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 75.55,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
+        },
+        {
+          "price": 61.79,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
+        },
+        {
+          "price": 50.05,
+          "original_price": 75.26,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 62.47,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
+      "id": "031164979573",
+      "title": "HUAWEI Band 10 Smartwatch aluminiumlegering behuizing tot 14 dagen batterijduur, iOS & Android, gemiddelde slaap HRV en slaapinzichten met een AI-aangedreven fitnessmonitoringtracker, slaapademhaling",
+      "price": 87.27,
+      "original_price": 159.0,
+      "discount_percent": 45,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DX32QS5S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61PJE0B6cIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:15:48.085837+00:00",
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
+      "id": "e450ad690684",
+      "title": "Refurbished iPhone 13 mini 128GB Zwart",
+      "price": 246.82,
+      "original_price": 386.0,
+      "discount_percent": 36,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-mini-128gb-zwart-r-16997",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631194_80e1fbd2-2995-4e11-9e8b-b9621bfe517e.jpg?v=1775634283",
+      "found_at": "2026-04-22T18:43:56.797001+00:00",
+      "price_history": [
+        {
+          "price": 287.0,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 269.78,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 287.0,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 264.04,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
+        },
+        {
+          "price": 261.17,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 258.3,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-18T10:00:52.550613+00:00"
+        },
+        {
+          "price": 255.43,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-19T10:00:33.712759+00:00"
+        },
+        {
+          "price": 252.56,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 249.69,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 246.82,
+          "original_price": 386.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
     },
     {
       "id": "35e9da4e1728",
@@ -9279,6 +9842,53 @@
       "auto_approved": true
     },
     {
+      "id": "93a3edace6dd",
+      "title": "Logitech Combo Touch iPad Air 13\"  2024 Graphite QWERTY",
+      "price": 152.0,
+      "original_price": 255.84,
+      "discount_percent": 40,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-combo-touch-ipad-air-13-2024-graphite-qwerty-r-17083",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2065715.jpg?v=1775634929",
+      "found_at": "2026-04-22T18:43:50.044267+00:00",
+      "price_history": [
+        {
+          "price": 180.6,
+          "original_price": 258.4,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 180.0,
+          "original_price": 263.38,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 257.96,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 257.95,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 255.84,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 152.0,
+          "original_price": 255.84,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
       "id": "846a3ab0d357",
       "title": "ABUS UBAN-I 4.0 Zilver L",
       "price": 46.0,
@@ -9433,6 +10043,38 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "70e48c2684ba",
+      "title": "Xiaomi Monitor A22i",
+      "price": 64.01,
+      "original_price": 119.99,
+      "discount_percent": 46,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CN9BFSCX?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51-2fx+CPHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T18:24:24.435903+00:00",
+      "price_history": [
+        {
+          "price": 64.25,
+          "original_price": 99.95,
+          "scraped_at": "2026-03-12T07:00:18.865354+00:00"
+        },
+        {
+          "price": 55.89,
+          "original_price": 69.0,
+          "scraped_at": "2026-03-19T19:00:19.061868+00:00"
+        },
+        {
+          "price": 64.01,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
       "auto_approved": true
     },
     {
@@ -11088,6 +11730,43 @@
       "auto_approved": true
     },
     {
+      "id": "730f5586c6c6",
+      "title": "Black & Decker  GTC1845L20-QW Heggenschaar",
+      "price": 55.0,
+      "original_price": 99.29,
+      "discount_percent": 44,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/black-decker-gtc1845l20-qw-heggenschaar-r-17100",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1365297.jpg?v=1775635081",
+      "found_at": "2026-04-22T18:43:39.363554+00:00",
+      "price_history": [
+        {
+          "price": 63.0,
+          "original_price": 97.83,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 96.6,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 96.6,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 99.29,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
       "id": "e22f98b04dc0",
       "title": "Logitech G923 Racing Wheel and Pedals voor Xbox en PC",
       "price": 201.0,
@@ -11225,441 +11904,6 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "374a32f405cf",
-      "title": "Google Pixel Buds Pro 2 Grijs",
-      "price": 136.0,
-      "original_price": 219.42,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/google-pixel-buds-pro-2-grijs-r-17121",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2083385.jpg?v=1775635333",
-      "found_at": "2026-04-21T06:32:44.506015+00:00",
-      "price_history": [
-        {
-          "price": 156.45,
-          "original_price": 225.54,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 168.0,
-          "original_price": 226.85,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 160.0,
-          "original_price": 226.85,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": 226.85,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 148.0,
-          "original_price": 227.2,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 136.0,
-          "original_price": 219.42,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "21-04-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "db0acb948e33",
-      "title": "Apple iPad Air 13-inch Wi-Fi 128GB - Space Grey",
-      "price": 696.0,
-      "original_price": 899.0,
-      "discount_percent": 22,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-13-inch-ipad-air-wi-fi-128gb-space-grey-r-17001",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_df79e19c-fe1f-4007-bc0a-e8a05d26617d.jpg?v=1775634317",
-      "found_at": "2026-04-20T18:15:06.132633+00:00",
-      "price_history": [
-        {
-          "price": 622.65,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 593.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 743.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 735.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 727.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 719.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 696.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "20-04-2026 19:20",
-      "auto_approved": true
-    },
-    {
-      "id": "50399aab6c74",
-      "title": "Apple 13-inch iPad Air Wi-Fi 128GB - Space Grey",
-      "price": 696.0,
-      "original_price": 899.0,
-      "discount_percent": 22,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-13-inch-ipad-air-wi-fi-128gb-space-grey-r-17065",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_50fb8378-4627-4a6b-9d77-b9f405765af6.jpg?v=1775634719",
-      "found_at": "2026-04-20T18:15:06.130940+00:00",
-      "price_history": [
-        {
-          "price": 622.65,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 593.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 743.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 735.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 727.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 719.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 696.0,
-          "original_price": 899.0,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "20-04-2026 19:20",
-      "auto_approved": true
-    },
-    {
-      "id": "4359206bcfb8",
-      "title": "Bose QuietComfort Headphones Zwart",
-      "price": 172.0,
-      "original_price": 269.95,
-      "discount_percent": 36,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-headphones-zwart-r-16864",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969950_2d138968-4897-4f10-83a5-2c1c4c7efd13.jpg?v=1774948171",
-      "found_at": "2026-04-16T18:57:02.450988+00:00",
-      "price_history": [
-        {
-          "price": 194.0,
-          "original_price": 269.95,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 203.7,
-          "original_price": 269.95,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 195.3,
-          "original_price": 269.95,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 180.6,
-          "original_price": 269.95,
-          "discount_percent": 33,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 172.0,
-          "original_price": 269.95,
-          "discount_percent": 36,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 269.95,
-          "discount_percent": 42,
-          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
-        }
-      ],
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true
-    },
-    {
-      "id": "087e342e6ce1",
-      "title": "Apple iPhone 16e 128GB Zwart",
-      "price": 403.0,
-      "original_price": 560.0,
-      "discount_percent": 28,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-iphone-16e-128gb-zwart-r-17170",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2141650_76c50ecd-c185-45a0-b480-ba9015aa8a39.jpg?v=1775824061",
-      "found_at": "2026-04-16T18:56:59.827411+00:00",
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 403.0,
-          "original_price": 560.0,
-          "discount_percent": 28,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ]
-    },
-    {
-      "id": "4aa5cbce3f57",
-      "title": "Nilfisk Excellent 170",
-      "price": 191.0,
-      "original_price": 295.0,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nilfisk-excellent-170-r-17410",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1874400_1676aaf0-b5c7-4cb2-8da9-322b33d5254a.jpg?v=1776760564",
-      "found_at": "2026-04-22T14:58:13.786988+00:00",
-      "approved_at": "22-04-2026 16:03",
-      "auto_approved": true
-    },
-    {
-      "id": "1788f925d50c",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelsblauw AZERTY",
-      "price": 764.0,
-      "original_price": 972.68,
-      "discount_percent": 21,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-hemelsblauw-azerty-r-16877",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340.jpg?v=1774878229",
-      "found_at": "2026-04-18T10:27:05.919634+00:00",
-      "price_history": [
-        {
-          "price": 791.0,
-          "original_price": 933.96,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 830.55,
-          "original_price": 971.23,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 876.75,
-          "original_price": 991.61,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 867.3,
-          "original_price": 954.1,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 798.0,
-          "original_price": 980.35,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 768.0,
-          "original_price": 974.52,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 764.0,
-          "original_price": 972.68,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        }
-      ],
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "06fdbd24ebe6",
-      "title": "SteamOne Henri 2",
-      "price": 110.0,
-      "original_price": 180.75,
-      "discount_percent": 39,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/steamone-henri-2-r-17018",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2130899.jpg?v=1775823806",
-      "found_at": "2026-04-16T18:57:18.515715+00:00",
-      "approved_at": "16-04-2026 20:01",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 110.0,
-          "original_price": 180.75,
-          "discount_percent": 39,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        }
-      ]
-    },
-    {
-      "id": "96b6778cd2ea",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
-      "price": 849.0,
-      "original_price": 1061.74,
-      "discount_percent": 20,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-r-16900",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2_cf870768-2d17-43d7-b870-f754c1b15474.jpg?v=1774879203",
-      "found_at": "2026-04-17T10:57:43.789827+00:00",
-      "approved_at": "17-04-2026 12:00",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 849.0,
-          "original_price": 1061.74,
-          "discount_percent": 20,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        }
-      ]
-    },
-    {
-      "id": "1805e3c78220",
-      "title": "Refurbished iPhone 12 Black 128GB",
-      "price": 184.92,
-      "original_price": 285.0,
-      "discount_percent": 35,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-12-black-128gb-a-r-17302",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489503_c8d25c3e-6972-4c6e-aa2e-85971b410fd5.jpg?v=1776167443",
-      "found_at": "2026-04-22T10:23:08.921237+00:00",
-      "price_history": [
-        {
-          "price": 201.0,
-          "original_price": 285.0,
-          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
-        },
-        {
-          "price": 184.92,
-          "original_price": 285.0,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        }
-      ],
-      "approved_at": "22-04-2026 11:27",
-      "auto_approved": true
-    },
-    {
-      "id": "5af408d82fcd",
-      "title": "JBL Live Flex 3 Zwart",
-      "price": 91.0,
-      "original_price": 153.55,
-      "discount_percent": 40,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/jbl-live-flex-3-zwart-r-17232",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2054748.jpg?v=1776166839",
-      "found_at": "2026-04-18T10:27:15.163932+00:00",
-      "approved_at": "18-04-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "6fb38f5a2499",
-      "title": "Braun MultiQuick 7 MQ7035X",
-      "price": 51.0,
-      "original_price": 90.8,
-      "discount_percent": 43,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/braun-multiquick-7-mq7035x-r-16955",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391269_f2eb05aa-777e-441b-91c6-a97196604d76.jpg?v=1774948688",
-      "found_at": "2026-04-17T06:22:14.640328+00:00",
-      "price_history": [
-        {
-          "price": 68.0,
-          "original_price": 89.95,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 71.4,
-          "original_price": 90.82,
-          "discount_percent": 21,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 69.3,
-          "original_price": 93.41,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 65.1,
-          "original_price": 92.5,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 62.0,
-          "original_price": 91.5,
-          "discount_percent": 32,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 90.8,
-          "discount_percent": 43,
-          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
-        }
-      ],
-      "approved_at": "17-04-2026 07:25",
       "auto_approved": true
     }
   ]
