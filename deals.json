@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T07:04:02.478786+00:00",
-  "total": 297,
+  "updated_at": "2026-04-22T10:27:44.775562+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "1ab907218306",
@@ -1911,6 +1911,38 @@
       "auto_approved": true
     },
     {
+      "id": "636b5d6e6b5c",
+      "title": "Lenovo Yoga Tab Plus 256GB WiFi Blue  QWERTY",
+      "price": 389.0,
+      "original_price": 752.33,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-yoga-tab-plus-256gb-wifi-blue-with-stylus-and-keyboard-cover-qwerty-r-17147",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129323_6aaf2d91-c598-4b9f-925e-32d49c525efd.jpg?v=1775635607",
+      "found_at": "2026-04-22T10:23:05.518748+00:00",
+      "price_history": [
+        {
+          "price": 565.95,
+          "original_price": 744.68,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 407.0,
+          "original_price": 711.34,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 389.0,
+          "original_price": 752.33,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "cb34bf7f79ee",
       "title": "Siemens EQ.6 Plus S100 TE651209RW",
       "price": 411.0,
@@ -2264,6 +2296,43 @@
         }
       ],
       "approved_at": "19-04-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "fcfbc47d4787",
+      "title": "Kitchenaid Artisan Bowl-Lift 5KSM70SHXEOB Onyx Zwart",
+      "price": 360.0,
+      "original_price": 699.0,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kitchenaid-artisan-bowl-lift-5ksm70shxeob-onyx-zwart-r-16956",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1977224.jpg?v=1774948711",
+      "found_at": "2026-04-22T10:23:02.174615+00:00",
+      "price_history": [
+        {
+          "price": 643.0,
+          "original_price": 699.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 675.15,
+          "original_price": 699.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 643.0,
+          "original_price": 699.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 360.0,
+          "original_price": 699.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 11:27",
       "auto_approved": true
     },
     {
@@ -4075,6 +4144,43 @@
       "auto_approved": true
     },
     {
+      "id": "473d0e327e6b",
+      "title": "Dyson Pure Hot+Cool - HP00",
+      "price": 205.0,
+      "original_price": 399.0,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-pure-hot-cool-hp00-r-16940",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797650.jpg?v=1774948566",
+      "found_at": "2026-04-22T10:22:59.791748+00:00",
+      "price_history": [
+        {
+          "price": 367.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 385.35,
+          "original_price": 399.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 367.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 205.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "3aac21824ac8",
       "title": "Sony WH-1000XM5 Noise Cancelling draadloze hoofdtelefoon - 30 uur batterijduur - Over-ear - Geoptimaliseerd voor Alexa en Google Assistent - met ingebouwde microfoon voor telefoongesprekken – Blauw",
       "price": 185.41,
@@ -5078,6 +5184,43 @@
         }
       ],
       "approved_at": "22-04-2026 08:03",
+      "auto_approved": true
+    },
+    {
+      "id": "de85dcf35d7c",
+      "title": "Cricut Explore 5 + Essentials-bundel",
+      "price": 154.0,
+      "original_price": 300.0,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/cricut-explore-5-essentials-bundel-r-16907",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/600337720.jpg?v=1774948316",
+      "found_at": "2026-04-22T10:22:59.790247+00:00",
+      "price_history": [
+        {
+          "price": 276.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 289.8,
+          "original_price": 300.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 154.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 11:27",
       "auto_approved": true
     },
     {
@@ -7175,6 +7318,78 @@
         }
       ],
       "approved_at": "16-04-2026 20:01",
+      "auto_approved": true
+    },
+    {
+      "id": "d0bde0f25be9",
+      "title": "BaByliss For Men  Super-X Metal 15 in 1 Multitrimmer MT991E",
+      "price": 57.0,
+      "original_price": 116.72,
+      "discount_percent": 51,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-for-men-super-x-metal-15-in-1-multitrimmer-mt991e-r-16824",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815345_b3ed99a0-c551-44ec-b012-dce1299bfe9f.jpg?v=1774948018",
+      "found_at": "2026-04-22T10:22:56.694295+00:00",
+      "price_history": [
+        {
+          "price": 87.0,
+          "original_price": 120.83,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 91.35,
+          "original_price": 120.83,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 88.2,
+          "original_price": 115.52,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 86.1,
+          "original_price": 114.51,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 87.15,
+          "original_price": 111.88,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 81.9,
+          "original_price": 112.1,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 111.57,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 111.23,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 115.66,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 116.72,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 116.72,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 11:27",
       "auto_approved": true
     },
     {
@@ -10899,6 +11114,33 @@
       ]
     },
     {
+      "id": "1805e3c78220",
+      "title": "Refurbished iPhone 12 Black 128GB",
+      "price": 184.92,
+      "original_price": 285.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-12-black-128gb-a-r-17302",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489503_c8d25c3e-6972-4c6e-aa2e-85971b410fd5.jpg?v=1776167443",
+      "found_at": "2026-04-22T10:23:08.921237+00:00",
+      "price_history": [
+        {
+          "price": 201.0,
+          "original_price": 285.0,
+          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
+        },
+        {
+          "price": 184.92,
+          "original_price": 285.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        }
+      ],
+      "approved_at": "22-04-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "5af408d82fcd",
       "title": "JBL Live Flex 3 Zwart",
       "price": 91.0,
@@ -11699,6 +11941,21 @@
       "auto_approved": true
     },
     {
+      "id": "3671cdacb628",
+      "title": "Lenovo L24i-30 Gaming-monitor, 23.8 inch FullHD (1920 x 1080, IPS, 4 ms, 75 Hz, HDMI + VGA-ingang, HDMI-kabel, FreeSync, metalen sokkel en smartphonehouder) verstelbaar, zwart/grijs",
+      "price": 109.39,
+      "original_price": 176.0,
+      "discount_percent": 37,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08K97CR79?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81RBAxr3zxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T10:18:55.499950+00:00",
+      "approved_at": "22-04-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "fd3fe2df54cd",
       "title": "OPPO Reno10 Smartphone 5G, AI Triple Camera 64+32+8MP, Selfie 32MP, Display 6.7\" 120HZ AMOLED, 5000mAh, RAM 8GB (Esp until 16GB) + ROM 256GB, Silvery Grey",
       "price": 216.66,
@@ -12111,238 +12368,30 @@
       "auto_approved": true
     },
     {
-      "id": "1219642cab79",
-      "title": "Logitech G PRO X Wireless LIGHTSPEED Gaming Headset",
-      "price": 91.0,
-      "original_price": 144.31,
-      "discount_percent": 36,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-pro-x-wireless-lightspeed-gaming-headset-r-17282",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135200_a031bfe5-8ea8-4e0f-9ef0-ba14fb581c6c.jpg?v=1776167211",
-      "found_at": "2026-04-21T14:13:11.683598+00:00",
-      "price_history": [
-        {
-          "price": 109.0,
-          "original_price": 144.47,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 94.0,
-          "original_price": 144.31,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 91.0,
-          "original_price": 144.31,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "21-04-2026 15:16",
-      "auto_approved": true
-    },
-    {
-      "id": "fddd515de308",
-      "title": "Blackvue DR970X-2CH Plus II 64GB",
-      "price": 538.0,
-      "original_price": 695.96,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-plus-ii-64gb-r-16791",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2190624_6bd8a0fb-800a-4572-9560-9b9d3e1af961.jpg?v=1774947929",
-      "found_at": "2026-04-21T14:13:01.858095+00:00",
-      "price_history": [
-        {
-          "price": 634.0,
-          "original_price": 694.96,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 665.7,
-          "original_price": 694.96,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 644.7,
-          "original_price": 694.96,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 616.35,
-          "original_price": 699.76,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 579.0,
-          "original_price": 695.96,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 538.0,
-          "original_price": 695.96,
-          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
-        }
-      ],
-      "approved_at": "21-04-2026 15:16",
-      "auto_approved": true
-    },
-    {
-      "id": "fb5e4b0504b2",
-      "title": "Apple iPad Pro (2021) 11 inch Space Gray",
-      "price": 489.0,
-      "original_price": 639.0,
-      "discount_percent": 23,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2021-11-inch-space-gray-r-17033",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1571973_303c9300-b1b5-4c29-a2bf-b45be3417250.jpg?v=1775634584",
-      "found_at": "2026-04-21T14:12:57.826243+00:00",
-      "price_history": [
-        {
-          "price": 442.05,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 421.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 528.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 522.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 517.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 511.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 494.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 489.0,
-          "original_price": 639.0,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "21-04-2026 15:16",
-      "auto_approved": true
-    },
-    {
-      "id": "d683cb1e0768",
-      "title": "Panasonic SD-YR2540HXD",
-      "price": 162.0,
-      "original_price": 240.0,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/panasonic-sd-yr2540hxd-r-17268",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1589546_a9c2f307-40de-4888-8148-fb5c849b47cb.jpg?v=1776167127",
-      "found_at": "2026-04-21T14:13:15.323994+00:00",
-      "price_history": [
-        {
-          "price": 156.0,
-          "original_price": 230.0,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 169.0,
-          "original_price": 240.0,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 162.0,
-          "original_price": 240.0,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "21-04-2026 15:16",
-      "auto_approved": true
-    },
-    {
-      "id": "3ee1173e02ae",
-      "title": "Logitech Zone Vibe 100 lichte draadloze over ear koptelefoon met ruisonderdrukkende microfoon, Advanced Multipoint Bluetooth koptelefoon, werkt met Teams, Google Meet, Zoom, Mac/PC - Grijs",
-      "price": 52.33,
-      "original_price": 84.99,
-      "discount_percent": 38,
-      "category": "smartphones",
+      "id": "5ecf78414b48",
+      "title": "Samsung Essential S3 S32D396GAU - S39GD Series - LED-Monitor - gebogen - 81.3 cm (32\")",
+      "price": 109.85,
+      "original_price": 170.9,
+      "discount_percent": 35,
+      "category": "tv",
       "source": "Amazon RetourDeals",
       "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B07W7JYN4P?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71sTJ38K8+L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-22T06:32:17.240333+00:00",
+      "url": "https://www.amazon.nl/dp/B0DV9PKRYX?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/611-VBt4EqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-22T10:19:12.073503+00:00",
       "price_history": [
         {
-          "price": 55.07,
-          "original_price": 84.99,
-          "scraped_at": "2026-02-28T15:00:18.801167+00:00"
+          "price": 109.83,
+          "original_price": 170.9,
+          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
         },
         {
-          "price": 56.22,
-          "original_price": 75.59,
-          "scraped_at": "2026-03-05T19:00:23.323326+00:00"
-        },
-        {
-          "price": 53.53,
-          "original_price": 84.99,
-          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
-        },
-        {
-          "price": 53.84,
-          "original_price": 75.59,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 52.99,
-          "original_price": 75.59,
-          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
-        },
-        {
-          "price": 51.05,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-26T19:00:29.603331+00:00"
-        },
-        {
-          "price": 50.5,
-          "original_price": 89.99,
-          "scraped_at": "2026-04-01T06:01:05.696489+00:00"
-        },
-        {
-          "price": 52.15,
-          "original_price": 75.59,
-          "scraped_at": "2026-04-11T14:00:27.429680+00:00"
-        },
-        {
-          "price": 51.73,
-          "original_price": 75.59,
-          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
-        },
-        {
-          "price": 52.33,
-          "original_price": 84.99,
-          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+          "price": 109.85,
+          "original_price": 170.9,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
         }
       ],
-      "approved_at": "22-04-2026 08:03",
+      "approved_at": "22-04-2026 11:27",
       "auto_approved": true
     }
   ]
