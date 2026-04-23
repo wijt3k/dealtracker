@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T09:52:47.555783+00:00",
+  "updated_at": "2026-04-23T10:16:56.351290+00:00",
   "total": 300,
   "deals": [
     {
@@ -10797,6 +10797,33 @@
       "auto_approved": true
     },
     {
+      "id": "c26f1e9b5c48",
+      "title": "Audio-Technica AT-LP70xBT Zwart",
+      "price": 155.0,
+      "original_price": 256.87,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/audio-technica-at-lp70xbt-zwart-r-17267",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2086635_087e1234-36cb-441a-97e9-fa9149d4762c.jpg?v=1776167114",
+      "found_at": "2026-04-21T18:16:31.635096+00:00",
+      "price_history": [
+        {
+          "price": 162.0,
+          "original_price": 263.43,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 155.0,
+          "original_price": 256.87,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        }
+      ],
+      "approved_at": "23-04-2026 11:16",
+      "auto_approved": true
+    },
+    {
       "id": "a57b63fb58cd",
       "title": "Jabra Evolve2 65 Draadloze Headset met Oplaadstation – UC-gecertificeerde Stereokoptelefoon met Noise Cancelling en Lange Batterijduur – USB-A Bluetooth Adapter – Zwart",
       "price": 105.95,
@@ -11812,48 +11839,6 @@
         }
       ],
       "approved_at": "20-04-2026 19:20",
-      "auto_approved": true
-    },
-    {
-      "id": "efa06e21f6af",
-      "title": "Apple MacBook Air 15\" (2025) M4 (10/10) 16GB/256GB Hemelblauw QWERTY",
-      "price": 984.0,
-      "original_price": 1217.19,
-      "discount_percent": 19,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-15-2025-m4-10-10-16gb-256gb-hemelblauw-qwerty-r-17024",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146462.jpg?v=1775634509",
-      "found_at": "2026-04-18T10:27:05.920160+00:00",
-      "price_history": [
-        {
-          "price": 1099.35,
-          "original_price": 1233.54,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 1098.3,
-          "original_price": 1232.6,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 1042.0,
-          "original_price": 1226.22,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 1040.0,
-          "original_price": 1225.15,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 984.0,
-          "original_price": 1217.86,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        }
-      ],
-      "approved_at": "18-04-2026 11:30",
       "auto_approved": true
     }
   ]
