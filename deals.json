@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T10:16:59.518996+00:00",
-  "total": 296,
+  "updated_at": "2026-04-23T14:31:55.531064+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "886ec7c90752",
@@ -4203,6 +4203,73 @@
       "auto_approved": true
     },
     {
+      "id": "61854b7a8506",
+      "title": "Bose Quietcomfort Ultra Earbuds Zwart",
+      "price": 115.0,
+      "original_price": 259.76,
+      "discount_percent": 55,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-earbuds-zwart-r-16948",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970034_cc942c6f-7f25-440d-a233-1ec8b41e114e.jpg?v=1774948629",
+      "found_at": "2026-04-23T14:26:26.929954+00:00",
+      "price_history": [
+        {
+          "price": 181.0,
+          "original_price": 249.57,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 190.05,
+          "original_price": 249.57,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 332.85,
+          "original_price": null,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 307.65,
+          "original_price": null,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 184.8,
+          "original_price": 247.63,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 174.3,
+          "original_price": 246.63,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 251.82,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 249.77,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 149.0,
+          "original_price": 249.77,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 259.76,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "23-04-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "89e5604759e3",
       "title": "Bose Quietcomfort Ultra Earbuds Zwart",
       "price": 115.0,
@@ -4267,6 +4334,21 @@
         }
       ],
       "approved_at": "22-04-2026 19:48",
+      "auto_approved": true
+    },
+    {
+      "id": "11cd4ac4b4cc",
+      "title": "Samsung Galaxy S10e Smartphone (6 GB + 128 GB Interner Speicher) Prism schwarz",
+      "price": 116.9,
+      "original_price": 259.99,
+      "discount_percent": 55,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07MTQNHQF?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61I3i5qcnSL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-04-23T14:11:01.528482+00:00",
+      "approved_at": "23-04-2026 15:31",
       "auto_approved": true
     },
     {
@@ -9069,6 +9151,21 @@
       "auto_approved": true
     },
     {
+      "id": "d4dc7f89f2d4",
+      "title": "Fitbit Ace 3 Activiteitstracker voor kinderen vanaf 6 jaar. Motiverende geanimeerde wijzerplaten & Batterijduur tot 8 dagen",
+      "price": 84.88,
+      "original_price": 159.99,
+      "discount_percent": 46,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08VKX27ZV?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61r4wWJ0SrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-23T14:16:40.866237+00:00",
+      "approved_at": "23-04-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "e4c532b9e184",
       "title": "Dreame D20 Pro Plus",
       "price": 179.4,
@@ -9249,6 +9346,53 @@
         }
       ],
       "approved_at": "20-04-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "efa06e21f6af",
+      "title": "Apple MacBook Air 15\" (2025) M4 (10/10) 16GB/256GB Hemelblauw QWERTY",
+      "price": 951.0,
+      "original_price": 1211.12,
+      "discount_percent": 21,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-2025-m4-10-10-16gb-256gb-hemelblauw-qwerty-r-17024",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146462.jpg?v=1775634509",
+      "found_at": "2026-04-23T06:27:02.446111+00:00",
+      "price_history": [
+        {
+          "price": 1099.35,
+          "original_price": 1233.54,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 1098.3,
+          "original_price": 1232.6,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 1042.0,
+          "original_price": 1226.22,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1040.0,
+          "original_price": 1225.15,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 984.0,
+          "original_price": 1217.86,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 951.0,
+          "original_price": 1211.12,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "23-04-2026 15:31",
       "auto_approved": true
     },
     {
