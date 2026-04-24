@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T14:26:46.396320+00:00",
+  "updated_at": "2026-04-24T18:31:35.162588+00:00",
   "total": 300,
   "deals": [
     {
@@ -12473,6 +12473,38 @@
       "auto_approved": true
     },
     {
+      "id": "285de5555681",
+      "title": "Xiaomi pad 7 8+128 Blue",
+      "price": 231.86,
+      "original_price": 331.75,
+      "discount_percent": 30,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DQ5LZ33Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61xRwbzdL1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T18:07:03.668638+00:00",
+      "price_history": [
+        {
+          "price": 271.81,
+          "original_price": 331.75,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        },
+        {
+          "price": 228.32,
+          "original_price": 331.75,
+          "scraped_at": "2026-03-25T15:00:17.591162+00:00"
+        },
+        {
+          "price": 231.86,
+          "original_price": 331.75,
+          "scraped_at": "2026-03-30T18:00:43.987076+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 19:31",
+      "auto_approved": true
+    },
+    {
       "id": "1219642cab79",
       "title": "Logitech G PRO X Wireless LIGHTSPEED Gaming Headset",
       "price": 91.0,
@@ -13534,33 +13566,6 @@
         {
           "price": 108.0,
           "original_price": 154.59,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        }
-      ],
-      "approved_at": "24-04-2026 11:20",
-      "auto_approved": true
-    },
-    {
-      "id": "7aee07f86bb7",
-      "title": "Roborock QR 598 White",
-      "price": 315.0,
-      "original_price": 413.95,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/roborock-qr-598-white-r-17485",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2235489.jpg?v=1776761398",
-      "found_at": "2026-04-24T10:17:08.155289+00:00",
-      "price_history": [
-        {
-          "price": 312.0,
-          "original_price": 355.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 315.0,
-          "original_price": 413.95,
           "scraped_at": "2026-04-24T10:00:29.904358+00:00"
         }
       ],
