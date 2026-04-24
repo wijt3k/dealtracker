@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026-04-24T06:41:27.336297+00:00",
-  "total": 266,
+  "updated_at": "2026-04-24T10:20:44.344885+00:00",
+  "total": 300,
   "deals": [
-    {
-      "id": "b952a1230c13",
-      "title": "TCL 65C6K QD-MiniLED Google TV (2025)",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=332238",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69ea1805aa417_ASSET_MMS_172698064-500x500.png",
-      "found_at": "2026-04-23T14:25:38.266267+00:00",
-      "price_history": [
-        {
-          "price": 599.25,
-          "original_price": 799.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-23T14:00:37.037095+00:00"
-        }
-      ]
-    },
-    {
-      "id": "f114520fbf8c",
-      "title": "LG UltraGear OLED 32GX850A-B.AEU - 32 Inch - 3840 x 2160 (OLED 4K) - 0.03 ms - 165 Hz",
-      "price": 589.5,
-      "original_price": 786.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=331960",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69e8c6bb1482c_ASSET_MMS_161602079-500x500.png",
-      "found_at": "2026-04-23T06:26:17.344665+00:00",
-      "price_history": [
-        {
-          "price": 589.5,
-          "original_price": 786.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        }
-      ]
-    },
     {
       "id": "3d732f3ae800",
       "title": "Alurin Laptop Flex Advance 15,6 inch I5-1155G7 16 GB RAM 500 GB SSD",
@@ -6938,6 +6896,43 @@
       "auto_approved": true
     },
     {
+      "id": "c9c4fd4ed8df",
+      "title": "Apple iPad Air 2022 10.9 inch 256 GB Wifi Blauw",
+      "price": 560.0,
+      "original_price": 824.5,
+      "discount_percent": 32,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2022-10-9-inch-256-gb-wifi-blauw-r-16998",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712495.jpg?v=1775634273",
+      "found_at": "2026-04-24T10:16:49.515389+00:00",
+      "price_history": [
+        {
+          "price": 913.5,
+          "original_price": 989.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 870.0,
+          "original_price": 989.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 840.0,
+          "original_price": 989.0,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        },
+        {
+          "price": 560.0,
+          "original_price": 824.5,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "bad9246080bd",
       "title": "Jura D4 Piano Black",
       "price": 447.0,
@@ -7841,6 +7836,33 @@
       ]
     },
     {
+      "id": "c853dcbca3d5",
+      "title": "Dreame Aqua 10 Ultra Track Complete White",
+      "price": 976.0,
+      "original_price": 1271.49,
+      "discount_percent": 23,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-aqua-10-ultra-track-complete-white-r-17498",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209489_9de09cac-a5c8-434b-872e-efc2f3c69e1c.jpg?v=1776761538",
+      "found_at": "2026-04-24T10:16:55.908026+00:00",
+      "price_history": [
+        {
+          "price": 828.0,
+          "original_price": 900.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 976.0,
+          "original_price": 1271.49,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "b97a7999282d",
       "title": "Jabra Evolve2 55 draadloze stereo headset met oplaadstandaard, Jabra Air Comfort technologie, noise cancelling microfoons en ANC - werkt met UC-platforms zoals Zoom en Google Meet - zwart",
       "price": 77.19,
@@ -7984,6 +8006,33 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "8d5f6d1d0aab",
+      "title": "Apple iPad Air (2025) 11 inch 128GB Wifi Witgoud",
+      "price": 401.0,
+      "original_price": 604.15,
+      "discount_percent": 33,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-11-inch-128gb-wifi-witgoud-r-17505",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145201_28e61bfb-d501-48c7-979c-e0bdcdf4b135.jpg?v=1776761604",
+      "found_at": "2026-04-24T10:16:49.514661+00:00",
+      "price_history": [
+        {
+          "price": 553.0,
+          "original_price": 769.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 401.0,
+          "original_price": 604.15,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     },
     {
@@ -10109,6 +10158,33 @@
       "auto_approved": true
     },
     {
+      "id": "8c5d14f32ca7",
+      "title": "Epson EcoTank ET-2825",
+      "price": 230.0,
+      "original_price": 361.2,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/epson-ecotank-et-2825-r-17242",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1647820_91cb19ea-e2b0-40e8-a3b4-e7660aa2ab96.jpg?v=1775824253",
+      "found_at": "2026-04-24T10:16:58.496333+00:00",
+      "price_history": [
+        {
+          "price": 237.0,
+          "original_price": 258.15,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 230.0,
+          "original_price": 259.0,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "70e48c2684ba",
       "title": "Xiaomi Monitor A22i",
       "price": 64.01,
@@ -10488,6 +10564,27 @@
       "auto_approved": true
     },
     {
+      "id": "b952a1230c13",
+      "title": "TCL 65C6K QD-MiniLED Google TV (2025)",
+      "price": 599.25,
+      "original_price": 799.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=332238",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69ea1805aa417_ASSET_MMS_172698064-500x500.png",
+      "found_at": "2026-04-23T14:25:38.266267+00:00",
+      "price_history": [
+        {
+          "price": 599.25,
+          "original_price": 799.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-04-23T14:00:37.037095+00:00"
+        }
+      ]
+    },
+    {
       "id": "84bd9563abb4",
       "title": "Apple iPad Mini 6 (2021) 64GB Wifi Sterrenlicht",
       "price": 439.0,
@@ -10564,6 +10661,27 @@
       "auto_approved": true
     },
     {
+      "id": "f114520fbf8c",
+      "title": "LG UltraGear OLED 32GX850A-B.AEU - 32 Inch - 3840 x 2160 (OLED 4K) - 0.03 ms - 165 Hz",
+      "price": 589.5,
+      "original_price": 786.0,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "MediaMarkt Outlet",
+      "condition": "Outlet",
+      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=331960",
+      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69e8c6bb1482c_ASSET_MMS_161602079-500x500.png",
+      "found_at": "2026-04-23T06:26:17.344665+00:00",
+      "price_history": [
+        {
+          "price": 589.5,
+          "original_price": 786.0,
+          "discount_percent": 25,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        }
+      ]
+    },
+    {
       "id": "285551738612",
       "title": "Bose Quietcomfort Ultra Earbuds Zwart",
       "price": 161.0,
@@ -10608,6 +10726,43 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "d9205bc47dff",
+      "title": "Apple MacBook Air 13 inch (2025) M4 (10 CPU/8 GPU) 16GB/256GB Hemelsblauw AZERTY",
+      "price": 632.0,
+      "original_price": 834.0,
+      "discount_percent": 24,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-inch-2025-m4-10-cpu-8-gpu-16gb-256gb-hemelsblauw-azerty-r-17350",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340_6e407fb7-c0bf-4218-a45e-3073e79300dc.jpg?v=1776411414",
+      "found_at": "2026-04-24T06:30:50.018624+00:00",
+      "price_history": [
+        {
+          "price": 857.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 879.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 1389.0,
+          "original_price": 1579.2,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 632.0,
+          "original_price": 834.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     },
     {
@@ -10872,6 +11027,110 @@
       "auto_approved": true
     },
     {
+      "id": "2da2c1901e0e",
+      "title": "Oral-B iO9n Rozenkwarts Speciale Editie",
+      "price": 111.0,
+      "original_price": 185.0,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io9n-rozenkwarts-speciale-editie-r-16926",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1798997_3b8123e4-72a2-4f52-9040-d21ed5165c07.jpg?v=1774948539",
+      "found_at": "2026-04-24T10:17:05.305090+00:00",
+      "price_history": [
+        {
+          "price": 234.0,
+          "original_price": 264.48,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 245.7,
+          "original_price": 264.48,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 258.3,
+          "original_price": 267.63,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 254.1,
+          "original_price": 264.64,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 252.0,
+          "original_price": 265.15,
+          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
+        },
+        {
+          "price": 253.05,
+          "original_price": 265.31,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 238.35,
+          "original_price": 265.45,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 227.0,
+          "original_price": 277.22,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 211.0,
+          "original_price": 277.25,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 193.0,
+          "original_price": 278.6,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 148.0,
+          "original_price": 278.6,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 185.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "bd3bdbb55f5e",
+      "title": "Apple MacBook Air 15 inch (2025) M4 (10 CPU/10 GPU) 16GB/256GB Middernacht AZERTY",
+      "price": 727.0,
+      "original_price": 933.5,
+      "discount_percent": 22,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-inch-2025-m4-10-cpu-10-gpu-16gb-256gb-middernacht-azerty-r-17394",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146424.jpg?v=1776760468",
+      "found_at": "2026-04-24T10:16:52.886451+00:00",
+      "price_history": [
+        {
+          "price": 879.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 727.0,
+          "original_price": 933.5,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "6f5f9bfb8347",
       "title": "Karcher K7 Comfort Premium Home",
       "price": 410.0,
@@ -11047,6 +11306,21 @@
       "auto_approved": true
     },
     {
+      "id": "6fa04927618a",
+      "title": "Refurbished iPad 9 64GB WIFI 10.2\" Space Gray",
+      "price": 196.0,
+      "original_price": 299.0,
+      "discount_percent": 34,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-9-64gb-wifi-10-2-space-gray-r-17475",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632013_2c3e69af-7459-4e1f-b576-76bb8bc06650.jpg?v=1776761280",
+      "found_at": "2026-04-24T10:17:08.154432+00:00",
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "79d8dfd5b618",
       "title": "Epson EcoTank ET-8550",
       "price": 556.0,
@@ -11185,6 +11459,33 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "9563bcd24c80",
+      "title": "Logitech G 02 X Plus Lightspeed Draadloze Gaming Muis Zwart",
+      "price": 83.0,
+      "original_price": 140.29,
+      "discount_percent": 40,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-02-x-plus-lightspeed-draadloze-gaming-muis-zwart-r-17471",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806097.jpg?v=1776761241",
+      "found_at": "2026-04-24T10:17:01.733054+00:00",
+      "price_history": [
+        {
+          "price": 87.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 140.29,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     },
     {
@@ -11634,6 +11935,129 @@
       "auto_approved": true
     },
     {
+      "id": "6d60f18a9512",
+      "title": "MSI Optix MAG274QRF-QD",
+      "price": 233.0,
+      "original_price": 340.0,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-optix-mag274qrf-qd-r-17043",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1527136_64ff5f0c-0db0-4676-99ab-9396f7515e6e.jpg?v=1775634657",
+      "found_at": "2026-04-24T10:17:05.304361+00:00",
+      "price_history": [
+        {
+          "price": 433.65,
+          "original_price": 449.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 413.0,
+          "original_price": 449.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 233.0,
+          "original_price": 340.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "2e3a805c0a6c",
+      "title": "Garmin Vivoactive 5 Cream Gold/Ivory",
+      "price": 141.0,
+      "original_price": 217.56,
+      "discount_percent": 35,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-vivoactive-5-cream-gold-ivory-r-17400",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1972630_8d80b710-12c1-4bb8-a76d-753b4cc66af4.jpg?v=1776411683",
+      "found_at": "2026-04-24T10:16:58.496868+00:00",
+      "price_history": [
+        {
+          "price": 189.0,
+          "original_price": 271.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 271.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 222.09,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 217.56,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "2e31f72b2ff6",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 162.0,
+      "original_price": 245.56,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17531",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_82e8d984-0d92-4832-927d-a91746897adb.jpg?v=1776761832",
+      "found_at": "2026-04-24T06:31:04.742017+00:00",
+      "price_history": [
+        {
+          "price": 187.0,
+          "original_price": 260.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 162.0,
+          "original_price": 245.56,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "ed58988ce568",
+      "title": "Krups Nespresso Citiz Zilver XN741B",
+      "price": 98.0,
+      "original_price": 156.18,
+      "discount_percent": 37,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nespresso-citiz-zilver-xn741b-r-17486",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1844286_98ea5575-1840-4204-914a-a1ea3a5f8c8a.jpg?v=1776761401",
+      "found_at": "2026-04-24T10:17:01.731798+00:00",
+      "price_history": [
+        {
+          "price": 92.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 156.18,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "5dea80f08f8e",
       "title": "Dreame L10s Ultra Gen 2",
       "price": 310.0,
@@ -11660,6 +12084,70 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "f6a6a5505d8d",
+      "title": "Acer Aspire S27-1755 I7716 AZERTY",
+      "price": 1127.0,
+      "original_price": 1342.0,
+      "discount_percent": 16,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-aspire-s27-1755-i7716-azerty-r-17054",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1983562_26351cc7-a60b-4079-814b-bacc72135678.jpg?v=1775636344",
+      "found_at": "2026-04-24T10:16:49.512466+00:00",
+      "price_history": [
+        {
+          "price": 1409.1,
+          "original_price": 1459.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 1342.0,
+          "original_price": 1459.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1127.0,
+          "original_price": 1342.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "8098157b2018",
+      "title": "AOC 24G4XE",
+      "price": 79.0,
+      "original_price": 127.57,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g4xe-r-17238",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2034677_73756e26-7e93-4636-bd8a-535409fb7472.jpg?v=1776166889",
+      "found_at": "2026-04-24T10:16:49.513277+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 101.97,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 127.61,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 127.57,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     },
     {
@@ -11836,6 +12324,33 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "60f5c7f03d26",
+      "title": "Logitech G 02 X Plus Lightspeed Draadloze Gaming Muis Zwart",
+      "price": 87.0,
+      "original_price": 140.29,
+      "discount_percent": 37,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-02-x-plus-lightspeed-draadloze-gaming-muis-zwart-r-17472",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806097_1da280e3-d256-4dfa-ae19-9979a8b1210f.jpg?v=1776761244",
+      "found_at": "2026-04-24T10:17:01.733125+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 140.29,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     },
     {
@@ -12131,6 +12646,75 @@
       "auto_approved": true
     },
     {
+      "id": "38a3fdb170be",
+      "title": "Apple MacBook Pro 14 M5 16/512GB Zwart AZERTY",
+      "price": 1556.0,
+      "original_price": 1775.67,
+      "discount_percent": 12,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-14-m5-16-512gb-zwart-azerty-r-17037",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224507_dcd48ebe-6a55-4890-88fb-3713fcee2715.jpg?v=1775634618",
+      "found_at": "2026-04-24T10:16:52.887296+00:00",
+      "price_history": [
+        {
+          "price": 1689.45,
+          "original_price": 1749.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 1609.0,
+          "original_price": 1749.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1556.0,
+          "original_price": 1749.0,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "6ce4f96e9d1a",
+      "title": "A145 GALAXY A14 4G 64GB LIGHT GREEN",
+      "price": 101.6,
+      "original_price": 154.99,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BYWBT8MH?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/712Z+qAKTTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T10:06:40.360428+00:00",
+      "price_history": [
+        {
+          "price": 112.94,
+          "original_price": 154.99,
+          "scraped_at": "2026-03-13T15:00:25.274887+00:00"
+        },
+        {
+          "price": 109.18,
+          "original_price": 154.99,
+          "scraped_at": "2026-03-24T07:00:15.823321+00:00"
+        },
+        {
+          "price": 105.33,
+          "original_price": 154.99,
+          "scraped_at": "2026-04-19T10:00:33.712759+00:00"
+        },
+        {
+          "price": 101.6,
+          "original_price": 154.99,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "ea02b2fa4864",
       "title": "ASUS ROG Strix OLED XG27AQDMGR - 26.5 inch - QHD - WOLED",
       "price": 344.25,
@@ -12150,6 +12734,58 @@
           "scraped_at": "2026-04-23T14:00:37.037095+00:00"
         }
       ]
+    },
+    {
+      "id": "eeebdcd21998",
+      "title": "AEG AB51C2SW CLEAN 5000 Stofzuiger Met stofzak - 78 dB",
+      "price": 71.0,
+      "original_price": 110.71,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aeg-ab51c2sw-clean-5000-stofzuiger-met-stofzak-78-db-r-17165",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2032982.jpg?v=1775824001",
+      "found_at": "2026-04-24T10:16:49.512660+00:00",
+      "price_history": [
+        {
+          "price": 80.0,
+          "original_price": 113.65,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 115.15,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 115.15,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 110.71,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "1e8002c511f2",
+      "title": "Sonos Roam 2 Wit",
+      "price": 128.0,
+      "original_price": 189.85,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-roam-2-wit-r-17515",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053650_8ada4947-bb6d-43c8-8cd7-b9a6bd0c4ffd.jpg?v=1776761691",
+      "found_at": "2026-04-24T10:17:10.887174+00:00",
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
     },
     {
       "id": "b9a9fb208b4f",
@@ -12187,6 +12823,33 @@
       "auto_approved": true
     },
     {
+      "id": "37bb86c5ca32",
+      "title": "Apple iPhone 15 128GB Zwart",
+      "price": 518.0,
+      "original_price": 658.93,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-15-128gb-zwart-r-17217",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_34543bc4-3322-4c4e-9e0f-3bfc7cef092b.jpg?v=1776166681",
+      "found_at": "2026-04-24T06:30:50.018411+00:00",
+      "price_history": [
+        {
+          "price": 575.0,
+          "original_price": 654.88,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 518.0,
+          "original_price": 649.75,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "3b8b3a53eeb4",
       "title": "Philips 3000-serie Airfryer NA332/00",
       "price": 97.0,
@@ -12213,6 +12876,33 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "436fcca0d324",
+      "title": "Vogels  Comfort 3845",
+      "price": 191.0,
+      "original_price": 269.5,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/vogels-comfort-3845-r-17266",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1933584_bcb979bd-6b6d-4b92-84f5-2018fac05677.jpg?v=1776167098",
+      "found_at": "2026-04-24T10:17:10.889307+00:00",
+      "price_history": [
+        {
+          "price": 198.0,
+          "original_price": 263.82,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 191.0,
+          "original_price": 268.99,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     },
     {
@@ -12379,6 +13069,33 @@
       "auto_approved": true
     },
     {
+      "id": "3d0d016a5d4f",
+      "title": "Logitech G PRO X Wireless LIGHTSPEED Gaming Headset",
+      "price": 90.0,
+      "original_price": 134.93,
+      "discount_percent": 33,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-wireless-lightspeed-gaming-headset-r-17462",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135200_f3b008d2-21dd-4aca-8c74-d1c6c2d64356.jpg?v=1776761109",
+      "found_at": "2026-04-24T10:17:01.733341+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 134.93,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
       "id": "6d1fa4deaea0",
       "title": "MSI MAG 271QPX QD-OLED E2 - 27 inch - 2560 x 1440 (Quad HD) - 0.03 ms - 240 Hz",
       "price": 314.25,
@@ -12496,6 +13213,348 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "b3468d9948ae",
+      "title": "Philips Shaver 9000 series S9980/59",
+      "price": 217.0,
+      "original_price": 301.12,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-9000-series-s9980-59-r-17150",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970846_f28a3261-1c77-4018-9306-95dc119d8e32.jpg?v=1775635654",
+      "found_at": "2026-04-24T10:17:08.153999+00:00",
+      "price_history": [
+        {
+          "price": 249.9,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 238.0,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 230.0,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 217.0,
+          "original_price": 293.94,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "815487ec92a2",
+      "title": "Tefal Renew On Koekenpannenset 24 + 28 cm",
+      "price": 44.0,
+      "original_price": 68.0,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-renew-on-koekenpannenset-24-28-cm-r-17239",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1917363.jpg?v=1776166885",
+      "found_at": "2026-04-24T06:31:10.702510+00:00",
+      "price_history": [
+        {
+          "price": 39.0,
+          "original_price": 60.0,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 68.0,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 68.0,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "4a20e6a6c283",
+      "title": "Dyson V12 Detect Slim Absolute",
+      "price": 482.0,
+      "original_price": 610.52,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v12-detect-slim-absolute-r-17262",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985260_984fa02c-626c-4dc6-8de6-c38393e7cac1.jpg?v=1776167061",
+      "found_at": "2026-04-24T10:16:58.495522+00:00",
+      "price_history": [
+        {
+          "price": 503.0,
+          "original_price": 624.76,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 482.0,
+          "original_price": 606.34,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "77ab082916d8",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht AZERTY",
+      "price": 835.0,
+      "original_price": 999.0,
+      "discount_percent": 16,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-azerty-r-17319",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_89d8acd1-d80d-4d0a-8523-cee49367981e.jpg?v=1776167662",
+      "found_at": "2026-04-24T10:16:52.886324+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 1053.11,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 902.0,
+          "original_price": 1025.4,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "87dd0b23d111",
+      "title": "Apple Watch Ultra 3 5G 49mm Zwart Ocean Band",
+      "price": 753.0,
+      "original_price": 909.0,
+      "discount_percent": 17,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-ultra-3-5g-49mm-zwart-ocean-band-r-17521",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213203.jpg?v=1776761753",
+      "found_at": "2026-04-24T10:16:55.905403+00:00",
+      "price_history": [
+        {
+          "price": 807.0,
+          "original_price": 878.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 753.0,
+          "original_price": 909.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "7c50e3278802",
+      "title": "Samsung Galaxy Z Flip 6 256GB Zilver 5G",
+      "price": 641.0,
+      "original_price": 785.51,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-z-flip-6-256gb-zilver-5g-r-17348",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075564.jpg?v=1776411409",
+      "found_at": "2026-04-24T10:17:08.155709+00:00",
+      "price_history": [
+        {
+          "price": 480.0,
+          "original_price": 746.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 656.0,
+          "original_price": 746.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 617.0,
+          "original_price": 746.0,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 641.0,
+          "original_price": 785.51,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "38403ff0b8c7",
+      "title": "Medela Magic InBra Double",
+      "price": 347.0,
+      "original_price": 453.05,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-magic-inbra-double-r-17438",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2198805_50d1fc95-0028-435d-bbc6-029147085a61.jpg?v=1776760873",
+      "found_at": "2026-04-24T10:17:05.302984+00:00",
+      "price_history": [
+        {
+          "price": 378.0,
+          "original_price": 430.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 347.0,
+          "original_price": 453.05,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "985a0b97638d",
+      "title": "Cricut Joy Startersbundel",
+      "price": 108.0,
+      "original_price": 154.59,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/cricut-joy-startersbundel-r-17128",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1_d9846538-0a6b-4085-b25d-49efd396cff0.avif?v=1775637809",
+      "found_at": "2026-04-24T10:16:55.907268+00:00",
+      "price_history": [
+        {
+          "price": 170.1,
+          "original_price": 198.52,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 162.0,
+          "original_price": 198.52,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 157.0,
+          "original_price": 198.52,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 148.0,
+          "original_price": 198.14,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 154.59,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "7aee07f86bb7",
+      "title": "Roborock QR 598 White",
+      "price": 315.0,
+      "original_price": 413.95,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/roborock-qr-598-white-r-17485",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2235489.jpg?v=1776761398",
+      "found_at": "2026-04-24T10:17:08.155289+00:00",
+      "price_history": [
+        {
+          "price": 312.0,
+          "original_price": 355.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 315.0,
+          "original_price": 413.95,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "5cf04e574368",
+      "title": "Tefal Selection KI871D 1.7L",
+      "price": 46.0,
+      "original_price": 69.12,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-selection-ki871d-1-7l-r-17441",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215195.jpg?v=1776760911",
+      "found_at": "2026-04-24T10:17:10.888612+00:00",
+      "price_history": [
+        {
+          "price": 51.0,
+          "original_price": 72.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 69.12,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "e1eee3f8bee0",
+      "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5678",
+      "price": 79.0,
+      "original_price": 114.99,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-neo-latte-yy5678-r-17442",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2208585_92df756e-6de9-4aff-8a5a-39ed51cec883.jpg?v=1776760915",
+      "found_at": "2026-04-24T10:17:01.731717+00:00",
+      "price_history": [
+        {
+          "price": 71.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 114.99,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 11:20",
       "auto_approved": true
     }
   ]
