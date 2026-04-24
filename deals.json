@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-23T18:22:40.970267+00:00",
-  "total": 297,
+  "updated_at": "2026-04-24T06:34:30.044842+00:00",
+  "total": 300,
   "deals": [
+    {
+      "id": "3d732f3ae800",
+      "title": "Alurin Laptop Flex Advance 15,6 inch I5-1155G7 16 GB RAM 500 GB SSD",
+      "price": 423.21,
+      "original_price": 1419.72,
+      "discount_percent": 70,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CVB7QCPS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61wwl3HZvxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T06:03:23.366894+00:00",
+      "approved_at": "24-04-2026 07:34",
+      "auto_approved": true
+    },
     {
       "id": "886ec7c90752",
       "title": "Microsoft Surface Laptop 3, 13,5 Inch Laptop (Intel Core I5, 8 GB RAM, 128 GB SSD, Win 10 Home), Platina, Duits toetsenbord",
@@ -2843,6 +2858,68 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "73bab046f14d",
+      "title": "Dreame D20 Pro Plus",
+      "price": 107.64,
+      "original_price": 324.0,
+      "discount_percent": 66,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-d20-pro-plus-r-16816",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2207143_e9f73a9d-1348-4991-8add-d2ee845771e0.jpg?v=1774877871",
+      "found_at": "2026-04-24T06:30:54.117705+00:00",
+      "price_history": [
+        {
+          "price": 201.0,
+          "original_price": 313.67,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 211.05,
+          "original_price": 264.0,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 276.15,
+          "original_price": 299.0,
+          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
+        },
+        {
+          "price": 266.7,
+          "original_price": 315.67,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 250.95,
+          "original_price": 324.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 324.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 324.0,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 179.4,
+          "original_price": 299.0,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 107.64,
+          "original_price": 324.0,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 07:34",
       "auto_approved": true
     },
     {
@@ -5708,6 +5785,53 @@
       "auto_approved": true
     },
     {
+      "id": "8a69bf8b69d4",
+      "title": "Jabra Evolve2 40 SE bedrade noise cancelling stereo headset met 3-microfoongesprekstechnologie en USB-A kabel - MS Teams gecertificeerd, werkt met alle andere platforms - zwart",
+      "price": 68.27,
+      "original_price": 174.24,
+      "discount_percent": 60,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C6V54N2S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61MZmS++a8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T06:13:13.842044+00:00",
+      "price_history": [
+        {
+          "price": 68.87,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
+        },
+        {
+          "price": 66.36,
+          "original_price": 69.74,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 70.41,
+          "original_price": 101.08,
+          "scraped_at": "2026-03-28T19:00:24.663375+00:00"
+        },
+        {
+          "price": 71.54,
+          "original_price": 151.87,
+          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
+        },
+        {
+          "price": 58.41,
+          "original_price": 68.73,
+          "scraped_at": "2026-04-18T18:00:28.243177+00:00"
+        },
+        {
+          "price": 68.27,
+          "original_price": 174.24,
+          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 07:34",
+      "auto_approved": true
+    },
+    {
       "id": "d2b22753e66a",
       "title": "Philips Airfryer 3000 Series",
       "price": 41.0,
@@ -6403,6 +6527,21 @@
           "scraped_at": "2026-04-22T14:00:31.231632+00:00"
         }
       ]
+    },
+    {
+      "id": "5d736cda7b20",
+      "title": "Apple MacBook Air 15 inch (2025) M4 (10 CPU/10 GPU) 16GB/256GB Middernacht QWERTY",
+      "price": 827.0,
+      "original_price": 1149.0,
+      "discount_percent": 28,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-inch-2025-m4-10-cpu-10-gpu-16gb-256gb-middernacht-qwerty-r-17356",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146368_67a63485-a642-457d-9b95-4b45813e348d.jpg?v=1776760429",
+      "found_at": "2026-04-24T06:30:50.019497+00:00",
+      "approved_at": "24-04-2026 07:34",
+      "auto_approved": true
     },
     {
       "id": "4c3b6472b0c7",
@@ -7187,6 +7326,33 @@
       ]
     },
     {
+      "id": "3b8452944f7f",
+      "title": "Fitbit Versa 4 - Sportieve smartwatch met ingebouwde gps en een batterijduur tot 6 dagen. Compatibel met Android en iOS.",
+      "price": 78.44,
+      "original_price": 169.0,
+      "discount_percent": 53,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B6WS7Q71?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61R14nL2hfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T06:17:05.751881+00:00",
+      "price_history": [
+        {
+          "price": 83.61,
+          "original_price": 139.0,
+          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
+        },
+        {
+          "price": 78.44,
+          "original_price": 169.0,
+          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 07:34",
+      "auto_approved": true
+    },
+    {
       "id": "42c5f2d4ca0c",
       "title": "iRobot Roomba Combo j9+",
       "price": 383.0,
@@ -7881,6 +8047,21 @@
           "scraped_at": "2026-04-21T18:00:49.300650+00:00"
         }
       ]
+    },
+    {
+      "id": "b97a7999282d",
+      "title": "Jabra Evolve2 55 draadloze stereo headset met oplaadstandaard, Jabra Air Comfort technologie, noise cancelling microfoons en ANC - werkt met UC-platforms zoals Zoom en Google Meet - zwart",
+      "price": 77.19,
+      "original_price": 158.5,
+      "discount_percent": 51,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BS1PB2TC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51Ak-k8ZhpL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T06:13:29.602460+00:00",
+      "approved_at": "24-04-2026 07:34",
+      "auto_approved": true
     },
     {
       "id": "cf67bb6dba9f",
@@ -11647,6 +11828,21 @@
       "auto_approved": true
     },
     {
+      "id": "adce3b052411",
+      "title": "KOORUI PC Monitor 27 inch, Gaming-scherm 100Hz Full HD(1920 x 1080) met geïntegreerde luidsprekers, HDMI, IPS-scherm, kantelbaar, oogbescherming, VESA-muurbevestiging",
+      "price": 94.35,
+      "original_price": 154.24,
+      "discount_percent": 38,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CLLD77K1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71RGDpbpYaL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T06:23:54.488336+00:00",
+      "approved_at": "24-04-2026 07:34",
+      "auto_approved": true
+    },
+    {
       "id": "5a93861ad75c",
       "title": "Revamp Dynamic Radiance Pro Blow Dry 7-in-1 DR-2850GD",
       "price": 127.0,
@@ -11901,6 +12097,43 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "d0062812df62",
+      "title": "Poly Blackwire 8225 Premium Wired Headset – Actieve ruisonderdrukking – Hifi Stereo - Aansluiten op pc/Mac - Werkt met teams, Zoom",
+      "price": 79.02,
+      "original_price": 126.73,
+      "discount_percent": 37,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C6FKB9CY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71gZ3f7-fnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T06:13:48.318983+00:00",
+      "price_history": [
+        {
+          "price": 81.1,
+          "original_price": 126.73,
+          "scraped_at": "2026-03-23T19:00:16.663258+00:00"
+        },
+        {
+          "price": 83.27,
+          "original_price": 126.73,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 80.55,
+          "original_price": 126.73,
+          "scraped_at": "2026-04-18T18:00:28.243177+00:00"
+        },
+        {
+          "price": 79.02,
+          "original_price": 126.73,
+          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 07:34",
       "auto_approved": true
     },
     {
@@ -12416,149 +12649,6 @@
         {
           "price": 263.0,
           "original_price": 355.7,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "23-04-2026 19:22",
-      "auto_approved": true
-    },
-    {
-      "id": "815487ec92a2",
-      "title": "Tefal Renew On Koekenpannenset 24 + 28 cm",
-      "price": 44.0,
-      "original_price": 68.0,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-renew-on-koekenpannenset-24-28-cm-r-17239",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1917363.jpg?v=1776166885",
-      "found_at": "2026-04-23T18:17:55.429645+00:00",
-      "price_history": [
-        {
-          "price": 39.0,
-          "original_price": 60.0,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 68.0,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 68.0,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "23-04-2026 19:22",
-      "auto_approved": true
-    },
-    {
-      "id": "2e31f72b2ff6",
-      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
-      "price": 187.0,
-      "original_price": 260.0,
-      "discount_percent": 28,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17531",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_82e8d984-0d92-4832-927d-a91746897adb.jpg?v=1776761832",
-      "found_at": "2026-04-23T18:17:47.519612+00:00",
-      "approved_at": "23-04-2026 19:22",
-      "auto_approved": true
-    },
-    {
-      "id": "37bb86c5ca32",
-      "title": "Apple iPhone 15 128GB Zwart",
-      "price": 518.0,
-      "original_price": 649.75,
-      "discount_percent": 20,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-iphone-15-128gb-zwart-r-17217",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_34543bc4-3322-4c4e-9e0f-3bfc7cef092b.jpg?v=1776166681",
-      "found_at": "2026-04-23T18:17:34.621244+00:00",
-      "price_history": [
-        {
-          "price": 575.0,
-          "original_price": 654.88,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 518.0,
-          "original_price": 649.75,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "23-04-2026 19:22",
-      "auto_approved": true
-    },
-    {
-      "id": "d9205bc47dff",
-      "title": "Apple MacBook Air 13 inch (2025) M4 (10 CPU/8 GPU) 16GB/256GB Hemelsblauw AZERTY",
-      "price": 1389.0,
-      "original_price": 1579.2,
-      "discount_percent": 12,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-inch-2025-m4-10-cpu-8-gpu-16gb-256gb-hemelsblauw-azerty-r-17350",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340_6e407fb7-c0bf-4218-a45e-3073e79300dc.jpg?v=1776411414",
-      "found_at": "2026-04-23T18:17:34.621452+00:00",
-      "price_history": [
-        {
-          "price": 857.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 879.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
-        },
-        {
-          "price": 1389.0,
-          "original_price": 1579.2,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "23-04-2026 19:22",
-      "auto_approved": true
-    },
-    {
-      "id": "36cf0e555d6f",
-      "title": "Sony WH-1000XM4 Zwart",
-      "price": 163.0,
-      "original_price": 228.95,
-      "discount_percent": 28,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wh-1000xm4-zwart-r-17067",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1462421_bc360dab-4304-4954-8896-f95076320e80.jpg?v=1775634733",
-      "found_at": "2026-04-23T18:17:55.428848+00:00",
-      "price_history": [
-        {
-          "price": 187.95,
-          "original_price": 230.12,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 179.0,
-          "original_price": 228.49,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 173.0,
-          "original_price": 230.36,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 163.0,
-          "original_price": 228.95,
           "scraped_at": "2026-04-20T14:00:33.819146+00:00"
         }
       ],
