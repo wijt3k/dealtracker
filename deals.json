@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T10:20:44.344885+00:00",
+  "updated_at": "2026-04-24T14:26:46.396320+00:00",
   "total": 300,
   "deals": [
     {
@@ -4264,6 +4264,43 @@
         }
       ],
       "approved_at": "23-04-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "05204f274f66",
+      "title": "Philips 27M2N3200NF 27 Inch FHD-monitor, 144Hz, IPS, 1ms MPRT, Adaptieve Sync, G-Sync Comp., HDR10, (1920x1080, HDMI 1x 2.0, DP 1x 1.4) Zwart",
+      "price": 80.19,
+      "original_price": 229.99,
+      "discount_percent": 65,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F9YNCCH8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/811hH9GM-VL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T14:17:18.166374+00:00",
+      "price_history": [
+        {
+          "price": 72.09,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
+        },
+        {
+          "price": 70.31,
+          "original_price": 179.99,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 91.08,
+          "original_price": 99.0,
+          "scraped_at": "2026-04-18T18:00:28.243177+00:00"
+        },
+        {
+          "price": 80.19,
+          "original_price": 229.99,
+          "scraped_at": "2026-04-24T14:00:27.386695+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 15:26",
       "auto_approved": true
     },
     {
@@ -13163,6 +13200,33 @@
       ]
     },
     {
+      "id": "8b7265bfba33",
+      "title": "Jabra Evolve 65 TE Link MS Mono Draadloze Koptelefoon",
+      "price": 83.73,
+      "original_price": 125.0,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DBLT6W2F?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51KIFciK99L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-04-24T14:07:12.600841+00:00",
+      "price_history": [
+        {
+          "price": 82.99,
+          "original_price": 136.82,
+          "scraped_at": "2026-03-17T15:00:29.398508+00:00"
+        },
+        {
+          "price": 83.73,
+          "original_price": 125.0,
+          "scraped_at": "2026-04-24T14:00:27.386695+00:00"
+        }
+      ],
+      "approved_at": "24-04-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "b9d4edaafd2a",
       "title": "Braun Series 9 Pro+ 9575cc Grafiet",
       "price": 263.0,
@@ -13497,60 +13561,6 @@
         {
           "price": 315.0,
           "original_price": 413.95,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        }
-      ],
-      "approved_at": "24-04-2026 11:20",
-      "auto_approved": true
-    },
-    {
-      "id": "5cf04e574368",
-      "title": "Tefal Selection KI871D 1.7L",
-      "price": 46.0,
-      "original_price": 69.12,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-selection-ki871d-1-7l-r-17441",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215195.jpg?v=1776760911",
-      "found_at": "2026-04-24T10:17:10.888612+00:00",
-      "price_history": [
-        {
-          "price": 51.0,
-          "original_price": 72.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 69.12,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        }
-      ],
-      "approved_at": "24-04-2026 11:20",
-      "auto_approved": true
-    },
-    {
-      "id": "e1eee3f8bee0",
-      "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5678",
-      "price": 79.0,
-      "original_price": 114.99,
-      "discount_percent": 31,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-neo-latte-yy5678-r-17442",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2208585_92df756e-6de9-4aff-8a5a-39ed51cec883.jpg?v=1776760915",
-      "found_at": "2026-04-24T10:17:01.731717+00:00",
-      "price_history": [
-        {
-          "price": 71.0,
-          "original_price": 99.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 79.0,
-          "original_price": 114.99,
           "scraped_at": "2026-04-24T10:00:29.904358+00:00"
         }
       ],
