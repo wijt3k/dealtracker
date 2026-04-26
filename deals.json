@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T14:20:50.401586+00:00",
-  "total": 299,
+  "updated_at": "2026-04-26T18:19:11.441395+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3d732f3ae800",
@@ -12391,6 +12391,38 @@
         }
       ],
       "approved_at": "26-04-2026 11:41",
+      "auto_approved": true
+    },
+    {
+      "id": "6bfcf1653d80",
+      "title": "Denver MRD-51",
+      "price": 111.0,
+      "original_price": 146.46,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/denver-mrd-51-r-17176",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1382754.jpg?v=1775824132",
+      "found_at": "2026-04-26T14:16:10.731790+00:00",
+      "price_history": [
+        {
+          "price": 122.0,
+          "original_price": 161.08,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 160.67,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 156.83,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        }
+      ],
+      "approved_at": "26-04-2026 19:19",
       "auto_approved": true
     }
   ]
