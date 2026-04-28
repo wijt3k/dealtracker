@@ -1,31 +1,7 @@
 {
-  "updated_at": "2026-04-28T06:51:17.714704+00:00",
-  "total": 300,
+  "updated_at": "2026-04-28T06:51:21.669264+00:00",
+  "total": 287,
   "deals": [
-    {
-      "id": "3d732f3ae800",
-      "title": "Alurin Laptop Flex Advance 15,6 inch I5-1155G7 16 GB RAM 500 GB SSD",
-      "price": 423.21,
-      "original_price": 1419.72,
-      "discount_percent": 70,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CVB7QCPS?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61wwl3HZvxL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-24T06:03:23.366894+00:00",
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 423.21,
-          "original_price": 1419.72,
-          "discount_percent": 70,
-          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
-        }
-      ],
-      "refreshed_at": "2026-04-26T06:18:17.396527+00:00"
-    },
     {
       "id": "e622d1adf3a5",
       "title": "Microsoft Surface Laptop 4 13.5\" i7 - 16GB - 512GB Zwart (W11)",
@@ -244,93 +220,6 @@
           "price": 811.0,
           "original_price": 1623.95,
           "scraped_at": "2026-04-25T10:00:45.927664+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "ddefb22c4d9c",
-      "title": "iRobot Roomba Combo i8+",
-      "price": 242.0,
-      "original_price": 649.0,
-      "discount_percent": 62,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/irobot-roomba-combo-i8-r-16771",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1904232_338e2bee-1844-4063-a5e5-9c992b9a3a50.jpg?v=1774877513",
-      "found_at": "2026-04-24T06:31:01.437216+00:00",
-      "price_history": [
-        {
-          "price": 450.45,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 446.25,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 441.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 435.75,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 431.55,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-11T10:00:28.360823+00:00"
-        },
-        {
-          "price": 401.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 397.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 392.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 387.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 383.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 369.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 261.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        },
-        {
-          "price": 252.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 242.0,
-          "original_price": 649.0,
-          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
         }
       ],
       "approved_at": "26-04-2026 11:41",
@@ -1200,90 +1089,6 @@
           "price": 1511.0,
           "original_price": 2414.85,
           "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "05dc66c4b880",
-      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/256GB Zilver QWERTY",
-      "price": 896.0,
-      "original_price": 1399.0,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-256gb-zilver-qwerty-r-17368",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986135_74596371-5a5a-428f-a4b1-bd9637c0f58e.jpg?v=1776251330",
-      "found_at": "2026-04-24T06:30:46.409947+00:00",
-      "price_history": [
-        {
-          "price": 1102.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
-        },
-        {
-          "price": 1171.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
-        },
-        {
-          "price": 1033.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 965.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
-        },
-        {
-          "price": 896.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "8b0e75c2ad39",
-      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/256GB Blauw QWERTY",
-      "price": 896.0,
-      "original_price": 1399.0,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-256gb-blauw-qwerty-r-17366",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986164_b1fdf3c9-fb5d-46e1-919c-96f505a1e664.jpg?v=1776251330",
-      "found_at": "2026-04-24T06:30:46.409848+00:00",
-      "price_history": [
-        {
-          "price": 1102.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
-        },
-        {
-          "price": 1171.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
-        },
-        {
-          "price": 1033.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 965.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
-        },
-        {
-          "price": 896.0,
-          "original_price": 1399.0,
-          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
         }
       ],
       "approved_at": "26-04-2026 11:41",
@@ -2610,33 +2415,6 @@
       "auto_approved": true
     },
     {
-      "id": "0346f32f5531",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw AZERTY",
-      "price": 1137.0,
-      "original_price": 1579.2,
-      "discount_percent": 28,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-hemelblauw-azerty-r-17316",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146340_a4172261-91a8-42bc-98ee-73be2edd0dba.jpg?v=1776167617",
-      "found_at": "2026-04-24T06:30:50.018990+00:00",
-      "price_history": [
-        {
-          "price": 719.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 1137.0,
-          "original_price": 1579.2,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
       "id": "f6adccc5f67e",
       "title": "HP Pavilion Aero 13-be2006nb AZERTY",
       "price": 711.0,
@@ -2859,33 +2637,6 @@
       "auto_approved": true
     },
     {
-      "id": "74ef553753d7",
-      "title": "Kitchenaid Artisan Mixer 5KSM125 Onyx Zwart",
-      "price": 309.0,
-      "original_price": 583.16,
-      "discount_percent": 47,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kitchenaid-artisan-mixer-5ksm125-onyx-zwart-r-17341",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1367011_97e6e070-4b87-44de-ac25-9f9a0f834610.jpg?v=1776167895",
-      "found_at": "2026-04-24T06:31:01.438547+00:00",
-      "price_history": [
-        {
-          "price": 323.0,
-          "original_price": 571.81,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 309.0,
-          "original_price": 583.16,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
       "id": "2ce50690d41a",
       "title": "Sony Linkbuds Open Wit",
       "price": 48.0,
@@ -2942,83 +2693,6 @@
           "price": 48.0,
           "original_price": 154.14,
           "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "7f3054e2503b",
-      "title": "Polar Loop Gen 2 Black",
-      "price": 62.0,
-      "original_price": 180.0,
-      "discount_percent": 65,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/polar-loop-gen-2-black-r-16679",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/473385.jpg?v=1774254985",
-      "found_at": "2026-04-24T06:31:08.066161+00:00",
-      "price_history": [
-        {
-          "price": 80.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 165.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-03-24T19:00:18.385783+00:00"
-        },
-        {
-          "price": 173.25,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 96.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
-        },
-        {
-          "price": 89.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
-        },
-        {
-          "price": 86.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        },
-        {
-          "price": 66.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 62.0,
-          "original_price": 180.0,
-          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
         }
       ],
       "approved_at": "26-04-2026 11:41",
@@ -3621,54 +3295,6 @@
       ],
       "approved_at": "26-04-2026 11:41",
       "auto_approved": true
-    },
-    {
-      "id": "8a69bf8b69d4",
-      "title": "Jabra Evolve2 40 SE bedrade noise cancelling stereo headset met 3-microfoongesprekstechnologie en USB-A kabel - MS Teams gecertificeerd, werkt met alle andere platforms - zwart",
-      "price": 64.95,
-      "original_price": 174.24,
-      "discount_percent": 60,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0C6V54N2S?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61MZmS++a8L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-04-24T06:13:13.842044+00:00",
-      "price_history": [
-        {
-          "price": 68.87,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-08T11:00:23.055772+00:00"
-        },
-        {
-          "price": 66.36,
-          "original_price": 69.74,
-          "scraped_at": "2026-03-13T11:00:23.124977+00:00"
-        },
-        {
-          "price": 70.41,
-          "original_price": 101.08,
-          "scraped_at": "2026-03-28T19:00:24.663375+00:00"
-        },
-        {
-          "price": 71.54,
-          "original_price": 151.87,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 58.41,
-          "original_price": 68.73,
-          "scraped_at": "2026-04-18T18:00:28.243177+00:00"
-        },
-        {
-          "price": 68.27,
-          "original_price": 174.24,
-          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true,
-      "refreshed_at": "2026-04-25T06:23:54.331700+00:00"
     },
     {
       "id": "960e2c32131a",
@@ -4777,78 +4403,6 @@
       "auto_approved": true
     },
     {
-      "id": "256f35eefbba",
-      "title": "Oral-B iO9n Rozenkwarts Speciale Editie",
-      "price": 148.0,
-      "original_price": 278.6,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io9n-rozenkwarts-speciale-editie-r-16781",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1798997_910c44ef-89aa-4da9-809d-b4476f956c91.jpg?v=1774877553",
-      "found_at": "2026-04-24T06:31:04.743149+00:00",
-      "price_history": [
-        {
-          "price": 276.0,
-          "original_price": 300.0,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 234.0,
-          "original_price": 264.48,
-          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
-        },
-        {
-          "price": 245.7,
-          "original_price": 264.48,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 258.3,
-          "original_price": 267.63,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 254.1,
-          "original_price": 264.64,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 252.0,
-          "original_price": 265.15,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 238.35,
-          "original_price": 265.31,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 227.0,
-          "original_price": 277.22,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 211.0,
-          "original_price": 277.2,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 193.0,
-          "original_price": 278.6,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 148.0,
-          "original_price": 278.6,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
       "id": "764dcbf52ade",
       "title": "Apple MacBook Pro 14 M5 16/512GB Zwart QWERTY",
       "price": 1359.0,
@@ -5787,68 +5341,6 @@
           "price": 57.0,
           "original_price": 116.72,
           "scraped_at": "2026-04-22T06:00:53.119796+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "0835d09f587b",
-      "title": "Revamp Progloss Perfect Blow Dry Airstyler DR-2000",
-      "price": 31.0,
-      "original_price": 69.49,
-      "discount_percent": 55,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/revamp-progloss-perfect-blow-dry-airstyler-dr-2000-r-16654",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2030495.jpg?v=1774254742",
-      "found_at": "2026-04-24T06:31:08.067407+00:00",
-      "price_history": [
-        {
-          "price": 45.0,
-          "original_price": 61.31,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 52.0,
-          "original_price": 66.31,
-          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 69.65,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 64.05,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 59.85,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 55.65,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 34.0,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 69.49,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
         }
       ],
       "approved_at": "26-04-2026 11:41",
@@ -8223,43 +7715,6 @@
       "auto_approved": true
     },
     {
-      "id": "730f5586c6c6",
-      "title": "Black & Decker  GTC1845L20-QW Heggenschaar",
-      "price": 55.0,
-      "original_price": 99.29,
-      "discount_percent": 44,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/black-decker-gtc1845l20-qw-heggenschaar-r-17100",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1365297.jpg?v=1775635081",
-      "found_at": "2026-04-24T06:30:54.115555+00:00",
-      "price_history": [
-        {
-          "price": 63.0,
-          "original_price": 97.83,
-          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
-        },
-        {
-          "price": 60.0,
-          "original_price": 96.6,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 96.6,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 55.0,
-          "original_price": 99.29,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
       "id": "2da2c1901e0e",
       "title": "Oral-B iO9n Rozenkwarts Speciale Editie",
       "price": 111.0,
@@ -9098,83 +8553,6 @@
       "auto_approved": true
     },
     {
-      "id": "f860c8094186",
-      "title": "Insta360 X4 Battery",
-      "price": 31.0,
-      "original_price": 55.64,
-      "discount_percent": 44,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/insta360-x4-battery-r-16673",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041071.jpg?v=1774254929",
-      "found_at": "2026-04-24T06:31:01.436832+00:00",
-      "price_history": [
-        {
-          "price": 38.0,
-          "original_price": 54.76,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 55.0,
-          "original_price": null,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 23.0,
-          "original_price": 51.9,
-          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
-        },
-        {
-          "price": 53.0,
-          "original_price": 55.4,
-          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
-        },
-        {
-          "price": 55.65,
-          "original_price": null,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 52.5,
-          "original_price": 55.4,
-          "scraped_at": "2026-04-04T10:00:23.657277+00:00"
-        },
-        {
-          "price": 48.3,
-          "original_price": 54.44,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 36.75,
-          "original_price": 53.84,
-          "scraped_at": "2026-04-09T06:00:57.139110+00:00"
-        },
-        {
-          "price": 48.3,
-          "original_price": 55.81,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 35.0,
-          "original_price": 56.42,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 34.0,
-          "original_price": 55.64,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 55.64,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        }
-      ],
-      "approved_at": "26-04-2026 11:41",
-      "auto_approved": true
-    },
-    {
       "id": "c5032d353d27",
       "title": "Polar Vantage V3, sporthorloge met gps, gevanceerde hartslagmeter en verlengde batterijduur, smartwatch voor heren en dames, offline kaarten, hardloophorloge, triathlon horloge",
       "price": 289.89,
@@ -9407,21 +8785,6 @@
         }
       ],
       "approved_at": "28-04-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "b6997554ee02",
-      "title": "Dyson Airwrap Long Multistyler Nikkel/Koper",
-      "price": 364.0,
-      "original_price": 506.0,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-long-multistyler-nikkel-koper-r-17490",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1980076_e8ab7db5-cbf8-44d3-a26c-1a75807df260.jpg?v=1776761441",
-      "found_at": "2026-04-24T06:30:57.548982+00:00",
-      "approved_at": "26-04-2026 11:41",
       "auto_approved": true
     },
     {
