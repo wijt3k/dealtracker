@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T06:20:23.707429+00:00",
-  "total": 297,
+  "updated_at": "2026-05-02T10:23:32.573428+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e622d1adf3a5",
@@ -1998,6 +1998,21 @@
         }
       ],
       "approved_at": "01-05-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "c4183ab9c722",
+      "title": "HP Pavilion Laptop 15-eg2650nd | 15.6\" Full HD Antiglare Slim IPS | Intel i5-1235U | 8GB RAM | 512GB SSD |Intel Iris Xᵉ-videokaart | Windows 11 Home OS | QWERTY-Toetsenbord",
+      "price": 370.24,
+      "original_price": 699.0,
+      "discount_percent": 47,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B4DV3T6R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/816sMnngUNL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-02T10:04:43.602983+00:00",
+      "approved_at": "02-05-2026 11:23",
       "auto_approved": true
     },
     {
@@ -5881,6 +5896,21 @@
         }
       ],
       "approved_at": "01-05-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "8b381a3d57ef",
+      "title": "Dell 15 Notebook DC15255, 15,6 inch (39,6 cm) FHD 120Hz, AMD Ryzen 7 7730U, 16 GB RAM, 1 TB SSD, AMD Radeon, HD-webcam, Windows 11 Home, Spaans QWERTY-toetsenbord, zwart",
+      "price": 434.97,
+      "original_price": 674.51,
+      "discount_percent": 35,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FBDVCRLY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61+Zh7W9-EL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-02T10:05:01.827454+00:00",
+      "approved_at": "02-05-2026 11:23",
       "auto_approved": true
     },
     {
@@ -11712,6 +11742,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2078825_4502a6ba-3b8f-48b4-9085-63f72ad24d25.jpg?v=1777364630",
       "found_at": "2026-05-02T06:15:19.724794+00:00",
       "approved_at": "02-05-2026 07:20",
+      "auto_approved": true
+    },
+    {
+      "id": "84bd9563abb4",
+      "title": "Apple iPad Mini 6 (2021) 64GB Wifi Sterrenlicht",
+      "price": 413.0,
+      "original_price": 562.0,
+      "discount_percent": 26,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-mini-6-2021-64gb-wifi-sterrenlicht-r-17402",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632098_87d95daf-aeb4-427b-9f07-6f999819724e.jpg?v=1776411698",
+      "found_at": "2026-05-02T10:18:46.229060+00:00",
+      "price_history": [
+        {
+          "price": 370.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 351.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 439.0,
+          "original_price": 615.67,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 430.0,
+          "original_price": 494.0,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 439.0,
+          "original_price": 567.0,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 413.0,
+          "original_price": 562.0,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "02-05-2026 11:23",
       "auto_approved": true
     }
   ]
