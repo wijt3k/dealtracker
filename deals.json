@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T14:51:01.163005+00:00",
-  "total": 295,
+  "updated_at": "2026-05-02T18:20:24.612382+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e622d1adf3a5",
@@ -10892,6 +10892,33 @@
       "auto_approved": true
     },
     {
+      "id": "ec95dbcf8736",
+      "title": "acer Aspire AG14-32P-35XP Laptop 14 inch WUXGA IPS (1920 x 1200) | Intel Core i3-N355 | 8 GB DDR5 RAM | 512 GB SSD | Windows 11",
+      "price": 309.76,
+      "original_price": 449.2,
+      "discount_percent": 31,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FJ2981FV?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61mY3MO4O-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-02T18:04:07.082545+00:00",
+      "price_history": [
+        {
+          "price": 365.38,
+          "original_price": null,
+          "scraped_at": "2026-03-10T15:00:15.652099+00:00"
+        },
+        {
+          "price": 309.76,
+          "original_price": 449.2,
+          "scraped_at": "2026-04-27T14:00:25.351273+00:00"
+        }
+      ],
+      "approved_at": "02-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
       "id": "04509208d705",
       "title": "Lenovo ThinkVision P32p-30",
       "price": 489.0,
@@ -11334,6 +11361,249 @@
         }
       ],
       "approved_at": "02-05-2026 11:23",
+      "auto_approved": true
+    },
+    {
+      "id": "928a94efac98",
+      "title": "Sonos Ray Zwart",
+      "price": 144.0,
+      "original_price": 224.94,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-ray-zwart-r-17270",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1753360_e94954da-41a1-4ba2-b4f9-7cfcfccc9765.jpg?v=1776167169",
+      "found_at": "2026-05-02T18:15:48.204435+00:00",
+      "price_history": [
+        {
+          "price": 192.0,
+          "original_price": 224.62,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 186.0,
+          "original_price": 224.87,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 223.78,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 144.0,
+          "original_price": 224.7,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "02-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "fe2c2b63d2f6",
+      "title": "Apple iPad Pro (2021) 12.9 inch 128GB Wifi Zilver",
+      "price": 454.0,
+      "original_price": 608.63,
+      "discount_percent": 25,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2021-12-9-inch-128gb-wifi-zilver-r-17005",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1572263.jpg?v=1775634357",
+      "found_at": "2026-05-02T18:15:34.877351+00:00",
+      "price_history": [
+        {
+          "price": 663.6,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 632.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 793.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 784.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 776.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
+        },
+        {
+          "price": 767.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 742.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 734.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 725.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        },
+        {
+          "price": 717.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 584.0,
+          "original_price": 687.89,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 466.0,
+          "original_price": 566.74,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 550.0,
+          "original_price": 687.89,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 454.0,
+          "original_price": 608.63,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "02-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "df5f6f083646",
+      "title": "Gigaset A705A TRIO",
+      "price": 60.0,
+      "original_price": 100.06,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/gigaset-a705a-trio-r-17142",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1701770.jpg?v=1775635568",
+      "found_at": "2026-05-02T18:15:38.056289+00:00",
+      "price_history": [
+        {
+          "price": 96.6,
+          "original_price": 99.72,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 89.25,
+          "original_price": 99.75,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 100.11,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": 98.65,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 100.82,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 101.01,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 96.05,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 100.09,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 95.91,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 100.06,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "02-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "4c5c6aa15922",
+      "title": "HP LaserJet M207dw printer",
+      "price": 73.0,
+      "original_price": 119.81,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laserjet-m207dw-printer-r-17336",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2122034_c0210845-1bda-413f-b094-09589cdf9e2c.jpg?v=1776167847",
+      "found_at": "2026-05-02T18:15:41.904552+00:00",
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 121.19,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 124.06,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 124.06,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 124.05,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 128.47,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 123.5,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 119.81,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "02-05-2026 19:20",
       "auto_approved": true
     }
   ]
