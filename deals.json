@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T14:30:13.420010+00:00",
-  "total": 296,
+  "updated_at": "2026-05-04T18:19:22.796995+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e622d1adf3a5",
@@ -9983,6 +9983,33 @@
       "auto_approved": true
     },
     {
+      "id": "3583c260c313",
+      "title": "AIAIAI TMA-2 Studio - Professionele studio-koptelefoon met zeer gedetailleerd geluid, over-ear Alcantara oorkussens en modulair ontwerp met eenvoudig vervangbare onderdelen",
+      "price": 102.02,
+      "original_price": 172.0,
+      "discount_percent": 40,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09B2FBKTG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/511E570zRUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-04T18:07:16.200773+00:00",
+      "price_history": [
+        {
+          "price": 100.71,
+          "original_price": 199.0,
+          "scraped_at": "2026-04-21T18:00:49.300650+00:00"
+        },
+        {
+          "price": 102.02,
+          "original_price": 172.0,
+          "scraped_at": "2026-05-04T18:00:22.327521+00:00"
+        }
+      ],
+      "approved_at": "04-05-2026 19:19",
+      "auto_approved": true
+    },
+    {
       "id": "3cf36fce6004",
       "title": "AOC Q27B3CF2",
       "price": 100.0,
@@ -11831,6 +11858,147 @@
         }
       ],
       "approved_at": "04-05-2026 11:41",
+      "auto_approved": true
+    },
+    {
+      "id": "2d8ead424e91",
+      "title": "Tefal Easy Fry & Grill EY855B",
+      "price": 59.0,
+      "original_price": 90.0,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-easy-fry-grill-ey855b-r-17009",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101183.jpg?v=1776166369",
+      "found_at": "2026-05-04T14:25:08.537728+00:00",
+      "price_history": [
+        {
+          "price": 87.0,
+          "original_price": 105.58,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 105.18,
+          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": 88.33,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 87.79,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 90.0,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 87.79,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 81.78,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "04-05-2026 19:19",
+      "auto_approved": true
+    },
+    {
+      "id": "77ab082916d8",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht AZERTY",
+      "price": 835.0,
+      "original_price": 999.0,
+      "discount_percent": 16,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-azerty-r-17319",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_89d8acd1-d80d-4d0a-8523-cee49367981e.jpg?v=1776167662",
+      "found_at": "2026-05-04T14:24:55.814783+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 1053.11,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 902.0,
+          "original_price": 1025.4,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 967.0,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 1024.0,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        }
+      ],
+      "approved_at": "04-05-2026 19:19",
+      "auto_approved": true
+    },
+    {
+      "id": "c2525c6aaeec",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht QWERTY",
+      "price": 791.0,
+      "original_price": 950.57,
+      "discount_percent": 16,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-qwerty-r-16886",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_4c975ef9-40c7-4e6c-b58d-73a795fbbdf7.jpg?v=1774878301",
+      "found_at": "2026-05-04T18:13:57.925132+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 919.24,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 830.55,
+          "original_price": 923.74,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 867.3,
+          "original_price": 942.52,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 798.0,
+          "original_price": 937.72,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 764.0,
+          "original_price": 931.05,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 791.0,
+          "original_price": 947.57,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        }
+      ],
+      "approved_at": "04-05-2026 19:19",
       "auto_approved": true
     }
   ]
