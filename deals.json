@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T10:38:59.783249+00:00",
-  "total": 291,
+  "updated_at": "2026-05-05T14:18:44.568943+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d7251cf28bac",
@@ -119,6 +119,33 @@
         }
       ],
       "approved_at": "26-04-2026 11:41",
+      "auto_approved": true
+    },
+    {
+      "id": "db96bcfdf1bc",
+      "title": "Apple iMac 24\" (2023) M3 (8/8) 8GB/256GB Blauw QWERTZ",
+      "price": 703.0,
+      "original_price": 1530.0,
+      "discount_percent": 54,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-8-8gb-256gb-blauw-qwertz-r-17175",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986209_a212de89-e488-49b0-a17f-4703fb6ccb35.jpg?v=1775824123",
+      "found_at": "2026-05-05T14:14:30.648811+00:00",
+      "price_history": [
+        {
+          "price": 1407.0,
+          "original_price": 1530.0,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 703.0,
+          "original_price": 1530.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
       "auto_approved": true
     },
     {
@@ -1462,6 +1489,58 @@
       "auto_approved": true
     },
     {
+      "id": "2230680001a6",
+      "title": "Dyson Purifier Humidify+Cool Formaldehyde - PH04",
+      "price": 242.0,
+      "original_price": 527.0,
+      "discount_percent": 54,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-purifier-humidify-cool-formaldehyde-ph04-r-17057",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1652939_50b1dc44-5f74-4657-9bd5-6f35838e51c9.jpg?v=1775823903",
+      "found_at": "2026-05-05T14:14:34.373630+00:00",
+      "price_history": [
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 711.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 671.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 442.0,
+          "original_price": 527.0,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 651.0,
+          "original_price": null,
+          "scraped_at": "2026-04-29T18:00:57.600466+00:00"
+        },
+        {
+          "price": 484.0,
+          "original_price": 527.0,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 242.0,
+          "original_price": 527.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "217fa09be4b7",
       "title": "Samsung Galaxy Tab A7 tablet, 10,4 inch TFT-display, 32 GB uitbreidbaar, tot 1 TB, RAM 3 GB, batterij 7.040 mAh, WiFi, Android 11, camera aan de achterzijde 8 MP, donkergrijs [Italiaanse versie]",
       "price": 144.84,
@@ -2437,6 +2516,33 @@
       "auto_approved": true
     },
     {
+      "id": "d6151b28b8ec",
+      "title": "MSI Katana 17 B13VFK-853_0017L5-853 QWERTZ",
+      "price": 1125.0,
+      "original_price": 1549.0,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-katana-17-b13vfk-853_0017l5-853-qwertz-r-17192",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1965316_4d4fc74d-f474-4efb-b782-2e6189575dc3.jpg?v=1776166483",
+      "found_at": "2026-05-05T14:14:40.177255+00:00",
+      "price_history": [
+        {
+          "price": 1425.0,
+          "original_price": 1549.0,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 1125.0,
+          "original_price": 1549.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "66ca89f362e0",
       "title": "SAMSUNG 55” OLED 4K TV S95F (2025)",
       "price": 1311.75,
@@ -2550,6 +2656,33 @@
         }
       ],
       "approved_at": "01-05-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "1bfeab409921",
+      "title": "Apple MacBook Air 15\" (2024) M3 (8/10) 8GB/256GB Sterrenlicht QWERTZ",
+      "price": 1066.0,
+      "original_price": 1468.0,
+      "discount_percent": 27,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-2024-m3-8-10-8gb-256gb-sterrenlicht-qwertz-r-17228",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2021229_b8a939e2-51b0-439b-8b6a-75a2eed07a47.jpg?v=1776166793",
+      "found_at": "2026-05-05T14:14:30.651012+00:00",
+      "price_history": [
+        {
+          "price": 1350.0,
+          "original_price": 1468.0,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 1066.0,
+          "original_price": 1468.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
       "auto_approved": true
     },
     {
@@ -4180,6 +4313,21 @@
         }
       ],
       "approved_at": "01-05-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "4900e63f7a14",
+      "title": "SPC Smartee 4G Junior Smartwatch voor kinderen met GPS, videogesprekken en SOS-knop, 1,2 inch display, dubbele armband blauw en zwart en trackermodus, schoolmodus, beheer vanuit de Smart Clan-app",
+      "price": 51.94,
+      "original_price": 129.0,
+      "discount_percent": 59,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F2TLTRYJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61lzvZm2TPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-05T14:07:53.656928+00:00",
+      "approved_at": "05-05-2026 15:18",
       "auto_approved": true
     },
     {
@@ -6657,6 +6805,33 @@
       "auto_approved": true
     },
     {
+      "id": "64821e4def2d",
+      "title": "HP Slim S01-pF2970nd",
+      "price": 641.0,
+      "original_price": 883.0,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-slim-s01-pf2970nd-r-17249",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1912187_6da4db69-e056-42de-9fff-cdcda0742e85.jpg?v=1776166959",
+      "found_at": "2026-05-05T14:14:37.103314+00:00",
+      "price_history": [
+        {
+          "price": 812.0,
+          "original_price": 883.0,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 641.0,
+          "original_price": 883.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "cd46ede36666",
       "title": "Philips DiamondClean 9000 HX9911/94",
       "price": 77.0,
@@ -7278,6 +7453,73 @@
         }
       ],
       "approved_at": "26-04-2026 11:41",
+      "auto_approved": true
+    },
+    {
+      "id": "5108c8e797f8",
+      "title": "HP Color Laser 150nw",
+      "price": 154.0,
+      "original_price": 267.78,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-color-laser-150nw-r-17178",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1389691_559f5958-854c-48c5-ac3c-b57ed53f3fb4.jpg?v=1775824170",
+      "found_at": "2026-05-05T14:14:34.374396+00:00",
+      "price_history": [
+        {
+          "price": 236.0,
+          "original_price": 272.75,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 238.0,
+          "original_price": 273.36,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 272.29,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 219.0,
+          "original_price": 274.28,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 207.0,
+          "original_price": 275.25,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 215.0,
+          "original_price": 271.05,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 272.65,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 215.0,
+          "original_price": 269.07,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 200.0,
+          "original_price": 266.68,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 154.0,
+          "original_price": 267.78,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
       "auto_approved": true
     },
     {
@@ -8219,6 +8461,73 @@
       "auto_approved": true
     },
     {
+      "id": "723a6efe6a9c",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 77.0,
+      "original_price": 141.19,
+      "discount_percent": 45,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-17171",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_6ef43f83-2486-4d93-934b-6709c96b2821.jpg?v=1775824078",
+      "found_at": "2026-05-05T14:14:40.178385+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 145.77,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 133.92,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 139.1,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 131.2,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 106.0,
+          "original_price": 143.93,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 141.21,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 106.0,
+          "original_price": 142.11,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 103.0,
+          "original_price": 141.91,
+          "scraped_at": "2026-04-29T14:00:41.882285+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 139.73,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 141.19,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "d99d882a4f6b",
       "title": "Lenovo Yoga Tab Plus 16GB 256GB tab pen pro & keyboard",
       "price": 527.0,
@@ -8464,6 +8773,33 @@
       "auto_approved": true
     },
     {
+      "id": "9bdc4d803e12",
+      "title": "Ecovacs T50 OMNI black",
+      "price": 505.0,
+      "original_price": 696.0,
+      "discount_percent": 27,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ecovacs-t50-omni-black-r-17290",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2148977.jpg?v=1776167312",
+      "found_at": "2026-05-05T14:14:34.373871+00:00",
+      "price_history": [
+        {
+          "price": 640.0,
+          "original_price": 696.0,
+          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
+        },
+        {
+          "price": 505.0,
+          "original_price": 696.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "15268c34efb8",
       "title": "Sennheiser HD 200 Synthesizer, Zwart, Eén maat",
       "price": 54.29,
@@ -8498,6 +8834,73 @@
         }
       ],
       "approved_at": "03-05-2026 08:03",
+      "auto_approved": true
+    },
+    {
+      "id": "2c77f65cae19",
+      "title": "HP ENVY Inspire 7220e All-in-One",
+      "price": 55.0,
+      "original_price": 102.12,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-envy-inspire-7220e-all-in-one-r-17039",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1682481_108bde72-826e-4232-897b-24a8ca4c3043.jpg?v=1775823799",
+      "found_at": "2026-05-05T14:14:37.102657+00:00",
+      "price_history": [
+        {
+          "price": 78.0,
+          "original_price": 113.32,
+          "scraped_at": "2026-04-14T10:00:16.849075+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 115.09,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 111.26,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 109.49,
+          "scraped_at": "2026-04-17T06:00:45.108450+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": 112.74,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 106.46,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 100.76,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 103.86,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 105.05,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 102.12,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
       "auto_approved": true
     },
     {
@@ -10154,6 +10557,93 @@
       "auto_approved": true
     },
     {
+      "id": "0c1dea1eb42f",
+      "title": "HP ENVY Inspire 7224e All-in-One",
+      "price": 75.0,
+      "original_price": 126.3,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-envy-inspire-7224e-all-in-one-r-17254",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1895714_a3128ee7-3a49-4d0e-a26a-44b1e93f1967.jpg?v=1775824318",
+      "found_at": "2026-05-05T14:14:37.103000+00:00",
+      "price_history": [
+        {
+          "price": 116.0,
+          "original_price": 126.3,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 126.3,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 125.63,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 106.0,
+          "original_price": 126.3,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 116.08,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 124.95,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 116.08,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 108.75,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 103.08,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 125.63,
+          "scraped_at": "2026-04-29T14:00:41.882285+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 117.1,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 126.3,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 125.15,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 126.3,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "d0062812df62",
       "title": "Poly Blackwire 8225 Premium Wired Headset – Actieve ruisonderdrukking – Hifi Stereo - Aansluiten op pc/Mac - Werkt met teams, Zoom",
       "price": 75.95,
@@ -10391,6 +10881,58 @@
         }
       ],
       "approved_at": "03-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "0bc769c4c830",
+      "title": "Medela Swing Maxi Hands-Free",
+      "price": 114.0,
+      "original_price": 181.62,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-swing-maxi-hands-free-r-17419",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2120982_252798f0-bac7-4544-b4ab-25b83920d390.jpg?v=1776760658",
+      "found_at": "2026-05-05T10:33:18.767542+00:00",
+      "price_history": [
+        {
+          "price": 137.0,
+          "original_price": 156.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 156.12,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 137.0,
+          "original_price": 156.12,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 156.12,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 153.6,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 167.4,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 181.62,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
       "auto_approved": true
     },
     {
@@ -11161,6 +11703,90 @@
       "auto_approved": true
     },
     {
+      "id": "b0d0433862de",
+      "title": "Samsung Galaxy Book4 Pro NP940XGK-KG2NL QWERTY",
+      "price": 1368.0,
+      "original_price": 1579.5,
+      "discount_percent": 13,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-book4-pro-np940xgk-kg2nl-qwerty-r-17528",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018323.jpg?v=1776761825",
+      "found_at": "2026-05-05T10:33:21.960127+00:00",
+      "price_history": [
+        {
+          "price": 1319.0,
+          "original_price": 1499.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 1416.0,
+          "original_price": 1527.4,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 1363.0,
+          "original_price": 1579.5,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 1416.0,
+          "original_price": 1527.4,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 1246.0,
+          "original_price": 1504.67,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 1416.0,
+          "original_price": 1569.33,
+          "scraped_at": "2026-04-29T14:00:41.882285+00:00"
+        },
+        {
+          "price": 1363.0,
+          "original_price": 1549.0,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 1368.0,
+          "original_price": 1579.5,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "b0863e144bcc",
+      "title": "Medela Swing Maxi Hands-Free",
+      "price": 121.0,
+      "original_price": 181.62,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-swing-maxi-hands-free-r-17562",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2120982_2b03076d-f8de-425a-800c-efffdffdfe9e.jpg?v=1777364531",
+      "found_at": "2026-05-05T14:14:37.106579+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 153.6,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 181.62,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "05-05-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "b9ba0f09b819",
       "title": "Philips 27M2N3200S/00",
       "price": 99.0,
@@ -11574,241 +12200,6 @@
         }
       ],
       "approved_at": "04-05-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "87dd0b23d111",
-      "title": "Apple Watch Ultra 3 5G 49mm Zwart Ocean Band",
-      "price": 753.0,
-      "original_price": 917.24,
-      "discount_percent": 17,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-watch-ultra-3-5g-49mm-zwart-ocean-band-r-17521",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213203.jpg?v=1776761753",
-      "found_at": "2026-05-04T10:36:23.102862+00:00",
-      "price_history": [
-        {
-          "price": 807.0,
-          "original_price": 878.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 753.0,
-          "original_price": 909.0,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 769.0,
-          "original_price": 918.0,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 753.0,
-          "original_price": 930.64,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 689.0,
-          "original_price": 909.46,
-          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
-        },
-        {
-          "price": 753.0,
-          "original_price": 912.25,
-          "scraped_at": "2026-04-29T14:00:41.882285+00:00"
-        }
-      ],
-      "approved_at": "04-05-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "efc9fb5c3716",
-      "title": "Samsung Galaxy Watch6 Classic 47mm BT Black",
-      "price": 172.0,
-      "original_price": 242.29,
-      "discount_percent": 29,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-watch6-classic-47mm-bt-black-r-17185",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944122_835a206c-93fd-4e24-8db9-92503a2ffba1.jpg?v=1776166411",
-      "found_at": "2026-05-04T10:36:32.476240+00:00",
-      "price_history": [
-        {
-          "price": 203.0,
-          "original_price": 221.46,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 198.0,
-          "original_price": 215.64,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 195.0,
-          "original_price": 212.66,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 185.0,
-          "original_price": 244.49,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 179.0,
-          "original_price": 234.39,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 182.0,
-          "original_price": 244.52,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 172.0,
-          "original_price": 242.46,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        }
-      ],
-      "approved_at": "04-05-2026 11:41",
-      "auto_approved": true
-    },
-    {
-      "id": "2d8ead424e91",
-      "title": "Tefal Easy Fry & Grill EY855B",
-      "price": 59.0,
-      "original_price": 90.0,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-easy-fry-grill-ey855b-r-17009",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101183.jpg?v=1776166369",
-      "found_at": "2026-05-04T14:25:08.537728+00:00",
-      "price_history": [
-        {
-          "price": 87.0,
-          "original_price": 105.58,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 84.0,
-          "original_price": 105.18,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        },
-        {
-          "price": 76.0,
-          "original_price": 88.33,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": 87.79,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 71.0,
-          "original_price": 90.0,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": 87.79,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 81.78,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        }
-      ],
-      "approved_at": "04-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "b18d692af901",
-      "title": "Fitbit Google Charge 6 Activity Tracker met 6 maanden Premium Lidmaatschap inbegrepen, 7 dagen batterijduur en Google Wallet en Google Maps",
-      "price": 114.69,
-      "original_price": 167.0,
-      "discount_percent": 31,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CHN2F11G?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/619Rq2X78zL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-05T06:15:28.283546+00:00",
-      "price_history": [
-        {
-          "price": 100.9,
-          "original_price": null,
-          "scraped_at": "2026-04-04T06:00:25.083625+00:00"
-        },
-        {
-          "price": 111.53,
-          "original_price": null,
-          "scraped_at": "2026-04-19T10:00:33.712759+00:00"
-        },
-        {
-          "price": 100.28,
-          "original_price": 120.82,
-          "scraped_at": "2026-04-24T14:00:27.386695+00:00"
-        },
-        {
-          "price": 100.27,
-          "original_price": null,
-          "scraped_at": "2026-04-29T18:00:57.600466+00:00"
-        },
-        {
-          "price": 114.69,
-          "original_price": 167.0,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        }
-      ],
-      "approved_at": "05-05-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "77ab082916d8",
-      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht AZERTY",
-      "price": 835.0,
-      "original_price": 999.0,
-      "discount_percent": 16,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-azerty-r-17319",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_89d8acd1-d80d-4d0a-8523-cee49367981e.jpg?v=1776167662",
-      "found_at": "2026-05-04T14:24:55.814783+00:00",
-      "price_history": [
-        {
-          "price": 791.0,
-          "original_price": 1053.11,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 902.0,
-          "original_price": 1025.4,
-          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
-        },
-        {
-          "price": 835.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 967.0,
-          "original_price": 1099.0,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 835.0,
-          "original_price": 1024.0,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        }
-      ],
-      "approved_at": "04-05-2026 19:19",
       "auto_approved": true
     }
   ]
