@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T10:21:30.709569+00:00",
-  "total": 292,
+  "updated_at": "2026-05-07T14:28:25.548535+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "1961c7408c33",
@@ -10555,6 +10555,43 @@
       "auto_approved": true
     },
     {
+      "id": "0d5b36ef53ef",
+      "title": "AKG K 271 MKII - Gesloten koptelefoon",
+      "price": 85.26,
+      "original_price": 149.0,
+      "discount_percent": 42,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0016MOC28?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/618Wn-wtSgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-07T14:10:19.450177+00:00",
+      "price_history": [
+        {
+          "price": 91.24,
+          "original_price": 199.0,
+          "scraped_at": "2026-04-21T18:00:49.300650+00:00"
+        },
+        {
+          "price": 88.54,
+          "original_price": 113.09,
+          "scraped_at": "2026-04-27T06:01:02.549178+00:00"
+        },
+        {
+          "price": 89.99,
+          "original_price": 101.67,
+          "scraped_at": "2026-05-02T10:00:57.598460+00:00"
+        },
+        {
+          "price": 85.26,
+          "original_price": 149.0,
+          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
+        }
+      ],
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
       "id": "e1eee3f8bee0",
       "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5678",
       "price": 60.0,
@@ -12354,6 +12391,271 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69fb420d0cbf0_ASSET_MMS_121286137-500x500.png",
       "found_at": "2026-05-06T14:16:57.057326+00:00",
       "approved_at": "07-05-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "77ab082916d8",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht AZERTY",
+      "price": 806.0,
+      "original_price": 999.0,
+      "discount_percent": 19,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-azerty-r-17319",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_89d8acd1-d80d-4d0a-8523-cee49367981e.jpg?v=1776167662",
+      "found_at": "2026-05-06T06:27:59.310893+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 1053.11,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 902.0,
+          "original_price": 1025.4,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 967.0,
+          "original_price": 1099.0,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 1024.0,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 806.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "724fb11336db",
+      "title": "Bose Smart Ultra Soundbar Zwart",
+      "price": 721.0,
+      "original_price": 906.0,
+      "discount_percent": 20,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-smart-ultra-soundbar-zwart-r-17431",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1967566_b38e0285-bc76-4f93-83c5-f4c17159b88b.jpg?v=1776760805",
+      "found_at": "2026-05-07T10:16:52.756796+00:00",
+      "price_history": [
+        {
+          "price": 553.0,
+          "original_price": 629.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 771.0,
+          "original_price": 897.0,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 793.0,
+          "original_price": 898.88,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 771.0,
+          "original_price": 897.0,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 793.0,
+          "original_price": 899.22,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 766.0,
+          "original_price": 899.22,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 721.0,
+          "original_price": 897.89,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        }
+      ],
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "60f5c7f03d26",
+      "title": "Logitech G 02 X Plus Lightspeed Draadloze Gaming Muis Zwart",
+      "price": 86.0,
+      "original_price": 138.28,
+      "discount_percent": 37,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-02-x-plus-lightspeed-draadloze-gaming-muis-zwart-r-17472",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806097_1da280e3-d256-4dfa-ae19-9979a8b1210f.jpg?v=1776761244",
+      "found_at": "2026-05-07T14:23:57.823646+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 140.29,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 136.27,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 137.3,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 138.19,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 139.93,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 138.84,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 86.0,
+          "original_price": 135.36,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        }
+      ],
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "2be8e24abb8a",
+      "title": "Dometic ACX3 40",
+      "price": 259.0,
+      "original_price": 367.09,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dometic-acx3-40-r-17623",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1676886_1ca22fbe-a7f6-4251-b00e-27f960b641a5.jpg?v=1777899667",
+      "found_at": "2026-05-07T14:23:53.952786+00:00",
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "38403ff0b8c7",
+      "title": "Medela Magic InBra Double",
+      "price": 351.0,
+      "original_price": 474.14,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-magic-inbra-double-r-17438",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2198805_50d1fc95-0028-435d-bbc6-029147085a61.jpg?v=1776760873",
+      "found_at": "2026-05-07T14:23:57.823955+00:00",
+      "price_history": [
+        {
+          "price": 378.0,
+          "original_price": 430.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 347.0,
+          "original_price": 453.05,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 373.0,
+          "original_price": 424.33,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 347.0,
+          "original_price": 424.33,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 424.33,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 373.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 351.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        }
+      ],
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "cf8192034f5f",
+      "title": "Refurbished iPad 9 256GB WIFI+LTE 10.2\" Space Gray",
+      "price": 293.0,
+      "original_price": 396.0,
+      "discount_percent": 26,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-9-256gb-wifi-lte-10-2-space-gray-r-17558",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632013_8e488752-6c6a-451a-ba6d-80091d148604.jpg?v=1777364500",
+      "found_at": "2026-05-07T14:24:03.900372+00:00",
+      "approved_at": "07-05-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "aa7664509308",
+      "title": "OnePlus 13R CPH2645 Europe 256GB 12GB Nebula Noir EU",
+      "price": 514.0,
+      "original_price": 653.69,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oneplus-13r-cph2645-europe-256gb-12gb-nebula-noir-eu-r-17516",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2171739_e8dc85f4-e42a-461b-8f10-da7b0204a956.jpg?v=1776761702",
+      "found_at": "2026-05-07T14:24:01.050028+00:00",
+      "price_history": [
+        {
+          "price": 497.0,
+          "original_price": 643.56,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 514.0,
+          "original_price": 626.91,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "07-05-2026 15:28",
       "auto_approved": true
     }
   ]
