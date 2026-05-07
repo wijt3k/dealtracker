@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T19:01:05.421351+00:00",
-  "total": 300,
+  "updated_at": "2026-05-07T19:01:09.416684+00:00",
+  "total": 297,
   "deals": [
     {
       "id": "1961c7408c33",
@@ -4103,38 +4103,6 @@
         }
       ],
       "approved_at": "05-05-2026 15:18",
-      "auto_approved": true
-    },
-    {
-      "id": "4ed2a6420f05",
-      "title": "SAMSUNG 65” OLED 4K TV S90F (2025)",
-      "price": 1236.75,
-      "original_price": 1649.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=332208",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69f47ca752556_ASSET_MMS_165395437-500x500.png",
-      "found_at": "2026-05-01T14:29:09.726613+00:00",
-      "price_history": [
-        {
-          "price": 1236.75,
-          "original_price": 1649.0,
-          "scraped_at": "2026-04-23T14:00:37.037095+00:00"
-        },
-        {
-          "price": 1022.11,
-          "original_price": 1362.81,
-          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
-        },
-        {
-          "price": 1236.75,
-          "original_price": 1649.0,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        }
-      ],
-      "approved_at": "07-05-2026 07:25",
       "auto_approved": true
     },
     {
@@ -11311,38 +11279,6 @@
       "auto_approved": true
     },
     {
-      "id": "9031b20ae3ee",
-      "title": "BEKO B5WT5104111M IronFast -  Wasmachine Voorlader - 10 kg - 1400 rpm - 75 dB",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=331941",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69f45f11eef76_ASSET_MMS_134177944-500x500.png",
-      "found_at": "2026-05-01T14:29:17.612851+00:00",
-      "price_history": [
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 433.26,
-          "original_price": 577.69,
-          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
-        },
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        }
-      ],
-      "approved_at": "07-05-2026 07:25",
-      "auto_approved": true
-    },
-    {
       "id": "be5677a50981",
       "title": "SAMSUNG  RB34C602CB1EF -  Koel-vriescombinatie - breedte 59.5 cm - hoogte 185.3 cm - inhoud 344 l - NoFrost",
       "price": 524.25,
@@ -11386,21 +11322,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=332884",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69fb49a23195f_ASSET_MMS_96762034-500x500.png",
       "found_at": "2026-05-01T14:28:47.154557+00:00",
-      "approved_at": "07-05-2026 07:25",
-      "auto_approved": true
-    },
-    {
-      "id": "aae851bca5c0",
-      "title": "DREAME L40s Pro Ultra Wit Robotstofzuiger Wit",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=332961",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69f5e769d596f_ASSET_MMS_152440230-500x500.png",
-      "found_at": "2026-05-01T14:28:47.121262+00:00",
       "approved_at": "07-05-2026 07:25",
       "auto_approved": true
     },
