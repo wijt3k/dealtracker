@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T14:41:46.356525+00:00",
-  "total": 297,
+  "updated_at": "2026-05-08T18:26:37.107759+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "1961c7408c33",
@@ -519,6 +519,93 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "d4d1e3b5065b",
+      "title": "Apple MacBook Pro 16\" M4 Pro (14/20) 24GB/512GB SB AZERTY",
+      "price": 1972.0,
+      "original_price": 3864.48,
+      "discount_percent": 48,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-pro-16-m4-pro-14-20-24gb-512gb-sb-azerty-r-17390",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2113831.jpg?v=1776411603",
+      "found_at": "2026-04-23T06:27:02.446780+00:00",
+      "price_history": [
+        {
+          "price": 3400.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
+        },
+        {
+          "price": 3162.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 3128.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 3094.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 3060.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 3400.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 2992.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 3284.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 2856.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 2822.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        },
+        {
+          "price": 2788.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 2754.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 2720.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 1972.0,
+          "original_price": 3864.48,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -8310,6 +8397,78 @@
       "auto_approved": true
     },
     {
+      "id": "19630a88327f",
+      "title": "Apple MacBook Air 13 inch (2025) M4 (10 CPU/8 GPU) 16GB/256GB Hemelsblauw QWERTY",
+      "price": 789.0,
+      "original_price": 968.91,
+      "discount_percent": 18,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-inch-2025-m4-10-cpu-8-gpu-16gb-256gb-hemelsblauw-qwerty-r-17352",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_5d9ae3aa-90bb-4878-a10d-d0ea0ae3a036.jpg?v=1776760385",
+      "found_at": "2026-05-08T18:22:44.736547+00:00",
+      "price_history": [
+        {
+          "price": 879.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 791.0,
+          "original_price": 938.95,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 817.0,
+          "original_price": 952.38,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 834.0,
+          "original_price": 962.55,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 871.0,
+          "original_price": 952.38,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 887.0,
+          "original_price": 955.71,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 852.0,
+          "original_price": 949.04,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        },
+        {
+          "price": 1019.0,
+          "original_price": null,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 823.0,
+          "original_price": 956.3,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 1019.0,
+          "original_price": null,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 789.0,
+          "original_price": 968.91,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
       "id": "f39e8f56bfdf",
       "title": "HP Laptop 15s-fq5610nd | 15.6\" Full HD IPS |Intel Core i3-1215U | 8GB RAM | 256 GB SSD | Windows 11 Home OS | QWERTY Toetsenbord",
       "price": 372.76,
@@ -9345,6 +9504,58 @@
       "auto_approved": true
     },
     {
+      "id": "e8ac736f7ec6",
+      "title": "Apple MacBook Air 13 inch (2025) M4 (10 CPU/8 GPU) 16GB/256GB Hemelsblauw QWERTY",
+      "price": 817.0,
+      "original_price": 968.91,
+      "discount_percent": 15,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-inch-2025-m4-10-cpu-8-gpu-16gb-256gb-hemelsblauw-qwerty-r-17535",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146362_916b742b-6f02-4d82-84c2-72ce3b910528.jpg?v=1777364403",
+      "found_at": "2026-05-08T18:22:48.054400+00:00",
+      "price_history": [
+        {
+          "price": 871.0,
+          "original_price": 952.38,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 818.0,
+          "original_price": 942.54,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 852.0,
+          "original_price": 949.04,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        },
+        {
+          "price": 1055.0,
+          "original_price": null,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 852.0,
+          "original_price": 956.3,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 1055.0,
+          "original_price": null,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 817.0,
+          "original_price": 968.91,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
       "id": "1cf10d06f12c",
       "title": "Apple AirPods Max Goud",
       "price": 432.0,
@@ -9372,6 +9583,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092760_3d2d7c83-7135-4d0a-aa97-ca11c287cb2a.jpg?v=1777900049",
       "found_at": "2026-05-08T06:20:55.086128+00:00",
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "77a20f5a99c0",
+      "title": "SONY WH-1000XM6 Vlaggenschip Noise Cancelling Over-Ear Draadloze Bluetooth Hoofdtelefoon, Handtekening Hi-Res Geluid, Comfort, Opvouwbaar Ontwerp, Duurzame Etui, 30 HR Batterij, iOS & Android - Zwart",
+      "price": 282.56,
+      "original_price": 369.9,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F2TT8Q7M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/618GW-ehp+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:20:38.441408+00:00",
+      "price_history": [
+        {
+          "price": 318.36,
+          "original_price": 379.0,
+          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
+        },
+        {
+          "price": 309.79,
+          "original_price": 369.9,
+          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
+        },
+        {
+          "price": 304.65,
+          "original_price": null,
+          "scraped_at": "2026-04-21T06:00:48.729087+00:00"
+        },
+        {
+          "price": 292.54,
+          "original_price": 379.0,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 287.55,
+          "original_price": null,
+          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
+        },
+        {
+          "price": 282.56,
+          "original_price": 369.9,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -9611,6 +9869,53 @@
       "auto_approved": true
     },
     {
+      "id": "be5c86b27b76",
+      "title": "ASUS TUF Gaming VG27VQ3B 27-inch gaming-monitor (Full HD, Curved, 180Hz, ELMB SYNC, FreeSync, 1ms responstijd, 90% DCI-P3, DisplayWidget Centre)",
+      "price": 103.31,
+      "original_price": 143.24,
+      "discount_percent": 27,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09T99RXPR?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71s3968FFEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:19:22.686749+00:00",
+      "price_history": [
+        {
+          "price": 142.25,
+          "original_price": null,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 102.79,
+          "original_price": 143.24,
+          "scraped_at": "2026-03-27T07:00:50.764496+00:00"
+        },
+        {
+          "price": 106.17,
+          "original_price": 143.24,
+          "scraped_at": "2026-04-23T06:00:28.635396+00:00"
+        },
+        {
+          "price": 101.97,
+          "original_price": null,
+          "scraped_at": "2026-04-28T14:00:30.660824+00:00"
+        },
+        {
+          "price": 100.06,
+          "original_price": 189.99,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 103.31,
+          "original_price": 143.24,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
       "id": "26d42e5ff94c",
       "title": "Medela Motion InBra Double",
       "price": 160.0,
@@ -9722,6 +10027,33 @@
         }
       ],
       "approved_at": "08-05-2026 12:01",
+      "auto_approved": true
+    },
+    {
+      "id": "8b9d408407c7",
+      "title": "ACER CB272 Gbirf pc-monitor",
+      "price": 102.72,
+      "original_price": 141.06,
+      "discount_percent": 27,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CX3XCS4H?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/813Lq-z2kwL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:19:06.647441+00:00",
+      "price_history": [
+        {
+          "price": 102.04,
+          "original_price": 141.06,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        },
+        {
+          "price": 102.72,
+          "original_price": 141.06,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -10000,6 +10332,93 @@
         }
       ],
       "approved_at": "08-05-2026 12:01",
+      "auto_approved": true
+    },
+    {
+      "id": "cd0ff41ac01e",
+      "title": "ASUS ZenScreen MB166CR draagbare monitor 16 inch (15,6), Full HD (1920 x 1080), IPS, USB Type-C, anti-flikkering, blauwlichtfilter, ontspiegeld oppervlak, 360 graden standaard, zwart",
+      "price": 94.86,
+      "original_price": 129.0,
+      "discount_percent": 26,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07MB83BY2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/710Q1KYdAzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:18:24.762941+00:00",
+      "price_history": [
+        {
+          "price": 88.08,
+          "original_price": 159.99,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 91.83,
+          "original_price": 99.99,
+          "scraped_at": "2026-03-01T15:00:20.730172+00:00"
+        },
+        {
+          "price": 89.45,
+          "original_price": 99.99,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 96.46,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 98.31,
+          "original_price": 137.5,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 93.08,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
+        },
+        {
+          "price": 90.74,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
+        },
+        {
+          "price": 95.84,
+          "original_price": 129.99,
+          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
+        },
+        {
+          "price": 97.97,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-12T14:00:21.438573+00:00"
+        },
+        {
+          "price": 94.77,
+          "original_price": 129.99,
+          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
+        },
+        {
+          "price": 97.63,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-23T06:00:28.635396+00:00"
+        },
+        {
+          "price": 95.17,
+          "original_price": 113.99,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 92.12,
+          "original_price": 149.99,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 94.86,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -10713,6 +11132,38 @@
       "auto_approved": true
     },
     {
+      "id": "6f74b92875a0",
+      "title": "Apple iPad Air (2025) 11 inch 128GB Wifi Paars",
+      "price": 488.0,
+      "original_price": 572.67,
+      "discount_percent": 14,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-11-inch-128gb-wifi-paars-r-17322",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145253_bd461783-9447-43dc-8699-9427db8d48bd.jpg?v=1776167684",
+      "found_at": "2026-05-08T18:22:44.735075+00:00",
+      "price_history": [
+        {
+          "price": 488.0,
+          "original_price": 582.95,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 461.0,
+          "original_price": 575.87,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 488.0,
+          "original_price": 572.67,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
       "id": "ff041515c5d0",
       "title": "Philips 34E1C5600HE/00",
       "price": 315.0,
@@ -10725,6 +11176,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1791618_b2cc7808-9a04-47e1-b6b7-81d7a5d20c6b.jpg?v=1777899661",
       "found_at": "2026-05-08T06:21:05.145181+00:00",
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "a168f9b8bf08",
+      "title": "Hama Smartwatch Arion, GPS, AMOLED 43 mm, waterdicht, telefoonfunctie, goud",
+      "price": 95.51,
+      "original_price": 121.0,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GL25W6F3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51OS6GF8vFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:11:38.155799+00:00",
+      "price_history": [
+        {
+          "price": 118.58,
+          "original_price": 121.0,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 115.62,
+          "original_price": null,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 95.51,
+          "original_price": 121.0,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -11599,6 +12082,63 @@
       "auto_approved": true
     },
     {
+      "id": "8d373db37b2b",
+      "title": "\"Monitor PC curvo - LG - 24\"\" - FHD - 100Hz - Pannello VA - 5ms\"",
+      "price": 95.72,
+      "original_price": 112.4,
+      "discount_percent": 14,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DZXP3VPY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51jSmhA7Y8L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:18:08.077373+00:00",
+      "price_history": [
+        {
+          "price": 103.03,
+          "original_price": null,
+          "scraped_at": "2026-03-14T15:00:26.708155+00:00"
+        },
+        {
+          "price": 80.42,
+          "original_price": 86.67,
+          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
+        },
+        {
+          "price": 103.59,
+          "original_price": 111.39,
+          "scraped_at": "2026-03-30T06:00:49.881945+00:00"
+        },
+        {
+          "price": 90.23,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 89.95,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-12T10:00:14.577525+00:00"
+        },
+        {
+          "price": 99.65,
+          "original_price": 112.41,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 97.73,
+          "original_price": 109.99,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 95.72,
+          "original_price": 112.4,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
       "id": "2a9e459232e7",
       "title": "Blackview BV4800 SE (NFC) Téléphone Portable Incassable, 12Go+64Go/TF 1To Octa-Core, Android 15, 6.56\" HD+, Smartphone Incassable, 5180mAh, 16MP+8MP, 4G Dual SIM, 3 Slot/GPS/Face ID/NFC Vert",
       "price": 94.11,
@@ -11643,6 +12183,58 @@
         }
       ],
       "approved_at": "08-05-2026 12:01",
+      "auto_approved": true
+    },
+    {
+      "id": "2c081b88ec1a",
+      "title": "DAHUA Lcd-monitor 22 inch (55,6 cm) LM22-H200",
+      "price": 93.86,
+      "original_price": 109.96,
+      "discount_percent": 14,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09MKK9V1S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51W9gzN+D4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:17:50.815211+00:00",
+      "price_history": [
+        {
+          "price": 67.43,
+          "original_price": 82.23,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 86.07,
+          "original_price": 94.47,
+          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
+        },
+        {
+          "price": 107.24,
+          "original_price": null,
+          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
+        },
+        {
+          "price": 105.1,
+          "original_price": 123.87,
+          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
+        },
+        {
+          "price": 102.86,
+          "original_price": 115.68,
+          "scraped_at": "2026-04-23T06:00:28.635396+00:00"
+        },
+        {
+          "price": 98.34,
+          "original_price": 161.03,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 93.86,
+          "original_price": 109.96,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -11941,6 +12533,38 @@
         }
       ],
       "approved_at": "08-05-2026 12:01",
+      "auto_approved": true
+    },
+    {
+      "id": "016e5da707d8",
+      "title": "Samsung Galaxy Tab S6 Lite LTE - 64GB 4GB Oxford Grey (Spaanse versie)",
+      "price": 273.79,
+      "original_price": 304.9,
+      "discount_percent": 10,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08716QW4M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61Pp0YEF+XL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:04:49.411687+00:00",
+      "price_history": [
+        {
+          "price": 288.99,
+          "original_price": 304.9,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 281.39,
+          "original_price": 304.9,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 273.79,
+          "original_price": 304.9,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
@@ -12878,6 +13502,43 @@
       "auto_approved": true
     },
     {
+      "id": "1837fa7f033e",
+      "title": "instax Fujifilm mini 12 instant mini camera, Clay White",
+      "price": 69.12,
+      "original_price": 72.0,
+      "discount_percent": 3,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BV38RWKK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51EMcRazC8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-08T18:13:18.527787+00:00",
+      "price_history": [
+        {
+          "price": 75.76,
+          "original_price": 79.0,
+          "scraped_at": "2026-03-02T19:00:18.342479+00:00"
+        },
+        {
+          "price": 75.84,
+          "original_price": 79.0,
+          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
+        },
+        {
+          "price": 67.68,
+          "original_price": 72.0,
+          "scraped_at": "2026-03-28T07:00:37.248317+00:00"
+        },
+        {
+          "price": 69.12,
+          "original_price": 72.0,
+          "scraped_at": "2026-04-02T14:00:27.008684+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
       "id": "d97879524d73",
       "title": "HyperX Cloud III Wireless Gaming Headset - Zwart/Rood(PC, PS5, PS4)",
       "price": 163.0,
@@ -13022,388 +13683,214 @@
       "auto_approved": true
     },
     {
-      "id": "05c95a106cff",
-      "title": "Medisana Shiatsu MC 600",
-      "price": 70.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/965821/medisana-shiatsu-mc-600.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2184110",
-      "found_at": "2026-05-08T14:38:08.238717+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "2d5855cba0c0",
-      "title": "Garmin HRM 600 Hartslagmeter Borstband Zwart M-XL",
-      "price": 151.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "wearables",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/966056/garmin-hrm-600-hartslagmeter-borstband-zwart-m-xl.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2185875",
-      "found_at": "2026-05-08T14:38:08.178967+00:00",
-      "price_history": [
-        {
-          "price": 150.0,
-          "original_price": null,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": null,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "f78b0eabd9f8",
-      "title": "BlueBuilt Universele Auto Telefoonhouder Luchtrooster",
-      "price": 27.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "smartphones",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/943967/bluebuilt-universele-auto-telefoonhouder-luchtrooster.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2063158",
-      "found_at": "2026-05-08T14:37:59.929002+00:00",
-      "price_history": [
-        {
-          "price": 32.99,
-          "original_price": null,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 32.99,
-          "original_price": null,
-          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
-        },
-        {
-          "price": 27.99,
-          "original_price": null,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 27.99,
-          "original_price": null,
-          "scraped_at": "2026-05-06T10:00:29.961875+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "12a84f5033d3",
-      "title": "Remington Shine Therapy Pro S9300 Stijltang",
-      "price": 53.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/859019/remington-shine-therapy-pro-s9300-stijltang.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1403199",
-      "found_at": "2026-05-08T14:37:59.923610+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "a78192237945",
-      "title": "Garmin HRM 200 Hartslagmeter Borstband Zwart M-XL",
-      "price": 90.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "wearables",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/960609/garmin-hrm-200-hartslagmeter-borstband-zwart-m-xl.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2147458",
-      "found_at": "2026-05-08T14:37:59.885226+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "7668e31941e3",
-      "title": "Noctua NF-A12x25 G2 PWM - Single Fan",
-      "price": 34.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/967366/noctua-nf-a12x25-g2-pwm-single-fan.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2198091",
-      "found_at": "2026-05-08T14:37:59.875123+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "03ef2dedbca4",
-      "title": "Omron X2 Essential",
-      "price": 29.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/968601/omron-x2-essential.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2207341",
-      "found_at": "2026-05-08T14:37:59.869934+00:00",
-      "price_history": [
-        {
-          "price": 35.99,
-          "original_price": null,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-04-24T14:00:27.386695+00:00"
-        },
-        {
-          "price": 25.99,
-          "original_price": null,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        },
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "4d5fb80254e1",
-      "title": "CRNK Angler Stone Zwart L",
-      "price": 89.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/975871/crnk-angler-stone-zwart-l.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/98650589",
-      "found_at": "2026-05-08T14:37:59.837976+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "9578859c2569",
-      "title": "TP-Link Tapo T315 Smart thermometer and hygrometer",
-      "price": 26.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/928583/tp-link-tapo-t315-smart-thermometer-and-hygrometer.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1920769",
-      "found_at": "2026-05-08T14:37:59.833121+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "5162b7465dac",
-      "title": "Netgear GS108",
-      "price": 29.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/90250/netgear-gs108.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1359898",
-      "found_at": "2026-05-08T14:37:49.646872+00:00",
-      "price_history": [
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-03-17T15:00:29.398508+00:00"
-        },
-        {
-          "price": 28.99,
-          "original_price": null,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 30.99,
-          "original_price": null,
-          "scraped_at": "2026-04-23T14:00:37.037095+00:00"
-        },
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "814a07d09674",
-      "title": "Siemens LZ27001 Koolstoffilter",
-      "price": 28.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/859055/siemens-lz27001-koolstoffilter.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1403414",
-      "found_at": "2026-05-08T14:37:49.631193+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "e14ecfe53785",
-      "title": "Logitech Litra Glow Streaming Lamp",
-      "price": 70.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/919432/logitech-litra-glow-streaming-lamp.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1854510",
-      "found_at": "2026-05-08T14:37:49.594795+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "6d13229ca4e7",
-      "title": "Samsung VCA-SBTA95/VT",
-      "price": 179.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/942519/samsung-vca-sbta95-vt.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1995003",
-      "found_at": "2026-05-08T14:37:49.589468+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "32985b88f624",
-      "title": "Meater Pro XL",
-      "price": 379.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/959089/meater-pro-xl.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2152327",
-      "found_at": "2026-05-08T14:37:41.254571+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "4381f1684386",
-      "title": "Godox 5-in-1 Reflectiescherm 80cm",
+      "id": "f4e653e237fc",
+      "title": "Beurer BM 28",
       "price": 39.99,
       "original_price": null,
       "discount_percent": 0,
       "category": "elektronica",
       "source": "Coolblue Tweedekans",
       "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/366384/godox-5-in-1-reflectiescherm-80cm.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1362150",
-      "found_at": "2026-05-08T14:37:41.196025+00:00",
+      "url": "https://www.coolblue.nl/product/723745/beurer-bm-28.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1460977",
+      "found_at": "2026-05-08T18:23:53.404707+00:00",
       "price_history": [
         {
           "price": 39.99,
           "original_price": null,
-          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+          "scraped_at": "2026-04-21T14:00:42.702798+00:00"
         },
         {
-          "price": 38.99,
+          "price": 41.99,
           "original_price": null,
-          "scraped_at": "2026-04-13T10:00:20.354255+00:00"
-        },
-        {
-          "price": 39.99,
-          "original_price": null,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 26.99,
-          "original_price": null,
-          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
-        },
-        {
-          "price": 38.99,
-          "original_price": null,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
+          "scraped_at": "2026-04-30T14:00:33.548969+00:00"
         },
         {
           "price": 39.99,
           "original_price": null,
-          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
-        },
-        {
-          "price": 38.99,
-          "original_price": null,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 39.99,
-          "original_price": null,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
         }
       ],
-      "approved_at": "08-05-2026 15:41",
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
-      "id": "20a0b7ab65ee",
-      "title": "Garmin Out-front Fietssteun Edge",
-      "price": 42.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "wearables",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/225471/garmin-out-front-fietssteun-edge.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1361168",
-      "found_at": "2026-05-08T14:37:41.190899+00:00",
-      "approved_at": "08-05-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "2b251a7abcd5",
-      "title": "Ubiquiti UniFi CloudKey Gen2 Plus",
-      "price": 249.0,
+      "id": "127285bd8f0b",
+      "title": "BlueBuilt DisplayPort 1.4 Kabel 2 Meter",
+      "price": 34.99,
       "original_price": null,
       "discount_percent": 0,
       "category": "elektronica",
       "source": "Coolblue Tweedekans",
       "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/964193/ubiquiti-unifi-cloudkey-gen2-plus.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2166472",
-      "found_at": "2026-05-08T14:37:31.340608+00:00",
-      "approved_at": "08-05-2026 15:41",
+      "url": "https://www.coolblue.nl/product/873840/bluebuilt-displayport-1-4-kabel-2-meter.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1509151",
+      "found_at": "2026-05-08T18:23:53.399432+00:00",
+      "price_history": [
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T15:00:30.412229+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-07T18:00:23.400286+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-04-13T10:00:20.354255+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-20T10:00:28.138203+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "dd3a89c68a9f",
+      "title": "BlueBuilt Oplaadstation voor PS5 controllers",
+      "price": 34.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "gaming",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/934837/bluebuilt-oplaadstation-voor-ps5-controllers.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1992633",
+      "found_at": "2026-05-08T18:23:53.394398+00:00",
+      "price_history": [
+        {
+          "price": 37.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-07T18:00:23.400286+00:00"
+        },
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-04-13T10:00:20.354255+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-20T10:00:28.138203+00:00"
+        },
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        }
+      ],
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "8e418a998871",
+      "title": "Eurom Safe-T-Convect 2400",
+      "price": 99.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/885797/eurom-safe-t-convect-2400.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1682572",
+      "found_at": "2026-05-08T18:23:53.384170+00:00",
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "bd1911fb9c6f",
+      "title": "Canon Mount Adapter EF-EOS R",
+      "price": 119.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "camera",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/877178/canon-mount-adapter-ef-eos-r.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1536147",
+      "found_at": "2026-05-08T18:23:53.379089+00:00",
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "d0992fde5407",
+      "title": "Google Nest Cam 10m Cable",
+      "price": 39.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/889343/google-nest-cam-10m-cable.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1645159",
+      "found_at": "2026-05-08T18:23:53.373899+00:00",
+      "approved_at": "08-05-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "f1aba2c7323f",
+      "title": "WMF Profi Plus Citruspers",
+      "price": 170.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/893112/wmf-profi-plus-citruspers.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1638956",
+      "found_at": "2026-05-08T18:23:53.366847+00:00",
+      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     }
   ]
