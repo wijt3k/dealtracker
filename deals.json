@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T06:54:04.042615+00:00",
-  "total": 300,
+  "updated_at": "2026-05-11T06:54:09.374009+00:00",
+  "total": 298,
   "deals": [
     {
       "id": "1961c7408c33",
@@ -5679,35 +5679,6 @@
       "auto_approved": true
     },
     {
-      "id": "fa186193cf0c",
-      "title": "Samsung Galaxy Watch5 Pro Zwart - 45MM Bluetooth",
-      "price": 117.67,
-      "original_price": 209.99,
-      "discount_percent": 43,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BGS36NS7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61b8z111NvL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-07T06:09:45.106010+00:00",
-      "price_history": [
-        {
-          "price": 123.82,
-          "original_price": 167.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-05-01T18:00:54.579364+00:00"
-        },
-        {
-          "price": 117.67,
-          "original_price": 209.99,
-          "discount_percent": 43,
-          "scraped_at": "2026-05-07T06:00:38.732358+00:00"
-        }
-      ],
-      "approved_at": "07-05-2026 07:25",
-      "auto_approved": true
-    },
-    {
       "id": "79016fa04598",
       "title": "Dyson Wash G1 486236-01",
       "price": 251.0,
@@ -8118,29 +8089,6 @@
       ],
       "approved_at": "08-05-2026 07:26",
       "auto_approved": true
-    },
-    {
-      "id": "42dffce2e940",
-      "title": "SIEMENS HK9R3A250 - Fornuis - Keramisch - 3 phases (Perilex)- breedte 60 cm",
-      "price": 465.75,
-      "original_price": 621.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=333181",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69fb428b040cd_ASSET_MMS_75492734-500x500.png",
-      "found_at": "2026-05-06T14:16:57.055669+00:00",
-      "approved_at": "07-05-2026 07:25",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 465.75,
-          "original_price": 621.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-05-06T14:00:23.645646+00:00"
-        }
-      ]
     },
     {
       "id": "cbfeb7380a77",
