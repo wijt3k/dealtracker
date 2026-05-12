@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T18:28:10.887123+00:00",
-  "total": 300,
+  "updated_at": "2026-05-12T18:28:15.401528+00:00",
+  "total": 294,
   "deals": [
     {
       "id": "d44106ba938b",
@@ -2410,63 +2410,6 @@
       "auto_approved": true
     },
     {
-      "id": "6e10f8c45734",
-      "title": "Philips 24E1N1300AE/00",
-      "price": 56.0,
-      "original_price": 142.21,
-      "discount_percent": 60,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-17342",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_b5ca77db-29d9-442c-8529-9cab6a5f9a5d.jpg?v=1776167895",
-      "found_at": "2026-05-07T10:16:59.311182+00:00",
-      "price_history": [
-        {
-          "price": 113.0,
-          "original_price": 142.91,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 109.0,
-          "original_price": 133.94,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 141.21,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 101.0,
-          "original_price": 143.93,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 141.21,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 113.0,
-          "original_price": 142.11,
-          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": 141.23,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 56.0,
-          "original_price": 142.62,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
-      "auto_approved": true
-    },
-    {
       "id": "2d8ead424e91",
       "title": "Tefal Easy Fry & Grill EY855B",
       "price": 36.0,
@@ -2854,77 +2797,6 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
-      "auto_approved": true
-    },
-    {
-      "id": "efc9fb5c3716",
-      "title": "Samsung Galaxy Watch6 Classic 47mm BT Black",
-      "price": 116.0,
-      "original_price": 240.53,
-      "discount_percent": 51,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-watch6-classic-47mm-bt-black-r-17185",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944122_835a206c-93fd-4e24-8db9-92503a2ffba1.jpg?v=1776166411",
-      "found_at": "2026-05-06T06:28:12.641153+00:00",
-      "price_history": [
-        {
-          "price": 203.0,
-          "original_price": 221.46,
-          "discount_percent": 8,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 198.0,
-          "original_price": 215.64,
-          "discount_percent": 8,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 195.0,
-          "original_price": 212.66,
-          "discount_percent": 8,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 185.0,
-          "original_price": 244.49,
-          "discount_percent": 24,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 179.0,
-          "original_price": 234.39,
-          "discount_percent": 23,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 182.0,
-          "original_price": 244.52,
-          "discount_percent": 25,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 172.0,
-          "original_price": 242.46,
-          "discount_percent": 29,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 167.0,
-          "original_price": 241.16,
-          "discount_percent": 30,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 240.53,
-          "discount_percent": 51,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ],
-      "approved_at": "07-05-2026 07:25",
       "auto_approved": true
     },
     {
@@ -7181,29 +7053,6 @@
       ]
     },
     {
-      "id": "ec78d18e1ea2",
-      "title": "BEKO FBMA6930GA - AeroPerfect - Fornuis - Inductie - breedte 60 cm Fornuis",
-      "price": 504.75,
-      "original_price": 673.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=333220",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69fb4c053ace6_ASSET_MMS_166446155-500x500.png",
-      "found_at": "2026-05-06T14:16:57.044073+00:00",
-      "approved_at": "07-05-2026 07:25",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 504.75,
-          "original_price": 673.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-05-06T14:00:23.645646+00:00"
-        }
-      ]
-    },
-    {
       "id": "c27efdc86133",
       "title": "Samsung Galaxy Buds Pro, draadloze hoofdtelefoon, draadloze oordopjes, duurzame accu, 3 microfoons, geluid door AKG, 2-weg luidspreker incl. Araree Clear Cover, Phantom White (Duitse versie)",
       "price": 125.18,
@@ -9940,53 +9789,6 @@
       "auto_approved": true
     },
     {
-      "id": "77a20f5a99c0",
-      "title": "SONY WH-1000XM6 Vlaggenschip Noise Cancelling Over-Ear Draadloze Bluetooth Hoofdtelefoon, Handtekening Hi-Res Geluid, Comfort, Opvouwbaar Ontwerp, Duurzame Etui, 30 HR Batterij, iOS & Android - Zwart",
-      "price": 282.56,
-      "original_price": 369.9,
-      "discount_percent": 23,
-      "category": "smartphones",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F2TT8Q7M?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/618GW-ehp+L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-08T18:20:38.441408+00:00",
-      "price_history": [
-        {
-          "price": 318.36,
-          "original_price": 379.0,
-          "scraped_at": "2026-04-11T06:00:41.806392+00:00"
-        },
-        {
-          "price": 309.79,
-          "original_price": 369.9,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 304.65,
-          "original_price": null,
-          "scraped_at": "2026-04-21T06:00:48.729087+00:00"
-        },
-        {
-          "price": 292.54,
-          "original_price": 379.0,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 287.55,
-          "original_price": null,
-          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
-        },
-        {
-          "price": 282.56,
-          "original_price": 369.9,
-          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 19:26",
-      "auto_approved": true
-    },
-    {
       "id": "e9d4a66f5219",
       "title": "Bauknecht CTAR 9642 IN",
       "price": 150.0,
@@ -10398,53 +10200,6 @@
       "auto_approved": true
     },
     {
-      "id": "be5c86b27b76",
-      "title": "ASUS TUF Gaming VG27VQ3B 27-inch gaming-monitor (Full HD, Curved, 180Hz, ELMB SYNC, FreeSync, 1ms responstijd, 90% DCI-P3, DisplayWidget Centre)",
-      "price": 103.31,
-      "original_price": 143.24,
-      "discount_percent": 27,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09T99RXPR?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71s3968FFEL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-08T18:19:22.686749+00:00",
-      "price_history": [
-        {
-          "price": 142.25,
-          "original_price": null,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        },
-        {
-          "price": 102.79,
-          "original_price": 143.24,
-          "scraped_at": "2026-03-27T07:00:50.764496+00:00"
-        },
-        {
-          "price": 106.17,
-          "original_price": 143.24,
-          "scraped_at": "2026-04-23T06:00:28.635396+00:00"
-        },
-        {
-          "price": 101.97,
-          "original_price": null,
-          "scraped_at": "2026-04-28T14:00:30.660824+00:00"
-        },
-        {
-          "price": 100.06,
-          "original_price": 189.99,
-          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
-        },
-        {
-          "price": 103.31,
-          "original_price": 143.24,
-          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 19:26",
-      "auto_approved": true
-    },
-    {
       "id": "26d42e5ff94c",
       "title": "Medela Motion InBra Double",
       "price": 160.0,
@@ -10489,33 +10244,6 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
-      "auto_approved": true
-    },
-    {
-      "id": "8b9d408407c7",
-      "title": "ACER CB272 Gbirf pc-monitor",
-      "price": 102.72,
-      "original_price": 141.06,
-      "discount_percent": 27,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CX3XCS4H?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/813Lq-z2kwL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-08T18:19:06.647441+00:00",
-      "price_history": [
-        {
-          "price": 102.04,
-          "original_price": 141.06,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 102.72,
-          "original_price": 141.06,
-          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 19:26",
       "auto_approved": true
     },
     {
