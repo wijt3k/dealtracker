@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T10:22:51.424363+00:00",
-  "total": 289,
+  "updated_at": "2026-05-15T14:30:15.915254+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d44106ba938b",
@@ -1053,6 +1053,73 @@
         }
       ],
       "approved_at": "14-05-2026 19:40",
+      "auto_approved": true
+    },
+    {
+      "id": "6fb81d621bc7",
+      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
+      "price": 124.0,
+      "original_price": 343.06,
+      "discount_percent": 63,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-17230",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_656bf521-e165-42c0-a00f-9e9e03b0f525.jpg?v=1776166808",
+      "found_at": "2026-05-15T14:25:09.348453+00:00",
+      "price_history": [
+        {
+          "price": 245.0,
+          "original_price": 342.37,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 304.29,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 254.0,
+          "original_price": 304.37,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 346.53,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 328.95,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 223.0,
+          "original_price": 328.86,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 326.84,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 136.0,
+          "original_price": 342.02,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 137.0,
+          "original_price": 342.97,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 343.06,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
       "auto_approved": true
     },
     {
@@ -5398,6 +5465,58 @@
       "auto_approved": true
     },
     {
+      "id": "b0863e144bcc",
+      "title": "Medela Swing Maxi Hands-Free",
+      "price": 91.0,
+      "original_price": 158.16,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-swing-maxi-hands-free-r-17562",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2120982_2b03076d-f8de-425a-800c-efffdffdfe9e.jpg?v=1777364531",
+      "found_at": "2026-05-13T06:58:17.615730+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 153.6,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 181.62,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 162.18,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 160.02,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 157.49,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 156.36,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 158.16,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
       "id": "06739cf4e870",
       "title": "Inventum OV457B",
       "price": 88.0,
@@ -7115,6 +7234,48 @@
       "image": "https://m.media-amazon.com/images/I/71AOOS93mIL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-05-12T06:28:02.424566+00:00",
       "approved_at": "12-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
+      "id": "0700a5f9a2d1",
+      "title": "Braun Silk·épil 9 9-061 Zilver",
+      "price": 78.0,
+      "original_price": 125.79,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-epil-9-9-061-zilver-r-17586",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1115926645.jpg?v=1777364842",
+      "found_at": "2026-05-13T06:58:11.826542+00:00",
+      "price_history": [
+        {
+          "price": 147.0,
+          "original_price": 168.0,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": 151.6,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 132.8,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 132.8,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 125.79,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
       "auto_approved": true
     },
     {
@@ -8847,6 +9008,21 @@
       "auto_approved": true
     },
     {
+      "id": "2ce02a444a3b",
+      "title": "Redmi Note 9 Smartphone 4GB 128GB 48 MP Hot Camera met vier camera's 6.53”FHD + DotDisplay 5020 mAh 3.5mm headphone jack NFC Wit",
+      "price": 125.28,
+      "original_price": 177.99,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08866DPF5?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/612m9MPEuML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-15T14:07:22.776008+00:00",
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
       "id": "fc54dfcafd82",
       "title": "KODAK Printomatic+ Direct-Print Digitale Camera 10MP met RGB LED, print kleurenfoto’s op Zink 2x3” fotopapier – Zwart",
       "price": 62.71,
@@ -9761,6 +9937,223 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "cf78e47ecfb5",
+      "title": "Philips Shaver i9000 Prestige XP9202/10",
+      "price": 204.0,
+      "original_price": 268.79,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-xp9202-10-r-17619",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156183_3a5caef8-6433-4c88-b27b-fa212e2da460.jpg?v=1777639255",
+      "found_at": "2026-05-15T14:25:09.350180+00:00",
+      "price_history": [
+        {
+          "price": 205.0,
+          "original_price": 268.9,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 211.0,
+          "original_price": 268.79,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 234.0,
+          "original_price": 273.75,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 204.0,
+          "original_price": 268.79,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "1e4e4d2f958e",
+      "title": "ASUS VY279HF-W - Monitor LED - gaming - 68,6 cm (27\")",
+      "price": 104.01,
+      "original_price": 142.99,
+      "discount_percent": 27,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DD3VDHHX?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71KM5pijhmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-15T14:19:44.158557+00:00",
+      "price_history": [
+        {
+          "price": 94.89,
+          "original_price": 142.37,
+          "scraped_at": "2026-03-30T14:00:25.437872+00:00"
+        },
+        {
+          "price": 92.55,
+          "original_price": 142.2,
+          "scraped_at": "2026-04-05T18:00:20.050755+00:00"
+        },
+        {
+          "price": 90.3,
+          "original_price": 142.37,
+          "scraped_at": "2026-04-13T06:00:29.259880+00:00"
+        },
+        {
+          "price": 92.59,
+          "original_price": 142.2,
+          "scraped_at": "2026-04-18T10:00:52.550613+00:00"
+        },
+        {
+          "price": 104.01,
+          "original_price": 142.99,
+          "scraped_at": "2026-05-15T14:00:25.327899+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "2ed0193b4cd1",
+      "title": "Apple Display, Space Gray, iPhone 8 Plus (4 Stuks) - 661-09032",
+      "price": 673.0,
+      "original_price": 796.0,
+      "discount_percent": 15,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-display-space-gray-iphone-8-plus-4-stuks-r-17801",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507114450.jpg?v=1778155286",
+      "found_at": "2026-05-15T14:24:59.576260+00:00",
+      "price_history": [
+        {
+          "price": 160.0,
+          "original_price": 796.0,
+          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 796.0,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 673.0,
+          "original_price": 796.0,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "ff041515c5d0",
+      "title": "Philips 34E1C5600HE/00",
+      "price": 289.0,
+      "original_price": 366.85,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-34e1c5600he-00-r-17625",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1791618_b2cc7808-9a04-47e1-b6b7-81d7a5d20c6b.jpg?v=1777899661",
+      "found_at": "2026-05-15T14:25:09.349146+00:00",
+      "price_history": [
+        {
+          "price": 315.0,
+          "original_price": 378.52,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 289.0,
+          "original_price": 366.85,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "0bd8fdf9cd13",
+      "title": "Apple Display iPhone 8 Plus (4 Stuks) - 661-09034",
+      "price": 639.0,
+      "original_price": 756.0,
+      "discount_percent": 15,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-display-iphone-8-plus-4-stuks-r-17783",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507122510.jpg?v=1778155192",
+      "found_at": "2026-05-15T14:24:59.575797+00:00",
+      "price_history": [
+        {
+          "price": 150.0,
+          "original_price": 756.0,
+          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 756.0,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 639.0,
+          "original_price": 756.0,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "66db9936e3f5",
+      "title": "HP 201X Toners Combo Pack (Hoge Capaciteit)",
+      "price": 305.0,
+      "original_price": 382.18,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-201x-toners-combo-pack-hoge-capaciteit-r-17687",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368282.jpg?v=1778486151",
+      "found_at": "2026-05-15T14:25:02.132197+00:00",
+      "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "f4cce4d393d4",
+      "title": "Refurbished iPhone 12 Zwart 128GB",
+      "price": 223.56,
+      "original_price": 285.0,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-12-zwart-128gb-r-17617",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489503_b2d64334-0468-48e0-8caf-cf727d61770a.jpg?v=1777639222",
+      "found_at": "2026-05-15T14:25:09.350906+00:00",
+      "price_history": [
+        {
+          "price": 250.0,
+          "original_price": 285.0,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 243.0,
+          "original_price": 285.0,
+          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
+        },
+        {
+          "price": 223.56,
+          "original_price": 285.0,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 15:30",
       "auto_approved": true
     }
   ]
