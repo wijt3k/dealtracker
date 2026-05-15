@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T14:30:19.740826+00:00",
-  "total": 292,
+  "updated_at": "2026-05-15T18:33:20.797891+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d44106ba938b",
@@ -714,6 +714,33 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "f493eb4661aa",
+      "title": "Blackview Link8 Tablet 13 inch, tablet met touchscreen Android 15 met pen, G100 90 Hz gaming-tablet met toetsenbord, 18 GB RAM + 256 GB ROM, 2K FHD/Gemini AI/8400 mAh/Widevine L1/Faciale ID/16 MP + 13",
+      "price": 170.99,
+      "original_price": 489.0,
+      "discount_percent": 65,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FMYFSS2Y?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71agwdFmZ1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-15T18:04:21.479232+00:00",
+      "price_history": [
+        {
+          "price": 174.59,
+          "original_price": 179.99,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 170.99,
+          "original_price": 489.0,
+          "scraped_at": "2026-05-15T18:00:25.822718+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 19:33",
       "auto_approved": true
     },
     {
@@ -5851,6 +5878,43 @@
       "auto_approved": true
     },
     {
+      "id": "fafee5c2a7c2",
+      "title": "Razer Kraken Kitty V3 X - Bedrade Kitty-headset voor gaming - Iconische Kitty-oren - 270 g lichtgewicht - HyperClear cardioïde microfoon - TriForce 40 mm drivers - 3,5mm aansluiting | Wit",
+      "price": 51.04,
+      "original_price": 89.99,
+      "discount_percent": 43,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FBWTB8JC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61cBx1SMafL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-15T18:12:02.701199+00:00",
+      "price_history": [
+        {
+          "price": 53.36,
+          "original_price": 60.49,
+          "scraped_at": "2026-04-24T18:00:40.270193+00:00"
+        },
+        {
+          "price": 53.53,
+          "original_price": 229.99,
+          "scraped_at": "2026-04-30T06:00:33.863524+00:00"
+        },
+        {
+          "price": 52.16,
+          "original_price": 60.49,
+          "scraped_at": "2026-05-05T10:00:28.913559+00:00"
+        },
+        {
+          "price": 51.04,
+          "original_price": 89.99,
+          "scraped_at": "2026-05-15T18:00:25.822718+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 19:33",
+      "auto_approved": true
+    },
+    {
       "id": "2019ae48a9a5",
       "title": "Samsung MS32DG4504AGE1",
       "price": 138.0,
@@ -9792,6 +9856,167 @@
         }
       ],
       "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "6f74b92875a0",
+      "title": "Apple iPad Air (2025) 11 inch 128GB Wifi Paars",
+      "price": 488.0,
+      "original_price": 586.25,
+      "discount_percent": 16,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-11-inch-128gb-wifi-paars-r-17322",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145253_bd461783-9447-43dc-8699-9427db8d48bd.jpg?v=1776167684",
+      "found_at": "2026-05-15T18:28:08.517128+00:00",
+      "price_history": [
+        {
+          "price": 488.0,
+          "original_price": 582.95,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 461.0,
+          "original_price": 575.87,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 488.0,
+          "original_price": 572.67,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 475.0,
+          "original_price": 585.78,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 474.0,
+          "original_price": 583.23,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 488.0,
+          "original_price": 586.25,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "c7b3e454f262",
+      "title": "Refurbished iPad (2022) 64GB Wifi + 5G Zilver",
+      "price": 314.0,
+      "original_price": 389.0,
+      "discount_percent": 19,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-2022-64gb-wifi-5g-zilver-r-17765",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989812_fd333e1b-3113-48ff-bba7-c17b61b4765c.jpg?v=1778486822",
+      "found_at": "2026-05-15T18:28:19.278575+00:00",
+      "approved_at": "15-05-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "d87620779ffd",
+      "title": "Fairphone Fairbuds True Wireless Earbuds Zwart",
+      "price": 83.0,
+      "original_price": 111.62,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/fairphone-fairbuds-true-wireless-earbuds-zwart-r-17588",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2179980.jpg?v=1777364863",
+      "found_at": "2026-05-15T18:28:12.206911+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 98.91,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 104.14,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 107.77,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 111.62,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "a761e31469db",
+      "title": "Philips Shaver i9000 X9002/10",
+      "price": 156.0,
+      "original_price": 201.03,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-x9002-10-r-17729",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156149_988c6877-2548-4bbf-b0f6-fc3e12f889be.jpg?v=1778486493",
+      "found_at": "2026-05-15T18:28:19.278127+00:00",
+      "approved_at": "15-05-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "1816b3ebc388",
+      "title": "Apple iPhone Air 256GB Wit",
+      "price": 859.0,
+      "original_price": 976.96,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-air-256gb-wit-r-17674",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2212765_4f24f321-3f53-4334-bde6-cc2686e1d8d1.jpg?v=1778486072",
+      "found_at": "2026-05-15T18:28:08.517871+00:00",
+      "approved_at": "15-05-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "51e6b37e2ba1",
+      "title": "KOORUI Draagbare monitor, 15,6 inch, 1080p FHD, IPS, mobiele monitor met twee luidsprekers, Eye Care-scherm en Mini HDMI/Type-C, externe monitor voor laptop, PC/Mac/Phone/PS4/PS5/Xbox",
+      "price": 94.91,
+      "original_price": 123.49,
+      "discount_percent": 23,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BK3BR1MY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71PnctOj9RL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-15T18:23:19.327286+00:00",
+      "price_history": [
+        {
+          "price": 100.93,
+          "original_price": 129.99,
+          "scraped_at": "2026-04-25T06:00:30.687042+00:00"
+        },
+        {
+          "price": 97.91,
+          "original_price": 123.49,
+          "scraped_at": "2026-05-05T10:00:28.913559+00:00"
+        },
+        {
+          "price": 94.91,
+          "original_price": 129.99,
+          "scraped_at": "2026-05-10T14:00:18.127089+00:00"
+        }
+      ],
+      "approved_at": "15-05-2026 19:33",
       "auto_approved": true
     }
   ]
