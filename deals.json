@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T14:30:15.915254+00:00",
-  "total": 300,
+  "updated_at": "2026-05-15T14:30:19.740826+00:00",
+  "total": 292,
   "deals": [
     {
       "id": "d44106ba938b",
@@ -1433,144 +1433,6 @@
       "auto_approved": true
     },
     {
-      "id": "c1a971264c98",
-      "title": "Refurbished iPhone 15 128GB Black",
-      "price": 372.12,
-      "original_price": 679.14,
-      "discount_percent": 45,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-17460",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_d4be39c9-e7f1-4f49-9975-2ca66027a92f.jpg?v=1776761106",
-      "found_at": "2026-05-07T10:17:02.997630+00:00",
-      "price_history": [
-        {
-          "price": 443.0,
-          "original_price": 629.0,
-          "discount_percent": 29,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 411.99,
-          "original_price": 569.67,
-          "discount_percent": 27,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 407.56,
-          "original_price": 414.33,
-          "discount_percent": 1,
-          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
-        },
-        {
-          "price": 403.13,
-          "original_price": 493.0,
-          "discount_percent": 18,
-          "scraped_at": "2026-04-30T06:00:33.863524+00:00"
-        },
-        {
-          "price": 398.7,
-          "original_price": 503.33,
-          "discount_percent": 20,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 394.27,
-          "original_price": 521.33,
-          "discount_percent": 24,
-          "scraped_at": "2026-05-02T06:00:59.515910+00:00"
-        },
-        {
-          "price": 389.84,
-          "original_price": 521.33,
-          "discount_percent": 25,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 385.41,
-          "original_price": 521.33,
-          "discount_percent": 26,
-          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
-        },
-        {
-          "price": 380.98,
-          "original_price": 579.75,
-          "discount_percent": 34,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        },
-        {
-          "price": 376.55,
-          "original_price": 626.5,
-          "discount_percent": 39,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        },
-        {
-          "price": 372.12,
-          "original_price": 679.14,
-          "discount_percent": 45,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        }
-      ]
-    },
-    {
-      "id": "14643a456cb4",
-      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
-      "price": 159.0,
-      "original_price": 369.07,
-      "discount_percent": 56,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-17215",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_588eed1c-721e-4b12-bb0c-648654848519.jpg?v=1776166673",
-      "found_at": "2026-05-05T14:14:40.177544+00:00",
-      "price_history": [
-        {
-          "price": 245.0,
-          "original_price": 342.37,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 253.0,
-          "original_price": 304.29,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 279.0,
-          "original_price": 304.29,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 254.0,
-          "original_price": 346.47,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 245.0,
-          "original_price": 346.53,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 236.0,
-          "original_price": 343.16,
-          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
-        },
-        {
-          "price": 223.0,
-          "original_price": 328.86,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 159.0,
-          "original_price": 339.65,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
-      "auto_approved": true
-    },
-    {
       "id": "66cf9d12bd21",
       "title": "Siemens EQ.6 Plus S100 TE651209RW",
       "price": 388.0,
@@ -2272,63 +2134,6 @@
       "auto_approved": true
     },
     {
-      "id": "1219642cab79",
-      "title": "Logitech G PRO X Wireless LIGHTSPEED Gaming Headset",
-      "price": 56.0,
-      "original_price": 140.22,
-      "discount_percent": 60,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-pro-x-wireless-lightspeed-gaming-headset-r-17282",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135200_a031bfe5-8ea8-4e0f-9ef0-ba14fb581c6c.jpg?v=1776167211",
-      "found_at": "2026-05-07T10:16:55.920169+00:00",
-      "price_history": [
-        {
-          "price": 109.0,
-          "original_price": 144.47,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 94.0,
-          "original_price": 144.31,
-          "scraped_at": "2026-04-20T14:00:33.819146+00:00"
-        },
-        {
-          "price": 91.0,
-          "original_price": 144.31,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": 142.35,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 86.0,
-          "original_price": 140.29,
-          "scraped_at": "2026-04-29T14:00:41.882285+00:00"
-        },
-        {
-          "price": 80.0,
-          "original_price": 139.73,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 77.0,
-          "original_price": 139.01,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 56.0,
-          "original_price": 148.15,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
-      "auto_approved": true
-    },
-    {
       "id": "07aa6da0ceb3",
       "title": "HUAWEI MatePad 11.5 2025, tablet 2.5K 120 Hz 11,5 inch Display, 8+128GB, 10.100 mAh batterij, 40W SuperCharge, WiFi 6, Bluetooth 5.2, HUAWEI Note, Gray, Extra garantie van 6 maanden alleen bij Amazon",
       "price": 186.99,
@@ -2404,27 +2209,6 @@
       "found_at": "2026-05-12T14:19:36.802188+00:00",
       "approved_at": "12-05-2026 15:24",
       "auto_approved": true
-    },
-    {
-      "id": "1aea7951df0f",
-      "title": "Apple iPad Air (2025) 13 inch 128GB Wifi Paars",
-      "price": 529.0,
-      "original_price": 801.05,
-      "discount_percent": 33,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-13-inch-128gb-wifi-paars-r-17641",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145381_e8e98cc6-0a73-408d-989f-55ee17d994a9.jpg?v=1777899832",
-      "found_at": "2026-05-07T14:23:49.763431+00:00",
-      "price_history": [
-        {
-          "price": 529.0,
-          "original_price": 801.05,
-          "discount_percent": 33,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        }
-      ]
     },
     {
       "id": "48fa5b292558",
@@ -4659,53 +4443,6 @@
       "auto_approved": true
     },
     {
-      "id": "9c5f50159574",
-      "title": "Withings BeamO",
-      "price": 138.0,
-      "original_price": 235.51,
-      "discount_percent": 41,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/withings-beamo-r-17518",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176140.jpg?v=1776761724",
-      "found_at": "2026-05-08T10:57:40.587474+00:00",
-      "price_history": [
-        {
-          "price": 198.0,
-          "original_price": 225.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 211.0,
-          "original_price": 244.17,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 203.0,
-          "original_price": 244.68,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 178.0,
-          "original_price": 229.72,
-          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
-        },
-        {
-          "price": 167.0,
-          "original_price": 217.83,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 138.0,
-          "original_price": 219.32,
-          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
-        }
-      ],
-      "approved_at": "12-05-2026 19:28",
-      "auto_approved": true
-    },
-    {
       "id": "f593a862aaeb",
       "title": "Nintendo Switch OLED Wit",
       "price": 216.0,
@@ -4772,21 +4509,6 @@
           "scraped_at": "2026-05-06T18:00:26.690380+00:00"
         }
       ]
-    },
-    {
-      "id": "df32d4914c17",
-      "title": "KOSPET TANK T3 Ultra 2 Smart Watch for Men, GPS, Metal Strap, Rugged Stainless Steel Case, 1.43” AMOLED, 5ATM Waterproof, Sleep Tracking Heart Rate Monitor, 170+ Sports Modes, Android iOS Compatible",
-      "price": 102.53,
-      "original_price": 179.99,
-      "discount_percent": 43,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FF268RRJ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81FUzibhTGL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-11T14:07:02.670697+00:00",
-      "approved_at": "11-05-2026 15:20",
-      "auto_approved": true
     },
     {
       "id": "54ccbdd3204d",
@@ -6431,63 +6153,6 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
-      "auto_approved": true
-    },
-    {
-      "id": "9563bcd24c80",
-      "title": "Logitech G 02 X Plus Lightspeed Draadloze Gaming Muis Zwart",
-      "price": 82.0,
-      "original_price": 138.38,
-      "discount_percent": 40,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-02-x-plus-lightspeed-draadloze-gaming-muis-zwart-r-17471",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806097.jpg?v=1776761241",
-      "found_at": "2026-05-07T10:16:55.920027+00:00",
-      "price_history": [
-        {
-          "price": 87.0,
-          "original_price": 99.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 83.0,
-          "original_price": 140.29,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 90.0,
-          "original_price": 136.27,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 89.0,
-          "original_price": 137.3,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 90.0,
-          "original_price": 136.27,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 87.0,
-          "original_price": 139.93,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 97.0,
-          "original_price": 138.84,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": 137.09,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
@@ -8552,33 +8217,6 @@
       "image": "https://m.media-amazon.com/images/I/71eoa61L-PL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-05-11T18:10:52.838484+00:00",
       "approved_at": "11-05-2026 19:22",
-      "auto_approved": true
-    },
-    {
-      "id": "60b2cf4818ca",
-      "title": "Mova P50 Pro Ultra",
-      "price": 444.0,
-      "original_price": 568.96,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/mova-p50-pro-ultra-r-17613",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176161_510286f7-c3d3-437c-9c7c-6df51c76543f.jpg?v=1777365133",
-      "found_at": "2026-05-08T06:21:05.143411+00:00",
-      "price_history": [
-        {
-          "price": 459.0,
-          "original_price": 566.0,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 444.0,
-          "original_price": 557.65,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
