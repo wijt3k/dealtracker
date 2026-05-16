@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T10:46:10.238565+00:00",
-  "total": 294,
+  "updated_at": "2026-05-16T14:21:16.119828+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d44106ba938b",
@@ -3127,6 +3127,33 @@
       "auto_approved": true
     },
     {
+      "id": "3abb85f96cb8",
+      "title": "Samsung Galaxy A40 Smartphone, Duitse versie, 64 GB, zwart",
+      "price": 87.07,
+      "original_price": 171.82,
+      "discount_percent": 49,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07QKDX1T4?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/91CUL315YfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-16T14:06:08.031016+00:00",
+      "price_history": [
+        {
+          "price": 80.98,
+          "original_price": 200.0,
+          "scraped_at": "2026-02-26T19:00:31.280393+00:00"
+        },
+        {
+          "price": 87.07,
+          "original_price": 171.82,
+          "scraped_at": "2026-05-16T14:00:21.672861+00:00"
+        }
+      ],
+      "approved_at": "16-05-2026 15:21",
+      "auto_approved": true
+    },
+    {
       "id": "13e0200602f0",
       "title": "Karcher K7 Comfort Premium",
       "price": 291.0,
@@ -5163,6 +5190,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092645.jpg?v=1778486179",
       "found_at": "2026-05-12T14:19:21.130230+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "48a0ef18b182",
+      "title": "GKU 4K Dashcam Voor en Achter, WiFi Dashcam Auto met 64GB SD-Kaart, Dual Auto Camera met Parking Monitor, Nachtzicht, WDR, 170° Brede Hoek, G-Sensor, Loopopname, APP-besturing, Max 256GB - D600",
+      "price": 55.74,
+      "original_price": 99.99,
+      "discount_percent": 44,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C2HG555Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71qCcsj3t4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-16T14:11:09.790307+00:00",
+      "price_history": [
+        {
+          "price": 69.36,
+          "original_price": 84.59,
+          "scraped_at": "2026-04-18T06:00:31.725266+00:00"
+        },
+        {
+          "price": 55.74,
+          "original_price": 67.98,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 81.99,
+          "original_price": 99.99,
+          "scraped_at": "2026-05-11T14:00:30.918686+00:00"
+        },
+        {
+          "price": 55.74,
+          "original_price": 99.99,
+          "scraped_at": "2026-05-16T14:00:21.672861+00:00"
+        }
+      ],
+      "approved_at": "16-05-2026 15:21",
       "auto_approved": true
     },
     {
@@ -9663,6 +9727,169 @@
         }
       ],
       "approved_at": "16-05-2026 11:46",
+      "auto_approved": true
+    },
+    {
+      "id": "5a2cfcdaa7e3",
+      "title": "SteelSeries Arctis GameBuds Zwart",
+      "price": 113.0,
+      "original_price": 148.92,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-arctis-gamebuds-zwart-r-17473",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2098651_903ff061-7cf5-405a-840b-059e345219b9.jpg?v=1776761252",
+      "found_at": "2026-05-16T14:16:10.816663+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 135.07,
+          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 148.33,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 119.0,
+          "original_price": 153.09,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 155.82,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 132.0,
+          "original_price": 157.9,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 149.82,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 149.85,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 150.46,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 148.92,
+          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
+        }
+      ],
+      "approved_at": "16-05-2026 15:21",
+      "auto_approved": true
+    },
+    {
+      "id": "1816b3ebc388",
+      "title": "Apple iPhone Air 256GB Wit",
+      "price": 854.0,
+      "original_price": 976.33,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-air-256gb-wit-r-17674",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2212765_4f24f321-3f53-4334-bde6-cc2686e1d8d1.jpg?v=1778486072",
+      "found_at": "2026-05-16T14:16:02.173335+00:00",
+      "price_history": [
+        {
+          "price": 859.0,
+          "original_price": 986.9,
+          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
+        },
+        {
+          "price": 854.0,
+          "original_price": 976.33,
+          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
+        }
+      ],
+      "approved_at": "16-05-2026 15:21",
+      "auto_approved": true
+    },
+    {
+      "id": "af356c406bef",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 200.0,
+      "original_price": 250.0,
+      "discount_percent": 20,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17644",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_1251312a-fdec-47ee-bbdd-9f10cdadceda.jpg?v=1777899857",
+      "found_at": "2026-05-16T14:16:07.610436+00:00",
+      "price_history": [
+        {
+          "price": 220.0,
+          "original_price": 250.0,
+          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
+        },
+        {
+          "price": 202.0,
+          "original_price": 250.0,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 200.0,
+          "original_price": 250.0,
+          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
+        }
+      ],
+      "approved_at": "16-05-2026 15:21",
+      "auto_approved": true
+    },
+    {
+      "id": "ebbe9232a6d5",
+      "title": "Apple Camera, iPhone 8 (6 Stuks) - 661-08936",
+      "price": 346.0,
+      "original_price": 414.0,
+      "discount_percent": 16,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-camera-iphone-8-6-stuks-r-17789",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507113632.jpg?v=1778155223",
+      "found_at": "2026-05-16T14:16:02.171680+00:00",
+      "price_history": [
+        {
+          "price": 85.0,
+          "original_price": 414.0,
+          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 414.0,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 350.0,
+          "original_price": 414.0,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 346.0,
+          "original_price": 414.0,
+          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
+        }
+      ],
+      "approved_at": "16-05-2026 15:21",
       "auto_approved": true
     }
   ]
