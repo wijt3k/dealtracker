@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T10:57:09.522121+00:00",
-  "total": 293,
+  "updated_at": "2026-05-18T14:23:44.411778+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "24e319d378c2",
@@ -722,6 +722,88 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "37bfdefd7df3",
+      "title": "Apple iPad Pro (2024) 13 inch 2 TB Wifi + 5G Zilver",
+      "price": 1529.0,
+      "original_price": 2185.5,
+      "discount_percent": 30,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-13-inch-2-tb-wifi-5g-zilver-r-16688",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049279_c1f5fae9-87d5-4dfd-9b16-f309788942a2.jpg?v=1773841120",
+      "found_at": "2026-05-17T18:16:39.894062+00:00",
+      "price_history": [
+        {
+          "price": 1673.0,
+          "original_price": 1819.0,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 1631.0,
+          "original_price": 2424.0,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 1712.55,
+          "original_price": null,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 1427.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 1529.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
+        },
+        {
+          "price": 1427.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
+        },
+        {
+          "price": 1529.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
+        },
+        {
+          "price": 1631.0,
+          "original_price": null,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 1591.0,
+          "original_price": null,
+          "scraped_at": "2026-04-29T18:00:57.600466+00:00"
+        },
+        {
+          "price": 1529.0,
+          "original_price": 1564.99,
+          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
+        }
+      ],
+      "approved_at": "18-05-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "cc8187770ff6",
+      "title": "HP Laptop 15-FD0079NS 15.6\" 16GB RAM 1TB SSD",
+      "price": 461.7,
+      "original_price": 839.16,
+      "discount_percent": 44,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D1YGX2NC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/710G0LgyxuL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-18T14:04:47.640331+00:00",
+      "approved_at": "18-05-2026 15:23",
       "auto_approved": true
     },
     {
@@ -6936,6 +7018,21 @@
       "auto_approved": true
     },
     {
+      "id": "be1be81e1115",
+      "title": "OnePlus Horloge 2 Zwart Staal",
+      "price": 113.43,
+      "original_price": 158.95,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CV5YDL8V?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/616RT7cjJUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-18T14:11:40.914171+00:00",
+      "approved_at": "18-05-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "5943abeea8dd",
       "title": "ACER Chromebook 314 (CB314-6H-35T7) Laptop 14 inch | Intel Core i3 | 8 GB RAM | 128 GB eMMC | ChromeOS",
       "price": 303.71,
@@ -9708,6 +9805,159 @@
         }
       ],
       "approved_at": "18-05-2026 11:57",
+      "auto_approved": true
+    },
+    {
+      "id": "8ce4a1b209b1",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 203.0,
+      "original_price": 204.0,
+      "discount_percent": 0,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17537",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_829f6e6e-0a5f-416f-80d6-e99794194469.jpg?v=1777364444",
+      "found_at": "2026-05-18T14:18:27.890222+00:00",
+      "price_history": [
+        {
+          "price": 214.0,
+          "original_price": 252.89,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 222.0,
+          "original_price": 271.57,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 214.0,
+          "original_price": 257.61,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 224.0,
+          "original_price": null,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 216.0,
+          "original_price": 283.29,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 203.0,
+          "original_price": 204.0,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        }
+      ],
+      "approved_at": "18-05-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "334fb466514b",
+      "title": "Remington Ci9532 Pearl Pro Curl",
+      "price": 34.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/265930/remington-ci9532-pearl-pro-curl.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1361334",
+      "found_at": "2026-05-18T14:19:25.004843+00:00",
+      "price_history": [
+        {
+          "price": 36.99,
+          "original_price": null,
+          "scraped_at": "2026-04-23T06:00:28.635396+00:00"
+        },
+        {
+          "price": 35.99,
+          "original_price": null,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-05-14T10:00:36.846102+00:00"
+        }
+      ],
+      "approved_at": "18-05-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "11e6f22bf683",
+      "title": "ADAM Audio D3V Zwart",
+      "price": 296.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/965395/adam-audio-d3v-zwart.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2177570",
+      "found_at": "2026-05-18T14:19:24.997558+00:00",
+      "price_history": [
+        {
+          "price": 299.0,
+          "original_price": null,
+          "scraped_at": "2026-03-23T07:00:21.421668+00:00"
+        },
+        {
+          "price": 305.0,
+          "original_price": null,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 290.0,
+          "original_price": null,
+          "scraped_at": "2026-05-14T14:00:25.464663+00:00"
+        },
+        {
+          "price": 296.0,
+          "original_price": null,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        }
+      ],
+      "approved_at": "18-05-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "f4e653e237fc",
+      "title": "Beurer BM 28",
+      "price": 35.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/723745/beurer-bm-28.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1460977",
+      "found_at": "2026-05-18T14:19:24.992405+00:00",
+      "price_history": [
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-04-21T14:00:42.702798+00:00"
+        },
+        {
+          "price": 41.99,
+          "original_price": null,
+          "scraped_at": "2026-04-30T14:00:33.548969+00:00"
+        },
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
+        },
+        {
+          "price": 35.99,
+          "original_price": null,
+          "scraped_at": "2026-05-18T14:00:47.087767+00:00"
+        }
+      ],
+      "approved_at": "18-05-2026 15:23",
       "auto_approved": true
     }
   ]
