@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T06:43:44.845180+00:00",
-  "total": 291,
+  "updated_at": "2026-05-19T10:32:57.248133+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "24e319d378c2",
@@ -251,6 +251,21 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "c4bea86fc7a5",
+      "title": "Apple iPhone 16 Pro 256GB Black Titanium",
+      "price": 719.0,
+      "original_price": 1362.58,
+      "discount_percent": 47,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-16-pro-256gb-black-titanium-r-17693",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092491_fa41a363-1a52-4db2-a3bf-8f2b373d6546.jpg?v=1779091984",
+      "found_at": "2026-05-19T10:27:17.551284+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -559,6 +574,21 @@
       "auto_approved": true
     },
     {
+      "id": "9e59fce6c5c4",
+      "title": "Dreame L40s Pro Ultra",
+      "price": 386.0,
+      "original_price": 787.61,
+      "discount_percent": 50,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-l40s-pro-ultra-r-17885",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2168003_6c66b5a5-05fa-444a-ad07-bcd08dc88979.jpg?v=1779092604",
+      "found_at": "2026-05-19T10:27:20.884251+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "8db77962e976",
       "title": "HTC VIVE XR Elite",
       "price": 740.0,
@@ -673,6 +703,21 @@
       "auto_approved": true
     },
     {
+      "id": "728636fd05ab",
+      "title": "Dreame L40s Pro Ultra",
+      "price": 409.0,
+      "original_price": 787.61,
+      "discount_percent": 48,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-l40s-pro-ultra-r-17881",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2168003_e369a2b3-344c-4d3f-a095-eb154d30bfd4.jpg?v=1779092547",
+      "found_at": "2026-05-19T10:27:20.884183+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "6eb6791a1b90",
       "title": "Microsoft Surface Laptop Copilot+ PC Elite X1E-80-100 16GB ram 512GB SSD Zwart AZERTY",
       "price": 1366.0,
@@ -685,6 +730,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2057716.jpg?v=1777364403",
       "found_at": "2026-05-07T10:16:55.921158+00:00",
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "4c3b6472b0c7",
+      "title": "Apple MacBook Air 15 inch (2025) M4 (10 CPU/10 GPU) 16GB/256GB Middernacht AZERTY",
+      "price": 719.0,
+      "original_price": 1164.0,
+      "discount_percent": 38,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-inch-2025-m4-10-cpu-10-gpu-16gb-256gb-middernacht-qwerty-r-17353",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146368_cc21a119-be21-431f-8c78-b2cc83296720.jpg?v=1776760386",
+      "found_at": "2026-05-19T10:27:17.551821+00:00",
+      "price_history": [
+        {
+          "price": 827.0,
+          "original_price": 1149.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 956.0,
+          "original_price": 1329.0,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 719.0,
+          "original_price": 1164.0,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -946,6 +1023,21 @@
       "auto_approved": true
     },
     {
+      "id": "5b3c3f6fc7ea",
+      "title": "Google Pixel 9a 128GB Zwart 5G",
+      "price": 182.0,
+      "original_price": 418.95,
+      "discount_percent": 56,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/google-pixel-9a-128gb-zwart-5g-r-17699",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2172027_e538126a-42d3-47d7-8f1f-6902313a2907.jpg?v=1779092020",
+      "found_at": "2026-05-19T10:27:20.884908+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "4d39a0c369a2",
       "title": "DeLonghi  La Specialista Prestigio EC9355.BM",
       "price": 728.0,
@@ -1151,6 +1243,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1878226_552e67ac-d7d7-400d-8b79-f3dd31f34de9.jpg?v=1778486337",
       "found_at": "2026-05-12T14:19:36.801948+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "140281ddc328",
+      "title": "Lenovo Yoga Tab Plus 16GB 256GB",
+      "price": 431.0,
+      "original_price": 742.35,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-yoga-tab-plus-16gb-256gb-r-17746",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129323_6223a582-8477-423a-af3f-fad39d6817df.jpg?v=1779092162",
+      "found_at": "2026-05-19T10:27:20.886389+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -1365,6 +1472,21 @@
       "auto_approved": true
     },
     {
+      "id": "471847edba2c",
+      "title": "Apple MacBook Air 13\" (2024) M3 (8/10) 16GB/512GB Spacegrijs QWERTY",
+      "price": 933.0,
+      "original_price": 1296.0,
+      "discount_percent": 28,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2024-m3-8-10-16gb-512gb-spacegrijs-qwerty-r-17894",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2021085.jpg?v=1779092719",
+      "found_at": "2026-05-19T10:27:17.551653+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "6ab87c859b7d",
       "title": "Dyson V15 Detect Absolute",
       "price": 477.0,
@@ -1551,6 +1673,21 @@
       "auto_approved": true
     },
     {
+      "id": "689efd6147a7",
+      "title": "Apple iPhone 15 128GB Zwart",
+      "price": 427.0,
+      "original_price": 688.2,
+      "discount_percent": 37,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-15-128gb-zwart-r-17676",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_107dad13-973a-48e0-a8ac-dc444fe8ea9d.jpg?v=1779091919",
+      "found_at": "2026-05-19T10:27:14.038573+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "2d8ead424e91",
       "title": "Tefal Easy Fry & Grill EY855B",
       "price": 36.0,
@@ -1643,6 +1780,21 @@
       "auto_approved": true
     },
     {
+      "id": "ce42855f80aa",
+      "title": "Bowers & Wilkins Px8 Zwart",
+      "price": 227.0,
+      "original_price": 408.71,
+      "discount_percent": 44,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bowers-wilkins-px8-zwart-r-17740",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1838764_4147e2cf-daed-4d12-a2e2-1e03c6197199.jpg?v=1779092159",
+      "found_at": "2026-05-19T10:27:20.883563+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "a1166a07c67e",
       "title": "Samsung Galaxy Buds Pro, Kabellose Kopfhörer, Wireless Earbuds, ausdauernder Akku, 3 Mikrofone, Sound by AKG, 2-Wege-Lautsprecher inkl. Araree Clear Cover, Phantom Silver (Deutsche Version)",
       "price": 120.04,
@@ -1655,6 +1807,36 @@
       "image": "https://m.media-amazon.com/images/I/519CI0kBIjL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-05-18T06:14:19.453041+00:00",
       "approved_at": "18-05-2026 07:31",
+      "auto_approved": true
+    },
+    {
+      "id": "bd7c4f15c22a",
+      "title": "Brabantia Bo Touch Bin Hi afvalemmer 2 x 30 liter zwart",
+      "price": 118.0,
+      "original_price": 242.23,
+      "discount_percent": 51,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/brabantia-bo-touch-bin-hi-afvalemmer-2-x-30-liter-zwart-r-17966",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1733933_fe8cab9b-cdae-43dc-830d-ad65f1b149f2.jpg?v=1779093255",
+      "found_at": "2026-05-19T10:27:20.883669+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "e10947f37839",
+      "title": "JBL Live 770NC Zwart",
+      "price": 50.0,
+      "original_price": 119.92,
+      "discount_percent": 58,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-live-770nc-zwart-r-17814",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1962259_b334b01c-1590-4ce0-bea4-e70e8d21dba5.jpg?v=1779092286",
+      "found_at": "2026-05-19T10:27:20.885594+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -1803,6 +1985,21 @@
       "auto_approved": true
     },
     {
+      "id": "c62157e5eff3",
+      "title": "Karcher K 4 Power Control Home",
+      "price": 152.0,
+      "original_price": 284.07,
+      "discount_percent": 46,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/karcher-k-4-power-control-home-r-17873",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1530602_09157ac7-9b96-41ad-99bf-988310749e07.jpg?v=1779092436",
+      "found_at": "2026-05-19T10:27:20.885821+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "e90ad72687fe",
       "title": "SAMSUNG DW60DG790I00U1 Waterjet Clean Inbouw vaatwasser - Volledig Geïntegreerd - 12 couverts - 43 dB(A) - Nisbreedte 60 cm",
       "price": 861.75,
@@ -1824,6 +2021,58 @@
           "scraped_at": "2026-05-06T14:00:23.645646+00:00"
         }
       ]
+    },
+    {
+      "id": "dd22477aa40e",
+      "title": "Philips Baristina Espressoapparaat BAR300/60 - Zwart",
+      "price": 161.0,
+      "original_price": 294.38,
+      "discount_percent": 45,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-baristina-espressoapparaat-bar300-60-zwart-r-17807",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050906_c3f715ab-02ec-4127-b9cc-b5fd80f476a5.jpg?v=1778486994",
+      "found_at": "2026-05-19T10:27:23.922963+00:00",
+      "price_history": [
+        {
+          "price": 169.0,
+          "original_price": 291.88,
+          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
+        },
+        {
+          "price": 189.0,
+          "original_price": 291.88,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 292.1,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 294.38,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "b0be20e0a445",
+      "title": "Oral-B iO 2 Zwart en Roze Duo Pack",
+      "price": 64.0,
+      "original_price": 137.08,
+      "discount_percent": 53,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-2-zwart-en-roze-duo-pack-r-17812",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147071_cb28ce03-f1be-45c7-9f8a-07001b523e90.jpg?v=1779092258",
+      "found_at": "2026-05-19T10:27:23.922109+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
     },
     {
       "id": "6b2b4fbc784b",
@@ -1855,6 +2104,36 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "c07f0cb44ffd",
+      "title": "DeLonghi  ECAM 20.110.B Magnifica",
+      "price": 189.0,
+      "original_price": 335.65,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-ecam-20-110-b-magnifica-r-17884",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1751715_ad37c604-0559-4fbc-ad17-78e06a03ddfd.jpg?v=1779092569",
+      "found_at": "2026-05-19T10:27:20.883768+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "1504df05542a",
+      "title": "Bose QuietComfort Ultra Headphones Zwart",
+      "price": 187.0,
+      "original_price": 329.91,
+      "discount_percent": 43,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-headphones-zwart-r-17735",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969999_0518b78a-94f0-4040-b387-948c282ac6d3.jpg?v=1779092099",
+      "found_at": "2026-05-19T10:27:17.554518+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -2126,6 +2405,21 @@
       "auto_approved": true
     },
     {
+      "id": "10adfa37943b",
+      "title": "Apple iPad Air (2025) 13 inch 128GB Wifi Paars",
+      "price": 563.0,
+      "original_price": 802.96,
+      "discount_percent": 29,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-13-inch-128gb-wifi-paars-r-17688",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145381_1dd1dbdb-3b67-4ae4-b2c6-60408821c41b.jpg?v=1779091955",
+      "found_at": "2026-05-19T10:27:14.038008+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "1ca755b7f19d",
       "title": "Karcher K7 Comfort Premium Home",
       "price": 346.0,
@@ -2153,6 +2447,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242928_f2fe3195-bce4-45f7-aa38-699943248232.jpg?v=1778487446",
       "found_at": "2026-05-12T14:19:30.497581+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "62b1eb7bbb10",
+      "title": "Samsung Galaxy A56 128GB Zwart 5G",
+      "price": 229.0,
+      "original_price": 384.16,
+      "discount_percent": 40,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a56-128gb-zwart-5g-r-17911",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144340_0a83af1c-ca69-4dd8-964a-79c8ec9725d6.jpg?v=1779092838",
+      "found_at": "2026-05-19T10:27:26.831903+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -2325,6 +2634,103 @@
       "auto_approved": true
     },
     {
+      "id": "84540ab29103",
+      "title": "Nothing Tech Nothing Phone (2a) White 8+128 Android",
+      "price": 160.0,
+      "original_price": 285.68,
+      "discount_percent": 43,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-2a-white-8-128-android-r-17214",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2023874_efb8184f-ed20-4516-9126-170e011197b3.jpg?v=1776166662",
+      "found_at": "2026-05-19T10:27:23.921568+00:00",
+      "price_history": [
+        {
+          "price": 245.0,
+          "original_price": 342.37,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 304.38,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 254.0,
+          "original_price": 304.37,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 304.33,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 346.53,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 343.16,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 223.0,
+          "original_price": 343.02,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 244.0,
+          "original_price": 339.65,
+          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 342.02,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 330.76,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 254.0,
+          "original_price": 343.06,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 252.0,
+          "original_price": 341.29,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 160.0,
+          "original_price": 285.68,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "08c42dc20914",
+      "title": "Beats Studio Pro Zwart",
+      "price": 160.0,
+      "original_price": 284.7,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/beats-studio-pro-zwart-r-17811",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952150_9328b3d9-1f8a-40a9-a642-ebdced7b1082.jpg?v=1779092255",
+      "found_at": "2026-05-19T10:27:17.553669+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "fe170225424d",
       "title": "Eufy Omni E25",
       "price": 647.0,
@@ -2462,6 +2868,21 @@
       "auto_approved": true
     },
     {
+      "id": "d3637740bd84",
+      "title": "Beats Studio Pro Zwart",
+      "price": 151.0,
+      "original_price": 267.62,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/beats-studio-pro-zwart-r-17736",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952150_e21452dc-e133-4cb8-a7c4-1531738fba44.jpg?v=1779092113",
+      "found_at": "2026-05-19T10:27:17.553593+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "0aee2b31f2b7",
       "title": "Philips Baristina Espressoapparaat BAR300/60 - Zwart",
       "price": 169.0,
@@ -2522,6 +2943,21 @@
       "auto_approved": true
     },
     {
+      "id": "8117686f85ad",
+      "title": "Bose QuietComfort Ultra Headphones Wit",
+      "price": 197.0,
+      "original_price": 328.66,
+      "discount_percent": 40,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-headphones-wit-r-17748",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969985_69e1a896-8f0a-4366-853e-def92259bf57.jpg?v=1779092171",
+      "found_at": "2026-05-19T10:27:17.554395+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "fe2e2bca90f5",
       "title": "Bowers & Wilkins Px8 Zwart",
       "price": 257.0,
@@ -2549,6 +2985,36 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2019502_8a53169a-48ff-414f-884d-7ba3db6e20fe.jpg?v=1778487294",
       "found_at": "2026-05-12T14:19:36.802041+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "64dc8ce7c13b",
+      "title": "Apple AirPods Max Zwart",
+      "price": 359.0,
+      "original_price": 537.54,
+      "discount_percent": 33,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-max-zwart-r-17898",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092760_dcf94516-3f36-41b0-83b3-eb74d9e93c1d.jpg?v=1779092753",
+      "found_at": "2026-05-19T10:27:14.036486+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "ccf3f744ab2a",
+      "title": "Bose QuietComfort Ultra Headphones Zwart",
+      "price": 198.0,
+      "original_price": 329.91,
+      "discount_percent": 39,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-headphones-zwart-r-17823",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969999_683ad4df-ea7a-41b2-84cc-36878ea4da3f.jpg?v=1779092357",
+      "found_at": "2026-05-19T10:27:17.554640+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -2757,6 +3223,21 @@
       "auto_approved": true
     },
     {
+      "id": "77f59a4cb282",
+      "title": "BaByliss For Men Super-X Metal 15 in 1 Multitrimmer MT991E",
+      "price": 69.0,
+      "original_price": 131.96,
+      "discount_percent": 47,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-for-men-super-x-metal-15-in-1-multitrimmer-mt991e-r-17816",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815345_b2efe948-f104-42fd-b93c-15bb82088085.jpg?v=1779092290",
+      "found_at": "2026-05-19T10:27:17.553064+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "a08523857f99",
       "title": "Inventum GF461B",
       "price": 39.0,
@@ -2862,6 +3343,21 @@
           "scraped_at": "2026-05-07T10:00:29.689910+00:00"
         }
       ]
+    },
+    {
+      "id": "31c1e8b2c12c",
+      "title": "Apple Airpods Pro 3 Wit",
+      "price": 142.0,
+      "original_price": 243.65,
+      "discount_percent": 41,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-pro-3-wit-r-17672",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213106_7fa4824b-a4a1-4ba9-9dd0-eaaeced11de4.jpg?v=1779091913",
+      "found_at": "2026-05-19T10:27:14.036840+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
     },
     {
       "id": "c2fb4d38b14e",
@@ -3068,6 +3564,21 @@
       "auto_approved": true
     },
     {
+      "id": "7c95184b2508",
+      "title": "Samsung Galaxy S25 Plus 256GB Donkerblauw 5G",
+      "price": 650.0,
+      "original_price": 866.1,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-s25-plus-256gb-donkerblauw-5g-r-16978",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133973_75f734a2-7aa6-4eb4-9c12-e094aec4170b.jpg?v=1779091882",
+      "found_at": "2026-05-19T10:27:30.703364+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "07eb6522379c",
       "title": "Cobalt x Powered by MSI - Tier 1 - RTX 5060 - Ryzen 7 5700X",
       "price": 1245.0,
@@ -3092,6 +3603,21 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "d731279a5587",
+      "title": "Apple iPhone 14 128GB Blue",
+      "price": 453.0,
+      "original_price": 634.39,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-14-128gb-blue-r-17892",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1812866_3e44df4e-4807-4ca4-9c8b-a378de26adc5.jpg?v=1779092682",
+      "found_at": "2026-05-19T10:27:14.038517+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3137,6 +3663,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1641434_1fc6cfad-45e8-4642-ae8b-2f9f58c39161.jpg?v=1778487316",
       "found_at": "2026-05-12T14:19:23.785490+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "86e69070b55c",
+      "title": "Google Pixelwatch 4 45 mm Zilver - Creme",
+      "price": 285.0,
+      "original_price": 425.58,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/google-pixelwatch-4-45-mm-zilver-creme-r-17702",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2206989.jpg?v=1779092055",
+      "found_at": "2026-05-19T10:27:20.884998+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3258,6 +3799,51 @@
       ]
     },
     {
+      "id": "751340e5a0a3",
+      "title": "Bose QuietComfort Earbuds Zwart",
+      "price": 97.0,
+      "original_price": 167.32,
+      "discount_percent": 42,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-earbuds-zwart-r-17751",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2096335_f23d7f4a-042f-4dc1-ae0c-92d76aeef6df.jpg?v=1779092181",
+      "found_at": "2026-05-19T10:27:17.554153+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "800fb6f07cd1",
+      "title": "Philips Lumea IPL 9900 Series BRI951/01",
+      "price": 333.0,
+      "original_price": 485.4,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-lumea-ipl-9900-series-bri951-01-r-17704",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2123063_09e80a0a-286e-48d6-9775-60d05c5c2851.jpg?v=1779092055",
+      "found_at": "2026-05-19T10:27:23.923051+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "ea3e9e7307c8",
+      "title": "Apple iPhone 16e 128GB Zwart",
+      "price": 409.0,
+      "original_price": 576.36,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-16e-128gb-zwart-r-17694",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2141650_4c96e016-ca72-4621-a358-5d1b9bb06dc8.jpg?v=1779091990",
+      "found_at": "2026-05-19T10:27:17.551488+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "8126fa2d77f5",
       "title": "BOSCH SMV6YCX00E PerfectDry Inbouwvaatwasser - Volledig geïntegreerd - 14 couverts - 43 dB(A) - Nisbreedte 60.8 cm",
       "price": 591.75,
@@ -3308,6 +3894,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075691_92bfddc6-835c-47f5-9c13-e19d97f55351.jpg?v=1778486657",
       "found_at": "2026-05-12T14:19:36.801156+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "0e24cb5ba338",
+      "title": "Philips Azur 8000 Series DST8050/20",
+      "price": 77.0,
+      "original_price": 137.37,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-azur-8000-series-dst8050-20-r-17883",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1805774_f4c74c66-30f6-4b95-a3d8-c4be052e2ab6.jpg?v=1779092558",
+      "found_at": "2026-05-19T10:27:23.922792+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3422,6 +4023,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1999366_37e0903f-e279-4da0-89fd-b7a532f8ec28.jpg?v=1778486222",
       "found_at": "2026-05-12T14:19:27.505721+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "981a6a44a322",
+      "title": "AEG AB81A2DG ANIMAL 8000 Stofzuiger Met stofzak - 69 dB",
+      "price": 197.0,
+      "original_price": 307.84,
+      "discount_percent": 36,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aeg-ab81a2dg-animal-8000-stofzuiger-met-stofzak-69-db-r-17882",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2032934_6a1cd2b2-4817-4906-835e-a50e8df09a0b.jpg?v=1779092560",
+      "found_at": "2026-05-19T10:27:14.035524+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3567,6 +4183,36 @@
         }
       ],
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "bfbff933d70c",
+      "title": "Apple Airpods Pro 3 Wit",
+      "price": 150.0,
+      "original_price": 243.66,
+      "discount_percent": 38,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-pro-3-wit-r-17965",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213106_5ab29239-75ee-4004-8e60-c3559c40123e.jpg?v=1779093242",
+      "found_at": "2026-05-19T10:27:14.036898+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "54a36dd3556d",
+      "title": "Samsung Galaxy A56 128GB Zwart 5G",
+      "price": 207.0,
+      "original_price": 319.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a56-128gb-zwart-5g-r-17912",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144340_23d7ae98-7a63-441f-a10a-4ef520372077.jpg?v=1779092852",
+      "found_at": "2026-05-19T10:27:26.831955+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3746,6 +4392,21 @@
         }
       ],
       "approved_at": "07-05-2026 11:21",
+      "auto_approved": true
+    },
+    {
+      "id": "f87c968776f6",
+      "title": "Samsung Galaxy S25 Ultra Zwart 256GB 5G",
+      "price": 787.0,
+      "original_price": 1001.67,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-s25-ultra-zwart-256gb-5g-r-16840",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133554_82266b71-b979-4928-92e7-45c397bcc504.jpg?v=1779091858",
+      "found_at": "2026-05-19T10:27:30.703472+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -4073,6 +4734,21 @@
       "auto_approved": true
     },
     {
+      "id": "c1cf754916c0",
+      "title": "Samsung Galaxy Buds3 Zwart",
+      "price": 76.0,
+      "original_price": 128.82,
+      "discount_percent": 41,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-zwart-r-17891",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075691_bf43788a-3b95-4e3f-a0b4-e7c2d391034c.jpg?v=1779092678",
+      "found_at": "2026-05-19T10:27:30.703310+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "e1eee3f8bee0",
       "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5678",
       "price": 61.0,
@@ -4333,6 +5009,51 @@
       "auto_approved": true
     },
     {
+      "id": "ee80e228d044",
+      "title": "Samsung Galaxy A36 128GB Zwart 5G",
+      "price": 174.0,
+      "original_price": 269.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a36-128gb-zwart-5g-r-17939",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144290_49f12e93-38c7-49a1-bc4c-c2a8b242c66c.jpg?v=1779093053",
+      "found_at": "2026-05-19T10:27:26.830789+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "ef4e6082d90e",
+      "title": "Samsung Galaxy A36 128GB Zwart 5G",
+      "price": 193.0,
+      "original_price": 292.9,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a36-128gb-zwart-5g-r-17915",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144290_2aa8da82-2412-4c20-8883-524d073618a4.jpg?v=1779092875",
+      "found_at": "2026-05-19T10:27:26.830566+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "71b593f58c14",
+      "title": "Apple iPad Mini 7 (2024) 128GB Wifi Paars",
+      "price": 402.0,
+      "original_price": 553.46,
+      "discount_percent": 27,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-mini-7-2024-128gb-wifi-paars-r-17689",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2106983.jpg?v=1779091956",
+      "found_at": "2026-05-19T10:27:14.038064+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "7c915e22e32f",
       "title": "Razer Kraken Kitty V2 BT - Draadloze Bluetooth RGB Headset met Kitty-oortjes voor gamen en streamen (325g, TriForce 40mm Drivers, Bluetooth 5.2, ruisonderdrukkende microfoons) Zwart",
       "price": 62.46,
@@ -4450,6 +5171,21 @@
       "auto_approved": true
     },
     {
+      "id": "59f807c0cd4d",
+      "title": "Apple Watch Series 10 4G 46mm Zwart Sportband M/L",
+      "price": 301.0,
+      "original_price": 425.52,
+      "discount_percent": 29,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-series-10-4g-46mm-zwart-sportband-m-l-r-17682",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093026.jpg?v=1779091949",
+      "found_at": "2026-05-19T10:27:17.552884+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "e81e1616a786",
       "title": "Duux Neo Smart Ultrasonic DXHU30 Zwart",
       "price": 92.0,
@@ -4497,6 +5233,73 @@
       "auto_approved": true
     },
     {
+      "id": "8ce4a1b209b1",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 181.0,
+      "original_price": 273.13,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17537",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_829f6e6e-0a5f-416f-80d6-e99794194469.jpg?v=1777364444",
+      "found_at": "2026-05-19T10:27:23.919900+00:00",
+      "price_history": [
+        {
+          "price": 214.0,
+          "original_price": 252.89,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 222.0,
+          "original_price": 271.57,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        },
+        {
+          "price": 214.0,
+          "original_price": 257.61,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 224.0,
+          "original_price": null,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 216.0,
+          "original_price": 283.29,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 203.0,
+          "original_price": 204.0,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 181.0,
+          "original_price": 273.13,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "c91aad671674",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 183.0,
+      "original_price": 274.97,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17964",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_801ad26d-7b57-43a3-8062-bdf5a7856e2f.jpg?v=1779093234",
+      "found_at": "2026-05-19T10:27:23.920634+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "7bbb92c60dfd",
       "title": "AOC 27B3HA2",
       "price": 71.0,
@@ -4531,6 +5334,21 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "6cd731848ac2",
+      "title": "Nothing Tech Nothing Ear Zwart",
+      "price": 80.0,
+      "original_price": 130.98,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nothing-tech-nothing-ear-zwart-r-17889",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2042385.jpg?v=1779092641",
+      "found_at": "2026-05-19T10:27:23.921456+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -4758,6 +5576,21 @@
       "auto_approved": true
     },
     {
+      "id": "1fee49d92cee",
+      "title": "JBL Live 670NC Zwart",
+      "price": 65.0,
+      "original_price": 105.43,
+      "discount_percent": 38,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-live-670nc-zwart-r-17819",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1962418_564c65fa-4103-47f4-862a-fd9c1cbb1118.jpg?v=1779092327",
+      "found_at": "2026-05-19T10:27:20.885534+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "0700a5f9a2d1",
       "title": "Braun Silk·épil 9 9-061 Zilver",
       "price": 78.0,
@@ -4874,6 +5707,51 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "4f85c066555d",
+      "title": "Motorola Moto G55 256GB Zwart 5G",
+      "price": 96.0,
+      "original_price": 149.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-moto-g55-256gb-zwart-5g-r-17910",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_7b1b68ea-be09-4070-960d-3ba7a84a4e5b.jpg?v=1779092833",
+      "found_at": "2026-05-19T10:27:23.920874+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "1a45e67d1b47",
+      "title": "Apple AirPods 2 met oplaadcase",
+      "price": 96.0,
+      "original_price": 149.0,
+      "discount_percent": 35,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-2-met-oplaadcase-r-17673",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1524790_b01f419e-8eb6-4d97-a483-b5e5954cd846.jpg?v=1779091917",
+      "found_at": "2026-05-19T10:27:14.036071+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "54e8e67d24c0",
+      "title": "Makita DLM330SM",
+      "price": 148.0,
+      "original_price": 219.0,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/makita-dlm330sm-r-17872",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041648_53daa99c-ee0e-4716-b745-e4c8cbe12198.jpg?v=1779092428",
+      "found_at": "2026-05-19T10:27:20.886600+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -5210,6 +6088,73 @@
       "auto_approved": true
     },
     {
+      "id": "fdf0fc5335a5",
+      "title": "Logitech G Astro A50 Lightspeed Draadloze Gaming Headset Zwart",
+      "price": 197.0,
+      "original_price": 279.23,
+      "discount_percent": 29,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-astro-a50-lightspeed-draadloze-gaming-headset-zwart-r-17805",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2096956_192db6e9-63e3-4389-8ab4-c7b08e694633.jpg?v=1779092218",
+      "found_at": "2026-05-19T10:27:20.886459+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "82587fe93dd8",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht AZERTY",
+      "price": 806.0,
+      "original_price": 976.82,
+      "discount_percent": 17,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-azerty-r-17330",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_43e7c80b-0ee1-4fd4-9ea3-05078aa8ddab.jpg?v=1776167788",
+      "found_at": "2026-05-19T10:27:17.551767+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 1053.11,
+          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
+        },
+        {
+          "price": 809.0,
+          "original_price": 1025.96,
+          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
+        },
+        {
+          "price": 781.0,
+          "original_price": 1003.61,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 806.0,
+          "original_price": 975.25,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "ec2f0b5e6394",
+      "title": "Samsung Jet 75E Multi",
+      "price": 189.0,
+      "original_price": 269.71,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-jet-75e-multi-r-17875",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1957932_69f3c043-3df7-4426-a803-e08bd65eb5a0.jpg?v=1779092475",
+      "found_at": "2026-05-19T10:27:30.703944+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "cf8192034f5f",
       "title": "Refurbished iPad 9 256GB WIFI+LTE 10.2\" Space Gray",
       "price": 293.0,
@@ -5435,6 +6380,21 @@
       "auto_approved": true
     },
     {
+      "id": "293e1073de33",
+      "title": "Philips Series 9000 20-in-1 MG9557/15",
+      "price": 69.0,
+      "original_price": 105.9,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-9000-20-in-1-mg9557-15-r-17815",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224812_4ca9fd13-a820-49dc-9c3e-21041f26b72d.jpg?v=1779092289",
+      "found_at": "2026-05-19T10:27:23.923308+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "b0d0433862de",
       "title": "Samsung Galaxy Book4 Pro NP940XGK-KG2NL QWERTY",
       "price": 1368.0,
@@ -5539,6 +6499,21 @@
       "auto_approved": true
     },
     {
+      "id": "8674cffcceaf",
+      "title": "Beats Studio Pro Zwart",
+      "price": 204.0,
+      "original_price": 284.69,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/beats-studio-pro-zwart-r-17820",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952150_52db887e-a3c1-46ec-b576-3ea9829b6568.jpg?v=1779092325",
+      "found_at": "2026-05-19T10:27:17.553750+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "4e32a41a9c07",
       "title": "Karcher K 4 Power Control Home",
       "price": 190.0,
@@ -5638,6 +6613,21 @@
       "auto_approved": true
     },
     {
+      "id": "fba33156057e",
+      "title": "Sonos Roam 2 Zwart",
+      "price": 107.0,
+      "original_price": 157.07,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-roam-2-zwart-r-17727",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053666_2509496d-8e1c-45cc-a62c-237065febd6c.jpg?v=1779092088",
+      "found_at": "2026-05-19T10:27:30.704759+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "aa26f08446c1",
       "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
       "price": 180.0,
@@ -5650,6 +6640,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_17739896-a070-46af-b8aa-a638462b153c.jpg?v=1777899933",
       "found_at": "2026-05-08T06:21:05.143115+00:00",
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "7f179a9422b1",
+      "title": "Apple Watch SE (2024) 40mm Midnight Sportband S/M",
+      "price": 164.0,
+      "original_price": 229.0,
+      "discount_percent": 28,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-se-2024-40mm-midnight-sportband-s-m-r-17683",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093196.jpg?v=1779091956",
+      "found_at": "2026-05-19T10:27:17.552502+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6166,6 +7171,93 @@
       "auto_approved": true
     },
     {
+      "id": "cd0ff41ac01e",
+      "title": "ASUS ZenScreen MB166CR draagbare monitor 16 inch (15,6), Full HD (1920 x 1080), IPS, USB Type-C, anti-flikkering, blauwlichtfilter, ontspiegeld oppervlak, 360 graden standaard, zwart",
+      "price": 89.94,
+      "original_price": 129.0,
+      "discount_percent": 30,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07MB83BY2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/710Q1KYdAzL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T10:20:22.498103+00:00",
+      "price_history": [
+        {
+          "price": 89.45,
+          "original_price": 99.99,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 96.46,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 98.31,
+          "original_price": 137.5,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 93.08,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
+        },
+        {
+          "price": 90.74,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
+        },
+        {
+          "price": 95.84,
+          "original_price": 129.99,
+          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
+        },
+        {
+          "price": 97.97,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-12T14:00:21.438573+00:00"
+        },
+        {
+          "price": 94.77,
+          "original_price": 129.99,
+          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
+        },
+        {
+          "price": 97.63,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-23T06:00:28.635396+00:00"
+        },
+        {
+          "price": 95.17,
+          "original_price": 113.99,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 92.12,
+          "original_price": 149.99,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 94.86,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        },
+        {
+          "price": 92.27,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-14T06:00:32.253590+00:00"
+        },
+        {
+          "price": 89.94,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "1cf10d06f12c",
       "title": "Apple AirPods Max Goud",
       "price": 432.0,
@@ -6260,6 +7352,36 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1967708_24c904d5-9e92-42ac-8142-e3e2a9fd7805.jpg?v=1778486169",
       "found_at": "2026-05-12T14:19:30.498102+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "fdd0c10dcd60",
+      "title": "Apple AirPods Max Zwart",
+      "price": 422.0,
+      "original_price": 533.22,
+      "discount_percent": 20,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-max-zwart-r-17897",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092760_9353e7bd-e552-4759-9bf9-08f71cd3909e.jpg?v=1779092722",
+      "found_at": "2026-05-19T10:27:14.036427+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "3a0194a3500f",
+      "title": "Nintendo Switch Pro Controller",
+      "price": 43.0,
+      "original_price": 63.97,
+      "discount_percent": 32,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nintendo-switch-pro-controller-r-17809",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368340_1261afcf-a385-46d8-a2e7-bc17407b8e6c.jpg?v=1779092223",
+      "found_at": "2026-05-19T10:27:23.921370+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6377,6 +7499,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2046181_4477a27c-722a-4c47-9210-66ee1cb2444b.jpg?v=1777639230",
       "found_at": "2026-05-08T06:20:58.695880+00:00",
       "approved_at": "08-05-2026 07:26",
+      "auto_approved": true
+    },
+    {
+      "id": "6b1ff7b06b82",
+      "title": "Samsung Jet 85 Pro",
+      "price": 323.0,
+      "original_price": 415.57,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-jet-85-pro-r-17876",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1959527_a2ffe152-c960-494a-ab4b-b9740e455940.jpg?v=1779092482",
+      "found_at": "2026-05-19T10:27:30.704167+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6499,6 +7636,58 @@
       "auto_approved": true
     },
     {
+      "id": "c2525c6aaeec",
+      "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Sterrenlicht AZERTY",
+      "price": 808.0,
+      "original_price": 950.67,
+      "discount_percent": 15,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-13-2025-m4-10-8-16gb-256gb-sterrenlicht-qwerty-r-16886",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146854_4c975ef9-40c7-4e6c-b58d-73a795fbbdf7.jpg?v=1774878301",
+      "found_at": "2026-05-19T10:27:17.551706+00:00",
+      "price_history": [
+        {
+          "price": 791.0,
+          "original_price": 919.24,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 830.55,
+          "original_price": 923.74,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 867.3,
+          "original_price": 942.52,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 798.0,
+          "original_price": 937.72,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 764.0,
+          "original_price": 931.05,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 791.0,
+          "original_price": 947.57,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 808.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "c484982638cd",
       "title": "Karcher K7 Comfort Premium Home",
       "price": 448.0,
@@ -6523,6 +7712,21 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "228006c2952f",
+      "title": "Motorola Moto G55 256GB Zwart 5G",
+      "price": 107.0,
+      "original_price": 149.0,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-moto-g55-256gb-zwart-5g-r-17909",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_d8305bf4-e5c4-4ecf-bb40-a06821089104.jpg?v=1779092826",
+      "found_at": "2026-05-19T10:27:23.920822+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6652,6 +7856,21 @@
       "auto_approved": true
     },
     {
+      "id": "7befb68333be",
+      "title": "Philips Shaver 7000 Series S7882/55",
+      "price": 125.0,
+      "original_price": 171.3,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-7000-series-s7882-55-r-17738",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2029935_d5d15780-d55f-4575-a6d9-e4950c734ce0.jpg?v=1779092133",
+      "found_at": "2026-05-19T10:27:26.829183+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "c937156e40fc",
       "title": "Elecrow Monitor, draagbare mini-monitor (8 inch/20 cm) met ingebouwde luidsprekers en een resolutie van 1280 x 800 HDMI, compatibel met pc/laptop Raspberry Pi-gameconsoles",
       "price": 51.79,
@@ -6714,6 +7933,21 @@
       "auto_approved": true
     },
     {
+      "id": "4fea86c3d062",
+      "title": "BLACK+DECKER GTC1845L20-QW Heggenschaar",
+      "price": 69.0,
+      "original_price": 98.05,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/black-decker-gtc1845l20-qw-heggenschaar-r-17868",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1365297_a7221b6d-efde-4925-b16c-7f606682cded.jpg?v=1779092374",
+      "found_at": "2026-05-19T10:27:17.553842+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "cf78e47ecfb5",
       "title": "Philips Shaver i9000 Prestige XP9202/10",
       "price": 204.0,
@@ -6748,6 +7982,21 @@
         }
       ],
       "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "09a218de27d5",
+      "title": "Marshall Major V Zwart",
+      "price": 82.0,
+      "original_price": 114.97,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/marshall-major-v-zwart-r-17810",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2228715_e8adbd3c-9d59-441e-830b-a666e070a2a4.jpg?v=1779092249",
+      "found_at": "2026-05-19T10:27:20.886763+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6959,6 +8208,63 @@
       "image": "https://m.media-amazon.com/images/I/51N+ZA2PppL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-05-18T10:46:52.676161+00:00",
       "approved_at": "18-05-2026 11:57",
+      "auto_approved": true
+    },
+    {
+      "id": "5a1101c7da7a",
+      "title": "Lenovo Tab M11 Mediatek 128 Go 27,9 cm (11\") 8 Go Wi-Fi 5 (802.11ac) Android 13 Gris",
+      "price": 180.17,
+      "original_price": 239.95,
+      "discount_percent": 24,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D45M2SNB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61zahUeFfGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T10:04:12.335318+00:00",
+      "price_history": [
+        {
+          "price": 148.31,
+          "original_price": 206.5,
+          "scraped_at": "2026-03-08T15:00:19.508119+00:00"
+        },
+        {
+          "price": 152.21,
+          "original_price": 206.5,
+          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
+        },
+        {
+          "price": 129.35,
+          "original_price": 206.5,
+          "scraped_at": "2026-03-31T06:00:59.348609+00:00"
+        },
+        {
+          "price": 151.71,
+          "original_price": 206.5,
+          "scraped_at": "2026-04-05T06:00:30.829094+00:00"
+        },
+        {
+          "price": 129.35,
+          "original_price": 189.0,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 133.68,
+          "original_price": 189.0,
+          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
+        },
+        {
+          "price": 170.54,
+          "original_price": 206.5,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 180.17,
+          "original_price": 239.95,
+          "scraped_at": "2026-05-14T06:00:32.253590+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -7249,6 +8555,21 @@
       "auto_approved": true
     },
     {
+      "id": "30b127c39439",
+      "title": "Apple AirPods Max Zwart",
+      "price": 439.0,
+      "original_price": 537.54,
+      "discount_percent": 18,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-max-zwart-r-17900",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092760_a7c9c1a1-3d7c-4214-b7af-0f4bdf8cca04.jpg?v=1779092762",
+      "found_at": "2026-05-19T10:27:14.036602+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "22dcf8ab21f9",
       "title": "CAMECHO Draagbare Monitor 10.1'' LCD HD 1024 * 600 Scherm met HDMI BNC/AVI/VGA/USB Monitor voor PC DVD TV Auto Achteruitrijcamera Beveiligingscamera",
       "price": 56.54,
@@ -7350,6 +8671,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368282.jpg?v=1778486151",
       "found_at": "2026-05-15T14:25:02.132197+00:00",
       "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "6208ecd8eb8f",
+      "title": "Samsung Galaxy S25 Ultra Zwart 256GB 5G",
+      "price": 975.0,
+      "original_price": 1109.0,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-s25-ultra-zwart-256gb-5g-r-16975",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2133554_d35fe731-7ab4-4178-a701-00c394579ac8.jpg?v=1779091859",
+      "found_at": "2026-05-19T10:27:30.703579+00:00",
+      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -7546,6 +8882,21 @@
       "auto_approved": true
     },
     {
+      "id": "acd364052a28",
+      "title": "Apple Watch Series 10 46mm Zwart Sport Loop",
+      "price": 321.0,
+      "original_price": 396.8,
+      "discount_percent": 19,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-series-10-46mm-zwart-sport-loop-r-17681",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092918_805d6625-57c2-42c9-a355-b97df5f966d5.jpg?v=1779091921",
+      "found_at": "2026-05-19T10:27:17.552794+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "c7b3e454f262",
       "title": "Refurbished iPad (2022) 64GB Wifi + 5G Zilver",
       "price": 314.0,
@@ -7712,6 +9063,48 @@
       "auto_approved": true
     },
     {
+      "id": "d836229c63e3",
+      "title": "Beats Studio Pro Zwart",
+      "price": 201.0,
+      "original_price": 257.69,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/beats-studio-pro-zwart-r-17556",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952150_9ace5215-11d2-465e-8659-d7854b1386d7.jpg?v=1777364469",
+      "found_at": "2026-05-17T14:15:40.245892+00:00",
+      "price_history": [
+        {
+          "price": 201.0,
+          "original_price": 319.01,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 355.0,
+          "original_price": null,
+          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": null,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 311.0,
+          "original_price": 321.39,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 201.0,
+          "original_price": 257.69,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "f3623d3d6eb8",
       "title": "ATLANTIS 22 inch monitor, 22 inch VA 100 Hz, Full HD 1920 x 1080, VGA HDMI, Multimedia, FreeSync, kantelbare audio-/hoofdtelefoonuitgang, 5 ms reactie, contrast 3000:1, hoek 178/178, HDMI-kabel 1,5 m",
       "price": 75.8,
@@ -7781,6 +9174,48 @@
       "auto_approved": true
     },
     {
+      "id": "31dc664e567b",
+      "title": "OPPO A54s - 128GB - Pearl Blauw",
+      "price": 122.11,
+      "original_price": 159.9,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09LHQ635S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51vZ3f-fusL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T10:08:00.041725+00:00",
+      "price_history": [
+        {
+          "price": 124.85,
+          "original_price": 159.9,
+          "scraped_at": "2026-05-09T06:00:27.181910+00:00"
+        },
+        {
+          "price": 122.11,
+          "original_price": 159.9,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "c1542fd263a9",
+      "title": "Sonos Beam Gen2 Wit",
+      "price": 351.0,
+      "original_price": 425.82,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-beam-gen2-wit-r-17877",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1630692_11707d3a-0ea1-488a-88b5-91500303360f.jpg?v=1779092505",
+      "found_at": "2026-05-19T10:27:30.704680+00:00",
+      "approved_at": "19-05-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "52cc7a4c366b",
       "title": "Blackview Mega8 13 inch Android tablet 16,36 GB RAM + 256 GB ROM/2 TB TF, 90 Hz 2K touchscreen, Octa-Core T620 gaming-tablets, 4G LTE SIM, 11000 mAh/50 MP + 13 MP/Gemini AI 2.0/Widevine L1",
       "price": 252.77,
@@ -7810,2343 +9245,6 @@
         }
       ],
       "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "53622f2c15fd",
-      "title": "Blackview Tab60 Pro Android 15 tablet, 10 inch, 24 GB (8 GB + 16 GB uitbreiding) RAM + 128 GB ROM (2 TB TF), Dual 4G LTE SIM, Octa Core PC tablets, 7700 mAh batterij, Widevine L1 HD-display, 5G WiFi,",
-      "price": 127.83,
-      "original_price": 164.14,
-      "discount_percent": 22,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DQ1BGG68?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81bJgLKj20L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-16T18:04:10.532648+00:00",
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "af356c406bef",
-      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
-      "price": 200.0,
-      "original_price": 250.0,
-      "discount_percent": 20,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17644",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_1251312a-fdec-47ee-bbdd-9f10cdadceda.jpg?v=1777899857",
-      "found_at": "2026-05-16T14:16:07.610436+00:00",
-      "price_history": [
-        {
-          "price": 220.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 202.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 200.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 15:21",
-      "auto_approved": true
-    },
-    {
-      "id": "f3e15620b122",
-      "title": "MSI G255PFDE E2 24,5 inch FHD Gaming Monitor - 1920 x 1080 Rapid IPS paneel, 180 Hz / 1ms (GtG), 99% sRGB kleurruimte, Adaptive-Sync - DP 1.2a, HDMI 2.0b CEC",
-      "price": 108.43,
-      "original_price": 139.99,
-      "discount_percent": 22,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DHSQ55B1?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51GH-OFm14L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T14:12:38.377344+00:00",
-      "approved_at": "17-05-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "976e44a7e971",
-      "title": "Lenovo ThinkVision E24-40 - LED-Monitor - 61 cm (24\")",
-      "price": 94.73,
-      "original_price": 122.77,
-      "discount_percent": 22,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FLTSQL47?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61e1OqGg9UL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:29:15.367520+00:00",
-      "price_history": [
-        {
-          "price": 107.81,
-          "original_price": 132.74,
-          "scraped_at": "2026-03-16T07:00:31.061558+00:00"
-        },
-        {
-          "price": 108.69,
-          "original_price": 109.99,
-          "scraped_at": "2026-03-21T07:00:28.440048+00:00"
-        },
-        {
-          "price": 107.75,
-          "original_price": 133.02,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        },
-        {
-          "price": 107.5,
-          "original_price": 132.71,
-          "scraped_at": "2026-03-31T14:00:27.383964+00:00"
-        },
-        {
-          "price": 108.68,
-          "original_price": 134.17,
-          "scraped_at": "2026-04-05T14:00:23.191981+00:00"
-        },
-        {
-          "price": 108.11,
-          "original_price": 116.95,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 94.73,
-          "original_price": 116.95,
-          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "cac533ac0e4d",
-      "title": "Polaroid - Go Generation 2 Instant Camera - Wit",
-      "price": 61.49,
-      "original_price": 79.99,
-      "discount_percent": 23,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CG7P9KTH?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71Avbt+Ke6L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:19:08.126855+00:00",
-      "price_history": [
-        {
-          "price": 60.81,
-          "original_price": 69.11,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 57.36,
-          "original_price": 69.11,
-          "scraped_at": "2026-03-31T06:00:59.348609+00:00"
-        },
-        {
-          "price": 61.49,
-          "original_price": 79.99,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 60.4,
-          "original_price": 79.99,
-          "scraped_at": "2026-05-12T18:00:34.752223+00:00"
-        },
-        {
-          "price": 61.49,
-          "original_price": 79.99,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "297a20f44c2b",
-      "title": "Canon PowerShot ELPH 360 HS A digitale camera, zwart",
-      "price": 353.95,
-      "original_price": 424.52,
-      "discount_percent": 16,
-      "category": "camera",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQJZ97NL?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61pOUjkb4ML._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T06:14:52.196086+00:00",
-      "price_history": [
-        {
-          "price": 383.04,
-          "original_price": 455.88,
-          "scraped_at": "2026-05-06T14:00:23.645646+00:00"
-        },
-        {
-          "price": 370.11,
-          "original_price": 447.99,
-          "scraped_at": "2026-05-11T18:00:41.972943+00:00"
-        },
-        {
-          "price": 353.95,
-          "original_price": 424.52,
-          "scraped_at": "2026-05-17T06:00:25.861280+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "ebbe9232a6d5",
-      "title": "Apple Camera, iPhone 8 (6 Stuks) - 661-08936",
-      "price": 346.0,
-      "original_price": 414.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-camera-iphone-8-6-stuks-r-17789",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507113632.jpg?v=1778155223",
-      "found_at": "2026-05-16T14:16:02.171680+00:00",
-      "price_history": [
-        {
-          "price": 85.0,
-          "original_price": 414.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 49.0,
-          "original_price": 414.0,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 350.0,
-          "original_price": 414.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 346.0,
-          "original_price": 414.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 15:21",
-      "auto_approved": true
-    },
-    {
-      "id": "ce698c7d3276",
-      "title": "Kodak PIXPRO FZ45 16MP 4x Zoom Compact Camera - Zwart",
-      "price": 76.99,
-      "original_price": 99.0,
-      "discount_percent": 22,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0B8PDHRWY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/818GKPv0fvL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:25:33.882702+00:00",
-      "price_history": [
-        {
-          "price": 99.69,
-          "original_price": 105.99,
-          "scraped_at": "2026-03-01T19:00:22.448266+00:00"
-        },
-        {
-          "price": 81.49,
-          "original_price": 99.0,
-          "scraped_at": "2026-05-12T06:00:24.197489+00:00"
-        },
-        {
-          "price": 76.99,
-          "original_price": 99.0,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "db20931192fb",
-      "title": "Oral-B iO 3N Zwart en Roze Duo pack",
-      "price": 104.0,
-      "original_price": 133.23,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-3n-zwart-en-roze-duo-pack-r-17837",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076355_ba2ced34-43b9-4394-b42f-fb56656c44af.jpg?v=1778487177",
-      "found_at": "2026-05-16T18:14:31.644433+00:00",
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "73d122ef8d1c",
-      "title": "Apple Battery, iPhone SE 3rd generation (5 Stuks) - 661-25890",
-      "price": 330.0,
-      "original_price": 395.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-battery-iphone-se-3rd-generation-5-stuks-r-17790",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507114037.jpg?v=1778155244",
-      "found_at": "2026-05-16T18:14:25.557439+00:00",
-      "price_history": [
-        {
-          "price": 80.0,
-          "original_price": 395.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 49.0,
-          "original_price": 395.0,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 334.0,
-          "original_price": 395.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 330.0,
-          "original_price": 395.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "bdf46ac943fd",
-      "title": "Oral-B iO 2 Zwart en Groen Duo Pack",
-      "price": 67.0,
-      "original_price": 86.77,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-2-zwart-en-groen-duo-pack-r-17596",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147061_c8c04ae9-21ff-4c10-8985-fa46c55b9ae8.jpg?v=1777364936",
-      "found_at": "2026-05-16T18:14:31.644344+00:00",
-      "price_history": [
-        {
-          "price": 76.0,
-          "original_price": 95.83,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 88.67,
-          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
-        },
-        {
-          "price": 76.0,
-          "original_price": 88.67,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        },
-        {
-          "price": 73.0,
-          "original_price": 88.4,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 90.64,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 67.0,
-          "original_price": 86.77,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "810282fdd9a5",
-      "title": "HUAWEI MatePad 11.5 S 2025 Tablet 2,8K 144Hz Ultrahelder PaperMatte display, 12+256 GB, 8800 mAh Batterij, 40 W SuperCharge, WiFi 6+, Bluetooth 5.2, HUAWEI Notes, GoPaint, 30 Maanden Garantie",
-      "price": 262.2,
-      "original_price": 319.0,
-      "discount_percent": 17,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0GJ3B44RQ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61DYFYn7GsL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:08:08.282599+00:00",
-      "price_history": [
-        {
-          "price": 265.99,
-          "original_price": 279.99,
-          "scraped_at": "2026-05-12T06:00:24.197489+00:00"
-        },
-        {
-          "price": 262.2,
-          "original_price": 319.0,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "8443ecb13689",
-      "title": "Bose SoundLink Revolve+ II Bluetooth speaker Zwart",
-      "price": 255.0,
-      "original_price": 309.95,
-      "discount_percent": 17,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-soundlink-revolve-ii-bluetooth-speaker-zwart-r-17716",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1521010_3f532d2a-ca3b-4d22-b0b6-b91d1bb628a5.jpg?v=1778486340",
-      "found_at": "2026-05-16T18:14:28.738515+00:00",
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "55b27783b08d",
-      "title": "Philips 7000 Series HD6307/70",
-      "price": 86.0,
-      "original_price": 109.25,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-7000-series-hd6307-70-r-17851",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2094991.jpg?v=1778487380",
-      "found_at": "2026-05-16T18:14:31.644760+00:00",
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "c6f62f3d3884",
-      "title": "GardePro E6P Max Wildcamera met wifi, oplaadbare 8000 mAh batterij, geïntegreerde SD-kaart, 64 MP 1296P, E6PMB wildcamera met bewegingsmelder, nachtzicht, mobiele telefoon",
-      "price": 79.63,
-      "original_price": 101.42,
-      "discount_percent": 21,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CPM6K87Y?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71SacxDxFiL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T06:15:55.326228+00:00",
-      "price_history": [
-        {
-          "price": 84.49,
-          "original_price": 101.8,
-          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
-        },
-        {
-          "price": 81.16,
-          "original_price": 97.78,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 79.77,
-          "original_price": 96.11,
-          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
-        },
-        {
-          "price": 81.06,
-          "original_price": 101.69,
-          "scraped_at": "2026-03-31T18:00:31.726090+00:00"
-        },
-        {
-          "price": 83.48,
-          "original_price": 101.02,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 81.06,
-          "original_price": 97.66,
-          "scraped_at": "2026-04-11T14:00:27.429680+00:00"
-        },
-        {
-          "price": 80.0,
-          "original_price": 95.03,
-          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
-        },
-        {
-          "price": 77.86,
-          "original_price": 93.81,
-          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
-        },
-        {
-          "price": 77.8,
-          "original_price": 93.81,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 85.23,
-          "original_price": 101.42,
-          "scraped_at": "2026-05-11T06:00:51.172019+00:00"
-        },
-        {
-          "price": 79.63,
-          "original_price": 101.42,
-          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
-        }
-      ],
-      "approved_at": "19-05-2026 07:43",
-      "auto_approved": true
-    },
-    {
-      "id": "0e6a3a3d1fa0",
-      "title": "OnePlus Watch 2R Gunmetal Gray",
-      "price": 110.37,
-      "original_price": 138.95,
-      "discount_percent": 20,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D8LHWK6C?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/617ZN0xwVUL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T06:13:35.960343+00:00",
-      "price_history": [
-        {
-          "price": 112.62,
-          "original_price": 169.0,
-          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
-        },
-        {
-          "price": 106.81,
-          "original_price": 599.95,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 104.16,
-          "original_price": 184.95,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 108.43,
-          "original_price": 129.0,
-          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
-        },
-        {
-          "price": 107.32,
-          "original_price": 129.0,
-          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
-        },
-        {
-          "price": 90.72,
-          "original_price": 599.94,
-          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
-        },
-        {
-          "price": 102.9,
-          "original_price": 123.74,
-          "scraped_at": "2026-04-12T10:00:14.577525+00:00"
-        },
-        {
-          "price": 100.6,
-          "original_price": 349.0,
-          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
-        },
-        {
-          "price": 104.92,
-          "original_price": 123.74,
-          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
-        },
-        {
-          "price": 106.73,
-          "original_price": 599.95,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 106.43,
-          "original_price": 167.0,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 108.31,
-          "original_price": 124.99,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        },
-        {
-          "price": 109.99,
-          "original_price": 124.99,
-          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
-        },
-        {
-          "price": 110.37,
-          "original_price": 138.95,
-          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
-        }
-      ],
-      "approved_at": "19-05-2026 07:43",
-      "auto_approved": true
-    },
-    {
-      "id": "be68585e9ee1",
-      "title": "Kingkong Tab 2 Tablet, 27,95 cm (10,95 inch), FHD+, 16 GB RAM (8 GB + 8 GB end), 256 GB ROM, 4G Dual SIM, camera 64 MP, batterij 20.400 mAh, Android 14, Helio G99, zwart",
-      "price": 230.44,
-      "original_price": 280.88,
-      "discount_percent": 17,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DR399RTQ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71Ff51n-UjL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:10:25.787251+00:00",
-      "price_history": [
-        {
-          "price": 272.45,
-          "original_price": 280.88,
-          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
-        },
-        {
-          "price": 266.04,
-          "original_price": 280.88,
-          "scraped_at": "2026-03-28T15:00:26.717345+00:00"
-        },
-        {
-          "price": 258.58,
-          "original_price": 280.88,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 251.14,
-          "original_price": 280.88,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 243.75,
-          "original_price": null,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 236.36,
-          "original_price": 280.88,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 230.44,
-          "original_price": 280.88,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "597a44789029",
-      "title": "Mibro Lite 3 Pro smartwatch, 1,35 inch AMOLED-display, 10-assige bewegingssensor, bluetooth-oproep, GPS, waterdicht tot 5 ATM, 15 dagen batterijduur, smartwatch, groen",
-      "price": 70.47,
-      "original_price": 89.38,
-      "discount_percent": 21,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DBQ137PV?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81caFD1k4LL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:39:29.027151+00:00",
-      "price_history": [
-        {
-          "price": 84.51,
-          "original_price": 89.38,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 83.43,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
-        },
-        {
-          "price": 82.36,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
-        },
-        {
-          "price": 81.28,
-          "original_price": 129.99,
-          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
-        },
-        {
-          "price": 80.21,
-          "original_price": 89.38,
-          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
-        },
-        {
-          "price": 79.13,
-          "original_price": 89.38,
-          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
-        },
-        {
-          "price": 78.06,
-          "original_price": 89.99,
-          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
-        },
-        {
-          "price": 77.08,
-          "original_price": 81.39,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 76.1,
-          "original_price": 169.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 75.12,
-          "original_price": 81.39,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 72.19,
-          "original_price": 81.39,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 70.47,
-          "original_price": 89.38,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "17147bca9f16",
-      "title": "Logicom - Fold 12 - Android 15 tablet - Gratis Folio - 12\" - 2K - 6GB RAM - 128GB + 512GB - WiFi 6 - Octa-Core - USB C - Camera 8MP en 5MP - Batterij 7000mAh - Grijs",
-      "price": 128.58,
-      "original_price": 159.99,
-      "discount_percent": 19,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FTVTFZV9?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71J1ecwewBL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:14:49.655460+00:00",
-      "price_history": [
-        {
-          "price": 141.61,
-          "original_price": null,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 138.27,
-          "original_price": 145.55,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 137.51,
-          "original_price": 144.75,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 135.96,
-          "original_price": 153.39,
-          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
-        },
-        {
-          "price": 131.62,
-          "original_price": 154.42,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 127.99,
-          "original_price": null,
-          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
-        },
-        {
-          "price": 132.92,
-          "original_price": 154.68,
-          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
-        },
-        {
-          "price": 128.58,
-          "original_price": null,
-          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "834cf9f44b95",
-      "title": "Apple Speaker, iPhone SE 2nd gen (5 Stuks) - 923-04080",
-      "price": 262.0,
-      "original_price": 314.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-speaker-iphone-se-2nd-gen-5-stuks-r-17791",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507113822.jpg?v=1778155242",
-      "found_at": "2026-05-16T18:14:25.559536+00:00",
-      "price_history": [
-        {
-          "price": 65.0,
-          "original_price": 314.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 39.0,
-          "original_price": 314.0,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 265.0,
-          "original_price": 314.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 262.0,
-          "original_price": 314.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "6b650fb51870",
-      "title": "ASUS VG279Q5R 27\" IPS LED Zwart Multimedia Monitor (1920x1080/1ms/HDMI/DisplayPort)",
-      "price": 108.74,
-      "original_price": 135.79,
-      "discount_percent": 19,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FFNGZM53?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51D45R9LsHL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T06:12:26.178900+00:00",
-      "price_history": [
-        {
-          "price": 113.39,
-          "original_price": 139.99,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 110.68,
-          "original_price": 140.1,
-          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
-        },
-        {
-          "price": 113.48,
-          "original_price": 143.29,
-          "scraped_at": "2026-04-05T06:00:30.829094+00:00"
-        },
-        {
-          "price": 113.38,
-          "original_price": 140.1,
-          "scraped_at": "2026-04-19T18:00:29.266107+00:00"
-        },
-        {
-          "price": 108.74,
-          "original_price": 135.79,
-          "scraped_at": "2026-05-17T06:00:25.861280+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "6f57ecee8d5f",
-      "title": "Sonos Ray Zwart",
-      "price": 183.0,
-      "original_price": 222.41,
-      "discount_percent": 17,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sonos-ray-zwart-r-17833",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1753360_18704f51-6d21-497b-8a71-9acd5e6a21a3.jpg?v=1778487127",
-      "found_at": "2026-05-16T18:14:35.300040+00:00",
-      "price_history": [
-        {
-          "price": 201.0,
-          "original_price": 225.06,
-          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
-        },
-        {
-          "price": 183.0,
-          "original_price": 222.41,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "cd642ea1c0da",
-      "title": "Verbatim PM-15 Full HD Monitor LIGHT",
-      "price": 84.18,
-      "original_price": 104.99,
-      "discount_percent": 19,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FWR64G45?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71QrNAjB+3L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:45:54.039469+00:00",
-      "price_history": [
-        {
-          "price": 103.17,
-          "original_price": 159.99,
-          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
-        },
-        {
-          "price": 100.37,
-          "original_price": 105.67,
-          "scraped_at": "2026-03-16T15:00:24.100941+00:00"
-        },
-        {
-          "price": 97.57,
-          "original_price": 103.12,
-          "scraped_at": "2026-03-26T19:00:29.603331+00:00"
-        },
-        {
-          "price": 94.79,
-          "original_price": 104.99,
-          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
-        },
-        {
-          "price": 91.8,
-          "original_price": 104.99,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 88.96,
-          "original_price": 129.99,
-          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
-        },
-        {
-          "price": 86.3,
-          "original_price": 104.99,
-          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
-        },
-        {
-          "price": 84.18,
-          "original_price": 104.99,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "2211de9bdb27",
-      "title": "POCO C85 8+256 Black (No power adapter included)",
-      "price": 122.19,
-      "original_price": 149.9,
-      "discount_percent": 18,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FHQD5M7D?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61--326LpCL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:12:11.333510+00:00",
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "b87408a0ffcb",
-      "title": "CRUA 24 inch Curved Gaming Monitor, 165 Hz/200 Hz computermonitor, FHD 1920 x 1080, 99% sRGB, AMD FreeSync, Blue Light Filter, voor Gaming & Office, Wall Mountable - Wit",
-      "price": 77.31,
-      "original_price": 96.34,
-      "discount_percent": 19,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DPCRMXVC?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71aws+Zw-LL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-13T10:16:24.998003+00:00",
-      "price_history": [
-        {
-          "price": 91.56,
-          "original_price": 199.99,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 77.31,
-          "original_price": 299.99,
-          "scraped_at": "2026-05-13T10:00:29.559886+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "2da6b82eb724",
-      "title": "Blackview Table 9 Ultraplatte draagbare monitor, 40,6 cm (16 inch), FHD 1200P, 360° draaibaar, extern scherm, laptop voor reizen en kantoor, TÜV Low Blue Light, compatibel met Windows/Mac/PC/PS5",
-      "price": 111.61,
-      "original_price": 137.79,
-      "discount_percent": 18,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0GR3QYBMZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/411MAf+f2EL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:30:23.717645+00:00",
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "ba2d794974da",
-      "title": "ASUS VP227HF Eye Care Gaming Monitor - 22\" (21,5 inch zichtbaar), Full HD",
-      "price": 74.43,
-      "original_price": 91.89,
-      "discount_percent": 19,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FTZTLCXY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71TsYZj2KFL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T06:22:15.838816+00:00",
-      "price_history": [
-        {
-          "price": 79.71,
-          "original_price": 82.18,
-          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
-        },
-        {
-          "price": 84.26,
-          "original_price": 102.01,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 76.88,
-          "original_price": 109.99,
-          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
-        },
-        {
-          "price": 74.98,
-          "original_price": 96.71,
-          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
-        },
-        {
-          "price": 76.88,
-          "original_price": 89.99,
-          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
-        },
-        {
-          "price": 76.79,
-          "original_price": 96.71,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        },
-        {
-          "price": 74.43,
-          "original_price": 97.9,
-          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
-        }
-      ],
-      "approved_at": "19-05-2026 07:43",
-      "auto_approved": true
-    },
-    {
-      "id": "1d96bcd7337a",
-      "title": "JBL Sense Pro True Wireless open-ear hoofdtelefoon, tot 38 uur totale afspeeltijd, 4 beamforming microfoons, IP54 water- en stofbestendig, JBL OpenSound technologie, Spatial Sound, Zwart",
-      "price": 104.14,
-      "original_price": 127.0,
-      "discount_percent": 18,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FSL2L2NJ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61iL4tYPB6L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:30:23.387041+00:00",
-      "price_history": [
-        {
-          "price": 128.25,
-          "original_price": 135.0,
-          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
-        },
-        {
-          "price": 110.7,
-          "original_price": 135.0,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 88.38,
-          "original_price": 107.78,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 86.92,
-          "original_price": 119.0,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 91.86,
-          "original_price": 112.03,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 104.14,
-          "original_price": 127.0,
-          "scraped_at": "2026-05-13T14:00:28.205054+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "895adcee016f",
-      "title": "LG Ultrafine 24U411A-B 24 inch pc-monitor - IPS-paneel FHD resolutie (1920 x 1080), 5 ms 120 Hz, HDR 10, DCI-P3 99% (CIE1931), leesmodus, kantelbaar",
-      "price": 55.89,
-      "original_price": 69.0,
-      "discount_percent": 19,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FKNH56RZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71JuIxPpWLL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T06:18:30.809774+00:00",
-      "price_history": [
-        {
-          "price": 78.57,
-          "original_price": 109.99,
-          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
-        },
-        {
-          "price": 79.11,
-          "original_price": 109.99,
-          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
-        },
-        {
-          "price": 77.74,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
-        },
-        {
-          "price": 77.62,
-          "original_price": 109.99,
-          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
-        },
-        {
-          "price": 74.85,
-          "original_price": 109.99,
-          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
-        },
-        {
-          "price": 74.7,
-          "original_price": 119.99,
-          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
-        },
-        {
-          "price": 55.89,
-          "original_price": 69.0,
-          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
-        }
-      ],
-      "approved_at": "19-05-2026 07:43",
-      "auto_approved": true
-    },
-    {
-      "id": "921e18eea4fc",
-      "title": "Xiaomi Redmi Note 13 Pro+ 5G Midnight Black 12GB RAM 512GB ROM",
-      "price": 441.0,
-      "original_price": 505.17,
-      "discount_percent": 12,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/xiaomi-redmi-note-13-pro-5g-midnight-black-12gb-ram-512gb-rom-r-17212",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2035301_a7468025-662d-4966-8452-c145217b385e.jpg?v=1776166642",
-      "found_at": "2026-05-16T18:14:38.383467+00:00",
-      "price_history": [
-        {
-          "price": 453.0,
-          "original_price": 493.0,
-          "scraped_at": "2026-04-15T14:00:27.417236+00:00"
-        },
-        {
-          "price": 367.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-04-16T06:00:38.622437+00:00"
-        },
-        {
-          "price": 173.0,
-          "original_price": 222.0,
-          "scraped_at": "2026-04-28T14:00:30.660824+00:00"
-        },
-        {
-          "price": 471.0,
-          "original_price": null,
-          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
-        },
-        {
-          "price": 445.0,
-          "original_price": null,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 403.0,
-          "original_price": null,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        },
-        {
-          "price": 441.0,
-          "original_price": 505.17,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "888f7a1291c3",
-      "title": "Polaroid Everything Box Go Generation 2 Instant Camera - Wit (6282)",
-      "price": 74.46,
-      "original_price": 91.0,
-      "discount_percent": 18,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CG7GHYXJ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81zeXFfqKyL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:19:43.044694+00:00",
-      "price_history": [
-        {
-          "price": 75.0,
-          "original_price": 79.99,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 76.11,
-          "original_price": 91.0,
-          "scraped_at": "2026-05-12T18:00:34.752223+00:00"
-        },
-        {
-          "price": 74.46,
-          "original_price": 91.0,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "4c8e387b1070",
-      "title": "Apple Display (1 Stuks) - 661-10103",
-      "price": 158.0,
-      "original_price": 189.0,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-display-1-stuks-r-17796",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507112424.jpg?v=1778155273",
-      "found_at": "2026-05-16T18:14:25.557695+00:00",
-      "price_history": [
-        {
-          "price": 40.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 159.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 158.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "1bbba6c76a14",
-      "title": "Apple Display, iPhone 8, Red (1 Stuks) - 661-10102",
-      "price": 149.0,
-      "original_price": 179.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-display-iphone-8-red-1-stuks-r-17797",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507112954.jpg?v=1778155278",
-      "found_at": "2026-05-16T18:14:25.557899+00:00",
-      "price_history": [
-        {
-          "price": 35.0,
-          "original_price": 179.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": 179.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 149.0,
-          "original_price": 179.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "5627067c2b6f",
-      "title": "Apple Battery, iPhone 8 Plus (2 Stuks) - 661-08917",
-      "price": 132.0,
-      "original_price": 158.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-battery-iphone-8-plus-2-stuks-r-17793",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507115339.jpg?v=1778155251",
-      "found_at": "2026-05-16T18:14:25.557383+00:00",
-      "price_history": [
-        {
-          "price": 30.0,
-          "original_price": 158.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 133.0,
-          "original_price": 158.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 132.0,
-          "original_price": 158.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "16-05-2026 19:19",
-      "auto_approved": true
-    },
-    {
-      "id": "a140ac11fc65",
-      "title": "Samsung Jet 85 Pro",
-      "price": 395.0,
-      "original_price": 449.96,
-      "discount_percent": 12,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-jet-85-pro-r-17831",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1959527_95bec650-886f-496d-9c70-6942e6598917.jpg?v=1778487104",
-      "found_at": "2026-05-17T06:16:35.113303+00:00",
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "2936bc9e1f9b",
-      "title": "Philips OneUp 5000 series XV5113/01",
-      "price": 122.0,
-      "original_price": 146.83,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-oneup-5000-series-xv5113-01-r-17717",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2140314_a52cb040-d7fe-4510-8e7b-efb8e0a017a4.jpg?v=1778486350",
-      "found_at": "2026-05-17T06:16:35.111119+00:00",
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "4774cfeae64c",
-      "title": "Rowenta X-Force Flex 12.60 RH98A9",
-      "price": 234.0,
-      "original_price": 273.67,
-      "discount_percent": 14,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/rowenta-x-force-flex-12-60-rh98a9-r-17741",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1869027_87d7c288-bff6-43f5-8046-0bf9d2acdc73.jpg?v=1778486568",
-      "found_at": "2026-05-17T06:16:35.112674+00:00",
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "2482f91b2ac2",
-      "title": "Apple Rear Camera, iPhone SE 2nd gen (2 Stuks) - 661-15742",
-      "price": 121.0,
-      "original_price": 145.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-rear-camera-iphone-se-2nd-gen-2-stuks-r-17792",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507115236.jpg?v=1778155243",
-      "found_at": "2026-05-17T06:16:25.492404+00:00",
-      "price_history": [
-        {
-          "price": 30.0,
-          "original_price": 145.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 122.0,
-          "original_price": 145.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 121.0,
-          "original_price": 145.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "feb72efb766c",
-      "title": "Apple Battery, iPhone 8 (2 Stuks) - 661-08935",
-      "price": 115.0,
-      "original_price": 138.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-battery-iphone-8-2-stuks-r-17795",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507115102.jpg?v=1778155264",
-      "found_at": "2026-05-17T06:16:25.490401+00:00",
-      "price_history": [
-        {
-          "price": 30.0,
-          "original_price": 138.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 138.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 115.0,
-          "original_price": 138.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "f4f4daec89d9",
-      "title": "THQ Nordic Titans of the Tide Nintendo Switch 2",
-      "price": 28.0,
-      "original_price": 34.4,
-      "discount_percent": 18,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/thq-nordic-titans-of-the-tide-nintendo-switch-2-r-17658",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2217130.jpg?v=1777899996",
-      "found_at": "2026-05-17T06:16:35.114560+00:00",
-      "price_history": [
-        {
-          "price": 30.0,
-          "original_price": 34.56,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 34.64,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": 34.46,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "b19a4a1d31c5",
-      "title": "Apple Camera, iPhone SE 3rd generation (2 Stuks) - 661-25683",
-      "price": 100.0,
-      "original_price": 120.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-camera-iphone-se-3rd-generation-2-stuks-r-17794",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507114824.jpg?v=1778155261",
-      "found_at": "2026-05-17T06:16:25.490679+00:00",
-      "price_history": [
-        {
-          "price": 25.0,
-          "original_price": 120.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 101.0,
-          "original_price": 120.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 100.0,
-          "original_price": 120.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 07:21",
-      "auto_approved": true
-    },
-    {
-      "id": "61ed2569daa6",
-      "title": "Polaroid Go Generation 2 – Instant Camera – Purple (9183)",
-      "price": 59.76,
-      "original_price": 72.0,
-      "discount_percent": 17,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F5HXJGDY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71mhwhOJu6L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:18:53.414629+00:00",
-      "price_history": [
-        {
-          "price": 62.64,
-          "original_price": 79.99,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 56.88,
-          "original_price": 72.0,
-          "scraped_at": "2026-05-12T18:00:34.752223+00:00"
-        },
-        {
-          "price": 59.76,
-          "original_price": 72.0,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "b7ecfed514f0",
-      "title": "Nilox, Trailpro Smartwatch met geïntegreerde GPS, smartwatch voor dames en heren met bewaking van gezondheid, fitness en meldingen, water- en stofdicht, compatibel met Android en iOS",
-      "price": 53.85,
-      "original_price": 65.24,
-      "discount_percent": 17,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FDG6VLV3?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51z-ECbH5gL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:34:34.025584+00:00",
-      "price_history": [
-        {
-          "price": 64.45,
-          "original_price": 72.66,
-          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
-        },
-        {
-          "price": 63.58,
-          "original_price": 72.69,
-          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
-        },
-        {
-          "price": 61.83,
-          "original_price": 65.94,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 61.02,
-          "original_price": 99.0,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 59.39,
-          "original_price": 68.12,
-          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
-        },
-        {
-          "price": 60.79,
-          "original_price": 72.99,
-          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
-        },
-        {
-          "price": 59.85,
-          "original_price": 77.35,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 58.92,
-          "original_price": 77.52,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 57.96,
-          "original_price": 65.24,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 57.03,
-          "original_price": 65.24,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 55.6,
-          "original_price": 65.24,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 53.85,
-          "original_price": 65.24,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "2a9e459232e7",
-      "title": "Blackview BV4800 SE (NFC) Téléphone Portable Incassable, 12Go+64Go/TF 1To Octa-Core, Android 15, 6.56\" HD+, Smartphone Incassable, 5180mAh, 16MP+8MP, 4G Dual SIM, 3 Slot/GPS/Face ID/NFC Vert",
-      "price": 91.83,
-      "original_price": 110.54,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DT9D8ZK6?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/617p+3c+b-L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:16:40.274621+00:00",
-      "price_history": [
-        {
-          "price": 107.22,
-          "original_price": 110.54,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 105.52,
-          "original_price": 110.54,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 102.66,
-          "original_price": 110.54,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 99.81,
-          "original_price": 110.54,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 96.96,
-          "original_price": 110.54,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 94.11,
-          "original_price": 110.54,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 91.83,
-          "original_price": 110.54,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "42b1101e74d6",
-      "title": "Apple Camera, iPhone 8 Plus (1 Stuks) - 661-08918",
-      "price": 91.0,
-      "original_price": 109.0,
-      "discount_percent": 16,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-camera-iphone-8-plus-1-stuks-r-17798",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/IMG20260507112812.jpg?v=1778155281",
-      "found_at": "2026-05-17T10:35:21.519325+00:00",
-      "price_history": [
-        {
-          "price": 25.0,
-          "original_price": 109.0,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 109.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 91.0,
-          "original_price": 109.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "2e021b8a0323",
-      "title": "JBL Tune 680 NC draadloze on-ear koptelefoon- met Adaptive Noise Cancelling, Bluetooth, lichtgewicht ontwerp, 76 uur batterijduur, Google Fast Pair, en Microsoft Swift Pair, beige",
-      "price": 63.96,
-      "original_price": 76.99,
-      "discount_percent": 16,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FV3VX75R?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61wuPFetlIL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:24:07.795580+00:00",
-      "price_history": [
-        {
-          "price": 88.31,
-          "original_price": 98.9,
-          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
-        },
-        {
-          "price": 78.08,
-          "original_price": 81.33,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 77.6,
-          "original_price": 81.33,
-          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
-        },
-        {
-          "price": 76.79,
-          "original_price": 10990.0,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 72.96,
-          "original_price": 76.0,
-          "scraped_at": "2026-04-06T18:00:23.594169+00:00"
-        },
-        {
-          "price": 70.32,
-          "original_price": 76.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 69.3,
-          "original_price": 73.25,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 67.14,
-          "original_price": 69.99,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 66.75,
-          "original_price": 76.99,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 63.57,
-          "original_price": 76.99,
-          "scraped_at": "2026-05-13T14:00:28.205054+00:00"
-        },
-        {
-          "price": 63.96,
-          "original_price": 76.99,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "f3874c3dc935",
-      "title": "STRONG SHC08IR0-W 4K Smart Home Camera",
-      "price": 59.3,
-      "original_price": 71.17,
-      "discount_percent": 16,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DXW2TGB3?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61D82bqAdHL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:40:41.671628+00:00",
-      "price_history": [
-        {
-          "price": 60.09,
-          "original_price": 71.17,
-          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
-        },
-        {
-          "price": 63.34,
-          "original_price": 71.17,
-          "scraped_at": "2026-03-21T19:00:19.737882+00:00"
-        },
-        {
-          "price": 55.64,
-          "original_price": 68.99,
-          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
-        },
-        {
-          "price": 52.34,
-          "original_price": 52.87,
-          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
-        },
-        {
-          "price": 59.3,
-          "original_price": 71.17,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "e5375fcab420",
-      "title": "Photo Creator Instant Print Camera 2.0, maak foto's en print direct! Geen inkt nodig, touchscreen, flitser en ringlicht! Fotokwaliteitspapier",
-      "price": 50.2,
-      "original_price": 60.48,
-      "discount_percent": 16,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FDBM8SV8?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71PYTBefoGL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:39:47.295214+00:00",
-      "price_history": [
-        {
-          "price": 62.47,
-          "original_price": 76.44,
-          "scraped_at": "2026-04-23T18:01:05.306455+00:00"
-        },
-        {
-          "price": 50.2,
-          "original_price": 60.48,
-          "scraped_at": "2026-05-04T06:00:36.509962+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "d6aa5e80de6b",
-      "title": "Philips Shaver 5000 Series S5898/35",
-      "price": 98.0,
-      "original_price": 115.77,
-      "discount_percent": 15,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-shaver-5000-series-s5898-35-r-17836",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1910314_59f39a01-ea61-46e0-b8fe-65e6725bf041.jpg?v=1778487177",
-      "found_at": "2026-05-17T10:35:30.574139+00:00",
-      "price_history": [
-        {
-          "price": 100.0,
-          "original_price": 117.91,
-          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
-        },
-        {
-          "price": 98.0,
-          "original_price": 115.01,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "b536232008ca",
-      "title": "Blauwe instant afdrukcamera voor kinderen, camera voor foto's en video's",
-      "price": 69.56,
-      "original_price": 82.18,
-      "discount_percent": 15,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D1KM2236?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/41hpT-tkMJL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:54:40.698052+00:00",
-      "price_history": [
-        {
-          "price": 73.12,
-          "original_price": 82.18,
-          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
-        },
-        {
-          "price": 72.13,
-          "original_price": 82.18,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        },
-        {
-          "price": 71.15,
-          "original_price": 82.18,
-          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
-        },
-        {
-          "price": 69.56,
-          "original_price": 82.18,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "d544d3f1fe9f",
-      "title": "Ring-buitencamera Plus op batterij (Outdoor Camera Plus nieuwste generatie) | 2K-groothoekvideo I zelf te installeren draadloze beveiligingscamera I gratis Ring-proefabonnement van 30 dagen",
-      "price": 50.99,
-      "original_price": 59.99,
-      "discount_percent": 15,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D23Y1N3Y?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51IfyHro4PL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:40:01.315249+00:00",
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "70425ccaa051",
-      "title": "Polaroid Everything Box Go Generation 2 Instat Camera - Zwart (6280)",
-      "price": 72.66,
-      "original_price": 84.9,
-      "discount_percent": 14,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CG7RQW7C?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81T5R1gEDYL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:19:24.370164+00:00",
-      "price_history": [
-        {
-          "price": 65.98,
-          "original_price": 68.55,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 74.99,
-          "original_price": 84.9,
-          "scraped_at": "2026-05-12T18:00:34.752223+00:00"
-        },
-        {
-          "price": 72.66,
-          "original_price": 84.9,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "f0be901412f2",
-      "title": "Nieuwe myFirst Camera Insta 20 - Instant Print Digitale Camera voor Kinderen met 16MP Foto's 1080P, Verjaardagscadeau voor Kinderen 4-12, Selfie Lens, Onbeperkt afdrukken, Micro SD-kaart (blauw)",
-      "price": 71.3,
-      "original_price": 82.99,
-      "discount_percent": 14,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DSFZTQLK?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61DNHaRfyrL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:22:48.860968+00:00",
-      "price_history": [
-        {
-          "price": 82.68,
-          "original_price": 99.9,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 81.65,
-          "original_price": 99.9,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        },
-        {
-          "price": 79.58,
-          "original_price": 99.62,
-          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
-        },
-        {
-          "price": 77.51,
-          "original_price": 99.9,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 73.37,
-          "original_price": 99.9,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        },
-        {
-          "price": 71.3,
-          "original_price": 82.99,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "c2e1dd416bfe",
-      "title": "JBL Sense Pro True Wireless open-ear hoofdtelefoon, tot 38 uur totale afspeeltijd, 4 beamforming microfoons, IP54 water- en stofbestendig, JBL OpenSound technologie, Spatial Sound, Wit",
-      "price": 117.68,
-      "original_price": 136.0,
-      "discount_percent": 13,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FSKZ55WR?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61JLSfIH1mL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:14:36.680018+00:00",
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "19d59de8e677",
-      "title": "Beafon, Smartwatch 601, polshorloge, AMOLED-display 1,43 inch (3,63 cm), pandaglas, kompas, hoogtemeter, IP68, 5ATM, sportmode, hartslag, bloedzuurstof, stappenteller, bluetooth-oproepen, GPS,",
-      "price": 83.95,
-      "original_price": 96.7,
-      "discount_percent": 13,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0G3QRQWJB?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51b9T3l3MeL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:37:18.051773+00:00",
-      "price_history": [
-        {
-          "price": 92.88,
-          "original_price": 184.95,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        },
-        {
-          "price": 92.86,
-          "original_price": 98.15,
-          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
-        },
-        {
-          "price": 91.7,
-          "original_price": 95.53,
-          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
-        },
-        {
-          "price": 91.49,
-          "original_price": 98.15,
-          "scraped_at": "2026-04-11T14:00:27.429680+00:00"
-        },
-        {
-          "price": 80.04,
-          "original_price": 83.38,
-          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
-        },
-        {
-          "price": 86.01,
-          "original_price": 95.48,
-          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
-        },
-        {
-          "price": 84.86,
-          "original_price": 94.34,
-          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
-        },
-        {
-          "price": 83.95,
-          "original_price": 96.7,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "759e61e10e17",
-      "title": "Medela Motion InBra Double",
-      "price": 188.0,
-      "original_price": 213.0,
-      "discount_percent": 11,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/medela-motion-inbra-double-r-17856",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2250376_2b1456c8-3dd7-4b01-8ea1-91814940eb69.jpg?v=1778487484",
-      "found_at": "2026-05-17T10:35:27.424086+00:00",
-      "price_history": [
-        {
-          "price": 201.0,
-          "original_price": 214.08,
-          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
-        },
-        {
-          "price": 188.0,
-          "original_price": 213.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "dddd59caae21",
-      "title": "AIAIAI Tracks bekroonde supra-aurale koptelefoon met 3,5 mm mini-jack, full-spectrum geluid, one-button remote met microfoon en aluminium hoofdband",
-      "price": 60.27,
-      "original_price": 69.9,
-      "discount_percent": 13,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B004OFS6WG?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/41FRxKt2GkL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:13:32.055190+00:00",
-      "price_history": [
-        {
-          "price": 58.79,
-          "original_price": 69.9,
-          "scraped_at": "2026-04-21T10:00:27.461424+00:00"
-        },
-        {
-          "price": 60.27,
-          "original_price": 69.9,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "ede2bdbac7db",
-      "title": "KOORUI E2411K 24 inch pc-monitor, 144 Hz FHD IPS PC-monitor, Adaptive Sync HDMI 1.4, Eye Care kantelbaar van -5° tot 15°, VESA 100 x 100 mm",
-      "price": 106.41,
-      "original_price": 119.99,
-      "discount_percent": 11,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DK119TDY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71QdYzcM84L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T14:12:27.895783+00:00",
-      "price_history": [
-        {
-          "price": 102.93,
-          "original_price": 127.08,
-          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
-        },
-        {
-          "price": 106.17,
-          "original_price": 111.76,
-          "scraped_at": "2026-04-08T10:00:32.989333+00:00"
-        },
-        {
-          "price": 106.41,
-          "original_price": 119.99,
-          "scraped_at": "2026-05-17T14:00:21.163450+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 15:20",
-      "auto_approved": true
-    },
-    {
-      "id": "45f1244265dc",
-      "title": "Apple Pencil",
-      "price": 87.0,
-      "original_price": 98.35,
-      "discount_percent": 11,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-pencil-r-17657",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1366064_9e57ee1c-2ff8-4cb7-b970-73c747e7e11e.jpg?v=1777899981",
-      "found_at": "2026-05-17T10:35:21.520974+00:00",
-      "price_history": [
-        {
-          "price": 73.0,
-          "original_price": 80.0,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 90.0,
-          "original_price": 98.35,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 87.0,
-          "original_price": 98.35,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "ece40958be55",
-      "title": "JBL Quantum 100 Bedrade Over-ear Gaming Hoofdtelefoon - Zwart",
-      "price": 120.81,
-      "original_price": 135.21,
-      "discount_percent": 10,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B084CWCJTW?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61l906x+fZL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T06:10:22.431969+00:00",
-      "price_history": [
-        {
-          "price": 122.09,
-          "original_price": 135.21,
-          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
-        },
-        {
-          "price": 120.81,
-          "original_price": 135.21,
-          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
-        }
-      ],
-      "approved_at": "19-05-2026 07:43",
-      "auto_approved": true
-    },
-    {
-      "id": "a60214cb574a",
-      "title": "Blackview Mega2 Tablet 12 inch Android 15 tablets, 24 GB RAM + 128 GB ROM, 120HZ 2K FHD gaming tablet met toetsenbord, muis, pen, hoofdtelefoon, 4G LTE+5G WiFi, 9000 mAh, WideVine L1, Dual Camera",
-      "price": 200.46,
-      "original_price": 221.21,
-      "discount_percent": 9,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FV7HTBLZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71XpEMc8r2L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:17:15.652430+00:00",
-      "price_history": [
-        {
-          "price": 220.14,
-          "original_price": 231.73,
-          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
-        },
-        {
-          "price": 219.44,
-          "original_price": 230.99,
-          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
-        },
-        {
-          "price": 216.14,
-          "original_price": null,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 203.19,
-          "original_price": null,
-          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
-        },
-        {
-          "price": 203.02,
-          "original_price": 213.71,
-          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
-        },
-        {
-          "price": 202.62,
-          "original_price": 213.28,
-          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
-        },
-        {
-          "price": 200.46,
-          "original_price": 221.21,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "1ae269a9140f",
-      "title": "BenQ GW2491 23,8” 1080p FHD 100 Hz IPS Eye-Care monitor, HDMI, DisplayPort, 1080 x 1920, extra smalle bezel, TÜV-gecertificeerd, Flicker-free, Low Blue Light Plus, Eye-CareU",
-      "price": 79.61,
-      "original_price": 89.0,
-      "discount_percent": 10,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DJHHTQ25?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71y9IF7u8OL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T06:24:26.282601+00:00",
-      "price_history": [
-        {
-          "price": 82.45,
-          "original_price": 119.99,
-          "scraped_at": "2026-04-13T06:00:29.259880+00:00"
-        },
-        {
-          "price": 84.36,
-          "original_price": 89.0,
-          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
-        },
-        {
-          "price": 82.85,
-          "original_price": 179.99,
-          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
-        },
-        {
-          "price": 81.77,
-          "original_price": 89.0,
-          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
-        },
-        {
-          "price": 80.26,
-          "original_price": 89.0,
-          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
-        },
-        {
-          "price": 79.61,
-          "original_price": 89.0,
-          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
-        }
-      ],
-      "approved_at": "19-05-2026 07:43",
-      "auto_approved": true
-    },
-    {
-      "id": "ff74223e1a38",
-      "title": "SPC Discovery 3 SE - Smartphone 6,8 inch HD+ | Intern geheugen 64 GB, RAM 4 GB | Dual Camera IA 13 MP | NFC en biometrie | Android 14 | 5000 mAh batterij - kleur Dark Matter",
-      "price": 99.36,
-      "original_price": 109.9,
-      "discount_percent": 9,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F2JD2JPB?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51kVKJKbNdL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:21:11.122722+00:00",
-      "price_history": [
-        {
-          "price": 107.42,
-          "original_price": 110.74,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 106.6,
-          "original_price": null,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 104.73,
-          "original_price": 110.74,
-          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
-        },
-        {
-          "price": 102.04,
-          "original_price": 110.74,
-          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
-        },
-        {
-          "price": 99.36,
-          "original_price": 109.9,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
       "auto_approved": true
     }
   ]
