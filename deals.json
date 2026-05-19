@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-18T19:04:15.149290+00:00",
-  "total": 290,
+  "updated_at": "2026-05-19T06:43:29.575997+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "24e319d378c2",
@@ -1102,6 +1102,58 @@
       "auto_approved": true
     },
     {
+      "id": "08c30b83e6a7",
+      "title": "Philips Evnia 24M2N3200NF - 24\" Full HD gaming monitor, 144 Hz, 4 ms, FreeSync, G-Sync comp. (1920x1080, HDMI 2.0, DisplayPort 1.4) zwart",
+      "price": 63.48,
+      "original_price": 189.99,
+      "discount_percent": 66,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FDGSXRH5?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81tVxAdfCwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:18:04.311758+00:00",
+      "price_history": [
+        {
+          "price": 80.99,
+          "original_price": 89.0,
+          "scraped_at": "2026-03-28T07:00:37.248317+00:00"
+        },
+        {
+          "price": 86.33,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-07T14:00:35.946529+00:00"
+        },
+        {
+          "price": 72.09,
+          "original_price": 89.0,
+          "scraped_at": "2026-04-12T14:00:21.438573+00:00"
+        },
+        {
+          "price": 86.33,
+          "original_price": 89.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 87.48,
+          "original_price": 89.0,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 90.54,
+          "original_price": 102.85,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 63.48,
+          "original_price": 189.99,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "66cf9d12bd21",
       "title": "Siemens EQ.6 Plus S100 TE651209RW",
       "price": 388.0,
@@ -1283,6 +1335,21 @@
       "image": "https://m.media-amazon.com/images/I/71awMvnsx+L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-05-15T06:22:31.305366+00:00",
       "approved_at": "15-05-2026 07:32",
+      "auto_approved": true
+    },
+    {
+      "id": "2bb63c64f995",
+      "title": "Jabra Engage 55 draadloze stereo headset met Link 400 USB-A DECT adapter - noise cancelling microfoon, groot bereik en gehoorbescherming - MS Teams gecertificeerd, werkt met andere platformen - zwart",
+      "price": 107.39,
+      "original_price": 264.7,
+      "discount_percent": 59,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B1Q8H7YB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61Jh7m-qrPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:10:03.695244+00:00",
+      "approved_at": "19-05-2026 07:43",
       "auto_approved": true
     },
     {
@@ -3082,6 +3149,38 @@
       "auto_approved": true
     },
     {
+      "id": "e232d143c68c",
+      "title": "Dell P3424WE USB-C 34\" WQHD (3440x1440) 21:9 3800R Gebogen Monitor, 60Hz, IPS, 5ms, 99% sRGB, USB-C, DisplayPort, HDMI, 5x USB, RJ45, 3 Jaar Garantie, Zwart",
+      "price": 434.66,
+      "original_price": 618.0,
+      "discount_percent": 29,
+      "category": "tv",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CGK8GVJL?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71pEJxl3OFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:36:21.270998+00:00",
+      "price_history": [
+        {
+          "price": 487.51,
+          "original_price": null,
+          "scraped_at": "2026-05-09T06:00:27.181910+00:00"
+        },
+        {
+          "price": 461.09,
+          "original_price": null,
+          "scraped_at": "2026-05-14T06:00:32.253590+00:00"
+        },
+        {
+          "price": 434.66,
+          "original_price": 618.0,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "103c4af457ab",
       "title": "BOSCH  KGN39VICT -  Koel-vriescombinatie - breedte 60 cm - hoogte 203 cm - inhoud 363 l - NoFrost",
       "price": 639.0,
@@ -4048,6 +4147,21 @@
           "scraped_at": "2026-05-06T14:00:23.645646+00:00"
         }
       ]
+    },
+    {
+      "id": "26976206049b",
+      "title": "AOC 27B3CA2-27 Zoll FHD Monitor, Lautsprecher (1920x1080, 100 Hz, HDMI, USB-C (65 W PD), USB Hub) schwarz",
+      "price": 76.78,
+      "original_price": 131.36,
+      "discount_percent": 41,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CRF5QKG1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71aIdwSRdfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:23:02.640764+00:00",
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
     },
     {
       "id": "dc585cf7e23f",
@@ -5734,6 +5848,43 @@
       "auto_approved": true
     },
     {
+      "id": "626019711493",
+      "title": "Lenovo L24-41 Monitor 23,8 inch FHD (1920 x 1080), IPS, 4 ms, 100 Hz, verstelbaar, aansluitingen HDMI 2.1 en VGA, HDMI-kabel meegeleverd - Raven Black",
+      "price": 79.45,
+      "original_price": 119.0,
+      "discount_percent": 33,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FDL2Y9LB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61+-4gtS0TL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:25:40.950924+00:00",
+      "price_history": [
+        {
+          "price": 88.65,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 75.48,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
+        },
+        {
+          "price": 71.84,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 79.45,
+          "original_price": 119.0,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "8cd98cf10c7e",
       "title": "34\" iiyama XCB3497WQSNPH-B1 Curved VA Hello camera/microfoon",
       "price": 283.34,
@@ -6949,6 +7100,21 @@
       "auto_approved": true
     },
     {
+      "id": "e9b3fce58db8",
+      "title": "BenQ GW2790E 27 Inch Eye-Care Gaming Monitor, IPS, 100Hz, 1920x1080p, Flicker-Free, Low Blue Light Plus, TÜV Rheinland-certificaat, 2x HDMI, DisplayPort",
+      "price": 78.12,
+      "original_price": 109.99,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CT5P2DS9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61bE1zJcj6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:23:30.291304+00:00",
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "1e4e4d2f958e",
       "title": "ASUS VY279HF-W - Monitor LED - gaming - 68,6 cm (27\")",
       "price": 104.01,
@@ -6991,6 +7157,58 @@
       "auto_approved": true
     },
     {
+      "id": "ec824d80d582",
+      "title": "24 Inch Computer Monitor, PC Gaming Monitors 144Hz, 5ms, FHD 1080p, Eye-Care Screen, Lowblue, 99% sRGB, VESA 75x75mm, HDMI 2.0 & DP 1.4",
+      "price": 78.92,
+      "original_price": 109.99,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GQB3G5MJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61RCOInGxxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:24:08.666328+00:00",
+      "price_history": [
+        {
+          "price": 86.2,
+          "original_price": 97.55,
+          "scraped_at": "2026-04-17T18:00:23.775263+00:00"
+        },
+        {
+          "price": 85.02,
+          "original_price": 97.55,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        },
+        {
+          "price": 83.84,
+          "original_price": 97.55,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 82.74,
+          "original_price": 90.67,
+          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
+        },
+        {
+          "price": 81.36,
+          "original_price": 89.99,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 79.99,
+          "original_price": 89.99,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 78.92,
+          "original_price": 109.99,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "7e8a1a740172",
       "title": "HMD 2660 Flip mobiele telefoon met 2,8 inch LCD-scherm, dual-sim, 4G LTE-connectiviteit, 64 GB opslag, vingerafdrukherkenning, 1450 mAh batterij, USB Type-C, zwart",
       "price": 56.76,
@@ -7003,6 +7221,192 @@
       "image": "https://m.media-amazon.com/images/I/51N+ZA2PppL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-05-18T10:46:52.676161+00:00",
       "approved_at": "18-05-2026 11:57",
+      "auto_approved": true
+    },
+    {
+      "id": "e88dd6c95850",
+      "title": "PHILIPS 27E2N1110 27 Inch FHD-monitor, 120Hz, IPS, 1ms MPRT Adaptieve Sync (1920x1080, HDMI 1x 1.4, DP) Zwart/rood",
+      "price": 71.03,
+      "original_price": 99.49,
+      "discount_percent": 28,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F8W28XRM?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71hQJ3g2xPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:21:44.298663+00:00",
+      "price_history": [
+        {
+          "price": 80.77,
+          "original_price": 99.95,
+          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
+        },
+        {
+          "price": 84.08,
+          "original_price": 104.5,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 83.82,
+          "original_price": 97.99,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 69.99,
+          "original_price": 97.99,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 82.09,
+          "original_price": 189.99,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 83.82,
+          "original_price": 97.99,
+          "scraped_at": "2026-04-12T10:00:14.577525+00:00"
+        },
+        {
+          "price": 73.29,
+          "original_price": 99.51,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 71.15,
+          "original_price": 96.11,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 71.13,
+          "original_price": 99.49,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 94.26,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 71.03,
+          "original_price": 99.49,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
+      "id": "180817de05a6",
+      "title": "\"Monitor da gioco curvo - MSI - 32\"\" - QHD - 180Hz - Pannello Rapid VA - 1 ms - MAG32CQ6F\"",
+      "price": 149.62,
+      "original_price": 199.99,
+      "discount_percent": 25,
+      "category": "tv",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DFMK3N1W?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71NuYub0SnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:35:47.606063+00:00",
+      "price_history": [
+        {
+          "price": 145.03,
+          "original_price": null,
+          "scraped_at": "2026-03-28T07:00:37.248317+00:00"
+        },
+        {
+          "price": 142.42,
+          "original_price": null,
+          "scraped_at": "2026-04-29T06:00:36.063042+00:00"
+        },
+        {
+          "price": 163.72,
+          "original_price": null,
+          "scraped_at": "2026-05-14T06:00:32.253590+00:00"
+        },
+        {
+          "price": 149.62,
+          "original_price": 199.99,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
+      "id": "c5345204de76",
+      "title": "Samsung Galaxy A16 5G Smartphone 128 GB Mitternachtsblau",
+      "price": 142.99,
+      "original_price": 192.99,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DP5PBR93?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/41TEXCY71cL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:31:25.194531+00:00",
+      "price_history": [
+        {
+          "price": 169.99,
+          "original_price": 189.99,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 166.54,
+          "original_price": null,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 162.79,
+          "original_price": null,
+          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
+        },
+        {
+          "price": 164.96,
+          "original_price": 192.8,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 159.3,
+          "original_price": null,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 155.86,
+          "original_price": 189.99,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 147.6,
+          "original_price": null,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 137.69,
+          "original_price": null,
+          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
+        },
+        {
+          "price": 135.9,
+          "original_price": 166.47,
+          "scraped_at": "2026-04-12T10:00:14.577525+00:00"
+        },
+        {
+          "price": 123.82,
+          "original_price": null,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        },
+        {
+          "price": 115.97,
+          "original_price": 189.99,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 142.99,
+          "original_price": 192.8,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
       "auto_approved": true
     },
     {
@@ -7062,6 +7466,105 @@
         }
       ],
       "approved_at": "15-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "a3dda4ae33e4",
+      "title": "Philips 24E1N1100-24 inch Full HD-monitor, 120 Hz, adaptieve synchronisatie. (1920 x 1080, 1 x D-sub, 1 x HDMI 1.4) zwart",
+      "price": 64.34,
+      "original_price": 89.64,
+      "discount_percent": 28,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1Z699G3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71v6t9LMHCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:19:34.645820+00:00",
+      "price_history": [
+        {
+          "price": 70.38,
+          "original_price": 103.46,
+          "scraped_at": "2026-03-27T19:00:19.265333+00:00"
+        },
+        {
+          "price": 70.59,
+          "original_price": 91.12,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 68.87,
+          "original_price": 91.71,
+          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
+        },
+        {
+          "price": 68.76,
+          "original_price": 80.6,
+          "scraped_at": "2026-04-27T06:01:02.549178+00:00"
+        },
+        {
+          "price": 64.34,
+          "original_price": 89.64,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
+      "id": "22dcf8ab21f9",
+      "title": "CAMECHO Draagbare Monitor 10.1'' LCD HD 1024 * 600 Scherm met HDMI BNC/AVI/VGA/USB Monitor voor PC DVD TV Auto Achteruitrijcamera Beveiligingscamera",
+      "price": 56.54,
+      "original_price": 79.21,
+      "discount_percent": 28,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B077RVB2BK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51c2S2UnjtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:19:51.295218+00:00",
+      "price_history": [
+        {
+          "price": 74.23,
+          "original_price": 99.26,
+          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
+        },
+        {
+          "price": 61.19,
+          "original_price": 79.21,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 60.39,
+          "original_price": 69.99,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        },
+        {
+          "price": 59.58,
+          "original_price": 79.21,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 58.78,
+          "original_price": 99.26,
+          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
+        },
+        {
+          "price": 57.98,
+          "original_price": 79.21,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 57.18,
+          "original_price": 79.21,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 56.54,
+          "original_price": 79.21,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
       "auto_approved": true
     },
     {
@@ -7468,6 +7971,48 @@
         }
       ],
       "approved_at": "16-05-2026 15:21",
+      "auto_approved": true
+    },
+    {
+      "id": "f3623d3d6eb8",
+      "title": "ATLANTIS 22 inch monitor, 22 inch VA 100 Hz, Full HD 1920 x 1080, VGA HDMI, Multimedia, FreeSync, kantelbare audio-/hoofdtelefoonuitgang, 5 ms reactie, contrast 3000:1, hoek 178/178, HDMI-kabel 1,5 m",
+      "price": 75.8,
+      "original_price": 101.91,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DXPZKPTQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81DKM+3dqNL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:22:32.089404+00:00",
+      "price_history": [
+        {
+          "price": 79.16,
+          "original_price": 81.61,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 77.53,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-11T07:00:43.570867+00:00"
+        },
+        {
+          "price": 76.71,
+          "original_price": 81.61,
+          "scraped_at": "2026-03-31T14:00:27.383964+00:00"
+        },
+        {
+          "price": 77.53,
+          "original_price": 89.99,
+          "scraped_at": "2026-04-05T14:00:23.191981+00:00"
+        },
+        {
+          "price": 75.8,
+          "original_price": 101.91,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
       "auto_approved": true
     },
     {
@@ -7943,6 +8488,165 @@
       "auto_approved": true
     },
     {
+      "id": "c6f62f3d3884",
+      "title": "GardePro E6P Max Wildcamera met wifi, oplaadbare 8000 mAh batterij, geïntegreerde SD-kaart, 64 MP 1296P, E6PMB wildcamera met bewegingsmelder, nachtzicht, mobiele telefoon",
+      "price": 79.63,
+      "original_price": 101.42,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CPM6K87Y?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71SacxDxFiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:15:55.326228+00:00",
+      "price_history": [
+        {
+          "price": 84.49,
+          "original_price": 101.8,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 81.16,
+          "original_price": 97.78,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 79.77,
+          "original_price": 96.11,
+          "scraped_at": "2026-03-25T11:00:20.752558+00:00"
+        },
+        {
+          "price": 81.06,
+          "original_price": 101.69,
+          "scraped_at": "2026-03-31T18:00:31.726090+00:00"
+        },
+        {
+          "price": 83.48,
+          "original_price": 101.02,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 81.06,
+          "original_price": 97.66,
+          "scraped_at": "2026-04-11T14:00:27.429680+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 95.03,
+          "scraped_at": "2026-04-16T18:00:39.720635+00:00"
+        },
+        {
+          "price": 77.86,
+          "original_price": 93.81,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        },
+        {
+          "price": 77.8,
+          "original_price": 93.81,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 85.23,
+          "original_price": 101.42,
+          "scraped_at": "2026-05-11T06:00:51.172019+00:00"
+        },
+        {
+          "price": 79.63,
+          "original_price": 101.42,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
+      "id": "0e6a3a3d1fa0",
+      "title": "OnePlus Watch 2R Gunmetal Gray",
+      "price": 110.37,
+      "original_price": 138.95,
+      "discount_percent": 20,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D8LHWK6C?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/617ZN0xwVUL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:13:35.960343+00:00",
+      "price_history": [
+        {
+          "price": 112.62,
+          "original_price": 169.0,
+          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
+        },
+        {
+          "price": 106.81,
+          "original_price": 599.95,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 104.16,
+          "original_price": 184.95,
+          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
+        },
+        {
+          "price": 108.43,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
+        },
+        {
+          "price": 107.32,
+          "original_price": 129.0,
+          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
+        },
+        {
+          "price": 90.72,
+          "original_price": 599.94,
+          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
+        },
+        {
+          "price": 102.9,
+          "original_price": 123.74,
+          "scraped_at": "2026-04-12T10:00:14.577525+00:00"
+        },
+        {
+          "price": 100.6,
+          "original_price": 349.0,
+          "scraped_at": "2026-04-17T14:00:21.058300+00:00"
+        },
+        {
+          "price": 104.92,
+          "original_price": 123.74,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        },
+        {
+          "price": 106.73,
+          "original_price": 599.95,
+          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
+        },
+        {
+          "price": 106.43,
+          "original_price": 167.0,
+          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
+        },
+        {
+          "price": 108.31,
+          "original_price": 124.99,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 109.99,
+          "original_price": 124.99,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 110.37,
+          "original_price": 138.95,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "be68585e9ee1",
       "title": "Kingkong Tab 2 Tablet, 27,95 cm (10,95 inch), FHD+, 16 GB RAM (8 GB + 8 GB end), 256 GB ROM, 4G Dual SIM, camera 64 MP, batterij 20.400 mAh, Android 14, Helio G99, zwart",
       "price": 230.44,
@@ -8349,6 +9053,58 @@
       "auto_approved": true
     },
     {
+      "id": "ba2d794974da",
+      "title": "ASUS VP227HF Eye Care Gaming Monitor - 22\" (21,5 inch zichtbaar), Full HD",
+      "price": 74.43,
+      "original_price": 91.89,
+      "discount_percent": 19,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FTZTLCXY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71TsYZj2KFL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:22:15.838816+00:00",
+      "price_history": [
+        {
+          "price": 79.71,
+          "original_price": 82.18,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 84.26,
+          "original_price": 102.01,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 76.88,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 74.98,
+          "original_price": 96.71,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 76.88,
+          "original_price": 89.99,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 76.79,
+          "original_price": 96.71,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 74.43,
+          "original_price": 97.9,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "1d96bcd7337a",
       "title": "JBL Sense Pro True Wireless open-ear hoofdtelefoon, tot 38 uur totale afspeeltijd, 4 beamforming microfoons, IP54 water- en stofbestendig, JBL OpenSound technologie, Spatial Sound, Zwart",
       "price": 104.14,
@@ -8393,6 +9149,58 @@
         }
       ],
       "approved_at": "18-05-2026 20:04",
+      "auto_approved": true
+    },
+    {
+      "id": "895adcee016f",
+      "title": "LG Ultrafine 24U411A-B 24 inch pc-monitor - IPS-paneel FHD resolutie (1920 x 1080), 5 ms 120 Hz, HDR 10, DCI-P3 99% (CIE1931), leesmodus, kantelbaar",
+      "price": 55.89,
+      "original_price": 69.0,
+      "discount_percent": 19,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FKNH56RZ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71JuIxPpWLL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:18:30.809774+00:00",
+      "price_history": [
+        {
+          "price": 78.57,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 79.11,
+          "original_price": 109.99,
+          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
+        },
+        {
+          "price": 77.74,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-11T19:00:21.502206+00:00"
+        },
+        {
+          "price": 77.62,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 74.85,
+          "original_price": 109.99,
+          "scraped_at": "2026-04-07T06:00:25.999167+00:00"
+        },
+        {
+          "price": 74.7,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-22T18:01:01.258447+00:00"
+        },
+        {
+          "price": 55.89,
+          "original_price": 69.0,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
       "auto_approved": true
     },
     {
@@ -9436,6 +10244,33 @@
       "auto_approved": true
     },
     {
+      "id": "ece40958be55",
+      "title": "JBL Quantum 100 Bedrade Over-ear Gaming Hoofdtelefoon - Zwart",
+      "price": 120.81,
+      "original_price": 135.21,
+      "discount_percent": 10,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B084CWCJTW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61l906x+fZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:10:22.431969+00:00",
+      "price_history": [
+        {
+          "price": 122.09,
+          "original_price": 135.21,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 120.81,
+          "original_price": 135.21,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "a60214cb574a",
       "title": "Blackview Mega2 Tablet 12 inch Android 15 tablets, 24 GB RAM + 128 GB ROM, 120HZ 2K FHD gaming tablet met toetsenbord, muis, pen, hoofdtelefoon, 4G LTE+5G WiFi, 9000 mAh, WideVine L1, Dual Camera",
       "price": 200.46,
@@ -9488,6 +10323,53 @@
       "auto_approved": true
     },
     {
+      "id": "1ae269a9140f",
+      "title": "BenQ GW2491 23,8” 1080p FHD 100 Hz IPS Eye-Care monitor, HDMI, DisplayPort, 1080 x 1920, extra smalle bezel, TÜV-gecertificeerd, Flicker-free, Low Blue Light Plus, Eye-CareU",
+      "price": 79.61,
+      "original_price": 89.0,
+      "discount_percent": 10,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DJHHTQ25?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71y9IF7u8OL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-19T06:24:26.282601+00:00",
+      "price_history": [
+        {
+          "price": 82.45,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-13T06:00:29.259880+00:00"
+        },
+        {
+          "price": 84.36,
+          "original_price": 89.0,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        },
+        {
+          "price": 82.85,
+          "original_price": 179.99,
+          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
+        },
+        {
+          "price": 81.77,
+          "original_price": 89.0,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 80.26,
+          "original_price": 89.0,
+          "scraped_at": "2026-05-13T18:00:29.712735+00:00"
+        },
+        {
+          "price": 79.61,
+          "original_price": 89.0,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "19-05-2026 07:43",
+      "auto_approved": true
+    },
+    {
       "id": "ff74223e1a38",
       "title": "SPC Discovery 3 SE - Smartphone 6,8 inch HD+ | Intern geheugen 64 GB, RAM 4 GB | Dual Camera IA 13 MP | NFC en biometrie | Android 14 | 5000 mAh batterij - kleur Dark Matter",
       "price": 99.36,
@@ -9524,382 +10406,6 @@
           "price": 99.36,
           "original_price": 109.9,
           "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 11:57",
-      "auto_approved": true
-    },
-    {
-      "id": "15cbdf2d3623",
-      "title": "KODAK Printomatic Volledig in kleur Direct printen camera Starterbundel + Zachte Hoes + Zink 20pk fotopapier - Kleurrijke foto's op 2x3\" zelfklevend papier - Grijs",
-      "price": 76.22,
-      "original_price": 84.54,
-      "discount_percent": 9,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DH6GD3T4?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/514WIQ5OHbL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:24:03.778222+00:00",
-      "price_history": [
-        {
-          "price": 86.39,
-          "original_price": 89.99,
-          "scraped_at": "2026-03-17T15:00:29.398508+00:00"
-        },
-        {
-          "price": 81.16,
-          "original_price": 84.54,
-          "scraped_at": "2026-03-29T06:00:23.240500+00:00"
-        },
-        {
-          "price": 78.38,
-          "original_price": 84.54,
-          "scraped_at": "2026-05-12T06:00:24.197489+00:00"
-        },
-        {
-          "price": 76.22,
-          "original_price": 84.54,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "4949632f069d",
-      "title": "ACER Chromebook 315 (CB315-3HT-P0BX) 15,6 inch Full HD Touch, Pentium N5030, 4 GB RAM, 128 GB eMMC, ChromeOS",
-      "price": 387.25,
-      "original_price": 415.9,
-      "discount_percent": 6,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DF5QGV6P?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51khFmxhFvL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-17T10:04:03.207214+00:00",
-      "price_history": [
-        {
-          "price": 409.37,
-          "original_price": 415.91,
-          "scraped_at": "2026-05-05T18:01:04.212528+00:00"
-        },
-        {
-          "price": 398.31,
-          "original_price": 415.91,
-          "scraped_at": "2026-05-12T06:00:24.197489+00:00"
-        },
-        {
-          "price": 387.25,
-          "original_price": 415.9,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "36a2a1595e57",
-      "title": "OPPO Pad SE Tablet, 27,9 cm (11 inch), LCD, mat, 90 Hz, batterij 9340 mAh, 4 Hi-Res-luidsprekers, 128 GB + 4/8 GB RAM, snel opladen 33 W, geïntegreerde IA, ColorOS 15, ultradun en licht",
-      "price": 219.11,
-      "original_price": 237.92,
-      "discount_percent": 7,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FHQ5L78G?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61b+WfBsSrL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:09:40.284973+00:00",
-      "price_history": [
-        {
-          "price": 240.03,
-          "original_price": 247.45,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 237.03,
-          "original_price": 247.45,
-          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
-        },
-        {
-          "price": 239.47,
-          "original_price": 247.45,
-          "scraped_at": "2026-04-01T18:00:20.828719+00:00"
-        },
-        {
-          "price": 236.47,
-          "original_price": null,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 233.48,
-          "original_price": 244.61,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 230.48,
-          "original_price": 244.61,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 227.48,
-          "original_price": 241.77,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 224.48,
-          "original_price": 241.77,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 221.48,
-          "original_price": 241.77,
-          "scraped_at": "2026-05-13T14:00:28.205054+00:00"
-        },
-        {
-          "price": 219.11,
-          "original_price": 237.92,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "208790d018cd",
-      "title": "POCO M3 Pro Smartphone Dual 5G - RAM 4GB ROM 64GB MediaTek Dimensity 700, 6.5\" 90Hz FHD+ DotDisplay Screen, 5000mAh (typ) Battery, 48MP Triple Camera with AI (Global Version)(POCO Yellow)",
-      "price": 119.79,
-      "original_price": 129.99,
-      "discount_percent": 7,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0943MW9YW?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51dkoYpSsmS._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:11:52.371291+00:00",
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "993c2bbdebae",
-      "title": "Lisciani - DISNEY STITCH Instant Camera - Maak foto's, print en deel voor kinderen vanaf 6 maanden - Selfie- en videofunctie - Inclusief 3 rollen voor 180 foto's, riem en oplader",
-      "price": 54.15,
-      "original_price": 58.68,
-      "discount_percent": 7,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DBHN7V5B?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/711OBWZ2AZL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T06:18:20.544357+00:00",
-      "price_history": [
-        {
-          "price": 54.95,
-          "original_price": 64.16,
-          "scraped_at": "2026-05-07T14:00:33.715666+00:00"
-        },
-        {
-          "price": 54.15,
-          "original_price": 58.68,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 07:31",
-      "auto_approved": true
-    },
-    {
-      "id": "d836229c63e3",
-      "title": "Beats Studio Pro Zwart",
-      "price": 311.0,
-      "original_price": 328.21,
-      "discount_percent": 5,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/beats-studio-pro-zwart-r-17556",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952150_9ace5215-11d2-465e-8659-d7854b1386d7.jpg?v=1777364469",
-      "found_at": "2026-05-17T10:35:24.929831+00:00",
-      "price_history": [
-        {
-          "price": 201.0,
-          "original_price": 319.01,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 355.0,
-          "original_price": null,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        },
-        {
-          "price": 335.0,
-          "original_price": null,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 311.0,
-          "original_price": 321.39,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        }
-      ],
-      "approved_at": "17-05-2026 11:40",
-      "auto_approved": true
-    },
-    {
-      "id": "55836561dd7a",
-      "title": "HP Laptop | 15,6 inch FHD Display | Intel Core i3-N305 | 8 GB DDR4 RAM | 512 GB SSD | Intel UHD Graphics | Windows 11 Home | QWERTZ | Jet Black",
-      "price": 379.08,
-      "original_price": 399.03,
-      "discount_percent": 4,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F8LMZBYH?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71nLe9vrwhL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:02:54.916898+00:00",
-      "price_history": [
-        {
-          "price": 363.13,
-          "original_price": null,
-          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
-        },
-        {
-          "price": 361.31,
-          "original_price": null,
-          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
-        },
-        {
-          "price": 359.84,
-          "original_price": null,
-          "scraped_at": "2026-03-06T11:00:20.384530+00:00"
-        },
-        {
-          "price": 372.8,
-          "original_price": null,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 361.07,
-          "original_price": 399.03,
-          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
-        },
-        {
-          "price": 350.64,
-          "original_price": 399.03,
-          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
-        },
-        {
-          "price": 357.04,
-          "original_price": 399.03,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 348.51,
-          "original_price": 399.03,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 363.44,
-          "original_price": 399.03,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 373.87,
-          "original_price": 399.03,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 379.08,
-          "original_price": 399.03,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "16a02db677af",
-      "title": "SteelSeries Arctis Nova 5 Draadloze multi-system gaming-headset, wit, magnetische neodymium-drivers, meer dan 100 audio-voorinstellingen – batterij 60 HR – 2,4 GHz of BT",
-      "price": 114.95,
-      "original_price": 122.0,
-      "discount_percent": 5,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DFS1DGXR?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61l0vUi2YUL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T18:32:10.735135+00:00",
-      "price_history": [
-        {
-          "price": 116.85,
-          "original_price": 123.0,
-          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
-        },
-        {
-          "price": 103.55,
-          "original_price": 109.0,
-          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
-        },
-        {
-          "price": 116.39,
-          "original_price": null,
-          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
-        },
-        {
-          "price": 121.25,
-          "original_price": null,
-          "scraped_at": "2026-04-06T18:00:23.594169+00:00"
-        },
-        {
-          "price": 109.0,
-          "original_price": 169.99,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 110.58,
-          "original_price": 114.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 108.3,
-          "original_price": 114.0,
-          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
-        },
-        {
-          "price": 114.95,
-          "original_price": null,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        }
-      ],
-      "approved_at": "18-05-2026 20:04",
-      "auto_approved": true
-    },
-    {
-      "id": "ebe415bd7c85",
-      "title": "JBL Sense Pro True Wireless open-ear hoofdtelefoon, tot 38 uur totale afspeeltijd, 4 beamforming microfoons, IP54 water- en stofbestendig, JBL OpenSound technologie, Spatial Sound, Paars",
-      "price": 122.55,
-      "original_price": 129.0,
-      "discount_percent": 5,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FSKZHH6M?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61OS8rywoxL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-18T10:33:52.182264+00:00",
-      "price_history": [
-        {
-          "price": 143.59,
-          "original_price": 149.57,
-          "scraped_at": "2026-03-14T19:00:30.611206+00:00"
-        },
-        {
-          "price": 123.84,
-          "original_price": 199.0,
-          "scraped_at": "2026-03-29T06:00:23.240500+00:00"
-        },
-        {
-          "price": 122.55,
-          "original_price": 129.0,
-          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
         }
       ],
       "approved_at": "18-05-2026 11:57",
