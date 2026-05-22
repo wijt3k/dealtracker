@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T18:21:48.966790+00:00",
-  "total": 297,
+  "updated_at": "2026-05-22T06:24:17.830036+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "06c01523041e",
@@ -2188,6 +2188,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1926306_0b179db8-3b02-44be-ac03-66066b94a48d.jpg?v=1779175357",
       "found_at": "2026-05-20T14:18:54.532319+00:00",
       "approved_at": "20-05-2026 15:22",
+      "auto_approved": true
+    },
+    {
+      "id": "691112a0f438",
+      "title": "TUF Gaming VG249QM1A Gaming Monitor - 24\" FHD (1920x1080), Fast IPS, overklokken 270 Hz, Extreme Low Motion Blur, 1ms (GTG), FreeSync Premium, G-Sync compatibel",
+      "price": 81.69,
+      "original_price": 187.0,
+      "discount_percent": 56,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B8NSFTMT?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/713TB3DrB4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-22T06:16:13.728659+00:00",
+      "approved_at": "22-05-2026 07:24",
       "auto_approved": true
     },
     {
@@ -6248,6 +6263,21 @@
       "auto_approved": true
     },
     {
+      "id": "cd8f0cf88ae4",
+      "title": "TCL 34R83Q, de spectaculaire miniLED-monitor met 1100 zones en WQHD 170 Hz, 34 inch",
+      "price": 495.79,
+      "original_price": 660.35,
+      "discount_percent": 24,
+      "category": "tv",
+      "source": "Breezy Returns",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D2LJN97T?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71CsVUpG+tL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-22T06:19:54.914443+00:00",
+      "approved_at": "22-05-2026 07:24",
+      "auto_approved": true
+    },
+    {
       "id": "1ac0d0cea6ae",
       "title": "Philips 5000 Serie HU5710/03",
       "price": 96.0,
@@ -8265,6 +8295,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1959527_a2ffe152-c960-494a-ab4b-b9740e455940.jpg?v=1779092482",
       "found_at": "2026-05-21T18:17:18.627567+00:00",
       "approved_at": "21-05-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "211bfeebfa56",
+      "title": "Apple AirPods 4 draadloze oortjes, Bluetooth-koptelefoon, actieve ruisonderdrukking, adaptieve audio, transparantiemodus, persoonlijke ruimtelijke audio, USB C-oplaadcase, draadloos opladen, H2 chip",
+      "price": 115.05,
+      "original_price": 159.99,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DGHYDYJL?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61DvMw16ITL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-05-22T06:10:46.734039+00:00",
+      "price_history": [
+        {
+          "price": 129.12,
+          "original_price": 159.99,
+          "scraped_at": "2026-04-30T18:00:55.562235+00:00"
+        },
+        {
+          "price": 115.05,
+          "original_price": 159.99,
+          "scraped_at": "2026-05-22T06:00:24.075695+00:00"
+        }
+      ],
+      "approved_at": "22-05-2026 07:24",
       "auto_approved": true
     }
   ]
