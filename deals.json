@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T10:40:43.357277+00:00",
-  "total": 295,
+  "updated_at": "2026-05-23T14:06:49.428215+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "06c01523041e",
@@ -8017,6 +8017,145 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2231821.jpg?v=1779092001",
       "found_at": "2026-05-23T06:03:06.302906+00:00",
       "approved_at": "23-05-2026 07:06",
+      "auto_approved": true
+    },
+    {
+      "id": "d6aa5e80de6b",
+      "title": "Philips Shaver 5000 Series S5898/35",
+      "price": 87.0,
+      "original_price": 112.08,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-5000-series-s5898-35-r-17836",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1910314_59f39a01-ea61-46e0-b8fe-65e6725bf041.jpg?v=1778487177",
+      "found_at": "2026-05-23T14:03:50.644063+00:00",
+      "price_history": [
+        {
+          "price": 100.0,
+          "original_price": 117.91,
+          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 115.01,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 112.09,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 112.72,
+          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 112.08,
+          "scraped_at": "2026-05-23T10:00:20.495238+00:00"
+        }
+      ],
+      "approved_at": "23-05-2026 15:06",
+      "auto_approved": true
+    },
+    {
+      "id": "8a4000c5d5fb",
+      "title": "Sony WF-1000XM5 Zwart",
+      "price": 164.0,
+      "original_price": 202.82,
+      "discount_percent": 19,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wf-1000xm5-zwart-r-17890",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1945467_82177b76-f1a5-471a-9762-7cc34a3e26a0.jpg?v=1779092676",
+      "found_at": "2026-05-23T14:03:56.911577+00:00",
+      "approved_at": "23-05-2026 15:06",
+      "auto_approved": true
+    },
+    {
+      "id": "c1542fd263a9",
+      "title": "Sonos Beam Gen2 Wit",
+      "price": 351.0,
+      "original_price": 415.76,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-beam-gen2-wit-r-17877",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1630692_11707d3a-0ea1-488a-88b5-91500303360f.jpg?v=1779092505",
+      "found_at": "2026-05-23T14:03:56.911287+00:00",
+      "approved_at": "23-05-2026 15:06",
+      "auto_approved": true
+    },
+    {
+      "id": "589276c58a5d",
+      "title": "Apple Watch SE (2024) 44mm Midnight Sportband M/L",
+      "price": 217.0,
+      "original_price": 264.24,
+      "discount_percent": 17,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-se-2024-44mm-midnight-sportband-m-l-r-17696",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093323_5fcf7cb6-8083-4483-8ecb-9d01770df693.jpg?v=1779092011",
+      "found_at": "2026-05-23T14:03:43.801352+00:00",
+      "approved_at": "23-05-2026 15:06",
+      "auto_approved": true
+    },
+    {
+      "id": "31d3a95a61f2",
+      "title": "Refurbished iPad (2020) 32GB Wifi Space Gray",
+      "price": 161.98,
+      "original_price": 199.0,
+      "discount_percent": 18,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-2020-32gb-wifi-space-gray-r-17864",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1945533_11801bcd-8c0f-4780-81a3-737f5bad0b51.jpg?v=1778487581",
+      "found_at": "2026-05-23T14:03:53.411100+00:00",
+      "price_history": [
+        {
+          "price": 182.0,
+          "original_price": null,
+          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
+        },
+        {
+          "price": 171.08,
+          "original_price": null,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 169.26,
+          "original_price": null,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        },
+        {
+          "price": 167.44,
+          "original_price": null,
+          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
+        },
+        {
+          "price": 165.62,
+          "original_price": 166.0,
+          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
+        },
+        {
+          "price": 163.8,
+          "original_price": 199.0,
+          "scraped_at": "2026-05-23T06:01:03.983862+00:00"
+        },
+        {
+          "price": 161.98,
+          "original_price": 199.0,
+          "scraped_at": "2026-05-23T10:00:20.495238+00:00"
+        }
+      ],
+      "approved_at": "23-05-2026 15:06",
       "auto_approved": true
     }
   ]
