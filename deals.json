@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T14:30:45.783408+00:00",
-  "total": 291,
+  "updated_at": "2026-05-24T18:20:56.410340+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "06c01523041e",
@@ -7645,6 +7645,21 @@
       "auto_approved": true
     },
     {
+      "id": "731caec7a099",
+      "title": "Samsung Galaxy A13 Dual SIM 64GB 4GB RAM White",
+      "price": 120.29,
+      "original_price": 159.99,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09SHWKFP7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/812xwe5lXfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-24T18:05:34.896866+00:00",
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
       "id": "dd9c38e88e41",
       "title": "Lenovo Idea Tab Tablet - Display 11\" 2.5K (2560 x 1600) 90Hz, Mediatek Dimenity 6300, RAM 8 GB, geheugen 256 GB, WiFi 5, tablet Android 15, Tab Pen inbegrepen - Polar Blue",
       "price": 221.5,
@@ -8588,6 +8603,189 @@
         }
       ],
       "approved_at": "24-05-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "fa1b02d0e372",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 224.0,
+      "original_price": 263.61,
+      "discount_percent": 15,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17962",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_b8c54792-18fd-4404-8f20-dfe2845b2028.jpg?v=1779093223",
+      "found_at": "2026-05-24T18:15:39.584589+00:00",
+      "price_history": [
+        {
+          "price": 224.0,
+          "original_price": 274.97,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        },
+        {
+          "price": 221.0,
+          "original_price": 277.09,
+          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
+        },
+        {
+          "price": 224.0,
+          "original_price": 268.77,
+          "scraped_at": "2026-05-23T06:01:03.983862+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "9d1adc63f072",
+      "title": "Philips OneUp 5000 series XV5113/01",
+      "price": 122.0,
+      "original_price": 146.71,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-oneup-5000-series-xv5113-01-r-18028",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2140314_763d03e2-b2cc-4e46-9b10-e8736190c970.jpg?v=1779175500",
+      "found_at": "2026-05-24T18:15:39.587331+00:00",
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "43acf6666193",
+      "title": "Apple Pencil (2e generatie)",
+      "price": 87.0,
+      "original_price": 103.89,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-pencil-2e-generatie-r-17700",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2046181_7d5a3dc4-8d56-4dfe-8dc1-665fb9c4971a.jpg?v=1779092028",
+      "found_at": "2026-05-24T18:15:32.931187+00:00",
+      "price_history": [
+        {
+          "price": 80.0,
+          "original_price": 104.51,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 105.57,
+          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 103.03,
+          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 103.89,
+          "scraped_at": "2026-05-23T10:00:20.495238+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "ec0f0c3f2e46",
+      "title": "Apple AirPods Max 2 Middernacht",
+      "price": 505.0,
+      "original_price": 561.58,
+      "discount_percent": 10,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-max-2-middernacht-r-17896",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/401514823.jpg?v=1779092720",
+      "found_at": "2026-05-24T18:15:29.705234+00:00",
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "3e0e6d1dc8fd",
+      "title": "Samsung Galaxy A56 128GB Zwart 5G",
+      "price": 280.0,
+      "original_price": 319.0,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a56-128gb-zwart-5g-r-17913",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144340_83cae25f-e85f-4a9c-9ec8-85d38fe7a003.jpg?v=1779092857",
+      "found_at": "2026-05-24T18:15:43.099562+00:00",
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "a9b8d394d916",
+      "title": "Samsung Galaxy A36 128GB Zwart 5G",
+      "price": 236.0,
+      "original_price": 269.0,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-a36-128gb-zwart-5g-r-17935",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144290_740bdc07-6b8f-4760-a102-fd67d37537c9.jpg?v=1779093022",
+      "found_at": "2026-05-24T18:15:43.098307+00:00",
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "f6e78dffe531",
+      "title": "Motorola Moto G55 256GB Zwart 5G",
+      "price": 160.0,
+      "original_price": 182.0,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-moto-g55-256gb-zwart-5g-r-17907",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_342befd1-69f0-43ad-a257-1d446a12747f.jpg?v=1779092802",
+      "found_at": "2026-05-24T18:15:39.584860+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        },
+        {
+          "price": 160.0,
+          "original_price": 182.0,
+          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "8f958cc841ff",
+      "title": "Oral-B iO 3N Blauw",
+      "price": 62.0,
+      "original_price": 71.95,
+      "discount_percent": 13,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-3n-blauw-r-17703",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1939167_3f772ebb-5ebd-4621-9bc5-789c806fa366.jpg?v=1779092052",
+      "found_at": "2026-05-24T18:15:39.586173+00:00",
+      "price_history": [
+        {
+          "price": 76.0,
+          "original_price": null,
+          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 73.69,
+          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 19:20",
       "auto_approved": true
     }
   ]
