@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T18:32:25.938569+00:00",
-  "total": 295,
+  "updated_at": "2026-05-24T07:04:48.663056+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "06c01523041e",
@@ -3258,6 +3258,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2198805_cb690bd3-5b62-4613-97ef-8d84c71ab018.jpg?v=1778487498",
       "found_at": "2026-05-12T14:19:30.498414+00:00",
       "approved_at": "12-05-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "3cc3b1b4cc69",
+      "title": "TP-Link WPA8631P KIT",
+      "price": 66.0,
+      "original_price": 127.82,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tp-link-wpa8631p-kit-r-18025",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1366711_caa955d9-a4e3-4361-8bf8-34e01ede6bdf.jpg?v=1779175478",
+      "found_at": "2026-05-24T06:59:33.051467+00:00",
+      "approved_at": "24-05-2026 08:04",
       "auto_approved": true
     },
     {
@@ -7055,6 +7070,43 @@
       "auto_approved": true
     },
     {
+      "id": "ab58b7ce0cdb",
+      "title": "Samsung Galaxy Tab A11+ 128 GB, tablet met IA, display 27,9 cm (11 inch) met 90 Hz, 6 GB geheugen, Dolby viervoudige luidspreker, fabrieksgarantie 3 jaar + 1 jaar extra, grijs (Spaanse versie)",
+      "price": 185.67,
+      "original_price": 256.36,
+      "discount_percent": 27,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0G14W2ZWW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61vFwE4qZmL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-24T06:08:35.961233+00:00",
+      "price_history": [
+        {
+          "price": 183.4,
+          "original_price": null,
+          "scraped_at": "2026-04-25T18:00:30.494292+00:00"
+        },
+        {
+          "price": 156.83,
+          "original_price": null,
+          "scraped_at": "2026-04-30T18:00:55.562235+00:00"
+        },
+        {
+          "price": 186.43,
+          "original_price": null,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        },
+        {
+          "price": 185.67,
+          "original_price": 256.36,
+          "scraped_at": "2026-05-24T06:02:02.838127+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 08:04",
+      "auto_approved": true
+    },
+    {
       "id": "4774cfeae64c",
       "title": "Rowenta X-Force Flex 12.60 RH98A9",
       "price": 226.0,
@@ -7561,6 +7613,73 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1389581_2280ad13-2015-465a-b2e4-d65e4bbe1296.jpg?v=1779091893",
       "found_at": "2026-05-23T06:03:09.447990+00:00",
       "approved_at": "23-05-2026 07:06",
+      "auto_approved": true
+    },
+    {
+      "id": "8def2858f692",
+      "title": "GardePro E8 Wildcamera met wifi, met app, 64 MP H.264, 1296P video, 27 m infrarood nachtzicht, bewegingsmelder, wilddierencamera, wifi, overdracht via mobiele telefoon, 0,1 s snelle trigger, IP66",
+      "price": 51.62,
+      "original_price": 73.28,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B097H6B788?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/710FNwzsMvL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-24T06:55:41.384662+00:00",
+      "price_history": [
+        {
+          "price": 59.99,
+          "original_price": 63.99,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 55.9,
+          "original_price": 63.99,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 59.99,
+          "original_price": 63.99,
+          "scraped_at": "2026-03-06T15:00:15.382985+00:00"
+        },
+        {
+          "price": 54.59,
+          "original_price": 65.77,
+          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
+        },
+        {
+          "price": 55.49,
+          "original_price": 73.99,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 53.36,
+          "original_price": 79.0,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 52.31,
+          "original_price": 79.0,
+          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
+        },
+        {
+          "price": 51.24,
+          "original_price": 79.0,
+          "scraped_at": "2026-04-27T18:00:48.043521+00:00"
+        },
+        {
+          "price": 50.16,
+          "original_price": 73.28,
+          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
+        },
+        {
+          "price": 51.62,
+          "original_price": 73.28,
+          "scraped_at": "2026-05-24T06:02:02.838127+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 08:04",
       "auto_approved": true
     },
     {
@@ -8126,6 +8245,88 @@
       "auto_approved": true
     },
     {
+      "id": "ae91ba808869",
+      "title": "Samsung Galaxy Tab A11+ 11\" 6GB/128GB 5G Zilver (Silver) SM-X236",
+      "price": 225.39,
+      "original_price": 276.65,
+      "discount_percent": 18,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FXXJZG55?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51yWNVN57wL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-24T06:09:01.367596+00:00",
+      "price_history": [
+        {
+          "price": 244.61,
+          "original_price": 262.94,
+          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
+        },
+        {
+          "price": 250.28,
+          "original_price": 260.0,
+          "scraped_at": "2026-03-15T11:00:32.868740+00:00"
+        },
+        {
+          "price": 251.36,
+          "original_price": null,
+          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
+        },
+        {
+          "price": 246.17,
+          "original_price": 260.0,
+          "scraped_at": "2026-04-04T14:00:26.567779+00:00"
+        },
+        {
+          "price": 209.9,
+          "original_price": null,
+          "scraped_at": "2026-04-09T18:00:24.939845+00:00"
+        },
+        {
+          "price": 205.45,
+          "original_price": null,
+          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
+        },
+        {
+          "price": 241.34,
+          "original_price": null,
+          "scraped_at": "2026-04-22T06:00:53.119796+00:00"
+        },
+        {
+          "price": 236.6,
+          "original_price": 259.0,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 231.54,
+          "original_price": null,
+          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
+        },
+        {
+          "price": 226.48,
+          "original_price": null,
+          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
+        },
+        {
+          "price": 227.04,
+          "original_price": 274.35,
+          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
+        },
+        {
+          "price": 223.1,
+          "original_price": null,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 225.39,
+          "original_price": 276.65,
+          "scraped_at": "2026-05-24T06:02:02.838127+00:00"
+        }
+      ],
+      "approved_at": "24-05-2026 08:04",
+      "auto_approved": true
+    },
+    {
       "id": "8a4000c5d5fb",
       "title": "Sony WF-1000XM5 Zwart",
       "price": 164.0,
@@ -8153,6 +8354,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1630692_11707d3a-0ea1-488a-88b5-91500303360f.jpg?v=1779092505",
       "found_at": "2026-05-23T14:03:56.911287+00:00",
       "approved_at": "23-05-2026 15:06",
+      "auto_approved": true
+    },
+    {
+      "id": "589276c58a5d",
+      "title": "Apple Watch SE (2024) 44mm Midnight Sportband M/L",
+      "price": 217.0,
+      "original_price": 264.24,
+      "discount_percent": 17,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-se-2024-44mm-midnight-sportband-m-l-r-17696",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093323_5fcf7cb6-8083-4483-8ecb-9d01770df693.jpg?v=1779092011",
+      "found_at": "2026-05-23T18:29:19.343100+00:00",
+      "approved_at": "24-05-2026 08:04",
       "auto_approved": true
     }
   ]
