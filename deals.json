@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T06:28:26.832599+00:00",
-  "total": 300,
+  "updated_at": "2026-05-27T06:28:34.082724+00:00",
+  "total": 297,
   "deals": [
     {
       "id": "905909c8f462",
@@ -522,43 +522,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2168003_6c66b5a5-05fa-444a-ad07-bcd08dc88979.jpg?v=1779092604",
       "found_at": "2026-05-19T10:27:20.884251+00:00",
       "approved_at": "19-05-2026 11:32",
-      "auto_approved": true
-    },
-    {
-      "id": "8db77962e976",
-      "title": "HTC VIVE XR Elite",
-      "price": 740.0,
-      "original_price": 1207.95,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/htc-vive-xr-elite-r-17559",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1868889_92fc6108-35d1-4e2a-8c87-8ae848b97acc.jpg?v=1777364512",
-      "found_at": "2026-05-07T10:16:55.918161+00:00",
-      "price_history": [
-        {
-          "price": 748.0,
-          "original_price": 1042.39,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 705.0,
-          "original_price": 1197.41,
-          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
-        },
-        {
-          "price": 772.0,
-          "original_price": 1203.57,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 740.0,
-          "original_price": 1203.57,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
@@ -1429,21 +1392,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969999_23ee339e-3719-4a0b-9ab4-01b9309c27f5.jpg?v=1779175250",
       "found_at": "2026-05-25T18:18:38.337770+00:00",
       "approved_at": "25-05-2026 19:23",
-      "auto_approved": true
-    },
-    {
-      "id": "c62157e5eff3",
-      "title": "Karcher K 4 Power Control Home",
-      "price": 152.0,
-      "original_price": 284.07,
-      "discount_percent": 46,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/karcher-k-4-power-control-home-r-17873",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1530602_09157ac7-9b96-41ad-99bf-988310749e07.jpg?v=1779092436",
-      "found_at": "2026-05-19T10:27:20.885821+00:00",
-      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3317,53 +3265,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075691_bf43788a-3b95-4e3f-a0b4-e7c2d391034c.jpg?v=1779092678",
       "found_at": "2026-05-19T10:27:30.703310+00:00",
       "approved_at": "19-05-2026 11:32",
-      "auto_approved": true
-    },
-    {
-      "id": "e1eee3f8bee0",
-      "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5678",
-      "price": 61.0,
-      "original_price": 105.99,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-neo-latte-yy5678-r-17442",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2208585_92df756e-6de9-4aff-8a5a-39ed51cec883.jpg?v=1776760915",
-      "found_at": "2026-05-07T10:16:55.919355+00:00",
-      "price_history": [
-        {
-          "price": 71.0,
-          "original_price": 99.0,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 79.0,
-          "original_price": 114.99,
-          "scraped_at": "2026-04-24T10:00:29.904358+00:00"
-        },
-        {
-          "price": 75.0,
-          "original_price": 113.99,
-          "scraped_at": "2026-04-28T06:00:33.608413+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 116.0,
-          "scraped_at": "2026-05-03T10:00:43.171256+00:00"
-        },
-        {
-          "price": 60.0,
-          "original_price": 107.69,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 105.99,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
