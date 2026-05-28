@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T18:21:42.680606+00:00",
-  "total": 300,
+  "updated_at": "2026-05-28T18:21:53.038571+00:00",
+  "total": 285,
   "deals": [
     {
       "id": "905909c8f462",
@@ -45,83 +45,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041978_d8d3e69e-ff85-40d3-a755-7866b6ccf900.jpg?v=1778487557",
       "found_at": "2026-05-12T14:19:27.503675+00:00",
       "approved_at": "12-05-2026 15:24",
-      "auto_approved": true
-    },
-    {
-      "id": "88bba25837eb",
-      "title": "Apple iPad Pro (2024) 11 inch 2 TB Wifi Zilver",
-      "price": 1191.0,
-      "original_price": 2338.0,
-      "discount_percent": 49,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-11-inch-2-tb-wifi-zilver-r-16685",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049123_35c696dd-9883-4659-9c0e-19e5168e175a.jpg?v=1773841103",
-      "found_at": "2026-05-07T10:16:49.866492+00:00",
-      "price_history": [
-        {
-          "price": 1270.0,
-          "original_price": 2183.89,
-          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
-        },
-        {
-          "price": 1349.0,
-          "original_price": 2040.87,
-          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
-        },
-        {
-          "price": 1270.0,
-          "original_price": 2040.87,
-          "scraped_at": "2026-03-23T15:00:23.738035+00:00"
-        },
-        {
-          "price": 1333.5,
-          "original_price": 2126.69,
-          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
-        },
-        {
-          "price": 1270.0,
-          "original_price": 2015.75,
-          "scraped_at": "2026-04-10T18:00:15.891953+00:00"
-        },
-        {
-          "price": 1111.0,
-          "original_price": 2015.75,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 1191.0,
-          "original_price": 2015.75,
-          "scraped_at": "2026-04-13T18:00:27.343155+00:00"
-        },
-        {
-          "price": 1111.0,
-          "original_price": 2015.75,
-          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
-        },
-        {
-          "price": 1191.0,
-          "original_price": 2015.75,
-          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
-        },
-        {
-          "price": 1270.0,
-          "original_price": 1582.0,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 1238.0,
-          "original_price": 1785.5,
-          "scraped_at": "2026-04-29T18:00:57.600466+00:00"
-        },
-        {
-          "price": 1191.0,
-          "original_price": 1785.5,
-          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
@@ -853,21 +776,6 @@
       "auto_approved": true
     },
     {
-      "id": "a99162b8d0e0",
-      "title": "Karcher 5 Comfort Premium Home *EU",
-      "price": 189.0,
-      "original_price": 400.06,
-      "discount_percent": 52,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/karcher-5-comfort-premium-home-eu-r-17802",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2_9aa66a11-af18-4d78-87e0-325644fa14c8.jpg?v=1778488435",
-      "found_at": "2026-05-12T14:19:27.506670+00:00",
-      "approved_at": "12-05-2026 15:24",
-      "auto_approved": true
-    },
-    {
       "id": "d836229c63e3",
       "title": "Beats Studio Pro Zwart",
       "price": 121.0,
@@ -912,33 +820,6 @@
         }
       ],
       "approved_at": "20-05-2026 11:22",
-      "auto_approved": true
-    },
-    {
-      "id": "3c3a46861f97",
-      "title": "Nikon Z5 + Nikkor Z 24-50mm f/4-6.3",
-      "price": 959.0,
-      "original_price": 1338.29,
-      "discount_percent": 28,
-      "category": "camera",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nikon-z5-nikkor-z-24-50mm-f-4-6-3-r-17595",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1457543.jpg?v=1777364930",
-      "found_at": "2026-05-07T10:16:59.310064+00:00",
-      "price_history": [
-        {
-          "price": 991.0,
-          "original_price": 1409.17,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 959.0,
-          "original_price": 1343.05,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
@@ -1044,21 +925,6 @@
       "auto_approved": true
     },
     {
-      "id": "227bc27c3682",
-      "title": "Bowers & Wilkins Px7 S2e Zwart",
-      "price": 137.0,
-      "original_price": 289.8,
-      "discount_percent": 52,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bowers-wilkins-px7-s2e-zwart-r-18018",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1978749_cbe4d8f0-eb72-415e-bb6a-6f27e0d6d223.jpg?v=1779175398",
-      "found_at": "2026-05-20T10:16:17.612604+00:00",
-      "approved_at": "20-05-2026 11:22",
-      "auto_approved": true
-    },
-    {
       "id": "3fd5732b8350",
       "title": "Apple AirPods Max Zwart",
       "price": 305.0,
@@ -1071,21 +937,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092760_377c0a48-df66-470f-ab56-13ee2e1e534d.jpg?v=1779458465",
       "found_at": "2026-05-25T18:18:35.082442+00:00",
       "approved_at": "25-05-2026 19:23",
-      "auto_approved": true
-    },
-    {
-      "id": "689efd6147a7",
-      "title": "Apple iPhone 15 128GB Zwart",
-      "price": 427.0,
-      "original_price": 688.2,
-      "discount_percent": 37,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-iphone-15-128gb-zwart-r-17676",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_107dad13-973a-48e0-a8ac-dc444fe8ea9d.jpg?v=1779091919",
-      "found_at": "2026-05-19T10:27:14.038573+00:00",
-      "approved_at": "19-05-2026 11:32",
       "auto_approved": true
     },
     {
@@ -1382,21 +1233,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1751715_ad37c604-0559-4fbc-ad17-78e06a03ddfd.jpg?v=1779092569",
       "found_at": "2026-05-19T10:27:20.883768+00:00",
       "approved_at": "19-05-2026 11:32",
-      "auto_approved": true
-    },
-    {
-      "id": "6b4845fe5ceb",
-      "title": "Stanley Fatmax Gereedschapswagen MP 1-95-622",
-      "price": 102.0,
-      "original_price": 201.85,
-      "discount_percent": 49,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/stanley-fatmax-gereedschapswagen-mp-1-95-622-r-17970",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1361851_190d4bf9-fa2a-444c-bb18-30307176765b.jpg?v=1779174750",
-      "found_at": "2026-05-20T10:16:31.198960+00:00",
-      "approved_at": "20-05-2026 11:22",
       "auto_approved": true
     },
     {
@@ -2043,21 +1879,6 @@
       "auto_approved": true
     },
     {
-      "id": "3cc3b1b4cc69",
-      "title": "TP-Link WPA8631P KIT",
-      "price": 66.0,
-      "original_price": 127.82,
-      "discount_percent": 48,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tp-link-wpa8631p-kit-r-18025",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1366711_caa955d9-a4e3-4361-8bf8-34e01ede6bdf.jpg?v=1779175478",
-      "found_at": "2026-05-24T06:59:33.051467+00:00",
-      "approved_at": "24-05-2026 08:04",
-      "auto_approved": true
-    },
-    {
       "id": "9f6d6a585fde",
       "title": "AOC Gaming C27G42E - 27 inch Full HD gebogen monitor, 180 Hz, 0,5 ms, FreeSync Premium (1920 x 1080, 1 x HDMI 2.0, 1 x DisplayPort 1.4) zwart",
       "price": 88.29,
@@ -2321,21 +2142,6 @@
       "auto_approved": true
     },
     {
-      "id": "99ad8490862a",
-      "title": "Sony WH-1000XM4 Zwart",
-      "price": 128.0,
-      "original_price": 217.88,
-      "discount_percent": 41,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wh-1000xm4-zwart-r-18033",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1462421_0951857a-a907-4ad7-a53b-e25657e4312a.jpg?v=1779175557",
-      "found_at": "2026-05-23T06:03:13.528769+00:00",
-      "approved_at": "23-05-2026 07:06",
-      "auto_approved": true
-    },
-    {
       "id": "7c95184b2508",
       "title": "Samsung Galaxy S25 Plus 256GB Donkerblauw 5G",
       "price": 650.0,
@@ -2562,21 +2368,6 @@
       "auto_approved": true
     },
     {
-      "id": "4ffa2ba748db",
-      "title": "Bose QuietComfort Ultra Headphones Zwart",
-      "price": 197.0,
-      "original_price": 311.68,
-      "discount_percent": 36,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-headphones-zwart-r-17763",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969999_17b9e373-ef90-40aa-970f-e5e8ef8e0616.jpg?v=1778486787",
-      "found_at": "2026-05-12T14:19:23.786003+00:00",
-      "approved_at": "12-05-2026 15:24",
-      "auto_approved": true
-    },
-    {
       "id": "c05bee869e67",
       "title": "Samsung Galaxy Buds3 Zwart",
       "price": 66.0,
@@ -2649,43 +2440,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1410583_b135862c-ea4c-4db7-96c7-11979fc41a36.jpg?v=1779174886",
       "found_at": "2026-05-20T10:16:14.890399+00:00",
       "approved_at": "20-05-2026 11:22",
-      "auto_approved": true
-    },
-    {
-      "id": "38c2ae655343",
-      "title": "American Tourister Soundbox Spinner 67 cm TSA Exp Golden Yel",
-      "price": 87.0,
-      "original_price": 150.84,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/american-tourister-soundbox-spinner-67-cm-tsa-exp-golden-yel-r-17604",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1626185.jpg?v=1777365014",
-      "found_at": "2026-05-07T10:16:49.864776+00:00",
-      "price_history": [
-        {
-          "price": 91.0,
-          "original_price": 157.05,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 80.0,
-          "original_price": 155.15,
-          "scraped_at": "2026-04-29T14:00:41.882285+00:00"
-        },
-        {
-          "price": 77.0,
-          "original_price": 159.92,
-          "scraped_at": "2026-05-05T14:00:36.524618+00:00"
-        },
-        {
-          "price": 87.0,
-          "original_price": 156.43,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ],
-      "approved_at": "08-05-2026 07:26",
       "auto_approved": true
     },
     {
@@ -3503,21 +3257,6 @@
       "auto_approved": true
     },
     {
-      "id": "b1cc6b7af45e",
-      "title": "Refurbished iPhone 15 128GB Black - B - M",
-      "price": 421.0,
-      "original_price": 567.0,
-      "discount_percent": 25,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-b-m-r-17825",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_860f827b-23a3-4af1-9bf9-db2f1583dfdf.jpg?v=1778487031",
-      "found_at": "2026-05-12T14:19:36.800512+00:00",
-      "approved_at": "12-05-2026 15:24",
-      "auto_approved": true
-    },
-    {
       "id": "8443ecb13689",
       "title": "Bose SoundLink Revolve+ II Bluetooth speaker Zwart",
       "price": 246.0,
@@ -4186,43 +3925,6 @@
         }
       ],
       "approved_at": "15-05-2026 11:22",
-      "auto_approved": true
-    },
-    {
-      "id": "121747477515",
-      "title": "Apple iPad Air (2025) 11 inch 128GB Wifi Witgoud",
-      "price": 441.0,
-      "original_price": 576.56,
-      "discount_percent": 23,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-11-inch-128gb-wifi-witgoud-r-17627",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145201_89bdd5b6-d668-4bcf-a8a2-f2d604e869f9.jpg?v=1777899668",
-      "found_at": "2026-05-08T10:57:28.269014+00:00",
-      "price_history": [
-        {
-          "price": 483.0,
-          "original_price": 604.87,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 474.0,
-          "original_price": 591.82,
-          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
-        },
-        {
-          "price": 456.0,
-          "original_price": 568.0,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        },
-        {
-          "price": 441.0,
-          "original_price": 578.23,
-          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
-        }
-      ],
-      "approved_at": "21-05-2026 11:20",
       "auto_approved": true
     },
     {
@@ -6121,21 +5823,6 @@
       "auto_approved": true
     },
     {
-      "id": "731caec7a099",
-      "title": "Samsung Galaxy A13 Dual SIM 64GB 4GB RAM White",
-      "price": 120.29,
-      "original_price": 159.99,
-      "discount_percent": 24,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B09SHWKFP7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/812xwe5lXfL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-24T18:05:34.896866+00:00",
-      "approved_at": "24-05-2026 19:20",
-      "auto_approved": true
-    },
-    {
       "id": "c7a7486b7ff7",
       "title": "Logitech G Cloud Handheld Portable Gaming Console",
       "price": 268.0,
@@ -6452,21 +6139,6 @@
         }
       ],
       "approved_at": "26-05-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "5179c90b84cb",
-      "title": "Nothing Tech Nothing Phone (3a) Lite 8/128GB Wit",
-      "price": 183.0,
-      "original_price": 228.99,
-      "discount_percent": 20,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nothing-tech-nothing-phone-3a-lite-8-128gb-wit-r-17695",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2231821.jpg?v=1779092001",
-      "found_at": "2026-05-23T06:03:06.302906+00:00",
-      "approved_at": "23-05-2026 07:06",
       "auto_approved": true
     },
     {
@@ -7366,21 +7038,6 @@
         }
       ],
       "approved_at": "27-05-2026 07:28",
-      "auto_approved": true
-    },
-    {
-      "id": "4101798ce926",
-      "title": "Marshall Major IV BT Zwart",
-      "price": 61.0,
-      "original_price": 76.35,
-      "discount_percent": 20,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/marshall-major-iv-bt-zwart-r-17821",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2228705.jpg?v=1779092341",
-      "found_at": "2026-05-24T10:47:56.526362+00:00",
-      "approved_at": "24-05-2026 11:53",
       "auto_approved": true
     },
     {
