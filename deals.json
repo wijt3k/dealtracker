@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T06:26:06.506646+00:00",
-  "total": 237,
+  "updated_at": "2026-05-30T06:26:19.489644+00:00",
+  "total": 228,
   "deals": [
     {
       "id": "638e55431f9f",
@@ -15,63 +15,6 @@
       "image": "https://m.media-amazon.com/images/I/715ZfYEJSRL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-05-29T10:48:01.233564+00:00",
       "approved_at": "29-05-2026 11:59",
-      "auto_approved": true
-    },
-    {
-      "id": "de9826ff3305",
-      "title": "Bose QuietComfort Draadloze noise cancelling-hoofdtelefoon, Bluetooth over-ear hoofdtelefoon met afspeeltijd tot 24 uur, Zwart",
-      "price": 179.46,
-      "original_price": 489.0,
-      "discount_percent": 63,
-      "category": "smartphones",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CCZ26B5V?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51f7KKP25PL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:28:56.020099+00:00",
-      "price_history": [
-        {
-          "price": 133.56,
-          "original_price": null,
-          "scraped_at": "2026-03-05T07:00:19.632753+00:00"
-        },
-        {
-          "price": 206.45,
-          "original_price": null,
-          "scraped_at": "2026-03-11T11:00:26.421759+00:00"
-        },
-        {
-          "price": 223.13,
-          "original_price": 226.97,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 189.0,
-          "original_price": null,
-          "scraped_at": "2026-04-21T06:00:48.729087+00:00"
-        },
-        {
-          "price": 192.97,
-          "original_price": 203.13,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 203.4,
-          "original_price": null,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        },
-        {
-          "price": 172.56,
-          "original_price": 206.34,
-          "scraped_at": "2026-05-20T18:00:27.737731+00:00"
-        },
-        {
-          "price": 179.46,
-          "original_price": 489.0,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        }
-      ],
-      "approved_at": "26-05-2026 07:36",
       "auto_approved": true
     },
     {
@@ -191,21 +134,6 @@
       "image": "https://m.media-amazon.com/images/I/51xDyim1QgL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-05-29T10:47:17.282966+00:00",
       "approved_at": "29-05-2026 11:59",
-      "auto_approved": true
-    },
-    {
-      "id": "ff5fe08bb17a",
-      "title": "Amazfit Smartwatch GTR 42 mm 1,2 inch Touch Control kleurendisplay sporthorloge fitness polshorloge 5 ATM waterdicht stopwatch met GPS, stappenteller, slaapmonitor, 12 sportmodi voor dames en heren",
-      "price": 108.85,
-      "original_price": 249.0,
-      "discount_percent": 56,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B07X24153Y?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71gZnZUDT9L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:18:57.306118+00:00",
-      "approved_at": "26-05-2026 07:36",
       "auto_approved": true
     },
     {
@@ -552,29 +480,6 @@
       ],
       "approved_at": "29-05-2026 08:02",
       "auto_approved": true
-    },
-    {
-      "id": "316c2cece884",
-      "title": "SAMSUNG BRB80F26BDS0EF - Inbouw Koel-vriescombinatie - NoFrost - Nishoogte 178.2 cm",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=333238",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/69fb4f1881aff_ASSET_MMS_149699334-500x500.png",
-      "found_at": "2026-05-06T18:31:54.789407+00:00",
-      "approved_at": "07-05-2026 07:25",
-      "auto_approved": true,
-      "price_history": [
-        {
-          "price": 599.25,
-          "original_price": 799.0,
-          "discount_percent": 25,
-          "scraped_at": "2026-05-06T18:00:26.690380+00:00"
-        }
-      ]
     },
     {
       "id": "7ccc39032374",
@@ -1418,83 +1323,6 @@
       "auto_approved": true
     },
     {
-      "id": "4c5284d32142",
-      "title": "LIFEBOX AXON Outdoor WiFi Camera Bewegingsdetectie",
-      "price": 70.92,
-      "original_price": 100.74,
-      "discount_percent": 29,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CRKRTXRG?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51SfiHIDfvL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-20T18:19:05.658344+00:00",
-      "price_history": [
-        {
-          "price": 91.67,
-          "original_price": 100.74,
-          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
-        },
-        {
-          "price": 90.46,
-          "original_price": 100.74,
-          "scraped_at": "2026-03-01T15:00:20.730172+00:00"
-        },
-        {
-          "price": 89.25,
-          "original_price": 100.74,
-          "scraped_at": "2026-03-06T19:00:24.494080+00:00"
-        },
-        {
-          "price": 88.05,
-          "original_price": 100.74,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 86.84,
-          "original_price": 100.74,
-          "scraped_at": "2026-03-17T11:00:21.938486+00:00"
-        },
-        {
-          "price": 84.43,
-          "original_price": 100.74,
-          "scraped_at": "2026-04-03T14:00:19.410617+00:00"
-        },
-        {
-          "price": 82.01,
-          "original_price": 100.74,
-          "scraped_at": "2026-04-19T10:00:33.712759+00:00"
-        },
-        {
-          "price": 79.6,
-          "original_price": 100.74,
-          "scraped_at": "2026-04-24T14:00:27.386695+00:00"
-        },
-        {
-          "price": 77.19,
-          "original_price": 100.74,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        },
-        {
-          "price": 74.77,
-          "original_price": 100.74,
-          "scraped_at": "2026-05-10T10:00:36.728758+00:00"
-        },
-        {
-          "price": 72.85,
-          "original_price": 629.99,
-          "scraped_at": "2026-05-20T18:00:27.737731+00:00"
-        },
-        {
-          "price": 70.92,
-          "original_price": 100.74,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        }
-      ],
-      "approved_at": "26-05-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "094348262d9e",
       "title": "Philips V Line 222V8LA/00 computer monitor 54,6 cm (21.5\") 1920 x 1080 Pixels Full HD LCD Zwart",
       "price": 64.4,
@@ -1823,58 +1651,6 @@
         }
       ],
       "approved_at": "27-05-2026 07:28",
-      "auto_approved": true
-    },
-    {
-      "id": "8cd0e39def8c",
-      "title": "JCB Tradesman 3 4G robuuste telefoon met wifi, IP68 waterdicht, Whatsapp, hotspot access point, dual sim, bluetooth, 1800 mAh batterij, zwart",
-      "price": 90.04,
-      "original_price": 117.17,
-      "discount_percent": 23,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D4831B2N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51TeNrqwXHL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:10:08.010034+00:00",
-      "price_history": [
-        {
-          "price": 71.65,
-          "original_price": 117.17,
-          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
-        },
-        {
-          "price": 80.45,
-          "original_price": 117.17,
-          "scraped_at": "2026-03-10T18:42:20.521210+00:00"
-        },
-        {
-          "price": 85.05,
-          "original_price": 117.17,
-          "scraped_at": "2026-04-14T14:00:21.017420+00:00"
-        },
-        {
-          "price": 83.3,
-          "original_price": 117.17,
-          "scraped_at": "2026-04-19T14:01:03.480727+00:00"
-        },
-        {
-          "price": 82.42,
-          "original_price": 117.17,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        },
-        {
-          "price": 86.51,
-          "original_price": 117.17,
-          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
-        },
-        {
-          "price": 90.04,
-          "original_price": 117.17,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        }
-      ],
-      "approved_at": "26-05-2026 07:36",
       "auto_approved": true
     },
     {
@@ -2332,21 +2108,6 @@
       "auto_approved": true
     },
     {
-      "id": "f19847f4d44b",
-      "title": "Xiaomi Redmi Pad - 4+128GB - Graphite Gray -X",
-      "price": 213.16,
-      "original_price": 259.95,
-      "discount_percent": 17,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BHT1BRRT?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51I0rWm9-RL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:08:00.312348+00:00",
-      "approved_at": "26-05-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "63d73c7ae643",
       "title": "Tecno Mobile Spark 10 5G Smartphone (Android, Dual SIM, 1612 x 720 HD+ Display, 4GB RAM, 64GB geheugen, Octa-Core, 50MP Dual Camera) Meta Black",
       "price": 116.96,
@@ -2592,132 +2353,6 @@
         }
       ],
       "approved_at": "28-05-2026 15:36",
-      "auto_approved": true
-    },
-    {
-      "id": "f6f65abfa689",
-      "title": "GIGABYTE GS27FC2 Gebogen Gaming Monitor 27 inch FHD - 1920 x 1080, 240Hz, 1ms, 350CD/m², HDR Ready, HDMI 2.0, Displayport 1.4",
-      "price": 83.03,
-      "original_price": 102.5,
-      "discount_percent": 18,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FPXMQS7R?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71eyaY6RpsL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:26:04.887754+00:00",
-      "price_history": [
-        {
-          "price": 118.75,
-          "original_price": 125.0,
-          "scraped_at": "2026-03-01T19:00:22.448266+00:00"
-        },
-        {
-          "price": 104.49,
-          "original_price": 129.0,
-          "scraped_at": "2026-05-10T10:00:36.728758+00:00"
-        },
-        {
-          "price": 83.03,
-          "original_price": 102.5,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        }
-      ],
-      "approved_at": "26-05-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "b18d692af901",
-      "title": "Fitbit Google Charge 6 Activity Tracker met 6 maanden Premium Lidmaatschap inbegrepen, 7 dagen batterijduur en Google Wallet en Google Maps",
-      "price": 99.35,
-      "original_price": 120.19,
-      "discount_percent": 17,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CHN2F11G?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/619Rq2X78zL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:19:14.150654+00:00",
-      "price_history": [
-        {
-          "price": 100.9,
-          "original_price": null,
-          "scraped_at": "2026-04-04T06:00:25.083625+00:00"
-        },
-        {
-          "price": 111.53,
-          "original_price": null,
-          "scraped_at": "2026-04-19T10:00:33.712759+00:00"
-        },
-        {
-          "price": 100.28,
-          "original_price": 120.82,
-          "scraped_at": "2026-04-24T14:00:27.386695+00:00"
-        },
-        {
-          "price": 100.27,
-          "original_price": null,
-          "scraped_at": "2026-04-29T18:00:57.600466+00:00"
-        },
-        {
-          "price": 114.69,
-          "original_price": 167.0,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        },
-        {
-          "price": 118.37,
-          "original_price": 120.79,
-          "scraped_at": "2026-05-10T10:00:36.728758+00:00"
-        },
-        {
-          "price": 111.13,
-          "original_price": null,
-          "scraped_at": "2026-05-15T14:00:25.327899+00:00"
-        },
-        {
-          "price": 109.14,
-          "original_price": null,
-          "scraped_at": "2026-05-20T18:00:27.737731+00:00"
-        },
-        {
-          "price": 99.35,
-          "original_price": 120.19,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        }
-      ],
-      "approved_at": "26-05-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "3f67399427d1",
-      "title": "AKASO Action Cam EK7000 4K30FPS Action Camera 170° groothoek HD onderwatercamera 20MP WiFi waterdichte sportcamera 2 inch LCD-scherm met 2 batterijen (zilver)",
-      "price": 58.09,
-      "original_price": 71.0,
-      "discount_percent": 18,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0C39VH9ZV?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71u9YBdKA3L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-05-26T06:21:41.272168+00:00",
-      "price_history": [
-        {
-          "price": 68.87,
-          "original_price": 71.0,
-          "scraped_at": "2026-03-20T19:00:33.336095+00:00"
-        },
-        {
-          "price": 58.93,
-          "original_price": 71.0,
-          "scraped_at": "2026-05-05T06:00:33.924057+00:00"
-        },
-        {
-          "price": 58.09,
-          "original_price": 71.0,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        }
-      ],
-      "approved_at": "26-05-2026 07:36",
       "auto_approved": true
     },
     {
