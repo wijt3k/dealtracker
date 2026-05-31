@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T14:30:20.922663+00:00",
-  "total": 294,
+  "updated_at": "2026-05-31T18:17:25.657764+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "638e55431f9f",
@@ -347,6 +347,21 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a16ed20cc772_ASSET_MMS_161242076-500x500.png",
       "found_at": "2026-05-22T14:33:08.293721+00:00",
       "approved_at": "30-05-2026 11:28",
+      "auto_approved": true
+    },
+    {
+      "id": "7c75b93d4f83",
+      "title": "TP-Link Camera VIGI C485 (4 mm) Dome",
+      "price": 87.75,
+      "original_price": 209.0,
+      "discount_percent": 58,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D73ZLMRB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/31S+DJspu3L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-05-31T18:08:26.781984+00:00",
+      "approved_at": "31-05-2026 19:17",
       "auto_approved": true
     },
     {
@@ -2682,6 +2697,53 @@
       "auto_approved": true
     },
     {
+      "id": "d36394104e8a",
+      "title": "Gigabyte G25F2 Gaming Monitor 24,5 inch FHD - 1920 x 1080, 200Hz, 1ms, 300CD/m², DisplayHDR 10, HDMI 2.0, DisplayPort 1.4",
+      "price": 104.47,
+      "original_price": 119.99,
+      "discount_percent": 12,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F4ZSDLC6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71cwU7JAjML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-31T18:10:01.122372+00:00",
+      "price_history": [
+        {
+          "price": 107.92,
+          "original_price": 120.24,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 105.75,
+          "original_price": 179.99,
+          "scraped_at": "2026-03-01T19:00:22.448266+00:00"
+        },
+        {
+          "price": 105.77,
+          "original_price": 109.9,
+          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
+        },
+        {
+          "price": 107.78,
+          "original_price": 114.99,
+          "scraped_at": "2026-05-20T18:00:27.737731+00:00"
+        },
+        {
+          "price": 105.73,
+          "original_price": 119.99,
+          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
+        },
+        {
+          "price": 104.47,
+          "original_price": 119.99,
+          "scraped_at": "2026-05-31T18:00:24.018623+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
       "id": "688b25c96561",
       "title": "GRV Smartwatch voor heren en dames, smartwatch, sporthorloge, stappenteller, cardio, waterdicht, IP68, sms-melding en oproepen, 9 modi, sport, stopwatch, menstruatiecyclus, muziekbesturing voor",
       "price": 114.57,
@@ -2996,6 +3058,177 @@
         }
       ],
       "approved_at": "31-05-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "30e14303c6e2",
+      "title": "BlueBuilt USB-C naar HDMI Kabel 2m",
+      "price": 32.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/949368/bluebuilt-usb-c-naar-hdmi-kabel-2m.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2119469",
+      "found_at": "2026-05-31T18:14:01.359311+00:00",
+      "price_history": [
+        {
+          "price": 36.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-15T15:00:25.065867+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "9c78efec647c",
+      "title": "MCAPOWER2 Anti-kalksysteem voor wasmachines en vaatwassers",
+      "price": 34.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "huishouden",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/940731/mcapower2-anti-kalksysteem-voor-wasmachines-en-vaatwassers.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1985643",
+      "found_at": "2026-05-31T18:14:01.337049+00:00",
+      "price_history": [
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T10:25:52.584395+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-04-20T10:00:28.138203+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-05-31T18:00:24.018623+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "e99eac6dc571",
+      "title": "Energizer EnergyBook – 17,3 inch HD+ laptop, Intel Celeron laptop, 4 GB RAM, 128 GB SSD, UHD graphics, Windows 11, QWERTY-toetsenbord (intern), USB 3.0, HDMI",
+      "price": 179.14,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F2GD8G5Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71TXJpDkz4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-05-31T18:01:48.867910+00:00",
+      "price_history": [
+        {
+          "price": 159.93,
+          "original_price": null,
+          "scraped_at": "2026-03-19T19:00:19.061868+00:00"
+        },
+        {
+          "price": 187.58,
+          "original_price": null,
+          "scraped_at": "2026-03-25T07:00:16.524541+00:00"
+        },
+        {
+          "price": 179.68,
+          "original_price": null,
+          "scraped_at": "2026-03-30T10:00:28.473447+00:00"
+        },
+        {
+          "price": 189.55,
+          "original_price": null,
+          "scraped_at": "2026-04-04T14:00:26.567779+00:00"
+        },
+        {
+          "price": 187.58,
+          "original_price": null,
+          "scraped_at": "2026-04-09T14:00:50.663368+00:00"
+        },
+        {
+          "price": 182.88,
+          "original_price": null,
+          "scraped_at": "2026-04-20T06:00:58.452126+00:00"
+        },
+        {
+          "price": 178.78,
+          "original_price": null,
+          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
+        },
+        {
+          "price": 181.94,
+          "original_price": null,
+          "scraped_at": "2026-04-30T14:00:33.548969+00:00"
+        },
+        {
+          "price": 185.7,
+          "original_price": null,
+          "scraped_at": "2026-05-05T18:01:04.212528+00:00"
+        },
+        {
+          "price": 187.65,
+          "original_price": null,
+          "scraped_at": "2026-05-11T06:00:51.172019+00:00"
+        },
+        {
+          "price": 173.38,
+          "original_price": null,
+          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
+        },
+        {
+          "price": 190.39,
+          "original_price": null,
+          "scraped_at": "2026-05-21T14:00:20.666535+00:00"
+        },
+        {
+          "price": 186.71,
+          "original_price": null,
+          "scraped_at": "2026-05-26T14:00:29.423196+00:00"
+        },
+        {
+          "price": 179.14,
+          "original_price": null,
+          "scraped_at": "2026-05-31T18:00:24.018623+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
       "auto_approved": true
     },
     {
@@ -4357,6 +4590,838 @@
         }
       ],
       "approved_at": "31-05-2026 07:20",
+      "auto_approved": true
+    },
+    {
+      "id": "6c028128e50f",
+      "title": "Wpro verstelbaar ovenrooster",
+      "price": 28.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/652142/wpro-verstelbaar-ovenrooster.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1365679",
+      "found_at": "2026-05-30T18:15:23.484605+00:00",
+      "price_history": [
+        {
+          "price": 31.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 30.99,
+          "original_price": null,
+          "scraped_at": "2026-04-01T10:00:34.291663+00:00"
+        },
+        {
+          "price": 31.99,
+          "original_price": null,
+          "scraped_at": "2026-05-11T14:00:30.918686+00:00"
+        },
+        {
+          "price": 28.99,
+          "original_price": null,
+          "scraped_at": "2026-05-11T18:00:41.972943+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "a39e0cd4ee46",
+      "title": "Bosch WQG245D5NL SelfCleaning Condenser",
+      "price": 829.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/935853/bosch-wqg245d5nl-selfcleaning-condenser.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1972079",
+      "found_at": "2026-05-30T18:15:14.779717+00:00",
+      "price_history": [
+        {
+          "price": 849.0,
+          "original_price": null,
+          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
+        },
+        {
+          "price": 829.0,
+          "original_price": null,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "97a64fb106cb",
+      "title": "BaByliss Rose Quartz 25mm C451E",
+      "price": 37.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/927831/babyliss-rose-quartz-25mm-c451e.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1916679",
+      "found_at": "2026-05-30T18:15:05.291131+00:00",
+      "price_history": [
+        {
+          "price": 33.99,
+          "original_price": null,
+          "scraped_at": "2026-03-18T19:00:29.314956+00:00"
+        },
+        {
+          "price": 35.99,
+          "original_price": null,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-26T19:00:29.603331+00:00"
+        },
+        {
+          "price": 35.99,
+          "original_price": null,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 33.99,
+          "original_price": null,
+          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-06T06:00:41.460249+00:00"
+        },
+        {
+          "price": 35.99,
+          "original_price": null,
+          "scraped_at": "2026-04-20T18:00:28.197130+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-21T06:00:48.729087+00:00"
+        },
+        {
+          "price": 37.99,
+          "original_price": null,
+          "scraped_at": "2026-04-25T14:00:31.982834+00:00"
+        },
+        {
+          "price": 38.99,
+          "original_price": null,
+          "scraped_at": "2026-04-26T14:00:54.435851+00:00"
+        },
+        {
+          "price": 37.99,
+          "original_price": null,
+          "scraped_at": "2026-04-27T14:00:25.351273+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 32.99,
+          "original_price": null,
+          "scraped_at": "2026-04-30T10:00:32.244825+00:00"
+        },
+        {
+          "price": 37.99,
+          "original_price": null,
+          "scraped_at": "2026-05-11T14:00:30.918686+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "06bbc590a52e",
+      "title": "Gardena Cleverroll L Easy Set",
+      "price": 134.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/802820/gardena-cleverroll-l-easy-set.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1373736",
+      "found_at": "2026-05-30T18:15:05.285891+00:00",
+      "price_history": [
+        {
+          "price": 132.0,
+          "original_price": null,
+          "scraped_at": "2026-03-29T06:00:23.240500+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": null,
+          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": null,
+          "scraped_at": "2026-05-13T10:00:29.559886+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "e1f86a7eb840",
+      "title": "Kensington Gel Toetsenbord Polssteun",
+      "price": 34.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/213603/kensington-gel-toetsenbord-polssteun.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1361048",
+      "found_at": "2026-05-30T18:15:05.280615+00:00",
+      "price_history": [
+        {
+          "price": 33.99,
+          "original_price": null,
+          "scraped_at": "2026-05-25T10:00:28.964593+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-05-26T10:00:39.800300+00:00"
+        },
+        {
+          "price": 33.99,
+          "original_price": null,
+          "scraped_at": "2026-05-30T10:00:24.679391+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-05-31T10:00:30.272199+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "dab6fa0da863",
+      "title": "AEG Wijnglazenhouder A9SZGB01",
+      "price": 39.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/666719/aeg-wijnglazenhouder-a9szgb01.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1365940",
+      "found_at": "2026-05-30T18:15:05.275589+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "32985b88f624",
+      "title": "Meater Pro XL",
+      "price": 379.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/959089/meater-pro-xl.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2152327",
+      "found_at": "2026-05-30T18:15:05.270659+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "2ac1646e3bc5",
+      "title": "Napoleon TravelQ Gereedschapset",
+      "price": 39.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/974235/napoleon-travelq-gereedschapset.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1863890530",
+      "found_at": "2026-05-30T18:15:05.265603+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "38453b522eaf",
+      "title": "Karcher WB 60 Grote Oppervlak Wasborstel",
+      "price": 29.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "huishouden",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/877440/karcher-wb-60-grote-oppervlak-wasborstel.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1552751",
+      "found_at": "2026-05-30T18:15:05.260688+00:00",
+      "price_history": [
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 24.99,
+          "original_price": null,
+          "scraped_at": "2026-04-30T18:00:55.562235+00:00"
+        },
+        {
+          "price": 22.99,
+          "original_price": null,
+          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
+        },
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "a769d947f319",
+      "title": "Scanpart Gasslang RVS Flex 125 cm",
+      "price": 82.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/630652/scanpart-gasslang-rvs-flex-125-cm.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2115451",
+      "found_at": "2026-05-30T18:15:05.255724+00:00",
+      "price_history": [
+        {
+          "price": 73.0,
+          "original_price": null,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": null,
+          "scraped_at": "2026-03-29T10:00:28.763107+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": null,
+          "scraped_at": "2026-03-30T14:00:25.437872+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": null,
+          "scraped_at": "2026-04-07T14:00:35.946529+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": null,
+          "scraped_at": "2026-04-13T10:00:20.354255+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": null,
+          "scraped_at": "2026-05-06T14:00:23.645646+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": null,
+          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": null,
+          "scraped_at": "2026-05-08T14:00:28.407463+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": null,
+          "scraped_at": "2026-05-08T18:00:28.048733+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": null,
+          "scraped_at": "2026-05-09T10:00:24.079075+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": null,
+          "scraped_at": "2026-05-19T18:00:42.631068+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": null,
+          "scraped_at": "2026-05-23T10:00:20.495238+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": null,
+          "scraped_at": "2026-05-24T10:00:25.767267+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": null,
+          "scraped_at": "2026-05-27T10:00:18.775566+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "dbb0fc466659",
+      "title": "Boretti Barilo Tafel",
+      "price": 60.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/943948/boretti-barilo-tafel.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2005663",
+      "found_at": "2026-05-30T18:15:05.250621+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "896d25760649",
+      "title": "Scanpart Perilex Stekker",
+      "price": 26.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/503241/scanpart-perilex-stekker.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1363480",
+      "found_at": "2026-05-30T18:15:05.245709+00:00",
+      "price_history": [
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 22.99,
+          "original_price": null,
+          "scraped_at": "2026-05-11T18:00:41.972943+00:00"
+        },
+        {
+          "price": 21.99,
+          "original_price": null,
+          "scraped_at": "2026-05-29T14:00:47.015984+00:00"
+        },
+        {
+          "price": 26.99,
+          "original_price": null,
+          "scraped_at": "2026-05-31T14:00:27.714084+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "dbebf0f0ab5f",
+      "title": "Gigaset E290M Duo",
+      "price": 79.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/839037/gigaset-e290m-duo.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1389996",
+      "found_at": "2026-05-30T18:15:05.240837+00:00",
+      "price_history": [
+        {
+          "price": 80.0,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": null,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "2da175027442",
+      "title": "Pierre Melkopschuimer PMF3000 Zwart",
+      "price": 44.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/959507/pierre-melkopschuimer-pmf3000-zwart.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2224404",
+      "found_at": "2026-05-30T18:15:05.235544+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "2f18e0a00dca",
+      "title": "Nilfisk Patio Cleaner",
+      "price": 59.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/943267/nilfisk-patio-cleaner.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2000739",
+      "found_at": "2026-05-30T18:15:05.230160+00:00",
+      "price_history": [
+        {
+          "price": 59.0,
+          "original_price": null,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": null,
+          "scraped_at": "2026-03-27T15:00:25.316924+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": null,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": null,
+          "scraped_at": "2026-04-19T10:00:33.712759+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": null,
+          "scraped_at": "2026-04-20T10:00:28.138203+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": null,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": null,
+          "scraped_at": "2026-04-23T09:29:36.311611+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": null,
+          "scraped_at": "2026-04-28T10:00:25.931714+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "5ae23884dbae",
+      "title": "The Bastard Pizzasnijder Rvs",
+      "price": 27.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/959705/the-bastard-pizzasnijder-rvs.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2139298",
+      "found_at": "2026-05-30T18:15:05.225055+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "e17330704ddb",
+      "title": "Euroseats Curve Bureaustoel",
+      "price": 350.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/877385/euroseats-curve-bureaustoel.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2079881",
+      "found_at": "2026-05-30T18:15:05.218185+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "80b07fa005c1",
+      "title": "BlueBuilt Headset Standaard",
+      "price": 24.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "audio",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/916602/bluebuilt-headset-standaard.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1886265",
+      "found_at": "2026-05-30T18:15:05.212963+00:00",
+      "price_history": [
+        {
+          "price": 24.99,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-03-24T11:00:16.540612+00:00"
+        },
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-04-15T10:00:25.696906+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
+        },
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
+        },
+        {
+          "price": 24.99,
+          "original_price": null,
+          "scraped_at": "2026-04-30T14:00:33.548969+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "f8cae5340522",
+      "title": "Pierre Eierkoker PEC5000",
+      "price": 34.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/965255/pierre-eierkoker-pec5000.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/338345844",
+      "found_at": "2026-05-30T18:15:05.207795+00:00",
+      "price_history": [
+        {
+          "price": 28.99,
+          "original_price": null,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 39.99,
+          "original_price": null,
+          "scraped_at": "2026-04-06T06:00:41.460249+00:00"
+        },
+        {
+          "price": 34.99,
+          "original_price": null,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "a5b06b025cb4",
+      "title": "Karcher eco!Booster 180 (K7)",
+      "price": 41.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "huishouden",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/946565/karcher-eco-booster-180-k7.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2028521",
+      "found_at": "2026-05-30T18:15:05.202675+00:00",
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "4ca77d9951b7",
+      "title": "Scanpart Capsulehouder A40",
+      "price": 27.99,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/735640/scanpart-capsulehouder-a40.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1669208",
+      "found_at": "2026-05-30T18:15:05.197703+00:00",
+      "price_history": [
+        {
+          "price": 29.99,
+          "original_price": null,
+          "scraped_at": "2026-03-21T07:00:28.440048+00:00"
+        },
+        {
+          "price": 27.99,
+          "original_price": null,
+          "scraped_at": "2026-05-27T10:00:18.775566+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "f85ac8796f44",
+      "title": "SMEG KITH95MN",
+      "price": 118.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/910162/smeg-kith95mn.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1774586",
+      "found_at": "2026-05-30T18:15:05.192632+00:00",
+      "price_history": [
+        {
+          "price": 145.0,
+          "original_price": null,
+          "scraped_at": "2026-03-12T15:00:30.412229+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": null,
+          "scraped_at": "2026-04-16T10:00:23.646435+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": null,
+          "scraped_at": "2026-05-16T14:00:21.672861+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": null,
+          "scraped_at": "2026-05-25T10:00:28.964593+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": null,
+          "scraped_at": "2026-05-27T10:00:18.775566+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": null,
+          "scraped_at": "2026-05-28T18:00:36.596068+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": null,
+          "scraped_at": "2026-05-29T14:00:47.015984+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": null,
+          "scraped_at": "2026-05-30T14:00:40.254705+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": null,
+          "scraped_at": "2026-05-31T10:00:30.272199+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": null,
+          "scraped_at": "2026-05-31T14:00:27.714084+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "2a2e78dae3db",
+      "title": "Nilfisk Power Patio",
+      "price": 86.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/827816/nilfisk-power-patio.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1383381",
+      "found_at": "2026-05-30T18:15:05.187987+00:00",
+      "price_history": [
+        {
+          "price": 86.0,
+          "original_price": null,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": null,
+          "scraped_at": "2026-04-30T18:00:55.562235+00:00"
+        },
+        {
+          "price": 86.0,
+          "original_price": null,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "28135493636f",
+      "title": "Smeg KITH95",
+      "price": 129.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/507519/smeg-kith95.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1394368",
+      "found_at": "2026-05-30T18:15:05.183104+00:00",
+      "price_history": [
+        {
+          "price": 129.0,
+          "original_price": null,
+          "scraped_at": "2026-03-14T07:00:36.261007+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": null,
+          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": null,
+          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": null,
+          "scraped_at": "2026-05-26T10:00:39.800300+00:00"
+        }
+      ],
+      "approved_at": "31-05-2026 19:17",
       "auto_approved": true
     },
     {
@@ -7371,730 +8436,6 @@
           "price": 111.0,
           "original_price": null,
           "scraped_at": "2026-05-29T10:00:19.189086+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "901a6a18c230",
-      "title": "Brabantia Vuilniszakken Code M - 60 Liter (120 stuks)",
-      "price": 40.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/893472/brabantia-vuilniszakken-code-m-60-liter-120-stuks.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2191292",
-      "found_at": "2026-05-30T10:24:17.293702+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "973a1637d50c",
-      "title": "Pierre Broodbakmachine PBM9000",
-      "price": 127.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/965256/pierre-broodbakmachine-pbm9000.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/230160932",
-      "found_at": "2026-05-30T10:24:17.288664+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "47963417484d",
-      "title": "ELRO Blue Line CBFC28 Koolmonoxidemelder (10 jaar)",
-      "price": 29.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/889461/elro-blue-line-cbfc28-koolmonoxidemelder-10-jaar.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1653442",
-      "found_at": "2026-05-30T10:24:07.038514+00:00",
-      "price_history": [
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 30.99,
-          "original_price": null,
-          "scraped_at": "2026-05-13T10:00:29.559886+00:00"
-        },
-        {
-          "price": 29.99,
-          "original_price": null,
-          "scraped_at": "2026-05-14T10:00:36.846102+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "ae88100f7762",
-      "title": "KitchenAid 5KSM2CB5BGS Broodkom 4,7 L",
-      "price": 141.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/894701/kitchenaid-5ksm2cb5bgs-broodkom-4-7-l.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1648935",
-      "found_at": "2026-05-30T10:24:07.031156+00:00",
-      "price_history": [
-        {
-          "price": 139.0,
-          "original_price": null,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 141.0,
-          "original_price": null,
-          "scraped_at": "2026-03-16T11:00:25.232648+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "0c512bd333d1",
-      "title": "Marmitek Connect 720 8K Switch",
-      "price": 49.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/910994/marmitek-connect-720-8k-switch.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1781808",
-      "found_at": "2026-05-30T10:24:07.025896+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "cc9618c83d0e",
-      "title": "Dreame X50 Ultra Complete Black",
-      "price": 779.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "huishouden",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/959385/dreame-x50-ultra-complete-black.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2199559",
-      "found_at": "2026-05-30T10:24:07.020878+00:00",
-      "price_history": [
-        {
-          "price": 799.0,
-          "original_price": null,
-          "scraped_at": "2026-03-23T15:00:23.738035+00:00"
-        },
-        {
-          "price": 898.0,
-          "original_price": null,
-          "scraped_at": "2026-04-06T14:00:21.961614+00:00"
-        },
-        {
-          "price": 897.0,
-          "original_price": null,
-          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
-        },
-        {
-          "price": 779.0,
-          "original_price": null,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "23085ebe348c",
-      "title": "Veripart VPWM1400A19WNB",
-      "price": 399.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/962126/veripart-vpwm1400a19wnb.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2224892",
-      "found_at": "2026-05-30T10:24:07.015257+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "edaffc8c00f9",
-      "title": "Emerio Pizzarette Cool Wall - 6 personen",
-      "price": 76.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/721750/emerio-pizzarette-cool-wall-6-personen.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1831472",
-      "found_at": "2026-05-30T10:24:07.009620+00:00",
-      "price_history": [
-        {
-          "price": 77.0,
-          "original_price": null,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 76.0,
-          "original_price": null,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "fdfebbb7d3a7",
-      "title": "Pierre Hakmolen PFC7000",
-      "price": 59.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/965251/pierre-hakmolen-pfc7000.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1537626597",
-      "found_at": "2026-05-30T10:24:07.004124+00:00",
-      "price_history": [
-        {
-          "price": 60.0,
-          "original_price": null,
-          "scraped_at": "2026-05-11T06:00:51.172019+00:00"
-        },
-        {
-          "price": 65.0,
-          "original_price": null,
-          "scraped_at": "2026-05-11T10:00:32.045385+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": null,
-          "scraped_at": "2026-05-11T14:00:30.918686+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": null,
-          "scraped_at": "2026-05-17T14:00:21.163450+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": null,
-          "scraped_at": "2026-05-18T14:00:47.087767+00:00"
-        },
-        {
-          "price": 65.0,
-          "original_price": null,
-          "scraped_at": "2026-05-19T14:00:33.190065+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": null,
-          "scraped_at": "2026-05-20T14:00:30.098468+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "e42e73b22bef",
-      "title": "KitchenAid 5KSMICM IJsbereider",
-      "price": 133.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/911868/kitchenaid-5ksmicm-ijsbereider.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1789200",
-      "found_at": "2026-05-30T10:24:06.998604+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "15264d330b6d",
-      "title": "Soundcore Sleep A30 Wit",
-      "price": 170.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/970196/soundcore-sleep-a30-wit.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2222167",
-      "found_at": "2026-05-30T10:24:06.993222+00:00",
-      "price_history": [
-        {
-          "price": 250.0,
-          "original_price": null,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 159.0,
-          "original_price": null,
-          "scraped_at": "2026-03-24T15:00:17.130937+00:00"
-        },
-        {
-          "price": 250.0,
-          "original_price": null,
-          "scraped_at": "2026-04-06T06:00:41.460249+00:00"
-        },
-        {
-          "price": 179.0,
-          "original_price": null,
-          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
-        },
-        {
-          "price": 190.0,
-          "original_price": null,
-          "scraped_at": "2026-05-04T06:00:36.509962+00:00"
-        },
-        {
-          "price": 250.0,
-          "original_price": null,
-          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
-        },
-        {
-          "price": 180.0,
-          "original_price": null,
-          "scraped_at": "2026-05-18T06:00:47.235984+00:00"
-        },
-        {
-          "price": 170.0,
-          "original_price": null,
-          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "9f627a0dd0ab",
-      "title": "Eurom Golden 2500 Shadow",
-      "price": 147.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/788131/eurom-golden-2500-shadow.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1371201",
-      "found_at": "2026-05-30T10:24:06.987786+00:00",
-      "price_history": [
-        {
-          "price": 149.0,
-          "original_price": null,
-          "scraped_at": "2026-03-15T07:00:49.834082+00:00"
-        },
-        {
-          "price": 147.0,
-          "original_price": null,
-          "scraped_at": "2026-03-26T15:00:28.542598+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": null,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": null,
-          "scraped_at": "2026-04-28T18:00:45.687827+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": null,
-          "scraped_at": "2026-05-05T10:00:28.913559+00:00"
-        },
-        {
-          "price": 157.0,
-          "original_price": null,
-          "scraped_at": "2026-05-16T14:00:21.672861+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": null,
-          "scraped_at": "2026-05-16T18:00:32.256929+00:00"
-        },
-        {
-          "price": 157.0,
-          "original_price": null,
-          "scraped_at": "2026-05-17T06:00:25.861280+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": null,
-          "scraped_at": "2026-05-17T18:00:36.280282+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": null,
-          "scraped_at": "2026-05-19T14:00:33.190065+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": null,
-          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": null,
-          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": null,
-          "scraped_at": "2026-05-22T10:00:34.863929+00:00"
-        },
-        {
-          "price": 147.0,
-          "original_price": null,
-          "scraped_at": "2026-05-27T10:00:18.775566+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "6ebbfee72c9a",
-      "title": "Sony WH-1000XM6 Zwart",
-      "price": 333.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "audio",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/962722/sony-wh-1000xm6-zwart.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2175273",
-      "found_at": "2026-05-30T10:24:06.982418+00:00",
-      "price_history": [
-        {
-          "price": 359.0,
-          "original_price": null,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        },
-        {
-          "price": 333.0,
-          "original_price": null,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "b682ca338004",
-      "title": "Samsung VCA-SHF90/VT",
-      "price": 29.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/942772/samsung-vca-shf90-vt.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1995990",
-      "found_at": "2026-05-30T10:24:06.976473+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "e16bd02c9b8b",
-      "title": "ETNA HF2019",
-      "price": 66.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/932000/etna-hf2019.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1933822",
-      "found_at": "2026-05-30T10:24:06.971157+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "756b16890efc",
-      "title": "Godox Speedlite V100 Sony",
-      "price": 325.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/964040/godox-speedlite-v100-sony.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2166411",
-      "found_at": "2026-05-30T10:24:06.965647+00:00",
-      "price_history": [
-        {
-          "price": 325.0,
-          "original_price": null,
-          "scraped_at": "2026-05-16T14:00:21.672861+00:00"
-        },
-        {
-          "price": 329.0,
-          "original_price": null,
-          "scraped_at": "2026-05-24T10:00:25.767267+00:00"
-        },
-        {
-          "price": 325.0,
-          "original_price": null,
-          "scraped_at": "2026-05-26T10:00:39.800300+00:00"
-        },
-        {
-          "price": 329.0,
-          "original_price": null,
-          "scraped_at": "2026-05-29T10:00:19.189086+00:00"
-        },
-        {
-          "price": 325.0,
-          "original_price": null,
-          "scraped_at": "2026-05-30T10:00:24.679391+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "95f878a7f3ab",
-      "title": "Weber Q1200N",
-      "price": 259.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/959094/weber-q1200n.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2132467",
-      "found_at": "2026-05-30T10:24:06.960671+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "20a0b7ab65ee",
-      "title": "Garmin Out-front Fietssteun Edge",
-      "price": 42.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "wearables",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/225471/garmin-out-front-fietssteun-edge.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1361168",
-      "found_at": "2026-05-30T10:24:06.955171+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "a009afae1fbd",
-      "title": "ACT AC7811 4K HDMI Extender Set 60 Meter",
-      "price": 147.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/945909/act-ac7811-4k-hdmi-extender-set-60-meter.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2022309",
-      "found_at": "2026-05-30T10:24:06.949785+00:00",
-      "price_history": [
-        {
-          "price": 114.0,
-          "original_price": null,
-          "scraped_at": "2026-03-12T15:00:30.412229+00:00"
-        },
-        {
-          "price": 157.0,
-          "original_price": null,
-          "scraped_at": "2026-03-13T15:00:25.274887+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": null,
-          "scraped_at": "2026-03-14T11:00:26.675190+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": null,
-          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": null,
-          "scraped_at": "2026-03-26T11:00:18.876924+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": null,
-          "scraped_at": "2026-04-25T10:00:45.927664+00:00"
-        },
-        {
-          "price": 126.0,
-          "original_price": null,
-          "scraped_at": "2026-04-26T14:00:54.435851+00:00"
-        },
-        {
-          "price": 133.0,
-          "original_price": null,
-          "scraped_at": "2026-05-03T14:00:49.546967+00:00"
-        },
-        {
-          "price": 140.0,
-          "original_price": null,
-          "scraped_at": "2026-05-15T14:00:25.327899+00:00"
-        },
-        {
-          "price": 142.0,
-          "original_price": null,
-          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
-        },
-        {
-          "price": 140.0,
-          "original_price": null,
-          "scraped_at": "2026-05-24T10:00:25.767267+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": null,
-          "scraped_at": "2026-05-26T14:00:29.423196+00:00"
-        },
-        {
-          "price": 147.0,
-          "original_price": null,
-          "scraped_at": "2026-05-27T10:00:18.775566+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "7294535a06c2",
-      "title": "Samsung VCA-SBTA60/VT",
-      "price": 129.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/942518/samsung-vca-sbta60-vt.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1995002",
-      "found_at": "2026-05-30T10:24:06.944706+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "cae795845fd3",
-      "title": "Marmitek Connect 740 UHD 4K 2.1 HDMI Switch",
-      "price": 90.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/936907/marmitek-connect-740-uhd-4k-2-1-hdmi-switch.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1972658",
-      "found_at": "2026-05-30T10:24:06.939544+00:00",
-      "price_history": [
-        {
-          "price": 88.0,
-          "original_price": null,
-          "scraped_at": "2026-05-07T06:00:38.732358+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": null,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": null,
-          "scraped_at": "2026-05-11T18:00:41.972943+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": null,
-          "scraped_at": "2026-05-12T10:00:23.198225+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": null,
-          "scraped_at": "2026-05-12T14:00:30.743535+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": null,
-          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
-        },
-        {
-          "price": 89.0,
-          "original_price": null,
-          "scraped_at": "2026-05-15T14:00:25.327899+00:00"
-        },
-        {
-          "price": 90.0,
-          "original_price": null,
-          "scraped_at": "2026-05-15T18:00:25.822718+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "b5d5e8aff7c2",
-      "title": "Eufy Solar Panel",
-      "price": 33.99,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/962779/eufy-solar-panel.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2153451",
-      "found_at": "2026-05-30T10:24:06.934449+00:00",
-      "approved_at": "30-05-2026 15:42",
-      "auto_approved": true
-    },
-    {
-      "id": "7af1d5570a0d",
-      "title": "Dyson Corrale Koper/Nikkel",
-      "price": 449.0,
-      "original_price": null,
-      "discount_percent": 0,
-      "category": "elektronica",
-      "source": "Coolblue Tweedekans",
-      "condition": "Tweedekans",
-      "url": "https://www.coolblue.nl/product/939947/dyson-corrale-koper-nikkel.html",
-      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2014616",
-      "found_at": "2026-05-30T10:24:06.929015+00:00",
-      "price_history": [
-        {
-          "price": 449.0,
-          "original_price": null,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 299.0,
-          "original_price": null,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 449.0,
-          "original_price": null,
-          "scraped_at": "2026-04-26T06:00:34.077042+00:00"
         }
       ],
       "approved_at": "30-05-2026 15:42",
