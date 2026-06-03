@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T11:03:06.983502+00:00",
-  "total": 300,
+  "updated_at": "2026-06-03T11:03:13.382722+00:00",
+  "total": 297,
   "deals": [
     {
       "id": "aa8b5fe5e7df",
@@ -492,48 +492,6 @@
       "image": "https://m.media-amazon.com/images/I/31S+DJspu3L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-05-31T18:08:26.781984+00:00",
       "approved_at": "31-05-2026 19:17",
-      "auto_approved": true
-    },
-    {
-      "id": "9657fd228e36",
-      "title": "Samsung Galaxy Tab A T550N 24,6 cm (9,7 Zoll) WiFi Tablet-PC (Quad-Core, 1,2 GHz, 16 GB, Android 5.0) schwarz",
-      "price": 66.99,
-      "original_price": 169.99,
-      "discount_percent": 60,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B00VFIWKIQ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81kmeFnu-eL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-19T18:06:10.309787+00:00",
-      "price_history": [
-        {
-          "price": 275.93,
-          "original_price": 299.0,
-          "scraped_at": "2026-04-23T14:00:37.037095+00:00"
-        },
-        {
-          "price": 267.38,
-          "original_price": 299.0,
-          "scraped_at": "2026-05-04T06:00:36.509962+00:00"
-        },
-        {
-          "price": 82.99,
-          "original_price": 299.0,
-          "scraped_at": "2026-05-19T18:00:42.631068+00:00"
-        },
-        {
-          "price": 85.99,
-          "original_price": 299.0,
-          "scraped_at": "2026-05-25T06:00:51.602995+00:00"
-        },
-        {
-          "price": 66.99,
-          "original_price": 169.99,
-          "scraped_at": "2026-05-30T10:00:24.679391+00:00"
-        }
-      ],
-      "approved_at": "30-05-2026 11:28",
       "auto_approved": true
     },
     {
@@ -1631,21 +1589,6 @@
       "auto_approved": true
     },
     {
-      "id": "f653dddce242",
-      "title": "AEG LR8696UD4M PowerCare -  Wasmachine Voorlader - 9 kg - 1600 rpm - 76 dB",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=335173",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a17f9e81a723_ASSET_MMS_141324132-500x500.png",
-      "found_at": "2026-05-28T10:15:20.873156+00:00",
-      "approved_at": "30-05-2026 11:28",
-      "auto_approved": true
-    },
-    {
       "id": "5253ada98edf",
       "title": "SAMSUNG DV90DG52A0AHEN 5000-serie -  Warmtepompdroger - 9 kg - 65 dB - Energielabel C",
       "price": 524.25,
@@ -2055,21 +1998,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=335041",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a16e9cfdc5dc_ASSET_MMS_160159570-500x500.png",
       "found_at": "2026-05-30T06:19:44.438513+00:00",
-      "approved_at": "30-05-2026 11:28",
-      "auto_approved": true
-    },
-    {
-      "id": "bb21224cef98",
-      "title": "BOSCH WGG244ZANL SpeedPerfect -  Wasmachine Voorlader - 9 kg - 1400 rpm - 71 dB",
-      "price": 449.25,
-      "original_price": 599.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=335336",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a1944a499ac9_ASSET_MMS_166490514-500x500.png",
-      "found_at": "2026-05-29T10:53:19.182919+00:00",
       "approved_at": "30-05-2026 11:28",
       "auto_approved": true
     },
