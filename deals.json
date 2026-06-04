@@ -1,7 +1,64 @@
 {
-  "updated_at": "2026-06-04T06:36:52.303197+00:00",
-  "total": 299,
+  "updated_at": "2026-06-04T10:22:43.479025+00:00",
+  "total": 300,
   "deals": [
+    {
+      "id": "9298f6a41a14",
+      "title": "Dreame X40 Ultra Complete Black",
+      "price": 284.55,
+      "original_price": 812.33,
+      "discount_percent": 64,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-x40-ultra-complete-black-r-16590",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041978_3b2db0cd-64ff-4c74-a9b9-c9f8e97de746.jpg?v=1773749469",
+      "found_at": "2026-06-04T10:18:43.648612+00:00",
+      "price_history": [
+        {
+          "price": 543.0,
+          "original_price": 946.65,
+          "scraped_at": "2026-03-18T11:00:26.142725+00:00"
+        },
+        {
+          "price": 519.0,
+          "original_price": 932.24,
+          "scraped_at": "2026-03-23T11:00:21.181791+00:00"
+        },
+        {
+          "price": 479.0,
+          "original_price": 729.0,
+          "scraped_at": "2026-03-28T11:00:31.362787+00:00"
+        },
+        {
+          "price": 452.55,
+          "original_price": 812.33,
+          "scraped_at": "2026-04-02T10:00:27.063904+00:00"
+        },
+        {
+          "price": 284.55,
+          "original_price": 812.33,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "ce0df1b382fc",
+      "title": "Dreame Aqua 10 Ultra Roller Complete Black",
+      "price": 417.0,
+      "original_price": 968.5,
+      "discount_percent": 56,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-aqua-10-ultra-roller-complete-black-r-17887",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220480_fe0217ee-c59e-4fc0-bb1e-96e361b12372.jpg?v=1779092618",
+      "found_at": "2026-06-04T10:18:43.648263+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
     {
       "id": "aa8b5fe5e7df",
       "title": "Apple iPad Pro (2024) Nano 13 inch 2 TB Wifi + 5G Zilver",
@@ -45,6 +102,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049187_dab57cd6-51d7-44b2-9fc3-847c47ecd193.jpg?v=1780039573",
       "found_at": "2026-06-01T14:19:07.831719+00:00",
       "approved_at": "01-06-2026 15:24",
+      "auto_approved": true
+    },
+    {
+      "id": "50275ad636bf",
+      "title": "Apple iPad Pro (2024) 11 inch 2 TB Wifi Zwart",
+      "price": 1098.0,
+      "original_price": 2135.67,
+      "discount_percent": 48,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-pro-2024-11-inch-2-tb-wifi-zwart-r-17372",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049087_c10efaab-59d2-4416-969c-af2e2bb90a4d.jpg?v=1776251354",
+      "found_at": "2026-06-04T10:18:37.837469+00:00",
+      "price_history": [
+        {
+          "price": 1098.0,
+          "original_price": 2044.0,
+          "scraped_at": "2026-04-16T14:00:23.967988+00:00"
+        },
+        {
+          "price": 1171.0,
+          "original_price": 2135.67,
+          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
+        },
+        {
+          "price": 1141.0,
+          "original_price": 2135.67,
+          "scraped_at": "2026-04-29T18:00:57.600466+00:00"
+        },
+        {
+          "price": 1098.0,
+          "original_price": 1989.0,
+          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -252,6 +346,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1977157_b4639eb2-9f9f-4851-b1ab-79da6bf3310a.jpg?v=1780407647",
       "found_at": "2026-06-03T14:59:32.560960+00:00",
       "approved_at": "03-06-2026 16:04",
+      "auto_approved": true
+    },
+    {
+      "id": "217fa09be4b7",
+      "title": "Samsung Galaxy Tab A7 tablet, 10,4 inch TFT-display, 32 GB uitbreidbaar, tot 1 TB, RAM 3 GB, batterij 7.040 mAh, WiFi, Android 11, camera aan de achterzijde 8 MP, donkergrijs [Italiaanse versie]",
+      "price": 143.91,
+      "original_price": 374.99,
+      "discount_percent": 61,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08DRVHP65?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51CtSSGygwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-04T10:05:24.442023+00:00",
+      "price_history": [
+        {
+          "price": 149.54,
+          "original_price": null,
+          "scraped_at": "2026-04-23T18:01:05.306455+00:00"
+        },
+        {
+          "price": 144.84,
+          "original_price": 374.99,
+          "scraped_at": "2026-05-04T10:00:39.481941+00:00"
+        },
+        {
+          "price": 145.78,
+          "original_price": null,
+          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
+        },
+        {
+          "price": 143.91,
+          "original_price": 374.99,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -1100,6 +1231,21 @@
       "auto_approved": true
     },
     {
+      "id": "b75d48676269",
+      "title": "Refurbished iPhone 16 Pro 128GB Black Titanium",
+      "price": 701.0,
+      "original_price": 975.0,
+      "discount_percent": 28,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-16-pro-128gb-black-titanium-r-18323",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092466_8f66e135-d419-44a9-b052-e86b7dfac5aa.jpg?v=1780411561",
+      "found_at": "2026-06-04T10:18:52.497952+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "ed4380a7a911",
       "title": "Apple AirPods Max Zwart",
       "price": 312.0,
@@ -1618,6 +1764,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1999366_36cb2033-e932-441f-a352-83cffbae5198.jpg?v=1780407963",
       "found_at": "2026-06-03T14:59:25.764208+00:00",
       "approved_at": "03-06-2026 16:04",
+      "auto_approved": true
+    },
+    {
+      "id": "9763b313f797",
+      "title": "Beats Studio Pro Zwart",
+      "price": 196.0,
+      "original_price": 327.84,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/beats-studio-pro-zwart-r-18094",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952150_26dd3e47-c4b4-47d3-aebe-687007be2b0f.jpg?v=1780406776",
+      "found_at": "2026-06-04T10:18:40.699077+00:00",
+      "price_history": [
+        {
+          "price": 135.0,
+          "original_price": 309.76,
+          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
+        },
+        {
+          "price": 196.0,
+          "original_price": 327.84,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -2897,6 +3070,33 @@
       "auto_approved": true
     },
     {
+      "id": "3e63ec81d6c7",
+      "title": "Apple iPad Air (2024) 11 inch 128GB Wifi + 5G Purple",
+      "price": 423.0,
+      "original_price": 569.0,
+      "discount_percent": 25,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2024-11-inch-128gb-wifi-5g-purple-r-18362",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049176_57604058-89e4-4095-b972-771f6877156b.jpg?v=1780411652",
+      "found_at": "2026-06-03T18:15:06.352079+00:00",
+      "price_history": [
+        {
+          "price": 523.0,
+          "original_price": 569.0,
+          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
+        },
+        {
+          "price": 423.0,
+          "original_price": 569.0,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "ab69292b63c3",
       "title": "Apple iPhone Air 256GB Zwart",
       "price": 777.0,
@@ -3048,6 +3248,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1833960_c2742286-3040-401e-94f0-306e42243421.jpg?v=1780406835",
       "found_at": "2026-06-03T14:59:19.205422+00:00",
       "approved_at": "03-06-2026 16:04",
+      "auto_approved": true
+    },
+    {
+      "id": "84595ca24725",
+      "title": "Apple iPad (2024) 64GB WiFi + 5G Zilver",
+      "price": 328.0,
+      "original_price": 439.0,
+      "discount_percent": 25,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-2024-64gb-wifi-5g-zilver-r-18334",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144964_84490058-99df-4321-ae79-91179d3a7f1e.jpg?v=1780411584",
+      "found_at": "2026-06-04T06:31:49.816814+00:00",
+      "price_history": [
+        {
+          "price": 403.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
+        },
+        {
+          "price": 328.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -3780,6 +4007,21 @@
       "auto_approved": true
     },
     {
+      "id": "aa2b11245644",
+      "title": "Refurbished iPhone 12 64GB Blauw",
+      "price": 191.0,
+      "original_price": 255.0,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-12-64gb-blauw-r-18321",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489516_28953813-9566-441b-b409-6fc778da5e49.jpg?v=1780411536",
+      "found_at": "2026-06-04T10:18:49.788893+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "1d6dd8fa4d1d",
       "title": "ZOSI C290 8MP 4K UHD WiFi-beveiligingscamera buiten binnen, Pan/Tilt CCTV-camera met 64 GB geheugenkaart Geen maandelijkse kosten, 30 m nachtzicht, AI detectie van menselijk voertuig, 2-weg audio",
       "price": 55.99,
@@ -3849,6 +4091,21 @@
       "image": "https://m.media-amazon.com/images/I/71bHJcaqSRL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-06-04T06:28:00.894734+00:00",
       "approved_at": "04-06-2026 07:36",
+      "auto_approved": true
+    },
+    {
+      "id": "add952573fc6",
+      "title": "Refurbished iPhone 15 128GB Blauw",
+      "price": 458.0,
+      "original_price": 565.0,
+      "discount_percent": 18,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-blauw-r-16720",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969002_88c7301c-972c-40c1-8ef7-134ccf5fcb23.jpg?v=1774255247",
+      "found_at": "2026-06-04T10:18:52.497896+00:00",
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -3954,6 +4211,21 @@
       "auto_approved": true
     },
     {
+      "id": "73c0d6c0dbd7",
+      "title": "Refurbished iPhone 13 mini 128GB Zwart",
+      "price": 263.0,
+      "original_price": 335.0,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-mini-128gb-zwart-r-18300",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631194_0e8c6f23-870e-45a5-95da-3ba48a84a81b.jpg?v=1780407860",
+      "found_at": "2026-06-04T10:18:52.497746+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "93170e3864ca",
       "title": "JBL Tune 720BT Zwart",
       "price": 44.0,
@@ -3988,6 +4260,36 @@
         }
       ],
       "approved_at": "02-06-2026 19:35",
+      "auto_approved": true
+    },
+    {
+      "id": "4849fa9dd82e",
+      "title": "Refurbished iPhone SE (2022) 64GB Black",
+      "price": 109.0,
+      "original_price": 146.0,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-se-2022-64gb-black-r-18299",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1942767.jpg?v=1780407839",
+      "found_at": "2026-06-04T10:18:52.498106+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "422283fcb91a",
+      "title": "Refurbished iPhone 11 64GB Green",
+      "price": 167.0,
+      "original_price": 219.0,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/coolblue-refurbished-refurbished-iphone-11-64gb-green-r-18303",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1990908.jpg?v=1780407890",
+      "found_at": "2026-06-04T10:18:49.788837+00:00",
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -4154,6 +4456,33 @@
       "auto_approved": true
     },
     {
+      "id": "509145bf8975",
+      "title": "Apple iPad mini Wi-Fi 64GB - Purple",
+      "price": 312.0,
+      "original_price": 386.17,
+      "discount_percent": 19,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-mini-wi-fi-64gb-purple-r-18348",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632181_e00e320b-8437-4dd7-a64f-6290c6b8cbf3.jpg?v=1780411624",
+      "found_at": "2026-06-03T18:15:06.352329+00:00",
+      "price_history": [
+        {
+          "price": 354.0,
+          "original_price": 389.6,
+          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
+        },
+        {
+          "price": 312.0,
+          "original_price": 386.17,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "4261ea8eaac6",
       "title": "Xiaomi Redmi Note 14 Pro+ 5G Midnight Black 12GB RAM 512GB ROM",
       "price": 293.0,
@@ -4211,6 +4540,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1997638_4894dc9f-9bc5-458e-9a26-f3853fc96815.jpg?v=1780047377",
       "found_at": "2026-06-01T06:46:26.923436+00:00",
       "approved_at": "01-06-2026 07:51",
+      "auto_approved": true
+    },
+    {
+      "id": "76bc5c646554",
+      "title": "Refurbished iPhone 16 Pro 256GB Natural Titanium",
+      "price": 875.0,
+      "original_price": 995.0,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-16-pro-256gb-natural-titanium-r-18324",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092448_59342f4f-054f-4c27-aab6-2ac18c0cfb12.jpg?v=1780411563",
+      "found_at": "2026-06-04T10:18:52.498011+00:00",
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -5203,6 +5547,53 @@
       "auto_approved": true
     },
     {
+      "id": "a3dda4ae33e4",
+      "title": "Philips 24E1N1100-24 inch Full HD-monitor, 120 Hz, adaptieve synchronisatie. (1920 x 1080, 1 x D-sub, 1 x HDMI 1.4) zwart",
+      "price": 65.83,
+      "original_price": 82.5,
+      "discount_percent": 20,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1Z699G3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71v6t9LMHCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-04T10:14:28.891753+00:00",
+      "price_history": [
+        {
+          "price": 70.38,
+          "original_price": 103.46,
+          "scraped_at": "2026-03-27T19:00:19.265333+00:00"
+        },
+        {
+          "price": 70.59,
+          "original_price": 91.12,
+          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
+        },
+        {
+          "price": 68.87,
+          "original_price": 91.71,
+          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
+        },
+        {
+          "price": 68.76,
+          "original_price": 80.6,
+          "scraped_at": "2026-04-27T06:01:02.549178+00:00"
+        },
+        {
+          "price": 64.34,
+          "original_price": 89.64,
+          "scraped_at": "2026-05-19T06:00:30.126116+00:00"
+        },
+        {
+          "price": 65.83,
+          "original_price": 82.5,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "090406fffd6b",
       "title": "JBL Quantum 810 Draadloze over ear Performance Gamingheadset ; Met actieve ruisonderdrukking, Bluetooth en een batterijduur van 30 uur",
       "price": 100.94,
@@ -5733,6 +6124,21 @@
       "auto_approved": true
     },
     {
+      "id": "cefddf66545a",
+      "title": "Dyson Airwrap i.d. Straight + Wavy Jasper Plum",
+      "price": 483.0,
+      "original_price": 549.0,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-airwrap-i-d-straight-wavy-jasper-plum-r-18275",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2159194_10d55be7-355d-4603-8de4-447cb6190a44.jpg?v=1780411472",
+      "found_at": "2026-06-04T10:18:43.649264+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
       "id": "dda7ae030431",
       "title": "Samsung Galaxy A35 5G, Dual, 128GB 6GB Ram, Awesome Navy",
       "price": 235.95,
@@ -5985,6 +6391,48 @@
         }
       ],
       "approved_at": "31-05-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "d915d7ecaa53",
+      "title": "Apple Watch Series 10 42mm Roségoud Sportband S/M",
+      "price": 311.0,
+      "original_price": 357.92,
+      "discount_percent": 13,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-max-zwart-r-18071",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093508_7df0b390-ed71-4822-9735-b3a6ff5679af.jpg?v=1780406748",
+      "found_at": "2026-06-03T18:15:10.228197+00:00",
+      "approved_at": "04-06-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "d8d40491587c",
+      "title": "Apple iPhone 12 64GB Rood",
+      "price": 162.0,
+      "original_price": 192.4,
+      "discount_percent": 15,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-12-64gb-rood-r-18070",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1489542_9b816f09-9818-44f7-8e48-242bc7c47080.jpg?v=1779458535",
+      "found_at": "2026-06-04T10:18:37.838115+00:00",
+      "price_history": [
+        {
+          "price": 190.0,
+          "original_price": 197.25,
+          "scraped_at": "2026-05-25T18:01:08.979071+00:00"
+        },
+        {
+          "price": 162.0,
+          "original_price": 192.4,
+          "scraped_at": "2026-06-04T10:00:23.022002+00:00"
+        }
+      ],
+      "approved_at": "04-06-2026 11:22",
       "auto_approved": true
     },
     {
@@ -6543,650 +6991,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1551053.jpg?v=1780411661",
       "found_at": "2026-06-03T14:59:32.560181+00:00",
       "approved_at": "03-06-2026 16:04",
-      "auto_approved": true
-    },
-    {
-      "id": "88647254fed1",
-      "title": "Samsung Galaxy A36 128GB Zwart 5G",
-      "price": 236.0,
-      "original_price": 269.0,
-      "discount_percent": 12,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-a36-128gb-zwart-5g-r-17940",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2144290_64cdf48c-3845-4459-a7be-b8c7907e5a90.jpg?v=1779093059",
-      "found_at": "2026-06-01T06:46:26.923491+00:00",
-      "price_history": [
-        {
-          "price": 236.0,
-          "original_price": 269.0,
-          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
-        },
-        {
-          "price": 222.0,
-          "original_price": 269.0,
-          "scraped_at": "2026-05-25T18:01:08.979071+00:00"
-        },
-        {
-          "price": 236.0,
-          "original_price": 269.0,
-          "scraped_at": "2026-06-01T06:00:55.218458+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "9e256764f0a3",
-      "title": "OnePlus Nord CE4 Lite 5G Super Silver",
-      "price": 229.0,
-      "original_price": 261.19,
-      "discount_percent": 12,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oneplus-nord-ce4-lite-5g-super-silver-r-18339",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2069296_41727403-11da-406a-a55a-4ff63790fdbb.jpg?v=1780411603",
-      "found_at": "2026-06-03T14:59:32.560075+00:00",
-      "approved_at": "03-06-2026 16:04",
-      "auto_approved": true
-    },
-    {
-      "id": "ff74223e1a38",
-      "title": "SPC Discovery 3 SE - Smartphone 6,8 inch HD+ | Intern geheugen 64 GB, RAM 4 GB | Dual Camera IA 13 MP | NFC en biometrie | Android 14 | 5000 mAh batterij - kleur Dark Matter",
-      "price": 94.96,
-      "original_price": 110.74,
-      "discount_percent": 14,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F2JD2JPB?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51kVKJKbNdL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-06-03T10:29:23.354987+00:00",
-      "price_history": [
-        {
-          "price": 107.42,
-          "original_price": 110.74,
-          "scraped_at": "2026-04-22T10:00:29.669567+00:00"
-        },
-        {
-          "price": 106.6,
-          "original_price": null,
-          "scraped_at": "2026-04-27T10:00:27.153720+00:00"
-        },
-        {
-          "price": 104.73,
-          "original_price": 110.74,
-          "scraped_at": "2026-05-02T14:00:29.812802+00:00"
-        },
-        {
-          "price": 102.04,
-          "original_price": 110.74,
-          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
-        },
-        {
-          "price": 99.36,
-          "original_price": 109.9,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        },
-        {
-          "price": 97.11,
-          "original_price": 110.74,
-          "scraped_at": "2026-05-24T06:02:02.838127+00:00"
-        },
-        {
-          "price": 94.96,
-          "original_price": 110.74,
-          "scraped_at": "2026-05-29T06:00:57.681597+00:00"
-        }
-      ],
-      "approved_at": "03-06-2026 12:03",
-      "auto_approved": true
-    },
-    {
-      "id": "73ae00fe5d79",
-      "title": "Motorola moto g06 (128 GB, tapestry, 6.88\", Dual SIM, 4G) Blau (PB980027SE)",
-      "price": 96.24,
-      "original_price": 111.99,
-      "discount_percent": 14,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0G1TQLMJG?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71SREeZL1OL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-31T10:09:15.568752+00:00",
-      "price_history": [
-        {
-          "price": 99.28,
-          "original_price": 111.99,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        },
-        {
-          "price": 96.24,
-          "original_price": 111.99,
-          "scraped_at": "2026-05-31T10:00:30.272199+00:00"
-        }
-      ],
-      "approved_at": "31-05-2026 11:31",
-      "auto_approved": true
-    },
-    {
-      "id": "d51b9965137e",
-      "title": "TP-LINK Tapo D235 V1 - Video Doorbell Camera Kit - smarte T?rklingel (TAPO D235)",
-      "price": 93.31,
-      "original_price": 109.0,
-      "discount_percent": 14,
-      "category": "camera",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DV3QXXGG?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51CJI9wN9TL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-06-04T06:26:07.751812+00:00",
-      "approved_at": "04-06-2026 07:36",
-      "auto_approved": true
-    },
-    {
-      "id": "e19872ae4c0b",
-      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
-      "price": 220.0,
-      "original_price": 250.0,
-      "discount_percent": 12,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-17645",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_f28e2351-d556-4a54-b94f-fa8da626d170.jpg?v=1777899865",
-      "found_at": "2026-06-01T06:46:23.020086+00:00",
-      "price_history": [
-        {
-          "price": 220.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-07T10:00:29.689910+00:00"
-        },
-        {
-          "price": 202.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-15T10:00:30.481289+00:00"
-        },
-        {
-          "price": 200.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-16T10:00:26.163953+00:00"
-        },
-        {
-          "price": 195.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
-        },
-        {
-          "price": 193.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
-        },
-        {
-          "price": 191.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
-        },
-        {
-          "price": 189.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-21T10:00:23.801095+00:00"
-        },
-        {
-          "price": 187.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-23T06:01:03.983862+00:00"
-        },
-        {
-          "price": 184.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-23T10:00:20.495238+00:00"
-        },
-        {
-          "price": 180.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-05-25T18:01:08.979071+00:00"
-        },
-        {
-          "price": 220.0,
-          "original_price": 250.0,
-          "scraped_at": "2026-06-01T06:00:55.218458+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "4949632f069d",
-      "title": "ACER Chromebook 315 (CB315-3HT-P0BX) 15,6 inch Full HD Touch, Pentium N5030, 4 GB RAM, 128 GB eMMC, ChromeOS",
-      "price": 371.84,
-      "original_price": 415.9,
-      "discount_percent": 10,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DF5QGV6P?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51khFmxhFvL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-06-01T14:03:03.301923+00:00",
-      "price_history": [
-        {
-          "price": 409.37,
-          "original_price": 415.91,
-          "scraped_at": "2026-05-05T18:01:04.212528+00:00"
-        },
-        {
-          "price": 398.31,
-          "original_price": 415.91,
-          "scraped_at": "2026-05-12T06:00:24.197489+00:00"
-        },
-        {
-          "price": 387.25,
-          "original_price": 415.9,
-          "scraped_at": "2026-05-17T10:00:35.376500+00:00"
-        },
-        {
-          "price": 380.69,
-          "original_price": 415.91,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        },
-        {
-          "price": 371.84,
-          "original_price": 415.9,
-          "scraped_at": "2026-06-01T14:00:38.979722+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 15:24",
-      "auto_approved": true
-    },
-    {
-      "id": "6813732f124f",
-      "title": "A145 GALAXY A14 4G 64GB BLACK",
-      "price": 136.91,
-      "original_price": 158.0,
-      "discount_percent": 13,
-      "category": "smartphones",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BYWB6R4N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51rVy+votyL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-06-03T14:52:08.122726+00:00",
-      "price_history": [
-        {
-          "price": 82.0,
-          "original_price": 158.0,
-          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
-        },
-        {
-          "price": 135.79,
-          "original_price": 157.5,
-          "scraped_at": "2026-05-29T10:00:19.189086+00:00"
-        },
-        {
-          "price": 136.91,
-          "original_price": 158.0,
-          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
-        }
-      ],
-      "approved_at": "03-06-2026 16:04",
-      "auto_approved": true
-    },
-    {
-      "id": "a0b2aba1fc39",
-      "title": "OnePlus 15 CPH2747 Europe 512GB 16GB Sand Storm EU",
-      "price": 787.0,
-      "original_price": 852.18,
-      "discount_percent": 7,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oneplus-15-cph2747-europe-512gb-16gb-sand-storm-eu-dem-r-18350",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2234469.jpg?v=1780411628",
-      "found_at": "2026-06-03T14:59:32.559557+00:00",
-      "approved_at": "03-06-2026 16:04",
-      "auto_approved": true
-    },
-    {
-      "id": "7ccd87669e4d",
-      "title": "SPC Gravity Pro Tablet 12 inch met FHD antireflecterend mat View display, 256 GB uitbreidbaar, 6 GB RAM, 4G, Octa-Core en Android 14 aansluiting, 18 W snel opladen, Color Lunar Mist",
-      "price": 180.7,
-      "original_price": 206.72,
-      "discount_percent": 12,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F638WW5N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/510URNDd3wL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-06-03T10:20:45.547670+00:00",
-      "price_history": [
-        {
-          "price": 217.98,
-          "original_price": 230.18,
-          "scraped_at": "2026-02-23T19:56:16.279624+00:00"
-        },
-        {
-          "price": 212.1,
-          "original_price": null,
-          "scraped_at": "2026-03-01T07:00:20.857783+00:00"
-        },
-        {
-          "price": 210.98,
-          "original_price": null,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 215.44,
-          "original_price": 251.01,
-          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
-        },
-        {
-          "price": 209.35,
-          "original_price": 251.06,
-          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
-        },
-        {
-          "price": 213.89,
-          "original_price": null,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 207.79,
-          "original_price": null,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 201.7,
-          "original_price": null,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 195.61,
-          "original_price": null,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 190.76,
-          "original_price": 249.9,
-          "scraped_at": "2026-05-13T14:00:28.205054+00:00"
-        },
-        {
-          "price": 161.57,
-          "original_price": null,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        },
-        {
-          "price": 160.77,
-          "original_price": null,
-          "scraped_at": "2026-05-23T18:00:33.707335+00:00"
-        },
-        {
-          "price": 180.7,
-          "original_price": 206.72,
-          "scraped_at": "2026-06-03T10:00:36.474534+00:00"
-        }
-      ],
-      "approved_at": "03-06-2026 12:03",
-      "auto_approved": true
-    },
-    {
-      "id": "b0d2aa5ab1af",
-      "title": "Lenovo IdeaPad 5 2in1 14AHP9 83DR001SGE QWERTZ",
-      "price": 643.0,
-      "original_price": 699.0,
-      "discount_percent": 8,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-ideapad-5-2in1-14ahp9-83dr001sge-qwertz-r-18318",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2077363.jpg?v=1780411528",
-      "found_at": "2026-06-03T14:59:29.201356+00:00",
-      "approved_at": "03-06-2026 16:04",
-      "auto_approved": true
-    },
-    {
-      "id": "58d9fe919056",
-      "title": "FOSCAM T5EP 5MP POE IP Camera White",
-      "price": 65.87,
-      "original_price": 76.79,
-      "discount_percent": 14,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CVSCV83G?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/41fg00jBe1L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-01T14:27:15.362457+00:00",
-      "price_history": [
-        {
-          "price": 57.55,
-          "original_price": 76.74,
-          "scraped_at": "2026-02-23T13:51:34.357563+00:00"
-        },
-        {
-          "price": 65.23,
-          "original_price": 76.74,
-          "scraped_at": "2026-03-25T19:00:18.566672+00:00"
-        },
-        {
-          "price": 54.23,
-          "original_price": 76.74,
-          "scraped_at": "2026-03-31T06:00:59.348609+00:00"
-        },
-        {
-          "price": 53.97,
-          "original_price": 76.74,
-          "scraped_at": "2026-04-05T10:00:41.187177+00:00"
-        },
-        {
-          "price": 54.49,
-          "original_price": 76.74,
-          "scraped_at": "2026-04-10T16:04:24.181170+00:00"
-        },
-        {
-          "price": 55.76,
-          "original_price": 129.99,
-          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
-        },
-        {
-          "price": 55.71,
-          "original_price": 89.99,
-          "scraped_at": "2026-04-21T06:00:48.729087+00:00"
-        },
-        {
-          "price": 55.41,
-          "original_price": 74.95,
-          "scraped_at": "2026-04-26T10:00:33.164548+00:00"
-        },
-        {
-          "price": 55.91,
-          "original_price": 499.99,
-          "scraped_at": "2026-05-01T14:00:35.461083+00:00"
-        },
-        {
-          "price": 65.87,
-          "original_price": 76.79,
-          "scraped_at": "2026-06-01T06:00:55.218458+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "07159430dfa7",
-      "title": "Kurio - De Gulli Motion Edition 32GB Tablet voor kinderen - Android 15 - Personaliseerbaar ouderlijk toezicht en veilige browser - Meer dan 2 uur Gulli video's + 10 exclusieve games inbegrepen",
-      "price": 120.2,
-      "original_price": 138.5,
-      "discount_percent": 13,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQPP87Z8?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71T77teZoiL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-06-01T10:05:37.279546+00:00",
-      "price_history": [
-        {
-          "price": 131.06,
-          "original_price": 138.5,
-          "scraped_at": "2026-04-15T06:00:49.213609+00:00"
-        },
-        {
-          "price": 127.6,
-          "original_price": 138.5,
-          "scraped_at": "2026-04-20T10:00:28.138203+00:00"
-        },
-        {
-          "price": 123.56,
-          "original_price": 138.5,
-          "scraped_at": "2026-04-25T14:00:31.982834+00:00"
-        },
-        {
-          "price": 126.27,
-          "original_price": 138.5,
-          "scraped_at": "2026-05-06T14:00:23.645646+00:00"
-        },
-        {
-          "price": 122.92,
-          "original_price": 138.5,
-          "scraped_at": "2026-05-11T18:00:41.972943+00:00"
-        },
-        {
-          "price": 125.61,
-          "original_price": 138.5,
-          "scraped_at": "2026-05-17T06:00:25.861280+00:00"
-        },
-        {
-          "price": 122.92,
-          "original_price": null,
-          "scraped_at": "2026-05-22T06:00:24.075695+00:00"
-        },
-        {
-          "price": 120.2,
-          "original_price": 138.5,
-          "scraped_at": "2026-06-01T10:00:18.012096+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 11:28",
-      "auto_approved": true
-    },
-    {
-      "id": "4880d948b1a7",
-      "title": "Acer Aspire 5 A515-57-53QH 15.6\"/i5-12450H/16 GB RAM/512 GB QWERTZ",
-      "price": 624.0,
-      "original_price": 679.0,
-      "discount_percent": 8,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-5-a515-57-53qh-15-6-i5-12450h-16-gb-ram-512-gb-qwertz-r-18153",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1953898.jpg?v=1780324474",
-      "found_at": "2026-06-02T10:13:57.496087+00:00",
-      "approved_at": "02-06-2026 11:19",
-      "auto_approved": true
-    },
-    {
-      "id": "65d5788d60fc",
-      "title": "Oral-B iO9n Rozenkwarts Speciale Editie",
-      "price": 239.0,
-      "original_price": 270.45,
-      "discount_percent": 11,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io9n-rozenkwarts-speciale-editie-r-17813",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1798997_a4448bfb-5c68-4884-a920-7c879ca51ed3.jpg?v=1779092259",
-      "found_at": "2026-06-01T06:46:26.921459+00:00",
-      "price_history": [
-        {
-          "price": 225.0,
-          "original_price": 271.42,
-          "scraped_at": "2026-05-19T10:00:21.862085+00:00"
-        },
-        {
-          "price": 239.0,
-          "original_price": 269.54,
-          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
-        },
-        {
-          "price": 231.0,
-          "original_price": 253.23,
-          "scraped_at": "2026-05-25T18:01:08.979071+00:00"
-        },
-        {
-          "price": 239.0,
-          "original_price": 270.45,
-          "scraped_at": "2026-06-01T06:00:55.218458+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "cf03cbde0b6d",
-      "title": "Philips Shaver 5000 Series S5898/35",
-      "price": 95.0,
-      "original_price": 110.16,
-      "discount_percent": 13,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-shaver-5000-series-s5898-35-r-18106",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1910314_24caf251-7d53-4b49-b87a-5c36caa7aea3.jpg?v=1780047054",
-      "found_at": "2026-06-01T06:46:26.922568+00:00",
-      "approved_at": "01-06-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "084f8b8812da",
-      "title": "ZTE Blade A36 Smartphone, ontgrendeld, 4 GB RAM, 64 GB geheugen, 6,75 inch display, kleur: Nebula Black",
-      "price": 92.11,
-      "original_price": 106.18,
-      "discount_percent": 13,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0GK2829C7?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71Tf6OvEijL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-05-31T10:08:24.852819+00:00",
-      "price_history": [
-        {
-          "price": 93.41,
-          "original_price": 106.16,
-          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
-        },
-        {
-          "price": 92.11,
-          "original_price": 106.18,
-          "scraped_at": "2026-05-31T10:00:30.272199+00:00"
-        }
-      ],
-      "approved_at": "31-05-2026 11:31",
-      "auto_approved": true
-    },
-    {
-      "id": "c437d6db4f12",
-      "title": "realme Smartphone 14 x 5 G 6 + 128 GB, processor 5G Dimensity 6300, oogcomfort modus 120 Hz voor het scherm, 50 MP I.A. camera, peridotgroen, geen adapter",
-      "price": 130.93,
-      "original_price": 149.68,
-      "discount_percent": 12,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DRYP5F62?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71nwkNbdPcL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-06-01T06:14:21.361490+00:00",
-      "price_history": [
-        {
-          "price": 122.99,
-          "original_price": 149.99,
-          "scraped_at": "2026-04-19T18:00:29.266107+00:00"
-        },
-        {
-          "price": 130.93,
-          "original_price": 149.68,
-          "scraped_at": "2026-05-21T14:00:20.666535+00:00"
-        }
-      ],
-      "approved_at": "01-06-2026 07:51",
       "auto_approved": true
     }
   ]
