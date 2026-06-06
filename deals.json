@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T10:48:49.077387+00:00",
-  "total": 300,
+  "updated_at": "2026-06-06T10:48:52.838177+00:00",
+  "total": 298,
   "deals": [
     {
       "id": "8e5cdc001ecf",
@@ -548,21 +548,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986164_d81ce697-2e0e-444a-8405-ba226b9062bc.jpg?v=1780039532",
       "found_at": "2026-06-01T06:46:20.467189+00:00",
       "approved_at": "01-06-2026 07:51",
-      "auto_approved": true
-    },
-    {
-      "id": "9cdbb4744c2e",
-      "title": "JBL Bar 1300 11.1.4 MK2 (2025) Soundbar zwart",
-      "price": 1274.99,
-      "original_price": 1699.99,
-      "discount_percent": 25,
-      "category": "audio",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=334459",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a16f8be2a1b9_ASSET_MMS_160929360-500x500.png",
-      "found_at": "2026-05-22T14:33:08.236470+00:00",
-      "approved_at": "30-05-2026 11:28",
       "auto_approved": true
     },
     {
@@ -2013,33 +1998,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=334901",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a16e843ea5cb_ASSET_MMS_151329795-500x500.png",
       "found_at": "2026-05-30T06:19:52.998667+00:00",
-      "approved_at": "30-05-2026 11:28",
-      "auto_approved": true
-    },
-    {
-      "id": "8e4206a7b0e9",
-      "title": "HARMAN KARDON ENCHANT SOUNDBAR 1100 (2025) Soundbar zwart",
-      "price": 610.5,
-      "original_price": 814.0,
-      "discount_percent": 25,
-      "category": "audio",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=334460",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a16f135b3fcd_ASSET_MMS_151531139-500x500.png",
-      "found_at": "2026-05-22T14:33:08.235712+00:00",
-      "price_history": [
-        {
-          "price": 636.75,
-          "original_price": 849.0,
-          "scraped_at": "2026-05-22T14:00:43.870145+00:00"
-        },
-        {
-          "price": 610.5,
-          "original_price": 814.0,
-          "scraped_at": "2026-05-27T14:00:19.051626+00:00"
-        }
-      ],
       "approved_at": "30-05-2026 11:28",
       "auto_approved": true
     },
