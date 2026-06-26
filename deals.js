@@ -48,6 +48,29 @@ function freshnessLabel(d) {
   return '';
 }
 
+// ── Data-versheid (laatste update van deals.json) ────────────
+function dataVersheid(data) {
+  const ts = data && data.updated_at;
+  if (!ts) return { label: 'dagelijks bijgewerkt', stale: false };
+  const diffH = (Date.now() - new Date(ts).getTime()) / 3600000;
+  if (isNaN(diffH)) return { label: 'dagelijks bijgewerkt', stale: false };
+  if (diffH < 24) return { label: 'vandaag bijgewerkt', stale: false };
+  const dagen = Math.floor(diffH / 24);
+  return { label: `${dagen} dag${dagen === 1 ? '' : 'en'} geleden bijgewerkt`, stale: diffH >= 48 };
+}
+
+function toonVersheidsbanner(data) {
+  const v = dataVersheid(data);
+  if (!v.stale) return;
+  const grid = document.getElementById('deals-grid');
+  if (!grid || !grid.parentNode) return;
+  const banner = document.createElement('div');
+  banner.setAttribute('role', 'status');
+  banner.style.cssText = 'margin:0 0 1rem;padding:.6rem .9rem;border-radius:10px;background:#3a2a00;color:#ffd479;border:1px solid #6b4e00;font-size:.9rem';
+  banner.textContent = `⚠️ Deze deals zijn ${v.label}. Er kunnen verouderde aanbiedingen tussen staan.`;
+  grid.parentNode.insertBefore(banner, grid);
+}
+
 // ── Card rendering ───────────────────────────────────────────
 function renderCard(d) {
   const disc = d.discount_percent || 0;
@@ -180,13 +203,14 @@ async function boot() {
 
     const top = cat.slice(0, 24);
     grid.innerHTML = top.map(d => renderCard(d)).join('');
+    toonVersheidsbanner(data);
     if (cat.length > 24) {
       document.getElementById('more-cta').style.display = 'block';
       const moreLink = document.querySelector('#more-cta .btn-more');
       if (moreLink) moreLink.href = `./deals.html?categorie=${slug}`;
     }
 
-    document.getElementById('page-sub').textContent = `${cat.length} ${catName} deals · dagelijks bijgewerkt`;
+    document.getElementById('page-sub').textContent = `${cat.length} ${catName} deals · ${dataVersheid(data).label}`;
     updateItemListSchema(top);
   } catch (e) {
     document.getElementById('page-sub').textContent = 'Deals laden mislukt.';
