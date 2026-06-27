@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T10:25:13.784501+00:00",
-  "total": 295,
+  "updated_at": "2026-06-27T14:34:07.352483+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -2600,6 +2600,48 @@
         }
       ],
       "approved_at": "26-06-2026 16:53",
+      "auto_approved": true
+    },
+    {
+      "id": "111aac6c07b8",
+      "title": "Kenowa 17,3 inch USB-C draagbare monitor HD 1600 * 900 scherm LCD externe monitor met type-C/HDMI hoofdtelefoonaansluiting voor PS3, PS4, Mac, Raspberry Pi B, computer laptop",
+      "price": 79.98,
+      "original_price": 179.99,
+      "discount_percent": 55,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DS8HLGT6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71wzKOSxltL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-27T14:22:46.671207+00:00",
+      "price_history": [
+        {
+          "price": 81.73,
+          "original_price": 99.99,
+          "scraped_at": "2026-03-06T07:00:17.651347+00:00"
+        },
+        {
+          "price": 70.49,
+          "original_price": 129.99,
+          "scraped_at": "2026-04-01T06:01:05.696489+00:00"
+        },
+        {
+          "price": 70.01,
+          "original_price": 89.99,
+          "scraped_at": "2026-04-18T18:00:28.243177+00:00"
+        },
+        {
+          "price": 80.93,
+          "original_price": 129.99,
+          "scraped_at": "2026-06-16T18:01:34.022827+00:00"
+        },
+        {
+          "price": 79.98,
+          "original_price": 179.99,
+          "scraped_at": "2026-06-27T14:00:53.290089+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 15:34",
       "auto_approved": true
     },
     {
@@ -8504,6 +8546,154 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391587_97272d60-0eec-44d2-9259-22970a3335a6.jpg?v=1782118359",
       "found_at": "2026-06-27T06:36:29.895499+00:00",
       "approved_at": "27-06-2026 11:25",
+      "auto_approved": true
+    },
+    {
+      "id": "f43b22497c66",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 277.0,
+      "original_price": 385.99,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18612",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_68abeb9f-1ac5-48e5-ab12-e3886f14d4b4.jpg?v=1782117271",
+      "found_at": "2026-06-27T14:29:29.988314+00:00",
+      "price_history": [
+        {
+          "price": 236.0,
+          "original_price": 329.0,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 277.0,
+          "original_price": 385.99,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "ab8670e54462",
+      "title": "DJI DL 50mm F2.8 LS ASPH for Zenmuse X7",
+      "price": 1091.0,
+      "original_price": 1297.37,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-dl-50mm-f2-8-ls-asph-for-zenmuse-x7-r-18479",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/DJI_20DL_2050mm_20F2_8_20LS_20ASPH_20for_20Zenmuse_20X7_6b205b43-b9db-4051-b4da-42cc42de55f0.webp?v=1780913243",
+      "found_at": "2026-06-27T14:29:26.738640+00:00",
+      "price_history": [
+        {
+          "price": 1227.0,
+          "original_price": 1366.49,
+          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
+        },
+        {
+          "price": 1287.0,
+          "original_price": 1312.57,
+          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
+        },
+        {
+          "price": 1245.0,
+          "original_price": 1382.89,
+          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
+        },
+        {
+          "price": 1175.0,
+          "original_price": 1297.37,
+          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
+        },
+        {
+          "price": 1091.0,
+          "original_price": 1297.37,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "eed6b2212ce7",
+      "title": "Oral-B iO 3N Zwart",
+      "price": 49.0,
+      "original_price": 79.39,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-3n-zwart-r-18504",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2190256_5654079a-b160-4924-bb55-4a76f9fa24ec.jpg?v=1781509741",
+      "found_at": "2026-06-27T14:29:33.250040+00:00",
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 63.55,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 72.74,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 80.42,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 78.83,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 79.39,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "0b0c49f873e3",
+      "title": "Whirlpool MWP 295 B",
+      "price": 114.0,
+      "original_price": 172.89,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/whirlpool-mwp-295-b-r-18546",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242790.jpg?v=1781265633",
+      "found_at": "2026-06-27T14:29:39.337640+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 172.18,
+          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 171.5,
+          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 175.11,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 174.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 15:34",
       "auto_approved": true
     }
   ]
