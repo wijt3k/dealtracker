@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T06:41:57.735498+00:00",
-  "total": 291,
+  "updated_at": "2026-06-27T10:25:11.135923+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -1171,6 +1171,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1627672882.jpg?v=1782117275",
       "found_at": "2026-06-23T10:23:48.329584+00:00",
       "approved_at": "26-06-2026 16:53",
+      "auto_approved": true
+    },
+    {
+      "id": "7084bb716452",
+      "title": "JBL Live 680NC Draadloze On-Ear Koptelefoon met Noise-Cancelling, Bluetooth, Multi-pointverbinding, een Batterijlevensduur tot 80 uur, Zwart",
+      "price": 141.11,
+      "original_price": 349.99,
+      "discount_percent": 59,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GLP7M2TJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61jUeYnBmUL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-27T10:09:48.112780+00:00",
+      "approved_at": "27-06-2026 11:25",
       "auto_approved": true
     },
     {
@@ -2376,6 +2391,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1909835_3be03d54-cbe1-49ef-8c62-4ad8dea25663.jpg?v=1780664292",
       "found_at": "2026-06-09T10:31:20.140962+00:00",
       "approved_at": "09-06-2026 11:36",
+      "auto_approved": true
+    },
+    {
+      "id": "e6b94c48d7ec",
+      "title": "Technics EAH-A800E-K Premium Class Noise Cancelling hoofdtelefoon (Bluetooth, ruisonderdrukking, over-ear, 50 uur batterijduur) zwart",
+      "price": 147.23,
+      "original_price": 299.0,
+      "discount_percent": 50,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09PZ73FD4?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71eWpPrV0oL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-27T10:09:55.277917+00:00",
+      "price_history": [
+        {
+          "price": 158.69,
+          "original_price": 169.0,
+          "scraped_at": "2026-03-14T19:00:30.611206+00:00"
+        },
+        {
+          "price": 147.23,
+          "original_price": 299.0,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 11:25",
       "auto_approved": true
     },
     {
@@ -7916,6 +7958,63 @@
       "auto_approved": true
     },
     {
+      "id": "725ef1f350b7",
+      "title": "Braun Silk-épil 9 Flex 9-060 3D Goud",
+      "price": 92.0,
+      "original_price": 151.0,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-epil-9-flex-9-060-3d-goud-r-18574",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2021091038.jpg?v=1781510263",
+      "found_at": "2026-06-27T10:20:25.767319+00:00",
+      "price_history": [
+        {
+          "price": 115.0,
+          "original_price": 160.0,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 157.0,
+          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
+        },
+        {
+          "price": 106.0,
+          "original_price": 157.0,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 157.0,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 157.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 157.0,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 157.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 151.0,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 11:25",
+      "auto_approved": true
+    },
+    {
       "id": "f8199172feb8",
       "title": "Solis Tafelgrill 5-in-1",
       "price": 155.0,
@@ -7980,6 +8079,36 @@
         }
       ],
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "1446acd5d6ee",
+      "title": "Belkin 20000 mAh 30W PD Powerbank met geïntegreerde USB‑C kabel – Blauw",
+      "price": 27.0,
+      "original_price": 47.41,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/belkin-20000-mah-30w-pd-powerbank-met-geintegreerde-usb-c-kabel-blauw-r-18773",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/BELKIN_20R-18773.jpg?v=1782380700",
+      "found_at": "2026-06-27T10:20:25.765574+00:00",
+      "approved_at": "27-06-2026 11:25",
+      "auto_approved": true
+    },
+    {
+      "id": "4938153ee8eb",
+      "title": "INFINIX Hot 40 Pro Smartphone, zwart, 8, 256 GB",
+      "price": 141.08,
+      "original_price": 220.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CSBPPJ6M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61kDdP3vlHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-27T10:06:04.221782+00:00",
+      "approved_at": "27-06-2026 11:25",
       "auto_approved": true
     },
     {
@@ -8084,6 +8213,38 @@
       "auto_approved": true
     },
     {
+      "id": "a7a85a0eba4b",
+      "title": "Philips Shaver i9000 Prestige Ultra XP9402/31",
+      "price": 251.0,
+      "original_price": 359.26,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-ultra-xp9402-31-r-18562",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156221_8f829374-4d4e-4c32-885e-ba27f87c0083.jpg?v=1781510170",
+      "found_at": "2026-06-27T10:20:37.601225+00:00",
+      "price_history": [
+        {
+          "price": 275.0,
+          "original_price": 349.62,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 266.0,
+          "original_price": 332.88,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 359.26,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 11:25",
+      "auto_approved": true
+    },
+    {
       "id": "7260fb93845f",
       "title": "Smart TV LG 27LX6TDGA LCD 27\" LED TFT Multi-touch",
       "price": 794.78,
@@ -8111,6 +8272,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2171184.jpg?v=1782117403",
       "found_at": "2026-06-26T18:10:40.636044+00:00",
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "9f24bda4dcda",
+      "title": "Pioneer SPH-DA160DAB",
+      "price": 291.0,
+      "original_price": 404.47,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/pioneer-sph-da160dab-r-18503",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1589816_ea804176-d375-46d1-bc06-02aea8980081.jpg?v=1781509741",
+      "found_at": "2026-06-27T10:20:37.601308+00:00",
+      "price_history": [
+        {
+          "price": 300.0,
+          "original_price": 363.02,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 344.45,
+          "scraped_at": "2026-06-17T10:02:09.994574+00:00"
+        },
+        {
+          "price": 254.0,
+          "original_price": 390.23,
+          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 390.23,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 403.97,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 291.0,
+          "original_price": 404.47,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 11:25",
       "auto_approved": true
     },
     {
@@ -8175,6 +8383,48 @@
         }
       ],
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "dda6d2ce3815",
+      "title": "Meta Quest 3 512GB",
+      "price": 491.0,
+      "original_price": 639.86,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/meta-quest-3-512gb-r-18526",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1964343_267cf85d-122c-432e-9da1-1dc654cea425.jpg?v=1781509969",
+      "found_at": "2026-06-27T10:20:33.747922+00:00",
+      "price_history": [
+        {
+          "price": 498.0,
+          "original_price": 659.1,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 539.0,
+          "original_price": 667.22,
+          "scraped_at": "2026-06-18T10:01:30.763870+00:00"
+        },
+        {
+          "price": 522.0,
+          "original_price": 653.26,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 520.0,
+          "original_price": 639.86,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 491.0,
+          "original_price": 639.86,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 11:25",
       "auto_approved": true
     },
     {
@@ -8314,6 +8564,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1617428_3c92ec2b-705f-4a43-afac-655ea622a97c.jpg?v=1782198894",
       "found_at": "2026-06-26T18:10:34.452054+00:00",
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "4f49ac52ad5f",
+      "title": "Bosch Serie 8 In'genius ProSilence BGL8SIL5",
+      "price": 165.0,
+      "original_price": 244.0,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-serie-8-ingenius-prosilence-bgl8sil5-r-18699",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391587_97272d60-0eec-44d2-9259-22970a3335a6.jpg?v=1782118359",
+      "found_at": "2026-06-27T06:36:29.895499+00:00",
+      "approved_at": "27-06-2026 11:25",
       "auto_approved": true
     }
   ]
