@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-27T14:34:14.066696+00:00",
-  "total": 295,
+  "updated_at": "2026-06-27T18:19:27.824947+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -2481,6 +2481,21 @@
         }
       ],
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "456d5473d2e3",
+      "title": "SAMSUNG T395 Galaxy Tab Active 2 4G 16GB zwart EU",
+      "price": 90.0,
+      "original_price": 199.99,
+      "discount_percent": 54,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07DGQK16S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61C+TGDQiDL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-06-27T18:04:56.490351+00:00",
+      "approved_at": "27-06-2026 19:19",
       "auto_approved": true
     },
     {
@@ -8607,6 +8622,93 @@
         }
       ],
       "approved_at": "27-06-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "1e55022c2f53",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 258.0,
+      "original_price": 359.0,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18753",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_706f2a79-1379-4669-a81e-9fb787fd58f5.jpg?v=1782380538",
+      "found_at": "2026-06-27T18:14:02.789034+00:00",
+      "approved_at": "27-06-2026 19:19",
+      "auto_approved": true
+    },
+    {
+      "id": "e25bd77ab175",
+      "title": "Sony WH-1000XM4 Zwart",
+      "price": 199.0,
+      "original_price": 284.3,
+      "discount_percent": 30,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm4-zwart-r-18521",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1462421_7381b866-9dc5-43ce-88f1-df9eea3ce888.jpg?v=1781509911",
+      "found_at": "2026-06-27T18:14:11.056723+00:00",
+      "price_history": [
+        {
+          "price": 197.0,
+          "original_price": 244.75,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 205.0,
+          "original_price": 252.28,
+          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
+        },
+        {
+          "price": 198.0,
+          "original_price": 254.42,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 212.0,
+          "original_price": 277.97,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 199.0,
+          "original_price": 284.3,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "27-06-2026 19:19",
+      "auto_approved": true
+    },
+    {
+      "id": "66c6198f1570",
+      "title": "Miele Guard L1 Cat & Dog",
+      "price": 252.0,
+      "original_price": 350.0,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-guard-l1-cat-dog-r-18726",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2128796_530ab6e2-522d-494c-b986-d61364c1c328.jpg?v=1782199351",
+      "found_at": "2026-06-27T18:14:05.434637+00:00",
+      "approved_at": "27-06-2026 19:19",
+      "auto_approved": true
+    },
+    {
+      "id": "81358b42cc50",
+      "title": "Shark CryoGlow FW312EUPL",
+      "price": 239.0,
+      "original_price": 335.23,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/shark-cryoglow-fw312eupl-r-18662",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2223859.jpg?v=1782117977",
+      "found_at": "2026-06-27T18:14:07.784206+00:00",
+      "approved_at": "27-06-2026 19:19",
       "auto_approved": true
     }
   ]
