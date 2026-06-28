@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T14:33:56.244292+00:00",
-  "total": 295,
+  "updated_at": "2026-06-28T18:17:49.708373+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -1259,6 +1259,38 @@
         }
       ],
       "approved_at": "26-06-2026 16:53",
+      "auto_approved": true
+    },
+    {
+      "id": "72772b065ecb",
+      "title": "Dreame X50 Black",
+      "price": 638.0,
+      "original_price": 989.24,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-x50-black-r-18769",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132153_a32cc5b9-43d9-4389-a209-818b2d4793c3.jpg?v=1782380654",
+      "found_at": "2026-06-28T18:12:31.197079+00:00",
+      "price_history": [
+        {
+          "price": 590.0,
+          "original_price": 980.81,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 584.0,
+          "original_price": 980.57,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        },
+        {
+          "price": 638.0,
+          "original_price": 989.24,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        }
+      ],
+      "approved_at": "28-06-2026 19:17",
       "auto_approved": true
     },
     {
@@ -8690,6 +8722,182 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1942334_9bf9a958-7218-4ff5-accd-32637f1c46a2.jpg?v=1782117446",
       "found_at": "2026-06-28T14:29:39.865744+00:00",
       "approved_at": "28-06-2026 15:33",
+      "auto_approved": true
+    },
+    {
+      "id": "e4aa02b9c15b",
+      "title": "LG DS80QY",
+      "price": 506.0,
+      "original_price": 625.67,
+      "discount_percent": 19,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds80qy-r-18409",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1750436_cc1845af-157e-4536-bb29-0fa4259ea752.jpg?v=1780664653",
+      "found_at": "2026-06-28T18:12:34.299138+00:00",
+      "price_history": [
+        {
+          "price": 597.0,
+          "original_price": 642.67,
+          "scraped_at": "2026-06-08T14:00:43.100128+00:00"
+        },
+        {
+          "price": 644.0,
+          "original_price": 700.0,
+          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
+        },
+        {
+          "price": 597.0,
+          "original_price": 674.5,
+          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
+        },
+        {
+          "price": 577.0,
+          "original_price": 655.4,
+          "scraped_at": "2026-06-14T10:00:44.917407+00:00"
+        },
+        {
+          "price": 545.0,
+          "original_price": 614.0,
+          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
+        },
+        {
+          "price": 506.0,
+          "original_price": 625.67,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        }
+      ],
+      "approved_at": "28-06-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "a9990dc073d8",
+      "title": "Reolink Argus B440 + Solar Panel 2",
+      "price": 125.0,
+      "original_price": 173.95,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/reolink-argus-b440-solar-panel-2-r-18645",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2250388.jpg?v=1782117775",
+      "found_at": "2026-06-28T18:12:40.267969+00:00",
+      "approved_at": "28-06-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "a6ca2f57abb0",
+      "title": "Tefal OptiGrill+ GC717D Rvs",
+      "price": 104.0,
+      "original_price": 145.73,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-optigrill-gc717d-rvs-r-18393",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2042333.jpg?v=1780665569",
+      "found_at": "2026-06-28T18:12:40.270516+00:00",
+      "price_history": [
+        {
+          "price": 111.0,
+          "original_price": 121.0,
+          "scraped_at": "2026-06-08T14:00:43.100128+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 138.5,
+          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 147.58,
+          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 142.44,
+          "scraped_at": "2026-06-11T10:00:22.772546+00:00"
+        },
+        {
+          "price": 117.0,
+          "original_price": 144.78,
+          "scraped_at": "2026-06-12T10:00:30.823624+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 123.83,
+          "scraped_at": "2026-06-13T10:00:49.793138+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 128.67,
+          "scraped_at": "2026-06-14T10:00:44.917407+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 136.83,
+          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": 131.33,
+          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 133.33,
+          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
+        },
+        {
+          "price": 103.0,
+          "original_price": 133.5,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 145.73,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        }
+      ],
+      "approved_at": "28-06-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "0f6ba3af7ce6",
+      "title": "Kenwood Multipro Go FDP23.140GY Storm Grey",
+      "price": 53.0,
+      "original_price": 76.45,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kenwood-multipro-go-fdp23-140gy-storm-grey-r-18668",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2105219769.jpg?v=1782118071",
+      "found_at": "2026-06-28T18:12:34.297232+00:00",
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 76.45,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 74.9,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 74.9,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 76.45,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        }
+      ],
+      "approved_at": "28-06-2026 19:17",
       "auto_approved": true
     }
   ]
