@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T10:45:52.520973+00:00",
-  "total": 296,
+  "updated_at": "2026-06-29T14:27:27.996995+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -7902,6 +7902,38 @@
       "auto_approved": true
     },
     {
+      "id": "509480d23589",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 289.0,
+      "original_price": 401.82,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18656",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_1c80005e-dfdd-4925-b175-3e9b5f1b318d.jpg?v=1782117921",
+      "found_at": "2026-06-28T18:12:34.298347+00:00",
+      "price_history": [
+        {
+          "price": 289.0,
+          "original_price": 385.99,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 339.0,
+          "original_price": 385.99,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 289.0,
+          "original_price": 390.99,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        }
+      ],
+      "approved_at": "29-06-2026 15:27",
+      "auto_approved": true
+    },
+    {
       "id": "31a2e188a6f8",
       "title": "Moulinex PerfectMix Cook LM835D10",
       "price": 111.0,
@@ -8616,6 +8648,33 @@
       "auto_approved": true
     },
     {
+      "id": "7be4d0032918",
+      "title": "BaByliss Air Wand 3-in-1 Wet To Dry AS6550E",
+      "price": 71.0,
+      "original_price": 109.81,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-air-wand-3-in-1-wet-to-dry-as6550e-r-18671",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2045120_26b1e5a7-8b90-4dc9-807e-2238f3fd972f.jpg?v=1782118077",
+      "found_at": "2026-06-28T18:12:28.056884+00:00",
+      "price_history": [
+        {
+          "price": 74.0,
+          "original_price": 91.05,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 109.81,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        }
+      ],
+      "approved_at": "29-06-2026 15:27",
+      "auto_approved": true
+    },
+    {
       "id": "511b83aad76b",
       "title": "Philips Series 9000 20-in-1 MG9557/15",
       "price": 68.0,
@@ -8798,6 +8857,48 @@
         }
       ],
       "approved_at": "29-06-2026 11:45",
+      "auto_approved": true
+    },
+    {
+      "id": "34a65d264334",
+      "title": "Makita DUR193RT",
+      "price": 150.0,
+      "original_price": 216.02,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/makita-dur193rt-r-18625",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1942334_9bf9a958-7218-4ff5-accd-32637f1c46a2.jpg?v=1782117446",
+      "found_at": "2026-06-29T14:21:40.638574+00:00",
+      "price_history": [
+        {
+          "price": 156.0,
+          "original_price": 218.35,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 216.02,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        }
+      ],
+      "approved_at": "29-06-2026 15:27",
+      "auto_approved": true
+    },
+    {
+      "id": "a6b4967db0a7",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 439.0,
+      "original_price": 564.0,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-18747",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_bc5ddc65-b9b6-4cc9-ade4-4d7872f2bbc6.jpg?v=1782380499",
+      "found_at": "2026-06-28T18:12:40.267756+00:00",
+      "approved_at": "29-06-2026 15:27",
       "auto_approved": true
     }
   ]
