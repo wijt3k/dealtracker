@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T10:59:54.120254+00:00",
-  "total": 296,
+  "updated_at": "2026-06-30T14:20:06.968115+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -6164,6 +6164,33 @@
       "auto_approved": true
     },
     {
+      "id": "66c6198f1570",
+      "title": "Miele Guard L1 Cat & Dog",
+      "price": 220.0,
+      "original_price": 347.25,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-guard-l1-cat-dog-r-18726",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2128796_530ab6e2-522d-494c-b986-d61364c1c328.jpg?v=1782199351",
+      "found_at": "2026-06-28T06:32:43.839980+00:00",
+      "price_history": [
+        {
+          "price": 252.0,
+          "original_price": 350.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 220.0,
+          "original_price": 347.25,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
+      "auto_approved": true
+    },
+    {
       "id": "155e49b4146f",
       "title": "Samsung Galaxy Watch4 Classic, Runde Bluetooth Smartwatch, Wear OS, drehbare Lünette, Fitnessuhr, Fitness-Tracker, 42 mm, Silver",
       "price": 71.25,
@@ -6198,6 +6225,21 @@
         }
       ],
       "approved_at": "28-06-2026 15:33",
+      "auto_approved": true
+    },
+    {
+      "id": "505c5fe2575b",
+      "title": "Xiaomi Outdoor Camera CW300 [Amazon Exclusive], 2 infrarood leds, 4MP HD-resolutie, nachtzicht in kleur, weerbestendig, menselijke detectie dankzij AI",
+      "price": 58.75,
+      "original_price": 109.99,
+      "discount_percent": 46,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CVHK3Y4G?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71K0IeRuU+L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-06-30T14:10:29.152196+00:00",
+      "approved_at": "30-06-2026 15:20",
       "auto_approved": true
     },
     {
@@ -7248,6 +7290,38 @@
       "auto_approved": true
     },
     {
+      "id": "2e4d73f83bd4",
+      "title": "Garmin Forerunner 165 Zwart/Grijs",
+      "price": 141.0,
+      "original_price": 227.54,
+      "discount_percent": 38,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-forerunner-165-zwart-grijs-r-18735",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017022_1528d6a2-5f43-4579-8f0e-d68625999f57.jpg?v=1782199477",
+      "found_at": "2026-06-30T14:14:16.690099+00:00",
+      "price_history": [
+        {
+          "price": 141.0,
+          "original_price": 228.41,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 225.55,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 235.56,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
+      "auto_approved": true
+    },
+    {
       "id": "0409afe14c7d",
       "title": "Samsung Galaxy Tab S9 Ultra 14.6 inch 256 GB Wifi Zwart",
       "price": 762.0,
@@ -7384,6 +7458,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1774643_0da1f0c6-16f5-4431-8f80-6fecaf1f3ff8.jpg?v=1782199513",
       "found_at": "2026-06-26T18:10:34.448877+00:00",
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "0b0c49f873e3",
+      "title": "Whirlpool MWP 295 B",
+      "price": 114.0,
+      "original_price": 187.74,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/whirlpool-mwp-295-b-r-18546",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242790.jpg?v=1781265633",
+      "found_at": "2026-06-27T18:14:11.057647+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 172.18,
+          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 171.5,
+          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 175.11,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 174.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
       "auto_approved": true
     },
     {
@@ -7888,6 +7999,33 @@
       "auto_approved": true
     },
     {
+      "id": "81358b42cc50",
+      "title": "Shark CryoGlow FW312EUPL",
+      "price": 229.0,
+      "original_price": 336.22,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/shark-cryoglow-fw312eupl-r-18662",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2223859.jpg?v=1782117977",
+      "found_at": "2026-06-28T06:32:47.146371+00:00",
+      "price_history": [
+        {
+          "price": 239.0,
+          "original_price": 333.0,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 229.0,
+          "original_price": 337.14,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
+      "auto_approved": true
+    },
+    {
       "id": "b4678a7021ce",
       "title": "JBL Endurance Peak3 Zwart",
       "price": 58.0,
@@ -7922,6 +8060,100 @@
         }
       ],
       "approved_at": "28-06-2026 15:33",
+      "auto_approved": true
+    },
+    {
+      "id": "0bb41aa927a4",
+      "title": "Lenovo IdeaPad 5 2in1 14AHP9 83DR001SGE QWERTZ",
+      "price": 491.0,
+      "original_price": 649.0,
+      "discount_percent": 24,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideapad-5-2in1-14ahp9-83dr001sge-qwertz-r-18578",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2077363_ccefce0f-3096-4569-b193-d93cb316e6d5.jpg?v=1781510307",
+      "found_at": "2026-06-28T10:14:34.897621+00:00",
+      "price_history": [
+        {
+          "price": 571.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 536.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 531.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 525.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 519.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 514.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 508.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        },
+        {
+          "price": 502.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        },
+        {
+          "price": 496.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 491.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
+      "auto_approved": true
+    },
+    {
+      "id": "ef0aa25f7e16",
+      "title": "Karcher K 2 Power Control Car & Home",
+      "price": 70.0,
+      "original_price": 115.0,
+      "discount_percent": 39,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/karcher-k-2-power-control-car-home-r-18719",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1530498_ea7a155c-19f9-4b3d-9f44-270bcab89252.jpg?v=1782199236",
+      "found_at": "2026-06-28T10:14:34.895428+00:00",
+      "price_history": [
+        {
+          "price": 74.0,
+          "original_price": 115.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 115.0,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
       "auto_approved": true
     },
     {
@@ -8127,6 +8359,65 @@
         }
       ],
       "approved_at": "27-06-2026 11:25",
+      "auto_approved": true
+    },
+    {
+      "id": "3e583675b8b1",
+      "title": "Magimix Nespresso CitiZ M196 CN Zwart",
+      "price": 129.0,
+      "original_price": 199.0,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-m196-cn-zwart-r-18667",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843717_caddaa2a-2192-4218-a001-e46566c19d98.jpg?v=1782118035",
+      "found_at": "2026-06-28T10:14:38.143065+00:00",
+      "price_history": [
+        {
+          "price": 94.0,
+          "original_price": 145.0,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
+      "auto_approved": true
+    },
+    {
+      "id": "12d1fa2c822e",
+      "title": "Rowenta X-Force Flex 9.60 RH2078 Steelstofzuiger",
+      "price": 126.0,
+      "original_price": 195.07,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-x-force-flex-9-60-rh2078-steelstofzuiger-r-18701",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1897447_4b371c3f-de78-4c14-935c-64b40cb3b8d8.jpg?v=1782118406",
+      "found_at": "2026-06-28T10:14:41.682118+00:00",
+      "price_history": [
+        {
+          "price": 132.0,
+          "original_price": 195.7,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 126.0,
+          "original_price": 195.07,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 15:20",
       "auto_approved": true
     },
     {
@@ -8630,157 +8921,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1617428_3c92ec2b-705f-4a43-afac-655ea622a97c.jpg?v=1782198894",
       "found_at": "2026-06-26T18:10:34.452054+00:00",
       "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "e76163a3374b",
-      "title": "DeLonghi  Essenza Mini EN85.R",
-      "price": 54.0,
-      "original_price": 88.12,
-      "discount_percent": 38,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/delonghi-essenza-mini-en85-r-r-18786",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135244.jpg?v=1782475802",
-      "found_at": "2026-06-29T06:22:41.804956+00:00",
-      "approved_at": "29-06-2026 07:28",
-      "auto_approved": true
-    },
-    {
-      "id": "4f49ac52ad5f",
-      "title": "Bosch Serie 8 In'genius ProSilence BGL8SIL5",
-      "price": 165.0,
-      "original_price": 244.0,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bosch-serie-8-ingenius-prosilence-bgl8sil5-r-18699",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391587_97272d60-0eec-44d2-9259-22970a3335a6.jpg?v=1782118359",
-      "found_at": "2026-06-27T06:36:29.895499+00:00",
-      "approved_at": "27-06-2026 11:25",
-      "auto_approved": true
-    },
-    {
-      "id": "f43b22497c66",
-      "title": "Lenovo Idea Tab Pro 8GB 256GB",
-      "price": 277.0,
-      "original_price": 385.99,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18612",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_68abeb9f-1ac5-48e5-ab12-e3886f14d4b4.jpg?v=1782117271",
-      "found_at": "2026-06-27T14:29:29.988314+00:00",
-      "price_history": [
-        {
-          "price": 236.0,
-          "original_price": 329.0,
-          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
-        },
-        {
-          "price": 277.0,
-          "original_price": 385.99,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        }
-      ],
-      "approved_at": "27-06-2026 15:34",
-      "auto_approved": true
-    },
-    {
-      "id": "ab8670e54462",
-      "title": "DJI DL 50mm F2.8 LS ASPH for Zenmuse X7",
-      "price": 1091.0,
-      "original_price": 1297.37,
-      "discount_percent": 15,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dji-dl-50mm-f2-8-ls-asph-for-zenmuse-x7-r-18479",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/DJI_20DL_2050mm_20F2_8_20LS_20ASPH_20for_20Zenmuse_20X7_6b205b43-b9db-4051-b4da-42cc42de55f0.webp?v=1780913243",
-      "found_at": "2026-06-27T14:29:26.738640+00:00",
-      "price_history": [
-        {
-          "price": 1227.0,
-          "original_price": 1366.49,
-          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
-        },
-        {
-          "price": 1287.0,
-          "original_price": 1312.57,
-          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
-        },
-        {
-          "price": 1245.0,
-          "original_price": 1382.89,
-          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
-        },
-        {
-          "price": 1175.0,
-          "original_price": 1297.37,
-          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
-        },
-        {
-          "price": 1091.0,
-          "original_price": 1297.37,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        }
-      ],
-      "approved_at": "27-06-2026 15:34",
-      "auto_approved": true
-    },
-    {
-      "id": "aa5b9a49cb11",
-      "title": "Just in case Premium Samsung Galaxy Tab S10 Ultra / S9 Ultra Toetsenbord Hoes QWERTY Zwart",
-      "price": 51.0,
-      "original_price": 83.33,
-      "discount_percent": 38,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/just-in-case-premium-samsung-galaxy-tab-s10-ultra-s9-ultra-toetsenbord-hoes-qwerty-zwart-r-18464",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1996802_def10747-5c9c-4d66-94e9-a9b02d039708.jpg?v=1780913181",
-      "found_at": "2026-06-30T10:53:34.491847+00:00",
-      "price_history": [
-        {
-          "price": 75.0,
-          "original_price": null,
-          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
-        },
-        {
-          "price": 78.0,
-          "original_price": null,
-          "scraped_at": "2026-06-13T10:00:49.793138+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": null,
-          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
-        },
-        {
-          "price": 68.0,
-          "original_price": 81.33,
-          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
-        },
-        {
-          "price": 63.0,
-          "original_price": 81.0,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        },
-        {
-          "price": 66.0,
-          "original_price": 83.33,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 83.33,
-          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
-        }
-      ],
-      "approved_at": "30-06-2026 11:59",
       "auto_approved": true
     }
   ]
