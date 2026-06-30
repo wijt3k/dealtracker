@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T14:20:06.968115+00:00",
+  "updated_at": "2026-06-30T18:36:28.194071+00:00",
   "total": 300,
   "deals": [
     {
@@ -692,6 +692,53 @@
         }
       ],
       "approved_at": "26-06-2026 16:53",
+      "auto_approved": true
+    },
+    {
+      "id": "ab8670e54462",
+      "title": "DJI DL 50mm F2.8 LS ASPH for Zenmuse X7",
+      "price": 839.0,
+      "original_price": 1298.72,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-dl-50mm-f2-8-ls-asph-for-zenmuse-x7-r-18479",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/DJI_20DL_2050mm_20F2_8_20LS_20ASPH_20for_20Zenmuse_20X7_6b205b43-b9db-4051-b4da-42cc42de55f0.webp?v=1780913243",
+      "found_at": "2026-06-27T18:13:59.458761+00:00",
+      "price_history": [
+        {
+          "price": 1227.0,
+          "original_price": 1366.49,
+          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
+        },
+        {
+          "price": 1287.0,
+          "original_price": 1312.57,
+          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
+        },
+        {
+          "price": 1245.0,
+          "original_price": 1382.89,
+          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
+        },
+        {
+          "price": 1175.0,
+          "original_price": 1297.37,
+          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
+        },
+        {
+          "price": 1091.0,
+          "original_price": 1297.37,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 839.0,
+          "original_price": 1298.72,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
       "auto_approved": true
     },
     {
@@ -1700,6 +1747,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068521.jpg?v=1780407324",
       "found_at": "2026-06-30T10:53:41.093011+00:00",
       "approved_at": "30-06-2026 11:59",
+      "auto_approved": true
+    },
+    {
+      "id": "d7f0793cd7be",
+      "title": "Philips 24B2N3200J - 24\" FHD-monitor, luidsprekers, in hoogte verstelbaar (1920x1080, 120 Hz, VGA, HDMI 1.4, DisplayPort 1.2, USB-hub) zwart",
+      "price": 78.08,
+      "original_price": 199.99,
+      "discount_percent": 60,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FDGPPPHB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71JWDeolmkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-30T18:22:45.493141+00:00",
+      "price_history": [
+        {
+          "price": 103.03,
+          "original_price": 143.66,
+          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
+        },
+        {
+          "price": 82.06,
+          "original_price": 140.18,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 78.08,
+          "original_price": 199.99,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
       "auto_approved": true
     },
     {
@@ -3232,6 +3311,38 @@
         }
       ],
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "f43b22497c66",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 236.0,
+      "original_price": 401.82,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18612",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_68abeb9f-1ac5-48e5-ab12-e3886f14d4b4.jpg?v=1782117271",
+      "found_at": "2026-06-27T18:14:02.788581+00:00",
+      "price_history": [
+        {
+          "price": 236.0,
+          "original_price": 329.0,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 277.0,
+          "original_price": 385.99,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 401.82,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
       "auto_approved": true
     },
     {
@@ -7171,6 +7282,88 @@
       "auto_approved": true
     },
     {
+      "id": "f03955dbf34c",
+      "title": "Blackview Wave 9C Smartphone Android 15, telefoon 12 GB + 128 GB/2 TB TF, mobiele telefoon 6,56 inch HD + 60 Hz scherm, telefoons 5000 mAh, 13 MP + 8 MP, 32 GB TF, draaibare hoes voor telefoon, 4G",
+      "price": 79.57,
+      "original_price": 139.17,
+      "discount_percent": 42,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FLCP2HMQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71JL75RfZOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-30T18:10:08.723354+00:00",
+      "price_history": [
+        {
+          "price": 88.18,
+          "original_price": 144.99,
+          "scraped_at": "2026-03-10T15:00:15.652099+00:00"
+        },
+        {
+          "price": 87.62,
+          "original_price": 125.99,
+          "scraped_at": "2026-03-19T07:00:33.633312+00:00"
+        },
+        {
+          "price": 87.96,
+          "original_price": 99.99,
+          "scraped_at": "2026-04-02T06:00:30.360866+00:00"
+        },
+        {
+          "price": 86.12,
+          "original_price": 105.99,
+          "scraped_at": "2026-04-20T06:00:58.452126+00:00"
+        },
+        {
+          "price": 85.58,
+          "original_price": 99.99,
+          "scraped_at": "2026-04-30T06:00:33.863524+00:00"
+        },
+        {
+          "price": 72.64,
+          "original_price": 105.99,
+          "scraped_at": "2026-05-05T10:00:28.913559+00:00"
+        },
+        {
+          "price": 83.12,
+          "original_price": 105.99,
+          "scraped_at": "2026-05-10T14:00:18.127089+00:00"
+        },
+        {
+          "price": 81.75,
+          "original_price": 105.99,
+          "scraped_at": "2026-05-15T18:00:25.822718+00:00"
+        },
+        {
+          "price": 80.66,
+          "original_price": 105.99,
+          "scraped_at": "2026-05-20T18:00:27.737731+00:00"
+        },
+        {
+          "price": 79.71,
+          "original_price": 105.99,
+          "scraped_at": "2026-05-29T10:00:19.189086+00:00"
+        },
+        {
+          "price": 79.6,
+          "original_price": 999.0,
+          "scraped_at": "2026-06-03T18:00:50.695797+00:00"
+        },
+        {
+          "price": 81.37,
+          "original_price": 1249.0,
+          "scraped_at": "2026-06-19T14:01:13.302397+00:00"
+        },
+        {
+          "price": 79.57,
+          "original_price": 139.17,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
+      "auto_approved": true
+    },
+    {
       "id": "3e4de8485c27",
       "title": "AOC monitor 27B3HMA2",
       "price": 79.0,
@@ -7458,6 +7651,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1774643_0da1f0c6-16f5-4431-8f80-6fecaf1f3ff8.jpg?v=1782199513",
       "found_at": "2026-06-26T18:10:34.448877+00:00",
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "22a3c9c28b39",
+      "title": "ACER Standaard monitor EK241YEbi – 23,8 inch (60 cm) 16:9 – FHD (1920 x 1080) – 100 Hz HDMI, 75 Hz VGA – LED-paneel IPS, Flat, 5ms (GTG)/1ms (VRB)",
+      "price": 69.72,
+      "original_price": 121.79,
+      "discount_percent": 42,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CKSTPN1T?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71-u5ABh69L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-06-30T18:19:26.609445+00:00",
+      "price_history": [
+        {
+          "price": 72.09,
+          "original_price": 121.79,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 69.72,
+          "original_price": 121.79,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
       "auto_approved": true
     },
     {
@@ -7770,6 +7990,38 @@
       "auto_approved": true
     },
     {
+      "id": "e76163a3374b",
+      "title": "DeLonghi  Essenza Mini EN85.R",
+      "price": 51.0,
+      "original_price": 89.22,
+      "discount_percent": 42,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-essenza-mini-en85-r-r-18786",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135244.jpg?v=1782475802",
+      "found_at": "2026-06-29T10:39:52.767916+00:00",
+      "price_history": [
+        {
+          "price": 54.0,
+          "original_price": 88.12,
+          "scraped_at": "2026-06-29T06:01:31.926194+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 89.37,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 89.22,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
+      "auto_approved": true
+    },
+    {
       "id": "bff1a8d3d0a4",
       "title": "Sony WH-1000XM4 Zwart",
       "price": 162.0,
@@ -7854,6 +8106,38 @@
         }
       ],
       "approved_at": "27-06-2026 11:25",
+      "auto_approved": true
+    },
+    {
+      "id": "61eb08519bad",
+      "title": "Dell Monitor, SE2422H, 23,8 inch, LED LCD, VA, 12 ms, 75 Hz, 250 cd/m², VGA, HDMI, AMD FreeSync, 3 jaar DELL vervangingsservice, zwart",
+      "price": 72.51,
+      "original_price": 121.92,
+      "discount_percent": 40,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B095721RV6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71gnDQ-t3LL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-06-30T18:19:57.660505+00:00",
+      "price_history": [
+        {
+          "price": 80.23,
+          "original_price": 123.32,
+          "scraped_at": "2026-06-20T06:01:33.693299+00:00"
+        },
+        {
+          "price": 76.37,
+          "original_price": 121.92,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 72.51,
+          "original_price": 121.92,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        }
+      ],
+      "approved_at": "30-06-2026 19:36",
       "auto_approved": true
     },
     {
@@ -8616,311 +8900,6 @@
         }
       ],
       "approved_at": "29-06-2026 15:27",
-      "auto_approved": true
-    },
-    {
-      "id": "31a2e188a6f8",
-      "title": "Moulinex PerfectMix Cook LM835D10",
-      "price": 111.0,
-      "original_price": 170.99,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/moulinex-perfectmix-cook-lm835d10-r-18678",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2024174_d7efb5c5-e736-4189-bdbf-982a2ba35d28.jpg?v=1782118212",
-      "found_at": "2026-06-26T18:10:43.958964+00:00",
-      "price_history": [
-        {
-          "price": 111.0,
-          "original_price": 154.99,
-          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
-        },
-        {
-          "price": 113.0,
-          "original_price": 156.99,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        },
-        {
-          "price": 106.0,
-          "original_price": 168.66,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 170.99,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "dda6d2ce3815",
-      "title": "Meta Quest 3 512GB",
-      "price": 491.0,
-      "original_price": 639.86,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/meta-quest-3-512gb-r-18526",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1964343_267cf85d-122c-432e-9da1-1dc654cea425.jpg?v=1781509969",
-      "found_at": "2026-06-27T10:20:33.747922+00:00",
-      "price_history": [
-        {
-          "price": 498.0,
-          "original_price": 659.1,
-          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
-        },
-        {
-          "price": 539.0,
-          "original_price": 667.22,
-          "scraped_at": "2026-06-18T10:01:30.763870+00:00"
-        },
-        {
-          "price": 522.0,
-          "original_price": 653.26,
-          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
-        },
-        {
-          "price": 520.0,
-          "original_price": 639.86,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        },
-        {
-          "price": 491.0,
-          "original_price": 639.86,
-          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
-        }
-      ],
-      "approved_at": "27-06-2026 11:25",
-      "auto_approved": true
-    },
-    {
-      "id": "46d76eabf92e",
-      "title": "Harman Kardon Citation 500 Grijs",
-      "price": 475.0,
-      "original_price": 623.0,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/harman-kardon-citation-500-grijs-r-18441",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1377616.jpg?v=1780912781",
-      "found_at": "2026-06-26T18:10:40.633749+00:00",
-      "price_history": [
-        {
-          "price": 573.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
-        },
-        {
-          "price": 538.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
-        },
-        {
-          "price": 533.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
-        },
-        {
-          "price": 527.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-17T10:02:09.994574+00:00"
-        },
-        {
-          "price": 521.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-18T10:01:30.763870+00:00"
-        },
-        {
-          "price": 515.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
-        },
-        {
-          "price": 510.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
-        },
-        {
-          "price": 504.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
-        },
-        {
-          "price": 498.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
-        },
-        {
-          "price": 492.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
-        },
-        {
-          "price": 487.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        },
-        {
-          "price": 481.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        },
-        {
-          "price": 475.0,
-          "original_price": 623.0,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "915733b6c478",
-      "title": "Samsung Galaxy A14 4G 64 GB Zwart",
-      "price": 124.0,
-      "original_price": 189.5,
-      "discount_percent": 34,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-a14-4g-64-gb-zwart-r-18483",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1893299_02a1663a-e28e-4d46-8501-59f4ca27a4f3.jpg?v=1780917085",
-      "found_at": "2026-06-13T06:23:29.628521+00:00",
-      "price_history": [
-        {
-          "price": 128.0,
-          "original_price": 150.9,
-          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
-        },
-        {
-          "price": 124.0,
-          "original_price": 150.83,
-          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "86ea9e2c3300",
-      "title": "Philips Azur 8000 Series DST8050/20",
-      "price": 88.0,
-      "original_price": 138.27,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-azur-8000-series-dst8050-20-r-18693",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1805774_981e49d3-969f-4f4b-9d74-4e3a96346c55.jpg?v=1782118298",
-      "found_at": "2026-06-26T18:10:47.782773+00:00",
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "7ccd87669e4d",
-      "title": "SPC Gravity Pro Tablet 12 inch met FHD antireflecterend mat View display, 256 GB uitbreidbaar, 6 GB RAM, 4G, Octa-Core en Android 14 aansluiting, 18 W snel opladen, Color Lunar Mist",
-      "price": 169.86,
-      "original_price": 249.9,
-      "discount_percent": 32,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F638WW5N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/510URNDd3wL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-06-29T10:09:06.859248+00:00",
-      "price_history": [
-        {
-          "price": 210.98,
-          "original_price": null,
-          "scraped_at": "2026-03-11T15:00:20.223167+00:00"
-        },
-        {
-          "price": 215.44,
-          "original_price": 251.01,
-          "scraped_at": "2026-03-16T19:00:28.412227+00:00"
-        },
-        {
-          "price": 209.35,
-          "original_price": 251.06,
-          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
-        },
-        {
-          "price": 213.89,
-          "original_price": null,
-          "scraped_at": "2026-04-17T10:00:23.919997+00:00"
-        },
-        {
-          "price": 207.79,
-          "original_price": null,
-          "scraped_at": "2026-04-22T14:00:31.231632+00:00"
-        },
-        {
-          "price": 201.7,
-          "original_price": null,
-          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
-        },
-        {
-          "price": 195.61,
-          "original_price": null,
-          "scraped_at": "2026-05-08T10:00:22.824675+00:00"
-        },
-        {
-          "price": 190.76,
-          "original_price": 249.9,
-          "scraped_at": "2026-05-13T14:00:28.205054+00:00"
-        },
-        {
-          "price": 161.57,
-          "original_price": null,
-          "scraped_at": "2026-05-18T18:00:14.799527+00:00"
-        },
-        {
-          "price": 160.77,
-          "original_price": null,
-          "scraped_at": "2026-05-23T18:00:33.707335+00:00"
-        },
-        {
-          "price": 180.7,
-          "original_price": 206.72,
-          "scraped_at": "2026-06-03T10:00:36.474534+00:00"
-        },
-        {
-          "price": 177.23,
-          "original_price": 249.9,
-          "scraped_at": "2026-06-13T18:00:25.809957+00:00"
-        },
-        {
-          "price": 173.49,
-          "original_price": 251.05,
-          "scraped_at": "2026-06-19T06:01:58.180621+00:00"
-        },
-        {
-          "price": 169.86,
-          "original_price": 249.9,
-          "scraped_at": "2026-06-24T06:03:23.065006+00:00"
-        }
-      ],
-      "approved_at": "29-06-2026 11:45",
-      "auto_approved": true
-    },
-    {
-      "id": "58b0bc5debed",
-      "title": "Bosch VitaPower Serie 4 MMB6172S",
-      "price": 54.0,
-      "original_price": 88.46,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bosch-vitapower-serie-4-mmb6172s-r-18685",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1617428_3c92ec2b-705f-4a43-afac-655ea622a97c.jpg?v=1782198894",
-      "found_at": "2026-06-26T18:10:34.452054+00:00",
-      "approved_at": "26-06-2026 19:15",
       "auto_approved": true
     }
   ]
