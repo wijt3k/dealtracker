@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T18:26:17.609818+00:00",
-  "total": 298,
+  "updated_at": "2026-07-03T06:31:21.952043+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -9133,6 +9133,33 @@
       "auto_approved": true
     },
     {
+      "id": "8d740ca6c042",
+      "title": "MSI MAG 255F E20,24,5-inch FHD 1920x1080 gamingmonitor - 200Hz, 0,5 ms, HDR-gereed, AMD FreeSync Premium, oogverzorging, AI vision, HDMI 2.0b, DP 1.2a, frameloos, kantelbaar, Vesa-montage, zwart",
+      "price": 102.51,
+      "original_price": 139.99,
+      "discount_percent": 26,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C1NN63HS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71q573PT9gL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-03T06:23:07.745494+00:00",
+      "price_history": [
+        {
+          "price": 108.62,
+          "original_price": 130.0,
+          "scraped_at": "2026-06-13T14:00:31.447557+00:00"
+        },
+        {
+          "price": 102.51,
+          "original_price": 139.99,
+          "scraped_at": "2026-07-03T06:00:40.304773+00:00"
+        }
+      ],
+      "approved_at": "03-07-2026 07:31",
+      "auto_approved": true
+    },
+    {
       "id": "3c50fe3fe9e7",
       "title": "Philips Shaver 7000 Series S7882/55",
       "price": 117.0,
@@ -9244,6 +9271,58 @@
         }
       ],
       "approved_at": "02-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "084f8b8812da",
+      "title": "ZTE Blade A36 Smartphone, ontgrendeld, 4 GB RAM, 64 GB geheugen, 6,75 inch display, kleur: Nebula Black",
+      "price": 81.82,
+      "original_price": 108.5,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GK2829C7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Tf6OvEijL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-03T06:09:44.889028+00:00",
+      "price_history": [
+        {
+          "price": 93.41,
+          "original_price": 106.16,
+          "scraped_at": "2026-05-26T06:00:54.348041+00:00"
+        },
+        {
+          "price": 92.11,
+          "original_price": 106.18,
+          "scraped_at": "2026-05-31T10:00:30.272199+00:00"
+        },
+        {
+          "price": 92.33,
+          "original_price": 106.21,
+          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
+        },
+        {
+          "price": 92.55,
+          "original_price": 106.24,
+          "scraped_at": "2026-06-17T14:01:18.201428+00:00"
+        },
+        {
+          "price": 79.21,
+          "original_price": 106.29,
+          "scraped_at": "2026-06-22T18:03:17.917129+00:00"
+        },
+        {
+          "price": 93.28,
+          "original_price": 104.99,
+          "scraped_at": "2026-06-28T06:01:00.775019+00:00"
+        },
+        {
+          "price": 81.82,
+          "original_price": 108.5,
+          "scraped_at": "2026-07-03T06:00:40.304773+00:00"
+        }
+      ],
+      "approved_at": "03-07-2026 07:31",
       "auto_approved": true
     },
     {
