@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-04T18:50:52.015513+00:00",
-  "total": 296,
+  "updated_at": "2026-07-05T06:06:03.545307+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -8415,6 +8415,93 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951471_ba576271-db83-46d8-9c9b-f1bd8f672f86.jpg?v=1783064564",
       "found_at": "2026-07-04T14:03:06.392628+00:00",
       "approved_at": "04-07-2026 15:08",
+      "auto_approved": true
+    },
+    {
+      "id": "3d6c790ca412",
+      "title": "Sony PlayStation Pulse Elite Headset Midnight Black",
+      "price": 104.0,
+      "original_price": 141.86,
+      "discount_percent": 26,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-playstation-pulse-elite-headset-midnight-black-r-18654",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134144_0b219a17-4f22-4e2f-aa4b-576281bf4fef.jpg?v=1782117883",
+      "found_at": "2026-07-04T18:45:46.472857+00:00",
+      "price_history": [
+        {
+          "price": 121.0,
+          "original_price": 147.03,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 150.68,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 157.89,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 144.7,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 141.86,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        }
+      ],
+      "approved_at": "05-07-2026 07:06",
+      "auto_approved": true
+    },
+    {
+      "id": "c5b5a493bf47",
+      "title": "Meta Quest 3 Elite Strap",
+      "price": 56.0,
+      "original_price": 78.28,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/meta-quest-3-elite-strap-r-18833",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1975152_8e974553-8912-42e0-bb0a-9384bd5a0ae4.jpg?v=1783064120",
+      "found_at": "2026-07-04T18:45:39.786688+00:00",
+      "approved_at": "05-07-2026 07:06",
+      "auto_approved": true
+    },
+    {
+      "id": "9fac97dc3049",
+      "title": "Napoleon Afdekhoes voor TQ285X & PRO285X",
+      "price": 50.0,
+      "original_price": 69.98,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/napoleon-afdekhoes-voor-tq285x-pro285x-r-18862",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1441166.jpg?v=1783064298",
+      "found_at": "2026-07-05T06:02:47.825668+00:00",
+      "approved_at": "05-07-2026 07:06",
+      "auto_approved": true
+    },
+    {
+      "id": "40a75ed92bfa",
+      "title": "HP OMEN Transcend 16-u1027nb AZERTY",
+      "price": 1931.0,
+      "original_price": 2099.0,
+      "discount_percent": 8,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omen-transcend-16-u1027nb-azerty-r-18932",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068861_eb40875f-b6b9-4fd9-b2a8-b441a0705d09.jpg?v=1783064984",
+      "found_at": "2026-07-05T06:02:44.350122+00:00",
+      "approved_at": "05-07-2026 07:06",
       "auto_approved": true
     }
   ]
