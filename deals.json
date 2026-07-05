@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T06:06:03.545307+00:00",
-  "total": 300,
+  "updated_at": "2026-07-05T06:06:15.074992+00:00",
+  "total": 289,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -603,93 +603,6 @@
       "auto_approved": true
     },
     {
-      "id": "5eba8b9e4b56",
-      "title": "MSI Pulse 16 AI C1VGKG-052BE AZERTY",
-      "price": 1568.0,
-      "original_price": 2079.0,
-      "discount_percent": 24,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-pulse-16-ai-c1vgkg-052be-azerty-r-18399",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2056840.jpg?v=1780664540",
-      "found_at": "2026-06-26T18:10:43.959236+00:00",
-      "price_history": [
-        {
-          "price": 1912.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-08T14:00:43.100128+00:00"
-        },
-        {
-          "price": 1797.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-14T10:00:44.917407+00:00"
-        },
-        {
-          "price": 1778.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
-        },
-        {
-          "price": 1759.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
-        },
-        {
-          "price": 1740.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-17T10:02:09.994574+00:00"
-        },
-        {
-          "price": 1721.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-18T10:01:30.763870+00:00"
-        },
-        {
-          "price": 1702.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
-        },
-        {
-          "price": 1683.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
-        },
-        {
-          "price": 1664.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
-        },
-        {
-          "price": 1644.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
-        },
-        {
-          "price": 1625.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
-        },
-        {
-          "price": 1606.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        },
-        {
-          "price": 1587.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        },
-        {
-          "price": 1568.0,
-          "original_price": 2079.0,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
       "id": "2a71f7adf609",
       "title": "HP VICTUS 16-r1975nd QWERTY",
       "price": 1201.0,
@@ -980,33 +893,6 @@
         }
       ],
       "approved_at": "01-07-2026 11:23",
-      "auto_approved": true
-    },
-    {
-      "id": "9ff4e6a32a4b",
-      "title": "MSI Creator Z17HXStudio A13VFT-015BE AZERTY",
-      "price": 2475.0,
-      "original_price": 2993.0,
-      "discount_percent": 17,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-creator-z17hxstudio-a13vft-015be-azerty-r-18200",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1904066.jpg?v=1780407096",
-      "found_at": "2026-06-03T14:59:29.202898+00:00",
-      "price_history": [
-        {
-          "price": 2633.0,
-          "original_price": 2993.0,
-          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
-        },
-        {
-          "price": 2475.0,
-          "original_price": 2993.0,
-          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
-        }
-      ],
-      "approved_at": "09-06-2026 11:36",
       "auto_approved": true
     },
     {
@@ -1541,53 +1427,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952882.jpg?v=1783064153",
       "found_at": "2026-07-04T10:09:23.359883+00:00",
       "approved_at": "04-07-2026 11:14",
-      "auto_approved": true
-    },
-    {
-      "id": "390fb407a321",
-      "title": "HP Laptop 15-fc0076nb AZERTY",
-      "price": 289.0,
-      "original_price": 495.0,
-      "discount_percent": 41,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-laptop-15-fc0076nb-azerty-r-18558",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2062807.jpg?v=1781510135",
-      "found_at": "2026-06-16T10:30:04.572590+00:00",
-      "price_history": [
-        {
-          "price": 321.0,
-          "original_price": 495.0,
-          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
-        },
-        {
-          "price": 302.0,
-          "original_price": 495.0,
-          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
-        },
-        {
-          "price": 299.0,
-          "original_price": 495.0,
-          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
-        },
-        {
-          "price": 296.0,
-          "original_price": 495.0,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        },
-        {
-          "price": 292.0,
-          "original_price": 495.0,
-          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        },
-        {
-          "price": 289.0,
-          "original_price": 495.0,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 16:53",
       "auto_approved": true
     },
     {
@@ -2439,43 +2278,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=337398",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a3be3f4ead7e_ASSET_MMS_153894121-500x500.png",
       "found_at": "2026-06-24T14:16:30.302964+00:00",
-      "approved_at": "26-06-2026 16:53",
-      "auto_approved": true
-    },
-    {
-      "id": "ad627f17e4ba",
-      "title": "Samsung LS27DM502EUXEN Smart M5",
-      "price": 132.0,
-      "original_price": 247.83,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-ls27dm502euxen-smart-m5-r-18394",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2058358_54466867-00d4-4e03-8c78-fc204ee8959b.jpg?v=1780664476",
-      "found_at": "2026-06-13T12:53:51.414097+00:00",
-      "price_history": [
-        {
-          "price": 220.0,
-          "original_price": 250.51,
-          "scraped_at": "2026-06-08T14:00:43.100128+00:00"
-        },
-        {
-          "price": 213.0,
-          "original_price": 249.26,
-          "scraped_at": "2026-06-14T10:00:44.917407+00:00"
-        },
-        {
-          "price": 142.0,
-          "original_price": 222.67,
-          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
-        },
-        {
-          "price": 132.0,
-          "original_price": 236.37,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        }
-      ],
       "approved_at": "26-06-2026 16:53",
       "auto_approved": true
     },
@@ -3346,21 +3148,6 @@
       "auto_approved": true
     },
     {
-      "id": "94db4e1b508c",
-      "title": "SAMSUNG DV90DG6845LKU3 - Warmtepompdroger - 9 kg - 64 dB - Energielabel A Warmtepompdroger",
-      "price": 711.75,
-      "original_price": 949.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=337028",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a3bac08e53e2_ASSET_MMS_158136267-500x500.png",
-      "found_at": "2026-06-22T14:20:33.503684+00:00",
-      "approved_at": "26-06-2026 16:53",
-      "auto_approved": true
-    },
-    {
       "id": "2dce5937b511",
       "title": "SAMSUNG WF90F09C4SU3 Bespoke 9000-serie -  Wasmachine Voorlader - 9 kg - 1400 rpm - 72 dB - automatisch doseren",
       "price": 711.75,
@@ -3570,48 +3357,6 @@
           "price": 69.0,
           "original_price": 132.42,
           "scraped_at": "2026-06-25T10:00:41.493688+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 16:53",
-      "auto_approved": true
-    },
-    {
-      "id": "5116d537757a",
-      "title": "Samsung LS27DM502EUXEN Smart M5",
-      "price": 136.0,
-      "original_price": 236.37,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-ls27dm502euxen-smart-m5-r-18431",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2058358_c06885eb-53ea-4bd2-b1fb-f2c64ec2f8d3.jpg?v=1780912627",
-      "found_at": "2026-06-14T10:57:04.827164+00:00",
-      "price_history": [
-        {
-          "price": 214.0,
-          "original_price": 244.0,
-          "scraped_at": "2026-06-09T10:00:26.758164+00:00"
-        },
-        {
-          "price": 211.0,
-          "original_price": 252.53,
-          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
-        },
-        {
-          "price": 203.0,
-          "original_price": 249.26,
-          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
-        },
-        {
-          "price": 144.0,
-          "original_price": 236.37,
-          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
-        },
-        {
-          "price": 136.0,
-          "original_price": 222.67,
-          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
         }
       ],
       "approved_at": "26-06-2026 16:53",
@@ -3967,21 +3712,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242926.jpg?v=1779175123",
       "found_at": "2026-06-25T10:23:13.699152+00:00",
       "approved_at": "26-06-2026 16:53",
-      "auto_approved": true
-    },
-    {
-      "id": "3411e1c9e17c",
-      "title": "Samsung LS27DM502EUXEN Smart M5",
-      "price": 156.0,
-      "original_price": 263.33,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-ls27dm502euxen-smart-m5-r-18290",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2058358.jpg?v=1780407737",
-      "found_at": "2026-06-30T10:53:41.094097+00:00",
-      "approved_at": "30-06-2026 11:59",
       "auto_approved": true
     },
     {
@@ -5040,105 +4770,6 @@
       "auto_approved": true
     },
     {
-      "id": "09be539b8851",
-      "title": "Garmin Forerunner 165 Zwart/Grijs",
-      "price": 142.0,
-      "original_price": 231.78,
-      "discount_percent": 38,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-forerunner-165-zwart-grijs-r-18741",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017022_c05475ee-2861-4fd1-8974-21aa55b1e84f.jpg?v=1782199563",
-      "found_at": "2026-06-30T10:53:30.941803+00:00",
-      "price_history": [
-        {
-          "price": 141.0,
-          "original_price": 233.5,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        },
-        {
-          "price": 123.0,
-          "original_price": 225.55,
-          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
-        },
-        {
-          "price": 141.0,
-          "original_price": 235.56,
-          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
-        },
-        {
-          "price": 142.0,
-          "original_price": 231.78,
-          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
-        }
-      ],
-      "approved_at": "30-06-2026 11:59",
-      "auto_approved": true
-    },
-    {
-      "id": "3e4de8485c27",
-      "title": "AOC monitor 27B3HMA2",
-      "price": 79.0,
-      "original_price": 137.07,
-      "discount_percent": 42,
-      "category": "tv",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/aoc-monitor-27b3hma2-r-18412",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2034958.jpg?v=1780664978",
-      "found_at": "2026-06-26T18:10:34.449279+00:00",
-      "price_history": [
-        {
-          "price": 71.0,
-          "original_price": 99.0,
-          "scraped_at": "2026-06-08T14:00:43.100128+00:00"
-        },
-        {
-          "price": 144.0,
-          "original_price": 201.23,
-          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
-        },
-        {
-          "price": 138.0,
-          "original_price": 201.23,
-          "scraped_at": "2026-06-14T10:00:44.917407+00:00"
-        },
-        {
-          "price": 131.0,
-          "original_price": 201.23,
-          "scraped_at": "2026-06-17T10:02:09.994574+00:00"
-        },
-        {
-          "price": 130.0,
-          "original_price": 201.23,
-          "scraped_at": "2026-06-18T10:01:30.763870+00:00"
-        },
-        {
-          "price": 128.0,
-          "original_price": 201.23,
-          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": 201.23,
-          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
-        },
-        {
-          "price": 87.0,
-          "original_price": 137.07,
-          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
-        },
-        {
-          "price": 79.0,
-          "original_price": 137.07,
-          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
-        }
-      ],
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
       "id": "7fc015b534c3",
       "title": "Tefal Pro Express Protect GV9220",
       "price": 142.0,
@@ -5177,21 +4808,6 @@
           "scraped_at": "2026-06-26T10:01:07.003677+00:00"
         }
       ],
-      "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "a77015bb0d6a",
-      "title": "Asus Zenbook Duo UX8406CA-PZ032W AZERTY",
-      "price": 1794.0,
-      "original_price": 2069.0,
-      "discount_percent": 13,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/asus-zenbook-duo-ux8406ca-pz032w-azerty-r-18666",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2152654.jpg?v=1782118022",
-      "found_at": "2026-06-26T18:10:34.450150+00:00",
       "approved_at": "26-06-2026 19:15",
       "auto_approved": true
     },
@@ -5302,43 +4918,6 @@
         }
       ],
       "approved_at": "26-06-2026 19:15",
-      "auto_approved": true
-    },
-    {
-      "id": "e7e87d8c206b",
-      "title": "HUAWEI WATCH GT 4 Smart Watch voor dames, fitnesstracker, compatibel met iOS en Android, 24 uur gezondheidsbewaking inclusief specifiek gezondheidsbeheer voor vrouwen, lange batterijduur, 41 mm",
-      "price": 190.2,
-      "original_price": 297.0,
-      "discount_percent": 35,
-      "category": "wearables",
-      "source": "Breezy Returns",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CFPCBG15?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/41AbVgVXjjL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-07-01T06:32:33.725011+00:00",
-      "price_history": [
-        {
-          "price": 221.48,
-          "original_price": null,
-          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
-        },
-        {
-          "price": 206.47,
-          "original_price": 280.22,
-          "scraped_at": "2026-06-20T18:01:52.330594+00:00"
-        },
-        {
-          "price": 191.47,
-          "original_price": 226.0,
-          "scraped_at": "2026-06-25T18:02:35.605112+00:00"
-        },
-        {
-          "price": 190.2,
-          "original_price": 297.0,
-          "scraped_at": "2026-07-01T06:01:59.568170+00:00"
-        }
-      ],
-      "approved_at": "01-07-2026 07:40",
       "auto_approved": true
     },
     {
