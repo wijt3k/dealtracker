@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T18:22:53.617050+00:00",
-  "total": 291,
+  "updated_at": "2026-07-06T06:30:35.751789+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -914,6 +914,21 @@
       "image": "https://m.media-amazon.com/images/I/61X-HaA+r+L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-07-04T18:36:47.344549+00:00",
       "approved_at": "04-07-2026 19:50",
+      "auto_approved": true
+    },
+    {
+      "id": "08c0b04a6ebd",
+      "title": "JBL Quantum 350 draadloze on-ear gaming headset, met afneembare microfoon, surround sound, 2-4GHz-connectiviteit, voor pc, Mac, Xbox, Playstation, Nintendo Switch, mobiel en VR",
+      "price": 50.99,
+      "original_price": 149.99,
+      "discount_percent": 66,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B096G2761H?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61AaLAqDstL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-06T06:11:42.867747+00:00",
+      "approved_at": "06-07-2026 07:30",
       "auto_approved": true
     },
     {
@@ -3997,6 +4012,38 @@
       "auto_approved": true
     },
     {
+      "id": "043d38bc9c2e",
+      "title": "Nilox NXM24CRV2001 24 inch gebogen monitor, Full HD, 200 Hz gaming-display, computermonitor met VESA-ondersteuning 75 x 75 mm, VA-technologie, HDMI 2.1 en DP 1.4-aansluitingen",
+      "price": 90.84,
+      "original_price": 159.99,
+      "discount_percent": 43,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FBB4L4SC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71W+g6xYAxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-06T06:19:36.910867+00:00",
+      "price_history": [
+        {
+          "price": 100.25,
+          "original_price": 163.69,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 94.9,
+          "original_price": 139.28,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        },
+        {
+          "price": 90.84,
+          "original_price": 159.99,
+          "scraped_at": "2026-07-06T06:01:05.480508+00:00"
+        }
+      ],
+      "approved_at": "06-07-2026 07:30",
+      "auto_approved": true
+    },
+    {
       "id": "bfd1d03a89e3",
       "title": "Medion T80 MD34590",
       "price": 531.0,
@@ -4544,6 +4591,21 @@
       "auto_approved": true
     },
     {
+      "id": "3a731ca0cba6",
+      "title": "Garmin Forerunner 165 Zwart/Grijs",
+      "price": 142.0,
+      "original_price": 229.87,
+      "discount_percent": 38,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-forerunner-165-zwart-grijs-r-18791",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017022_dcdcd596-77f9-435d-b0e8-227a6ff021e9.jpg?v=1783063841",
+      "found_at": "2026-07-06T06:24:14.813586+00:00",
+      "approved_at": "06-07-2026 07:30",
+      "auto_approved": true
+    },
+    {
       "id": "e25bd77ab175",
       "title": "Sony WH-1000XM4 Zwart",
       "price": 157.0,
@@ -4992,6 +5054,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_d8b1b70b-9f44-4f23-a80e-e924d42598cd.jpg?v=1782380720",
       "found_at": "2026-07-01T14:21:44.337823+00:00",
       "approved_at": "01-07-2026 15:27",
+      "auto_approved": true
+    },
+    {
+      "id": "3c466278de03",
+      "title": "Samsung Galaxy Watch4 Classic Zilver - 46MM",
+      "price": 142.89,
+      "original_price": 226.0,
+      "discount_percent": 36,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09GDK7CV8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71tALedyZTL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-06T06:14:59.439137+00:00",
+      "approved_at": "06-07-2026 07:30",
       "auto_approved": true
     },
     {
@@ -7334,6 +7411,80 @@
       "auto_approved": true
     },
     {
+      "id": "bbd907225f5a",
+      "title": "Acer KG242YEBMIIX Nitro Gaming Monitor, 23,8 inch formaat, zwart",
+      "price": 82.26,
+      "original_price": 119.97,
+      "discount_percent": 31,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CMR11TN9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71YkoY+41pL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-06T06:18:06.539901+00:00",
+      "price_history": [
+        {
+          "price": 105.62,
+          "original_price": 123.84,
+          "scraped_at": "2026-06-08T18:00:52.368152+00:00"
+        },
+        {
+          "price": 102.92,
+          "original_price": 123.84,
+          "scraped_at": "2026-06-14T18:01:42.317356+00:00"
+        },
+        {
+          "price": 100.23,
+          "original_price": 124.31,
+          "scraped_at": "2026-06-20T06:01:33.693299+00:00"
+        },
+        {
+          "price": 95.1,
+          "original_price": 119.97,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 86.72,
+          "original_price": 119.97,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        },
+        {
+          "price": 82.26,
+          "original_price": 119.97,
+          "scraped_at": "2026-07-06T06:01:05.480508+00:00"
+        }
+      ],
+      "approved_at": "06-07-2026 07:30",
+      "auto_approved": true
+    },
+    {
+      "id": "f30cfc02519c",
+      "title": "Razer Blackshark V2 - Premium e-sports headset met USB-geluidskaart (TriForce 50 mm drivers, HyperClear Cardiod-microfoon, geavanceerde passieve ruisonderdrukking, THX Spatial Audio) Zwart",
+      "price": 126.99,
+      "original_price": 179.0,
+      "discount_percent": 29,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B089SSH6L6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71PrXiqufGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-06T06:12:40.987323+00:00",
+      "price_history": [
+        {
+          "price": 131.53,
+          "original_price": null,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        },
+        {
+          "price": 126.99,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-06T06:01:05.480508+00:00"
+        }
+      ],
+      "approved_at": "06-07-2026 07:30",
+      "auto_approved": true
+    },
+    {
       "id": "436341ccfb0a",
       "title": "Rode Wireless Micro Black Lightning",
       "price": 71.0,
@@ -7590,6 +7741,43 @@
         }
       ],
       "approved_at": "05-07-2026 11:47",
+      "auto_approved": true
+    },
+    {
+      "id": "f3e15620b122",
+      "title": "MSI G255PFDE E2 24,5 inch FHD Gaming Monitor - 1920 x 1080 Rapid IPS paneel, 180 Hz / 1ms (GtG), 99% sRGB kleurruimte, Adaptive-Sync - DP 1.2a, HDMI 2.0b CEC",
+      "price": 94.84,
+      "original_price": 132.36,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DHSQ55B1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51GH-OFm14L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-06T06:20:26.408093+00:00",
+      "price_history": [
+        {
+          "price": 108.43,
+          "original_price": 139.99,
+          "scraped_at": "2026-05-17T14:00:21.163450+00:00"
+        },
+        {
+          "price": 106.08,
+          "original_price": 119.99,
+          "scraped_at": "2026-05-22T14:00:43.870145+00:00"
+        },
+        {
+          "price": 103.73,
+          "original_price": 134.04,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        },
+        {
+          "price": 94.84,
+          "original_price": 132.36,
+          "scraped_at": "2026-07-06T06:01:05.480508+00:00"
+        }
+      ],
+      "approved_at": "06-07-2026 07:30",
       "auto_approved": true
     },
     {
@@ -8071,6 +8259,73 @@
         }
       ],
       "approved_at": "05-07-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "8baa529c67de",
+      "title": "BlueBuilt Stofzuigerzak voor Wisberg B5000 (28 stuks)",
+      "price": 29.0,
+      "original_price": 40.0,
+      "discount_percent": 27,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bluebuilt-stofzuigerzak-voor-wisberg-b5000-28-stuks-r-18580",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1674733705.jpg?v=1781510315",
+      "found_at": "2026-07-06T06:24:12.097259+00:00",
+      "price_history": [
+        {
+          "price": 36.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 34.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-06-22T10:02:30.354455+00:00"
+        },
+        {
+          "price": 33.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 32.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        },
+        {
+          "price": 31.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        },
+        {
+          "price": 30.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 29.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        }
+      ],
+      "approved_at": "06-07-2026 07:30",
+      "auto_approved": true
+    },
+    {
+      "id": "97035af5cd1c",
+      "title": "Garmin Drive 53 USB C Autonavigatie",
+      "price": 102.0,
+      "original_price": 135.22,
+      "discount_percent": 24,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-drive-53-usb-c-autonavigatie-r-18819",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1910999.jpg?v=1783064053",
+      "found_at": "2026-07-06T06:24:14.813311+00:00",
+      "approved_at": "06-07-2026 07:30",
       "auto_approved": true
     }
   ]
