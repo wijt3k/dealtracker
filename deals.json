@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T14:31:48.663065+00:00",
-  "total": 296,
+  "updated_at": "2026-07-07T18:22:34.410261+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -6324,6 +6324,33 @@
       "auto_approved": true
     },
     {
+      "id": "fcd42abc73be",
+      "title": "monitor 22 ips 120Hz vga hdmi",
+      "price": 67.17,
+      "original_price": 107.88,
+      "discount_percent": 37,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FSQBXFX8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51kA9+ARawL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-07T18:15:11.272709+00:00",
+      "price_history": [
+        {
+          "price": 56.12,
+          "original_price": 99.88,
+          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
+        },
+        {
+          "price": 67.17,
+          "original_price": 107.88,
+          "scraped_at": "2026-07-07T18:00:34.859864+00:00"
+        }
+      ],
+      "approved_at": "07-07-2026 19:22",
+      "auto_approved": true
+    },
+    {
       "id": "aa5b9a49cb11",
       "title": "Just in case Premium Samsung Galaxy Tab S10 Ultra / S9 Ultra Toetsenbord Hoes QWERTY Zwart",
       "price": 51.0,
@@ -8393,6 +8420,135 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068861_eb40875f-b6b9-4fd9-b2a8-b441a0705d09.jpg?v=1783064984",
       "found_at": "2026-07-05T10:41:30.523704+00:00",
       "approved_at": "05-07-2026 15:49",
+      "auto_approved": true
+    },
+    {
+      "id": "11642ff72fab",
+      "title": "Refurbished iPad (2022) 64GB Wifi + 5G Blauw",
+      "price": 300.8,
+      "original_price": 376.0,
+      "discount_percent": 20,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-2022-64gb-wifi-5g-blauw-r-18567",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989808_3eea4332-75a3-4075-8442-b8d858fb4792.jpg?v=1781510211",
+      "found_at": "2026-07-07T18:17:56.824670+00:00",
+      "price_history": [
+        {
+          "price": 349.68,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 345.92,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 342.16,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 338.4,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        },
+        {
+          "price": 334.64,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        },
+        {
+          "price": 330.88,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 327.12,
+          "original_price": 376.0,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        },
+        {
+          "price": 323.36,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-01T10:01:11.626386+00:00"
+        },
+        {
+          "price": 319.6,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 315.84,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-03T10:00:50.935508+00:00"
+        },
+        {
+          "price": 312.08,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 308.32,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        },
+        {
+          "price": 304.56,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        },
+        {
+          "price": 300.8,
+          "original_price": 376.0,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        }
+      ],
+      "approved_at": "07-07-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "8c4993f91779",
+      "title": "Bose Quietcomfort Ultra Earbuds Zwart",
+      "price": 165.0,
+      "original_price": 215.17,
+      "discount_percent": 23,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-earbuds-zwart-r-18894",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1970034_da9d7522-07cb-4f7d-ad34-616e8f170996.jpg?v=1783064607",
+      "found_at": "2026-07-05T18:16:40.858369+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 212.39,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 165.0,
+          "original_price": 215.17,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        }
+      ],
+      "approved_at": "07-07-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "97035af5cd1c",
+      "title": "Garmin Drive 53 USB C Autonavigatie",
+      "price": 102.0,
+      "original_price": 135.49,
+      "discount_percent": 24,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-drive-53-usb-c-autonavigatie-r-18819",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1910999.jpg?v=1783064053",
+      "found_at": "2026-07-07T18:17:45.532394+00:00",
+      "approved_at": "07-07-2026 19:22",
       "auto_approved": true
     }
   ]
