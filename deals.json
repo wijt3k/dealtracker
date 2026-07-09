@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T18:15:47.560415+00:00",
-  "total": 294,
+  "updated_at": "2026-07-09T06:17:54.615249+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "7a1e5b74d29f",
@@ -4907,6 +4907,63 @@
       "auto_approved": true
     },
     {
+      "id": "6813732f124f",
+      "title": "A145 GALAXY A14 4G 64GB BLACK",
+      "price": 92.54,
+      "original_price": 158.0,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BYWB6R4N?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51rVy+votyL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-09T06:03:23.040124+00:00",
+      "price_history": [
+        {
+          "price": 82.0,
+          "original_price": 158.0,
+          "scraped_at": "2026-04-14T06:00:29.171665+00:00"
+        },
+        {
+          "price": 135.79,
+          "original_price": 157.5,
+          "scraped_at": "2026-05-29T10:00:19.189086+00:00"
+        },
+        {
+          "price": 136.91,
+          "original_price": 158.0,
+          "scraped_at": "2026-06-03T14:00:27.834821+00:00"
+        },
+        {
+          "price": 136.56,
+          "original_price": 159.0,
+          "scraped_at": "2026-06-08T18:00:52.368152+00:00"
+        },
+        {
+          "price": 136.14,
+          "original_price": 158.0,
+          "scraped_at": "2026-06-14T18:01:42.317356+00:00"
+        },
+        {
+          "price": 116.99,
+          "original_price": 156.99,
+          "scraped_at": "2026-06-20T06:01:33.693299+00:00"
+        },
+        {
+          "price": 108.99,
+          "original_price": 158.0,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 92.54,
+          "original_price": 158.0,
+          "scraped_at": "2026-07-09T06:00:28.292653+00:00"
+        }
+      ],
+      "approved_at": "09-07-2026 07:17",
+      "auto_approved": true
+    },
+    {
       "id": "60fb2ee837df",
       "title": "Medela Swing Maxi Hands-Free",
       "price": 92.0,
@@ -6627,6 +6684,33 @@
       "auto_approved": true
     },
     {
+      "id": "ee60b7fdfbe2",
+      "title": "Philips HR7776/90 Avance Foodprocessor",
+      "price": 116.0,
+      "original_price": 178.56,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hr7776-90-avance-foodprocessor-r-18217",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/956163_372392d0-5adc-4539-80b8-a0ce0eb3870a.jpg?v=1780407266",
+      "found_at": "2026-07-01T10:17:52.105615+00:00",
+      "price_history": [
+        {
+          "price": 121.0,
+          "original_price": 180.33,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 178.89,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        }
+      ],
+      "approved_at": "09-07-2026 07:17",
+      "auto_approved": true
+    },
+    {
       "id": "66912d35e1bb",
       "title": "Huawei 2018 Dual-SIM smartphone, Y6 (2018)., 5,7 inch, blauw",
       "price": 78.36,
@@ -7641,6 +7725,78 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2137346.jpg?v=1783408391",
       "found_at": "2026-07-08T10:15:04.234872+00:00",
       "approved_at": "08-07-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "f780c03e9e65",
+      "title": "Refurbished iPad (2020) 32GB Wifi Space Gray",
+      "price": 105.0,
+      "original_price": 157.0,
+      "discount_percent": 33,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-2020-32gb-wifi-space-gray-r-18866",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1945533_706cfe02-a6e7-4271-a636-bc9791ae16b9.jpg?v=1783064341",
+      "found_at": "2026-07-07T14:26:44.965169+00:00",
+      "approved_at": "09-07-2026 07:17",
+      "auto_approved": true
+    },
+    {
+      "id": "468e587df50f",
+      "title": "Motorola moto g55 5G Forrest Grey",
+      "price": 120.32,
+      "original_price": 179.0,
+      "discount_percent": 32,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-moto-g55-5g-forrest-grey-r-18759",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_369f4c50-51ab-4dc6-b71d-1910dd270e5c.jpg?v=1782380614",
+      "found_at": "2026-07-09T06:13:06.046466+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 120.32,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        }
+      ],
+      "approved_at": "09-07-2026 07:17",
+      "auto_approved": true
+    },
+    {
+      "id": "fb14e707379e",
+      "title": "Magimix Nespresso Essenza Mini Zwart",
+      "price": 59.0,
+      "original_price": 92.0,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-essenza-mini-zwart-r-18839",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843817_f44a1a8b-6fa1-4887-8988-c0779924ca3e.jpg?v=1783064170",
+      "found_at": "2026-07-09T06:13:06.045095+00:00",
+      "approved_at": "09-07-2026 07:17",
+      "auto_approved": true
+    },
+    {
+      "id": "08600ffc44e8",
+      "title": "Bauknecht MWK 201 B",
+      "price": 58.0,
+      "original_price": 90.0,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bauknecht-mwk-201-b-r-18994",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2014752_b567bea1-6b1f-4ae2-a5cd-9d12b0b1d8da.jpg?v=1783408664",
+      "found_at": "2026-07-09T06:12:53.924312+00:00",
+      "approved_at": "09-07-2026 07:17",
       "auto_approved": true
     }
   ]
