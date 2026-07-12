@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T10:32:44.462856+00:00",
-  "total": 293,
+  "updated_at": "2026-07-12T14:16:25.067893+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "92aefa552d76",
@@ -3660,6 +3660,33 @@
       "auto_approved": true
     },
     {
+      "id": "da1739e2cd54",
+      "title": "Bosch Unlimited 10 BBS1041GQC",
+      "price": 427.0,
+      "original_price": 656.88,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-unlimited-10-bbs1041gqc-r-19083",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095701_de80050c-6557-425c-8476-b33e97a85b7d.jpg?v=1783686325",
+      "found_at": "2026-07-11T14:17:53.462797+00:00",
+      "price_history": [
+        {
+          "price": 459.0,
+          "original_price": 638.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 427.0,
+          "original_price": 656.88,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
       "id": "818a64b30474",
       "title": "Asus Vivobook 15 X1504ZA-NJ1167W QWERTY",
       "price": 441.0,
@@ -5859,6 +5886,53 @@
       "auto_approved": true
     },
     {
+      "id": "564ffcc2ad79",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 226.0,
+      "original_price": 367.44,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18754",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_27a57500-fbf8-4879-8488-9b5151a35ee8.jpg?v=1782380571",
+      "found_at": "2026-07-12T06:23:17.062040+00:00",
+      "price_history": [
+        {
+          "price": 233.0,
+          "original_price": 359.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 223.0,
+          "original_price": 397.69,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 237.0,
+          "original_price": 359.31,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 226.0,
+          "original_price": 376.13,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 213.0,
+          "original_price": 373.53,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 226.0,
+          "original_price": 368.36,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
       "id": "f1b067548532",
       "title": "Apple AirPods Max Space Gray",
       "price": 391.0,
@@ -7942,6 +8016,162 @@
         }
       ],
       "approved_at": "30-06-2026 11:59",
+      "auto_approved": true
+    },
+    {
+      "id": "a6279bdb590a",
+      "title": "HP laptop 16-ag0055ng QWERTZ",
+      "price": 452.0,
+      "original_price": 629.0,
+      "discount_percent": 28,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laptop-16-ag0055ng-qwertz-r-18911",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2158739.jpg?v=1783323628",
+      "found_at": "2026-07-12T10:28:12.532467+00:00",
+      "approved_at": "12-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
+      "id": "7aad6864e0ad",
+      "title": "Sage the Nutri Juicer Cold Plus",
+      "price": 125.0,
+      "original_price": 211.09,
+      "discount_percent": 40,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sage-the-nutri-juicer-cold-plus-r-18828",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1566226.jpg?v=1783408024",
+      "found_at": "2026-07-12T10:28:25.601336+00:00",
+      "price_history": [
+        {
+          "price": 135.0,
+          "original_price": 203.67,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 144.0,
+          "original_price": 227.86,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 213.65,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 125.0,
+          "original_price": 211.74,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
+      "id": "7be4d0032918",
+      "title": "BaByliss Air Wand 3-in-1 Wet To Dry AS6550E",
+      "price": 66.0,
+      "original_price": 119.41,
+      "discount_percent": 44,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-air-wand-3-in-1-wet-to-dry-as6550e-r-18671",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2045120_26b1e5a7-8b90-4dc9-807e-2238f3fd972f.jpg?v=1782118077",
+      "found_at": "2026-07-12T14:11:37.967560+00:00",
+      "price_history": [
+        {
+          "price": 74.0,
+          "original_price": 91.05,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 109.81,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 114.03,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 117.3,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 117.92,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
+      "id": "2e394a6233d0",
+      "title": "Motorola moto g55 5G Forrest Grey",
+      "price": 104.4,
+      "original_price": 179.0,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-moto-g55-5g-forrest-grey-r-18745",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_332814f6-9f10-438c-9018-2f9c1ef67fd3.jpg?v=1782380502",
+      "found_at": "2026-07-12T14:11:50.532691+00:00",
+      "price_history": [
+        {
+          "price": 116.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 109.04,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 107.88,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 106.72,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 105.56,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 104.4,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
+      "id": "e52ab38d1d50",
+      "title": "HP laptop 15-fd1058ng QWERTZ",
+      "price": 438.0,
+      "original_price": 609.0,
+      "discount_percent": 28,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laptop-15-fd1058ng-qwertz-r-18908",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2073838_7eea0430-6c0c-42c6-a063-5222669728c9.jpg?v=1783323624",
+      "found_at": "2026-07-12T14:11:43.976035+00:00",
+      "approved_at": "12-07-2026 15:16",
       "auto_approved": true
     }
   ]
