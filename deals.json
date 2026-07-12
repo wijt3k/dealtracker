@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T06:28:10.300048+00:00",
-  "total": 297,
+  "updated_at": "2026-07-12T10:32:34.212055+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "92aefa552d76",
@@ -214,6 +214,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049205_1a4156ba-dbf2-4ebd-a993-2db1bb80445c.jpg?v=1782727479",
       "found_at": "2026-06-30T10:53:27.687481+00:00",
       "approved_at": "30-06-2026 11:59",
+      "auto_approved": true
+    },
+    {
+      "id": "712c6b5ce926",
+      "title": "Saeco GranAroma SM6585/00",
+      "price": 439.0,
+      "original_price": 879.99,
+      "discount_percent": 50,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/saeco-granaroma-sm6585-00-r-19061",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1646343_542b9f18-680d-46f7-97d6-0dd7725158f6.jpg?v=1783686075",
+      "found_at": "2026-07-12T10:28:25.601253+00:00",
+      "approved_at": "12-07-2026 11:32",
       "auto_approved": true
     },
     {
@@ -1332,6 +1347,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1625244_aa34af93-2fa4-4702-885f-4b67d5aa3d46.jpg?v=1783408113",
       "found_at": "2026-07-08T10:15:00.804139+00:00",
       "approved_at": "08-07-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "c432e2aa611b",
+      "title": "Saeco GranAroma SM6585/00",
+      "price": 554.0,
+      "original_price": 879.99,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/saeco-granaroma-sm6585-00-r-18823",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1646343_e41843ef-fc08-4e5d-94ce-5c1e3cc46aa1.jpg?v=1783407960",
+      "found_at": "2026-07-12T10:28:25.601168+00:00",
+      "price_history": [
+        {
+          "price": 391.0,
+          "original_price": 741.63,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 362.0,
+          "original_price": 772.99,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 554.0,
+          "original_price": 879.99,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "0b53be0677ac",
+      "title": "Philips E Line 241E1SCA/00 computer monitor 59,9 cm (23.6\") 1920 x 1080 Pixels Full HD LCD Zwart",
+      "price": 67.12,
+      "original_price": 189.99,
+      "discount_percent": 64,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07YN77C3R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71DdwLlrD5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-12T10:23:55.906866+00:00",
+      "approved_at": "12-07-2026 11:32",
       "auto_approved": true
     },
     {
@@ -3004,6 +3066,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1372284_582c0ab4-745e-423a-8d67-9e8990e06f19.jpg?v=1783408725",
       "found_at": "2026-07-10T10:23:05.383382+00:00",
       "approved_at": "10-07-2026 11:26",
+      "auto_approved": true
+    },
+    {
+      "id": "ad3b557dd951",
+      "title": "Apple iMac 24\" (2023) M3 (8/10) 16GB/256GB Blauw QWERTY",
+      "price": 870.0,
+      "original_price": 1177.67,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-imac-24-2023-m3-8-10-16gb-256gb-blauw-qwerty-r-19086",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986164_007ccc3d-997e-43a9-833c-fd3481a8a508.jpg?v=1783686356",
+      "found_at": "2026-07-12T10:28:06.440576+00:00",
+      "price_history": [
+        {
+          "price": 935.0,
+          "original_price": 1141.67,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 870.0,
+          "original_price": 1177.67,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
       "auto_approved": true
     },
     {
@@ -5218,6 +5307,48 @@
       "auto_approved": true
     },
     {
+      "id": "de801bf16aae",
+      "title": "WiZ Gradient Floor light - WiZ Entertainment - RGBIC: Meerde",
+      "price": 38.0,
+      "original_price": 80.98,
+      "discount_percent": 53,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wiz-gradient-floor-light-wiz-entertainment-rgbic-meerde-r-19014",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2228607.jpg?v=1783408946",
+      "found_at": "2026-07-12T10:28:25.605154+00:00",
+      "price_history": [
+        {
+          "price": 60.0,
+          "original_price": 84.79,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 85.99,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 86.15,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 86.33,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 38.0,
+          "original_price": 80.98,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "ef0aa25f7e16",
       "title": "Karcher K 2 Power Control Car & Home",
       "price": 86.0,
@@ -5334,6 +5465,33 @@
         }
       ],
       "approved_at": "26-06-2026 16:53",
+      "auto_approved": true
+    },
+    {
+      "id": "1207f30b1984",
+      "title": "Philips FC9334/09",
+      "price": 74.0,
+      "original_price": 145.51,
+      "discount_percent": 49,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-fc9334-09-r-19133",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368745_de61bfa6-3cdd-44fa-8da3-a85ab3d4aa55.jpg?v=1783686407",
+      "found_at": "2026-07-12T10:28:21.982284+00:00",
+      "price_history": [
+        {
+          "price": 95.0,
+          "original_price": 150.35,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 145.51,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6032,6 +6190,93 @@
       "auto_approved": true
     },
     {
+      "id": "f0f9bacbdaa9",
+      "title": "GreenPan FROST Grey",
+      "price": 160.0,
+      "original_price": 272.0,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/greenpan-frost-grey-r-18683",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242463.jpg?v=1782198835",
+      "found_at": "2026-07-12T10:28:09.531564+00:00",
+      "price_history": [
+        {
+          "price": 261.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        },
+        {
+          "price": 243.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-01T10:01:11.626386+00:00"
+        },
+        {
+          "price": 240.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 237.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-03T10:00:50.935508+00:00"
+        },
+        {
+          "price": 235.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 232.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        },
+        {
+          "price": 230.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        },
+        {
+          "price": 227.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 224.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 222.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 219.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 216.0,
+          "original_price": 297.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 160.0,
+          "original_price": 272.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "eea4967f9329",
       "title": "Philips Series 7000 BG7470/15",
       "price": 42.0,
@@ -6344,6 +6589,33 @@
       "auto_approved": true
     },
     {
+      "id": "318b0d667533",
+      "title": "Krups Evidence ECO-Design EA8968",
+      "price": 298.0,
+      "original_price": 457.73,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-evidence-eco-design-ea8968-r-19088",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2151371_3ab2985c-65ee-423a-9d02-56d5599f6bd5.jpg?v=1783686387",
+      "found_at": "2026-07-12T10:28:15.796103+00:00",
+      "price_history": [
+        {
+          "price": 303.0,
+          "original_price": 445.5,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 298.0,
+          "original_price": 457.73,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "bf63189a85f0",
       "title": "Fitbit Versa 4 Denimblauw/platina",
       "price": 104.0,
@@ -6647,6 +6919,38 @@
       "auto_approved": true
     },
     {
+      "id": "ee0bd5ea73fb",
+      "title": "JBL Quantum 610 over ear Gaming Headset ; Draadloze 2-4 GHz verbinding en 3,5 mm aansluiting ; Met opklapbare microfoon en QuantumSurround Sound ; Zwart",
+      "price": 112.44,
+      "original_price": 199.99,
+      "discount_percent": 43,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09NCDR7TQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81OhA4xHbwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-12T10:13:06.513335+00:00",
+      "price_history": [
+        {
+          "price": 111.7,
+          "original_price": null,
+          "scraped_at": "2026-05-10T10:00:36.728758+00:00"
+        },
+        {
+          "price": 109.19,
+          "original_price": null,
+          "scraped_at": "2026-05-15T14:00:25.327899+00:00"
+        },
+        {
+          "price": 112.44,
+          "original_price": 199.99,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "fa487592be3b",
       "title": "Nanlite Lantern Softbox FM-mount w/ Bowens adapter (LT-FMM-6",
       "price": 62.0,
@@ -6850,6 +7154,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242926.jpg?v=1779175123",
       "found_at": "2026-06-25T10:23:13.699152+00:00",
       "approved_at": "26-06-2026 16:53",
+      "auto_approved": true
+    },
+    {
+      "id": "d542b48d9242",
+      "title": "iiyama G-Master G2745QSU-B2 27 inch 100Hz QHD-gamingdisplay, 1ms (MPRT) IPS adaptieve synchronisatie, 2560x1440, HDMI/DP, 2 x USB",
+      "price": 97.07,
+      "original_price": 174.32,
+      "discount_percent": 44,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DHD4961F?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/817FK4bNRML._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-12T10:26:08.612718+00:00",
+      "approved_at": "12-07-2026 11:32",
       "auto_approved": true
     },
     {
@@ -7544,6 +7863,68 @@
       "auto_approved": true
     },
     {
+      "id": "1e55022c2f53",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 240.0,
+      "original_price": 369.84,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18753",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_706f2a79-1379-4669-a81e-9fb787fd58f5.jpg?v=1782380538",
+      "found_at": "2026-07-12T10:28:15.797427+00:00",
+      "price_history": [
+        {
+          "price": 258.0,
+          "original_price": 359.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 390.99,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 359.31,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 240.0,
+          "original_price": 376.13,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 227.0,
+          "original_price": 373.53,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 240.0,
+          "original_price": 368.36,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        }
+      ],
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "d65d2429e61f",
+      "title": "Karcher SE 6 Signature Line",
+      "price": 216.0,
+      "original_price": 337.97,
+      "discount_percent": 36,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/karcher-se-6-signature-line-r-19051",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2116234.jpg?v=1783685900",
+      "found_at": "2026-07-12T10:28:15.795710+00:00",
+      "approved_at": "12-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "f8be58998484",
       "title": "Desktop monitor BE24EQK",
       "price": 78.38,
@@ -7693,180 +8074,6 @@
         }
       ],
       "approved_at": "30-06-2026 11:59",
-      "auto_approved": true
-    },
-    {
-      "id": "da1739e2cd54",
-      "title": "Bosch Unlimited 10 BBS1041GQC",
-      "price": 459.0,
-      "original_price": 638.0,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bosch-unlimited-10-bbs1041gqc-r-19083",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095701_de80050c-6557-425c-8476-b33e97a85b7d.jpg?v=1783686325",
-      "found_at": "2026-07-11T10:37:45.996913+00:00",
-      "approved_at": "11-07-2026 11:43",
-      "auto_approved": true
-    },
-    {
-      "id": "0c85962d58d0",
-      "title": "KRUPS EA877D Intuition Experience+ - Volautomatische espressomachine - RVS",
-      "price": 604.5,
-      "original_price": 806.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=337970",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a4f7f4481634_ASSET_MMS_139337268-500x500.png",
-      "found_at": "2026-07-02T10:20:05.702300+00:00",
-      "price_history": [
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
-        },
-        {
-          "price": 581.25,
-          "original_price": 775.0,
-          "scraped_at": "2026-07-03T10:00:50.935508+00:00"
-        },
-        {
-          "price": 604.5,
-          "original_price": 806.0,
-          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
-        }
-      ],
-      "approved_at": "11-07-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "564ffcc2ad79",
-      "title": "Lenovo Idea Tab Pro 8GB 256GB",
-      "price": 233.0,
-      "original_price": 359.0,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18754",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_27a57500-fbf8-4879-8488-9b5151a35ee8.jpg?v=1782380571",
-      "found_at": "2026-06-26T10:15:49.991118+00:00",
-      "approved_at": "26-06-2026 16:53",
-      "auto_approved": true
-    },
-    {
-      "id": "fe7243b21020",
-      "title": "BOSCH  KGN36VXCT -  Koel-vriescombinatie - breedte 60 cm - hoogte 186 cm - inhoud 321 l - NoFrost",
-      "price": 600.75,
-      "original_price": 801.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=338860",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a50fb445e2de_ASSET_MMS_142530372-500x500.png",
-      "found_at": "2026-07-09T10:18:07.222719+00:00",
-      "approved_at": "11-07-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "d7e376ed7c83",
-      "title": "ETNA FIV560RVS - Fornuis - Inductie 2-fasen (Perilex) - breedte 60 cm",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=339127",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a50c9d8042c6_ASSET_MMS_71235812-500x500.png",
-      "found_at": "2026-07-10T14:51:43.337735+00:00",
-      "approved_at": "11-07-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "9547f3e643b2",
-      "title": "SAMSUNG DV90DG6845LKU3 - Warmtepompdroger - 9 kg - 64 dB - Energielabel A Warmtepompdroger",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=339024",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a50ecf319fb3_ASSET_MMS_158136267-500x500.png",
-      "found_at": "2026-07-10T10:21:54.932692+00:00",
-      "approved_at": "11-07-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "e4458454f50a",
-      "title": "SAMSUNG UE75U8000FUXXN - Ultra HD 4K - Led-tv - 75 inch - 2025",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=338841",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a4e2ab0f2569_ASSET_MMS_165395455-500x500.png",
-      "found_at": "2026-07-09T10:18:07.236290+00:00",
-      "approved_at": "11-07-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "a6279bdb590a",
-      "title": "HP laptop 16-ag0055ng QWERTZ",
-      "price": 452.0,
-      "original_price": 629.0,
-      "discount_percent": 28,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-laptop-16-ag0055ng-qwertz-r-18911",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2158739.jpg?v=1783323628",
-      "found_at": "2026-07-12T06:23:13.024508+00:00",
-      "approved_at": "12-07-2026 07:27",
-      "auto_approved": true
-    },
-    {
-      "id": "7aad6864e0ad",
-      "title": "Sage the Nutri Juicer Cold Plus",
-      "price": 125.0,
-      "original_price": 211.74,
-      "discount_percent": 40,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sage-the-nutri-juicer-cold-plus-r-18828",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1566226.jpg?v=1783408024",
-      "found_at": "2026-07-12T06:23:28.079548+00:00",
-      "price_history": [
-        {
-          "price": 135.0,
-          "original_price": 203.67,
-          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
-        },
-        {
-          "price": 144.0,
-          "original_price": 227.86,
-          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
-        },
-        {
-          "price": 135.0,
-          "original_price": 213.65,
-          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
-        },
-        {
-          "price": 125.0,
-          "original_price": 211.74,
-          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
-        }
-      ],
-      "approved_at": "12-07-2026 07:27",
       "auto_approved": true
     }
   ]
