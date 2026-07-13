@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T14:18:07.202916+00:00",
-  "total": 286,
+  "updated_at": "2026-07-13T18:26:21.334674+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "92aefa552d76",
@@ -7619,6 +7619,463 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110016_c172aed6-4921-47c6-a79a-391e91682b9b.jpg?v=1783686447",
       "found_at": "2026-07-13T10:23:18.556980+00:00",
       "approved_at": "13-07-2026 11:27",
+      "auto_approved": true
+    },
+    {
+      "id": "50fccd53463e",
+      "title": "Miele Guard S1 Obsidianschwarz",
+      "price": 128.0,
+      "original_price": 208.18,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-guard-s1-obsidianschwarz-r-18710",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129127_65b21495-ad46-4ad5-b492-fd3a0b8e77db.jpg?v=1782199095",
+      "found_at": "2026-07-13T14:14:20.431953+00:00",
+      "price_history": [
+        {
+          "price": 136.0,
+          "original_price": 200.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 208.18,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "e61d95d248e6",
+      "title": "TP-Link TL-WPA8635PKITB",
+      "price": 81.0,
+      "original_price": 138.1,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tp-link-tl-wpa8635pkitb-r-18210",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1373384_59b162ef-5971-4612-a08f-fba18b6eea36.jpg?v=1780407201",
+      "found_at": "2026-07-13T18:22:49.204061+00:00",
+      "price_history": [
+        {
+          "price": 92.0,
+          "original_price": 130.03,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 131.08,
+          "scraped_at": "2026-07-01T10:01:11.626386+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 130.03,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 133.1,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 139.2,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 139.2,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": 131.71,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 103.0,
+          "original_price": 140.96,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 135.52,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "c208764eb314",
+      "title": "Denon AV Amplifier AVC-X 3800H Black",
+      "price": 1198.0,
+      "original_price": 1440.03,
+      "discount_percent": 16,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/denon-av-amplifier-avc-x-3800h-black-r-19140",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/6439734-71880-denon-avc-x-3800h-av-receiver-10.jpg?v=1783687810",
+      "found_at": "2026-07-13T18:22:33.452675+00:00",
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "c75aeb9306da",
+      "title": "Oppo A5 Pro 5G Black Brown 256 GB",
+      "price": 139.0,
+      "original_price": 221.73,
+      "discount_percent": 37,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oppo-a5-pro-5g-black-brown-256-gb-r-18922",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2166673_054b186a-1162-4a16-9b95-ecd9f72f30a0.jpg?v=1783064895",
+      "found_at": "2026-07-13T18:22:42.933932+00:00",
+      "price_history": [
+        {
+          "price": 155.0,
+          "original_price": 212.7,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 181.0,
+          "original_price": 244.64,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 221.73,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "6c209936c964",
+      "title": "HP 935 Creator Draadloze Muis",
+      "price": 85.0,
+      "original_price": 144.0,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-935-creator-draadloze-muis-r-18888",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951471_0a4fd24b-5391-4f17-913a-b611db097972.jpg?v=1783064526",
+      "found_at": "2026-07-13T18:22:33.455283+00:00",
+      "price_history": [
+        {
+          "price": 60.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-06T14:01:02.084481+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": 144.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 135.8,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": 144.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 137.76,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 144.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "536dfd6023d3",
+      "title": "Princess Table Chef Premium Stone Grill",
+      "price": 32.0,
+      "original_price": 57.2,
+      "discount_percent": 44,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/princess-table-chef-premium-stone-grill-r-18870",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2202110.jpg?v=1783064384",
+      "found_at": "2026-07-13T18:22:45.984449+00:00",
+      "price_history": [
+        {
+          "price": 34.0,
+          "original_price": 54.82,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 32.0,
+          "original_price": 57.2,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "9d269d2b7542",
+      "title": "Sony WH-CH720N Blauw",
+      "price": 50.0,
+      "original_price": 86.61,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-ch720n-blauw-r-18653",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1886091.jpg?v=1782117883",
+      "found_at": "2026-07-13T18:22:45.987637+00:00",
+      "price_history": [
+        {
+          "price": 66.0,
+          "original_price": 82.48,
+          "scraped_at": "2026-06-23T10:03:00.979987+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 89.75,
+          "scraped_at": "2026-06-25T10:00:41.493688+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 89.39,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 91.09,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 82.23,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 98.29,
+          "scraped_at": "2026-07-03T10:00:50.935508+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 98.46,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 87.25,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 88.54,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 88.37,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "37f426dabb8a",
+      "title": "DJI Mavic 4 Pro - drone only",
+      "price": 1829.0,
+      "original_price": 2088.26,
+      "discount_percent": 12,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-mavic-4-pro-drone-only-r-19153",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2175783_1131b2d7-370e-43da-b033-eac76ecb055e.jpg?v=1783686545",
+      "found_at": "2026-07-13T18:22:33.453062+00:00",
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "fa6da67308bc",
+      "title": "AOC 24G2SPAE/BK",
+      "price": 118.0,
+      "original_price": 189.0,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g2spae-bk-r-19156",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1954001_f1b1cc95-d391-4acb-9e69-ba6411828cf6.jpg?v=1783686595",
+      "found_at": "2026-07-13T18:22:29.936249+00:00",
+      "price_history": [
+        {
+          "price": 125.0,
+          "original_price": 136.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "5e369681aedd",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 85.0,
+      "original_price": 139.96,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19029",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_d8b4034c-d1fa-481a-bbab-5a73a7fa91f1.jpg?v=1783409089",
+      "found_at": "2026-07-13T18:22:42.934959+00:00",
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "9eb8fd155cfa",
+      "title": "HP 935 Creator Draadloze Muis",
+      "price": 68.0,
+      "original_price": 114.95,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-935-creator-draadloze-muis-r-18890",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951471_ba576271-db83-46d8-9c9b-f1bd8f672f86.jpg?v=1783064564",
+      "found_at": "2026-07-13T18:22:33.455545+00:00",
+      "price_history": [
+        {
+          "price": 60.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 110.64,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 115.83,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 114.67,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 112.91,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "32aff07bf18b",
+      "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5679",
+      "price": 64.0,
+      "original_price": 106.98,
+      "discount_percent": 40,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-neo-latte-yy5679-r-18793",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2208587.jpg?v=1783063867",
+      "found_at": "2026-07-13T18:22:37.060283+00:00",
+      "price_history": [
+        {
+          "price": 67.0,
+          "original_price": 106.4,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 104.23,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "4d5e8e0b3270",
+      "title": "AEG AB61A4DB 6000 Animal",
+      "price": 91.0,
+      "original_price": 147.56,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aeg-ab61a4db-6000-animal-r-18993",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797594_27bec53a-de5b-41d1-9d3d-5c89c449dcd2.jpg?v=1783408652",
+      "found_at": "2026-07-13T18:22:29.935918+00:00",
+      "price_history": [
+        {
+          "price": 99.0,
+          "original_price": 152.5,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 149.7,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
+      "auto_approved": true
+    },
+    {
+      "id": "7b85ca14d9df",
+      "title": "Polar IGNITE 3 BRAIDED YARN BLK S-L",
+      "price": 166.0,
+      "original_price": 252.4,
+      "discount_percent": 34,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/polar-ignite-3-braided-yarn-blk-s-l-r-18957",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2137346.jpg?v=1783408391",
+      "found_at": "2026-07-13T18:22:45.984260+00:00",
+      "price_history": [
+        {
+          "price": 173.0,
+          "original_price": 248.08,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 247.16,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 19:26",
       "auto_approved": true
     }
   ]
