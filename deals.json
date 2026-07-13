@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T06:17:02.988080+00:00",
-  "total": 295,
+  "updated_at": "2026-07-13T10:27:06.415456+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "92aefa552d76",
@@ -459,6 +459,21 @@
         }
       ],
       "approved_at": "30-06-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "c0359a9a3e6a",
+      "title": "iRobot Roomba 205 Combo Black",
+      "price": 121.0,
+      "original_price": 354.78,
+      "discount_percent": 65,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/irobot-roomba-205-combo-black-r-19138",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2154341_467d5059-e7ab-4482-9e66-5c0faa282941.jpg?v=1783686485",
+      "found_at": "2026-07-13T10:23:12.000064+00:00",
+      "approved_at": "13-07-2026 11:27",
       "auto_approved": true
     },
     {
@@ -7743,6 +7758,38 @@
       "auto_approved": true
     },
     {
+      "id": "60fb2ee837df",
+      "title": "Medela Swing Maxi Hands-Free",
+      "price": 95.0,
+      "original_price": 166.46,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-swing-maxi-hands-free-r-18826",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2120982_2140ae86-e371-4868-b978-56b4e1ee79ac.jpg?v=1783064074",
+      "found_at": "2026-07-13T10:23:15.165523+00:00",
+      "price_history": [
+        {
+          "price": 141.0,
+          "original_price": 162.5,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 157.46,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 162.44,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "7aad6864e0ad",
       "title": "Sage the Nutri Juicer Cold Plus",
       "price": 125.0,
@@ -7896,6 +7943,63 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2061823_186766a7-4c64-4263-9345-9e843680e4da.jpg?v=1783408343",
       "found_at": "2026-07-12T18:35:08.364661+00:00",
       "approved_at": "12-07-2026 19:39",
+      "auto_approved": true
+    },
+    {
+      "id": "87ec5aa935e5",
+      "title": "Philips PowerPro Expert FC9745/09",
+      "price": 112.0,
+      "original_price": 187.37,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-powerpro-expert-fc9745-09-r-19085",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1372284_7b5d9ea2-be91-446b-8692-99d2369eba12.jpg?v=1783686349",
+      "found_at": "2026-07-13T10:23:21.433010+00:00",
+      "approved_at": "13-07-2026 11:27",
+      "auto_approved": true
+    },
+    {
+      "id": "0fd1f2ce2ad2",
+      "title": "Philips 3000-serie Airfryer NA332/00",
+      "price": 86.0,
+      "original_price": 147.77,
+      "discount_percent": 41,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-3000-serie-airfryer-na332-00-r-19135",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110016_c172aed6-4921-47c6-a79a-391e91682b9b.jpg?v=1783686447",
+      "found_at": "2026-07-13T10:23:18.556980+00:00",
+      "approved_at": "13-07-2026 11:27",
+      "auto_approved": true
+    },
+    {
+      "id": "50fccd53463e",
+      "title": "Miele Guard S1 Obsidianschwarz",
+      "price": 128.0,
+      "original_price": 208.18,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-guard-s1-obsidianschwarz-r-18710",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129127_65b21495-ad46-4ad5-b492-fd3a0b8e77db.jpg?v=1782199095",
+      "found_at": "2026-07-13T10:23:18.553760+00:00",
+      "price_history": [
+        {
+          "price": 136.0,
+          "original_price": 200.0,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 208.18,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        }
+      ],
+      "approved_at": "13-07-2026 11:27",
       "auto_approved": true
     }
   ]
