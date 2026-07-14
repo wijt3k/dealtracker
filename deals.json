@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T14:26:52.458815+00:00",
-  "total": 296,
+  "updated_at": "2026-07-14T18:28:06.947120+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "92aefa552d76",
@@ -905,6 +905,21 @@
       "auto_approved": true
     },
     {
+      "id": "42ef24cb300e",
+      "title": "ASUS Chromebook Plus CX1405CTA-S60060 14 inch FHD 60Hz laptop (Intel Core 3-N355 processor 3,9 GHz, 8 GB LPDDR5, 128G eMMC, Intel UHD Graphics) ChromeOS - toetsenbord AZERTY",
+      "price": 197.05,
+      "original_price": 424.65,
+      "discount_percent": 53,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DSGHKS6G?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71kqCCR-wjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-14T18:02:34.933782+00:00",
+      "approved_at": "14-07-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "9f3f917eeae9",
       "title": "Philips FC9334/09",
       "price": 43.0,
@@ -1237,6 +1252,21 @@
         }
       ],
       "approved_at": "11-07-2026 19:23",
+      "auto_approved": true
+    },
+    {
+      "id": "9b53724c9c0c",
+      "title": "Dell 15 Laptop DC15250 – 15,6 inch FHD 120 Hz, Intel Core i7-1355U, Intel UHD Graphics, 16 GB RAM, 512 GB SSD, HD-webcam, Windows 11 Home, AZERTY-toetsenbord, Carbon Black",
+      "price": 437.17,
+      "original_price": 729.5,
+      "discount_percent": 40,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FBDJWZG8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61wP05KwATL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-14T18:08:00.443000+00:00",
+      "approved_at": "14-07-2026 19:28",
       "auto_approved": true
     },
     {
@@ -4999,6 +5029,33 @@
       "auto_approved": true
     },
     {
+      "id": "4a457f9302d9",
+      "title": "ARZOPA 144HZ Draagbare Monitor, 16.1 Inch 1080 FHD Draagbare Monitor met Extern HDR Oogzorgscherm en HDMI/Type-C/USB-C, voor Laptop/PC/Mac/PS4/PS5/Xbox/Switch.",
+      "price": 74.99,
+      "original_price": 143.0,
+      "discount_percent": 47,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B2R86LY3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71OwWERmyEL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-14T18:01:47.533287+00:00",
+      "price_history": [
+        {
+          "price": 85.99,
+          "original_price": 199.99,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 74.99,
+          "original_price": 143.0,
+          "scraped_at": "2026-07-14T18:00:19.586391+00:00"
+        }
+      ],
+      "approved_at": "14-07-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "946a86c14540",
       "title": "Mova Robotstofzuiger Z60 Ultra  SA Wit",
       "price": 538.0,
@@ -8039,6 +8096,33 @@
         }
       ],
       "approved_at": "14-07-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "8d83530a8f4c",
+      "title": "HP OMEN Transcend 16-u1027nb AZERTY",
+      "price": 1495.0,
+      "original_price": 1699.0,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omen-transcend-16-u1027nb-azerty-r-19023",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068861_9af9042c-625c-48b0-b1bb-9f2b3c408c1b.jpg?v=1783409028",
+      "found_at": "2026-07-14T18:23:36.940856+00:00",
+      "price_history": [
+        {
+          "price": 1699.0,
+          "original_price": 1931.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 1495.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        }
+      ],
+      "approved_at": "14-07-2026 19:28",
       "auto_approved": true
     }
   ]
