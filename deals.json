@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T14:19:11.910042+00:00",
-  "total": 293,
+  "updated_at": "2026-07-15T18:36:40.169802+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "92aefa552d76",
@@ -6191,6 +6191,38 @@
       "auto_approved": true
     },
     {
+      "id": "32aff07bf18b",
+      "title": "Krups NESCAFÉ Dolce Gusto NEO Latte YY5679",
+      "price": 59.0,
+      "original_price": 107.55,
+      "discount_percent": 45,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-neo-latte-yy5679-r-18793",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2208587.jpg?v=1783063867",
+      "found_at": "2026-07-14T06:18:08.039363+00:00",
+      "price_history": [
+        {
+          "price": 67.0,
+          "original_price": 106.4,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 104.23,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 107.55,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        }
+      ],
+      "approved_at": "15-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
       "id": "7be4d0032918",
       "title": "BaByliss Air Wand 3-in-1 Wet To Dry AS6550E",
       "price": 66.0,
@@ -6664,6 +6696,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2001293.jpg?v=1784018140",
       "found_at": "2026-07-15T10:27:50.042013+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "6b463e68dfc2",
+      "title": "Philips Momentum 24M1N3200ZA/00 computer monitor 60,5 cm (23.8\") 1920 x 1080 Pixels Full HD LED Zwart",
+      "price": 81.97,
+      "original_price": 139.99,
+      "discount_percent": 41,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09LD8MBS1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/813eeWc68tL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-15T18:28:53.140246+00:00",
+      "approved_at": "15-07-2026 19:36",
       "auto_approved": true
     },
     {
@@ -7470,6 +7517,152 @@
         }
       ],
       "approved_at": "14-07-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "72af88130ac6",
+      "title": "Sony PS5 Digital Edition + Fortnite",
+      "price": 442.0,
+      "original_price": 597.0,
+      "discount_percent": 25,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-ps5-digital-edition-fortnite-r-19178",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2230773.jpg?v=1784018060",
+      "found_at": "2026-07-15T14:14:32.435923+00:00",
+      "approved_at": "15-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "bb26299e1516",
+      "title": "Apple MacBook Air 15\" (2024) M3 (8/10) 8GB/256GB Sterrenlicht QWERTZ",
+      "price": 935.0,
+      "original_price": 1142.0,
+      "discount_percent": 18,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-macbook-air-15-2024-m3-8-10-8gb-256gb-sterrenlicht-qwertz-r-18904",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2021229_dd0ec0f2-ff3f-4658-9775-a2b6e370db3a.jpg?v=1783064698",
+      "found_at": "2026-07-15T14:14:15.711636+00:00",
+      "price_history": [
+        {
+          "price": 1350.0,
+          "original_price": 1468.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 1242.0,
+          "original_price": 1350.0,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 1142.0,
+          "original_price": 1242.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 1050.0,
+          "original_price": 1142.0,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 935.0,
+          "original_price": 1142.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        }
+      ],
+      "approved_at": "15-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "13f84a726193",
+      "title": "Logitech G 23 Racing Wheel and Pedals voor PlayStation en PC",
+      "price": 192.0,
+      "original_price": 285.52,
+      "discount_percent": 32,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-23-racing-wheel-and-pedals-voor-playstation-en-pc-r-19157",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1902415_bf0cff23-e9ed-4ccf-b839-6f85ee8aecec.jpg?v=1783686606",
+      "found_at": "2026-07-15T18:32:55.803100+00:00",
+      "price_history": [
+        {
+          "price": 192.0,
+          "original_price": 260.43,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 193.0,
+          "original_price": 260.55,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 192.0,
+          "original_price": 285.52,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        }
+      ],
+      "approved_at": "15-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "14bc42776e67",
+      "title": "Ecovacs DEEBOT X12 OmniCyclone",
+      "price": 861.0,
+      "original_price": 1058.9,
+      "discount_percent": 18,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ecovacs-deebot-x12-omnicyclone-r-19205",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1153986141.jpg?v=1784018209",
+      "found_at": "2026-07-15T18:32:48.992760+00:00",
+      "approved_at": "15-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "1ac46ad70e44",
+      "title": "DeLonghi Vertuo POP ENV90.B",
+      "price": 48.0,
+      "original_price": 80.82,
+      "discount_percent": 40,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-vertuo-pop-env90-b-r-18854",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132659_57d6bb34-6fee-482d-a33f-69005abb7b1c.jpg?v=1783408133",
+      "found_at": "2026-07-15T18:32:48.990737+00:00",
+      "price_history": [
+        {
+          "price": 49.0,
+          "original_price": 78.82,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 78.05,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 79.2,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 80.11,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 80.82,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        }
+      ],
+      "approved_at": "15-07-2026 19:36",
       "auto_approved": true
     }
   ]
