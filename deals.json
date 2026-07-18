@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T10:20:07.700423+00:00",
-  "total": 295,
+  "updated_at": "2026-07-18T14:27:04.514547+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d52d4d3ff8fc",
@@ -2175,6 +2175,33 @@
         }
       ],
       "approved_at": "17-07-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "5736bd02cb13",
+      "title": "Rowenta X-Force Flex 12.60 RH98A8",
+      "price": 171.0,
+      "original_price": 324.1,
+      "discount_percent": 47,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-x-force-flex-12-60-rh98a8-r-19244",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1869028_711d801a-3be9-4d70-957c-af8306192b99.jpg?v=1784018618",
+      "found_at": "2026-07-15T14:14:32.433889+00:00",
+      "price_history": [
+        {
+          "price": 168.0,
+          "original_price": 259.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 171.0,
+          "original_price": 333.65,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        }
+      ],
+      "approved_at": "18-07-2026 15:27",
       "auto_approved": true
     },
     {
@@ -7515,6 +7542,132 @@
         }
       ],
       "approved_at": "17-07-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "abde6921a984",
+      "title": "LG DS60T",
+      "price": 160.0,
+      "original_price": 249.48,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds60t-r-19320",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2084198_863b085e-0373-410c-bdc0-8db61bc2657b.jpg?v=1784191773",
+      "found_at": "2026-07-17T14:26:31.887233+00:00",
+      "price_history": [
+        {
+          "price": 157.0,
+          "original_price": 219.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 160.0,
+          "original_price": 249.48,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        }
+      ],
+      "approved_at": "18-07-2026 15:27",
+      "auto_approved": true
+    },
+    {
+      "id": "e82ddae8d511",
+      "title": "Lenovo Yoga AIO 7 27APH8 F0HK002ENY QWERTY",
+      "price": 1453.0,
+      "original_price": 1699.0,
+      "discount_percent": 14,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-yoga-aio-7-27aph8-f0hk002eny-qwerty-r-19142",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2048183.jpg?v=1783686542",
+      "found_at": "2026-07-18T14:22:52.600286+00:00",
+      "price_history": [
+        {
+          "price": 1563.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 1469.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 1453.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        }
+      ],
+      "approved_at": "18-07-2026 15:27",
+      "auto_approved": true
+    },
+    {
+      "id": "f382a14b2b23",
+      "title": "MSI Modern 15 F13MG-039 QWERTZ",
+      "price": 359.0,
+      "original_price": 499.0,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-modern-15-f13mg-039-qwertz-r-19232",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2211401.jpg?v=1784292535",
+      "found_at": "2026-07-18T14:22:56.062979+00:00",
+      "approved_at": "18-07-2026 15:27",
+      "auto_approved": true
+    },
+    {
+      "id": "7386b3220f1d",
+      "title": "Philips Epilator Series 8000 BRE710/00",
+      "price": 46.0,
+      "original_price": 79.7,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-epilator-series-8000-bre710-00-r-18266",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1470064.jpg?v=1780407518",
+      "found_at": "2026-07-18T06:30:26.035547+00:00",
+      "price_history": [
+        {
+          "price": 69.0,
+          "original_price": 81.31,
+          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 81.85,
+          "scraped_at": "2026-07-03T10:00:50.935508+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 84.83,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 82.57,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 83.78,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 82.22,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 80.4,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        }
+      ],
+      "approved_at": "18-07-2026 15:27",
       "auto_approved": true
     }
   ]
