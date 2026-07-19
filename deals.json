@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T06:27:09.124186+00:00",
-  "total": 290,
+  "updated_at": "2026-07-19T10:18:38.065575+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d52d4d3ff8fc",
@@ -666,6 +666,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215375_79c3da4e-591d-4917-91f1-19a5cd28289a.jpg?v=1784018745",
       "found_at": "2026-07-15T10:27:35.659479+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "2db78b4ee6a4",
+      "title": "Samsung Galaxy Watch7 44mm Bluetooth Plata (Silver) L310",
+      "price": 151.73,
+      "original_price": 349.95,
+      "discount_percent": 56,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DF869R3Y?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51kNAqsNLyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-19T10:08:30.875688+00:00",
+      "approved_at": "19-07-2026 11:18",
       "auto_approved": true
     },
     {
@@ -6942,6 +6957,38 @@
       "auto_approved": true
     },
     {
+      "id": "2e668c36e87d",
+      "title": "Revamp Progloss Airstyle 6-in-1 DR-1250",
+      "price": 51.0,
+      "original_price": 88.98,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/revamp-progloss-airstyle-6-in-1-dr-1250-r-19020",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2032193_3af559f3-88a8-402a-9c37-c71f2a1a1bc0.jpg?v=1783408992",
+      "found_at": "2026-07-19T10:14:12.384827+00:00",
+      "price_history": [
+        {
+          "price": 57.0,
+          "original_price": 81.66,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 88.98,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 88.98,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
       "id": "abde6921a984",
       "title": "LG DS60T",
       "price": 160.0,
@@ -7137,6 +7184,48 @@
       "auto_approved": true
     },
     {
+      "id": "8226ba1c2e9f",
+      "title": "HP LaserJet Pro MFP 3102fdw",
+      "price": 194.0,
+      "original_price": 289.75,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laserjet-pro-mfp-3102fdw-r-19036",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2005185_f54c38bf-9831-4568-998f-f5fd4113f058.jpg?v=1783409176",
+      "found_at": "2026-07-19T10:13:59.842680+00:00",
+      "price_history": [
+        {
+          "price": 212.0,
+          "original_price": 286.58,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 205.0,
+          "original_price": 289.44,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 206.0,
+          "original_price": 286.71,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 205.0,
+          "original_price": 288.94,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 289.75,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
       "id": "23bffe8deb0e",
       "title": "Samsung Watch 8 44mm Graphite",
       "price": 262.0,
@@ -7318,6 +7407,48 @@
       "auto_approved": true
     },
     {
+      "id": "cb559b41e57f",
+      "title": "Netgear GS308EPP",
+      "price": 86.0,
+      "original_price": 139.32,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/netgear-gs308epp-r-18946",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1503840.jpg?v=1783408296",
+      "found_at": "2026-07-19T10:14:09.231012+00:00",
+      "price_history": [
+        {
+          "price": 105.0,
+          "original_price": 133.67,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 140.9,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 144.26,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 143.98,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 86.0,
+          "original_price": 139.32,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
       "id": "35c3d10f3ccb",
       "title": "HP laptop 14-ek2055ng QWERTZ",
       "price": 711.0,
@@ -7412,6 +7543,33 @@
       "auto_approved": true
     },
     {
+      "id": "5412a4a00343",
+      "title": "Motorola Edge 60 Fusion 256GB Grijs 5G",
+      "price": 197.0,
+      "original_price": 290.97,
+      "discount_percent": 32,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-edge-60-fusion-256gb-grijs-5g-r-19361",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2162284_00e4df72-26b5-48e7-842f-26dd588db831.jpg?v=1784292764",
+      "found_at": "2026-07-19T10:14:05.258755+00:00",
+      "price_history": [
+        {
+          "price": 193.0,
+          "original_price": 269.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 197.0,
+          "original_price": 290.97,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
       "id": "2221391d54e8",
       "title": "HP OfficeJet Pro 9120e All-in-One Printer",
       "price": 145.0,
@@ -7468,6 +7626,169 @@
         }
       ],
       "approved_at": "19-07-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "cac0b62c667b",
+      "title": "Sony WH-1000XM5 Zwart",
+      "price": 164.0,
+      "original_price": 246.31,
+      "discount_percent": 33,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm5-zwart-r-19125",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1755757_9faa23f0-3d68-4f3d-ae12-573433348c50.jpg?v=1784190911",
+      "found_at": "2026-07-19T10:14:16.050957+00:00",
+      "price_history": [
+        {
+          "price": 182.0,
+          "original_price": 254.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 244.19,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "709df9099a1c",
+      "title": "Nilox NXM27CRV2001 Curved Monitor 27 inch Gaming Monitor 200Hz 1ms Computer Monitor met VESA-ondersteuning 100x100mm HDMI en DP aansluitingen",
+      "price": 87.95,
+      "original_price": 139.99,
+      "discount_percent": 37,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FB9PFKQ2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81ZNN2lZ9VL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-19T10:11:01.599106+00:00",
+      "price_history": [
+        {
+          "price": 105.84,
+          "original_price": 111.28,
+          "scraped_at": "2026-06-18T06:01:58.164250+00:00"
+        },
+        {
+          "price": 90.15,
+          "original_price": 1199.0,
+          "scraped_at": "2026-07-08T14:01:00.552314+00:00"
+        },
+        {
+          "price": 85.9,
+          "original_price": 139.99,
+          "scraped_at": "2026-07-13T18:00:19.266614+00:00"
+        },
+        {
+          "price": 87.95,
+          "original_price": 139.99,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "f934feb10708",
+      "title": "TCL S55H 2.1 Soundbar",
+      "price": 98.0,
+      "original_price": 155.22,
+      "discount_percent": 36,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tcl-s55h-2-1-soundbar-r-19055",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2051832_bd909c93-943c-4b1e-a231-9f44050b5895.jpg?v=1783685960",
+      "found_at": "2026-07-19T10:14:16.051997+00:00",
+      "price_history": [
+        {
+          "price": 103.0,
+          "original_price": 138.87,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 139.69,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 142.22,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 142.72,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 142.49,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 142.75,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 155.22,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "fc85b615922d",
+      "title": "DJI Osmo Pocket 3",
+      "price": 298.0,
+      "original_price": 414.7,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-osmo-pocket-3-r-19238",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1984393_3678db19-d54e-4a71-9f62-470eccfae909.jpg?v=1784292583",
+      "found_at": "2026-07-19T10:13:56.038721+00:00",
+      "approved_at": "19-07-2026 11:18",
+      "auto_approved": true
+    },
+    {
+      "id": "8fae4f07418d",
+      "title": "JBL Endurance Peak3 Zwart",
+      "price": 51.0,
+      "original_price": 83.96,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-endurance-peak3-zwart-r-18792",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797681_919b78cc-f088-4fd2-8f8c-0c5a42f8032d.jpg?v=1783063841",
+      "found_at": "2026-07-19T10:14:02.642207+00:00",
+      "price_history": [
+        {
+          "price": 58.0,
+          "original_price": 90.75,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 88.37,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 83.96,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        }
+      ],
+      "approved_at": "19-07-2026 11:18",
       "auto_approved": true
     },
     {
