@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T06:39:09.323932+00:00",
-  "total": 295,
+  "updated_at": "2026-07-21T10:46:00.985931+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -342,6 +342,73 @@
         }
       ],
       "approved_at": "20-07-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "526641d893bc",
+      "title": "Lenovo Idea Tab Pro 8GB 256GB",
+      "price": 143.0,
+      "original_price": 380.52,
+      "discount_percent": 62,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-8gb-256gb-r-18751",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129306_1fbcc57a-0e28-48ea-b5ee-9b70e661a42a.jpg?v=1782380533",
+      "found_at": "2026-07-21T10:40:09.291655+00:00",
+      "price_history": [
+        {
+          "price": 315.0,
+          "original_price": 359.0,
+          "scraped_at": "2026-06-26T10:01:07.003677+00:00"
+        },
+        {
+          "price": 289.0,
+          "original_price": 401.82,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 307.0,
+          "original_price": 359.31,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 296.0,
+          "original_price": 374.16,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 279.0,
+          "original_price": 369.64,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 296.0,
+          "original_price": 369.19,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 263.0,
+          "original_price": 375.04,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 279.0,
+          "original_price": 375.08,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 230.0,
+          "original_price": 376.31,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 143.0,
+          "original_price": 380.52,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        }
+      ],
+      "approved_at": "21-07-2026 11:46",
       "auto_approved": true
     },
     {
@@ -1357,6 +1424,21 @@
       "image": "https://m.media-amazon.com/images/I/71CIYV-zXXL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-07-20T14:26:41.527388+00:00",
       "approved_at": "20-07-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "e22caf349c39",
+      "title": "Nilfisk Premium 180.1-10",
+      "price": 287.0,
+      "original_price": 507.45,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nilfisk-premium-180-1-10-r-19380",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1356699_8d091296-dbaf-4efe-b74a-251db4ef984d.jpg?v=1784534291",
+      "found_at": "2026-07-21T10:40:12.407661+00:00",
+      "approved_at": "21-07-2026 11:46",
       "auto_approved": true
     },
     {
@@ -2545,6 +2627,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145064_8820e18c-08d6-4108-8a41-c5e97f6f90a0.jpg?v=1784292213",
       "found_at": "2026-07-18T10:15:31.290220+00:00",
       "approved_at": "18-07-2026 11:19",
+      "auto_approved": true
+    },
+    {
+      "id": "89f1e592927a",
+      "title": "Dreame D30 Ultra",
+      "price": 251.0,
+      "original_price": 419.0,
+      "discount_percent": 40,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-d30-ultra-r-19368",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/242810472.jpg?v=1784534253",
+      "found_at": "2026-07-21T10:40:02.561461+00:00",
+      "price_history": [
+        {
+          "price": 272.0,
+          "original_price": 379.0,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 419.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        }
+      ],
+      "approved_at": "21-07-2026 11:46",
       "auto_approved": true
     },
     {
@@ -4935,6 +5044,33 @@
       "auto_approved": true
     },
     {
+      "id": "4ef96b821747",
+      "title": "Lenovo Yoga Tab tablet, 11,1\" 3.2K LTPS display, 16:10, Qualcomm Snapdragon 8 Gen 3, 12 GB RAM, 256 GB geheugen, Qualcomm Adreno 750 graphics, Android 15, Seashell, incl. Tab Pen Pro",
+      "price": 384.51,
+      "original_price": 551.47,
+      "discount_percent": 30,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FHL4MHY1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71WkcUTY9qL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-21T10:14:23.959552+00:00",
+      "price_history": [
+        {
+          "price": 401.61,
+          "original_price": 551.47,
+          "scraped_at": "2026-07-16T06:00:22.525356+00:00"
+        },
+        {
+          "price": 384.51,
+          "original_price": 551.47,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        }
+      ],
+      "approved_at": "21-07-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "509bb922903a",
       "title": "MSI MAG Infinite S3 14NUC5-1437EU",
       "price": 1000.0,
@@ -5932,6 +6068,38 @@
       "auto_approved": true
     },
     {
+      "id": "8d83530a8f4c",
+      "title": "HP OMEN Transcend 16-u1027nb AZERTY",
+      "price": 1444.0,
+      "original_price": 1699.0,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omen-transcend-16-u1027nb-azerty-r-19023",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068861_9af9042c-625c-48b0-b1bb-9f2b3c408c1b.jpg?v=1783409028",
+      "found_at": "2026-07-21T10:40:05.957285+00:00",
+      "price_history": [
+        {
+          "price": 1699.0,
+          "original_price": 1931.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 1495.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 1444.0,
+          "original_price": 1699.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        }
+      ],
+      "approved_at": "21-07-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "cd24d256ab92",
       "title": "iRobot Roomba Combo i5",
       "price": 194.0,
@@ -6538,6 +6706,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1977157_ae26a67c-280c-4060-94c9-dbeb1da63fae.jpg?v=1784018634",
       "found_at": "2026-07-15T10:27:42.488763+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "664bacd21857",
+      "title": "Oral-B iO Series 6N Wit + extra iO Gentle Care opzetborstel",
+      "price": 85.0,
+      "original_price": 142.08,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-series-6n-wit-extra-io-gentle-care-opzetborstel-r-19369",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797542_c9bec049-1823-43ad-aab5-27af1e55b0e0.jpg?v=1784192040",
+      "found_at": "2026-07-21T10:40:12.409334+00:00",
+      "price_history": [
+        {
+          "price": 107.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 147.01,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 145.74,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        }
+      ],
+      "approved_at": "21-07-2026 11:46",
       "auto_approved": true
     },
     {
@@ -7298,6 +7498,78 @@
       "auto_approved": true
     },
     {
+      "id": "465c47e57818",
+      "title": "HP OMEN Transcend 14-fb0075nd QWERTY",
+      "price": 1231.0,
+      "original_price": 1458.67,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omen-transcend-14-fb0075nd-qwerty-r-18942",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068662.jpg?v=1783408258",
+      "found_at": "2026-07-21T10:40:05.957188+00:00",
+      "price_history": [
+        {
+          "price": 1398.0,
+          "original_price": 1559.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 1345.0,
+          "original_price": 1549.0,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 1398.0,
+          "original_price": 1511.25,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 1345.0,
+          "original_price": 1485.33,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 1275.0,
+          "original_price": 1441.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 1345.0,
+          "original_price": 1467.67,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 1363.0,
+          "original_price": 1450.5,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 1275.0,
+          "original_price": 1441.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 1345.0,
+          "original_price": 1444.33,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 1398.0,
+          "original_price": 1460.5,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 1231.0,
+          "original_price": 1458.67,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        }
+      ],
+      "approved_at": "21-07-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "c5b5a493bf47",
       "title": "Meta Quest 3 Elite Strap",
       "price": 44.0,
@@ -7748,48 +8020,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092552_75a77dd9-28b4-47a9-a1fa-829157cc9243.jpg?v=1784292912",
       "found_at": "2026-07-19T18:11:50.438374+00:00",
       "approved_at": "20-07-2026 19:32",
-      "auto_approved": true
-    },
-    {
-      "id": "cac0b62c667b",
-      "title": "Sony WH-1000XM5 Zwart",
-      "price": 164.0,
-      "original_price": 246.31,
-      "discount_percent": 33,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wh-1000xm5-zwart-r-19125",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1755757_9faa23f0-3d68-4f3d-ae12-573433348c50.jpg?v=1784190911",
-      "found_at": "2026-07-19T10:14:16.050957+00:00",
-      "price_history": [
-        {
-          "price": 182.0,
-          "original_price": 254.0,
-          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
-        },
-        {
-          "price": 164.0,
-          "original_price": 244.19,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        }
-      ],
-      "approved_at": "19-07-2026 11:18",
-      "auto_approved": true
-    },
-    {
-      "id": "a76c0b11d6eb",
-      "title": "Oral-B iO 2 Groen",
-      "price": 31.0,
-      "original_price": 52.75,
-      "discount_percent": 41,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-2-groen-r-19214",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147058_ceb74fb8-45ab-4383-b2f4-5ee7882749e5.jpg?v=1784292522",
-      "found_at": "2026-07-20T18:28:17.580652+00:00",
-      "approved_at": "21-07-2026 07:38",
       "auto_approved": true
     }
   ]
