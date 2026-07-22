@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T06:16:59.567014+00:00",
-  "total": 293,
+  "updated_at": "2026-07-22T10:30:28.803157+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -2769,6 +2769,78 @@
       "auto_approved": true
     },
     {
+      "id": "ca6a37183af8",
+      "title": "Pioneer DJ HDJ-CX Professional On Ear DJ Headphones (zwart)",
+      "price": 95.44,
+      "original_price": 185.0,
+      "discount_percent": 48,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09VGTNY9Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Pj+oIujTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-22T10:09:46.508671+00:00",
+      "price_history": [
+        {
+          "price": 100.89,
+          "original_price": 118.0,
+          "scraped_at": "2026-03-02T15:00:29.801790+00:00"
+        },
+        {
+          "price": 99.64,
+          "original_price": 118.0,
+          "scraped_at": "2026-03-17T07:00:24.352240+00:00"
+        },
+        {
+          "price": 98.39,
+          "original_price": 111.3,
+          "scraped_at": "2026-03-22T07:00:19.596108+00:00"
+        },
+        {
+          "price": 96.36,
+          "original_price": 118.0,
+          "scraped_at": "2026-03-27T11:00:24.827935+00:00"
+        },
+        {
+          "price": 93.32,
+          "original_price": 199.0,
+          "scraped_at": "2026-04-01T14:00:22.819621+00:00"
+        },
+        {
+          "price": 94.33,
+          "original_price": 118.0,
+          "scraped_at": "2026-04-06T18:00:23.594169+00:00"
+        },
+        {
+          "price": 98.97,
+          "original_price": 118.0,
+          "scraped_at": "2026-04-13T10:00:20.354255+00:00"
+        },
+        {
+          "price": 96.26,
+          "original_price": 118.0,
+          "scraped_at": "2026-04-18T10:00:52.550613+00:00"
+        },
+        {
+          "price": 93.56,
+          "original_price": 118.0,
+          "scraped_at": "2026-04-23T14:00:37.037095+00:00"
+        },
+        {
+          "price": 94.38,
+          "original_price": 118.0,
+          "scraped_at": "2026-06-27T06:01:14.968019+00:00"
+        },
+        {
+          "price": 95.44,
+          "original_price": 185.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "30fc83d85f73",
       "title": "Miele Triflex HX2 Pro",
       "price": 604.0,
@@ -3049,6 +3121,93 @@
         }
       ],
       "approved_at": "20-07-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "b000b4709488",
+      "title": "Oppo Find X3 Pro 256GB Zwart 5G",
+      "price": 197.0,
+      "original_price": 328.59,
+      "discount_percent": 40,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oppo-find-x3-pro-256gb-zwart-5g-r-18364",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1551053.jpg?v=1780411661",
+      "found_at": "2026-07-22T10:25:54.826033+00:00",
+      "price_history": [
+        {
+          "price": 906.0,
+          "original_price": 1142.0,
+          "scraped_at": "2026-06-10T10:00:25.338938+00:00"
+        },
+        {
+          "price": 1140.0,
+          "original_price": 1269.45,
+          "scraped_at": "2026-06-13T10:00:49.793138+00:00"
+        },
+        {
+          "price": 1136.0,
+          "original_price": 1267.03,
+          "scraped_at": "2026-06-15T10:01:03.415545+00:00"
+        },
+        {
+          "price": 1099.0,
+          "original_price": 1267.03,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 1148.0,
+          "original_price": 1309.91,
+          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
+        },
+        {
+          "price": 1143.0,
+          "original_price": 1307.12,
+          "scraped_at": "2026-06-20T10:01:48.778363+00:00"
+        },
+        {
+          "price": 1079.0,
+          "original_price": 1307.12,
+          "scraped_at": "2026-06-21T10:03:41.160004+00:00"
+        },
+        {
+          "price": 771.0,
+          "original_price": 1307.12,
+          "scraped_at": "2026-06-24T10:02:36.002206+00:00"
+        },
+        {
+          "price": 642.0,
+          "original_price": 1307.12,
+          "scraped_at": "2026-06-28T10:01:16.947762+00:00"
+        },
+        {
+          "price": 1182.0,
+          "original_price": 1307.12,
+          "scraped_at": "2026-07-02T10:01:01.641776+00:00"
+        },
+        {
+          "price": 1143.0,
+          "original_price": 1307.12,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 292.0,
+          "original_price": 328.59,
+          "scraped_at": "2026-07-18T06:00:21.037941+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": 328.59,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 197.0,
+          "original_price": 328.59,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
       "auto_approved": true
     },
     {
@@ -3976,6 +4135,48 @@
       "auto_approved": true
     },
     {
+      "id": "9c0c9d9147dd",
+      "title": "Nilox NXM24FHD1203 Monitor, 61 cm (24 inch), Full HD, gaming scherm met 120 Hz, computerscherm met VESA-ondersteuning 75 x 75 mm, HDMI- en VGA-aansluitingen, blauwe lichtreductie voor visueel comfort",
+      "price": 57.74,
+      "original_price": 109.99,
+      "discount_percent": 47,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F9YQPDGM?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/717p7ZNGZLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-22T10:21:41.529269+00:00",
+      "price_history": [
+        {
+          "price": 66.23,
+          "original_price": 81.76,
+          "scraped_at": "2026-05-05T10:00:28.913559+00:00"
+        },
+        {
+          "price": 76.74,
+          "original_price": 95.31,
+          "scraped_at": "2026-05-15T18:00:25.822718+00:00"
+        },
+        {
+          "price": 71.6,
+          "original_price": 73.81,
+          "scraped_at": "2026-07-12T06:00:29.481990+00:00"
+        },
+        {
+          "price": 59.53,
+          "original_price": 99.95,
+          "scraped_at": "2026-07-17T06:00:45.379693+00:00"
+        },
+        {
+          "price": 57.74,
+          "original_price": 109.99,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "b1e61b2d346e",
       "title": "SteelSeries Apex Pro TKL Gen 3 Gaming Toetsenbord QWERTZ",
       "price": 121.0,
@@ -4698,6 +4899,33 @@
       "auto_approved": true
     },
     {
+      "id": "16c1bdcd6a6c",
+      "title": "HP OMEN Transcend 16-u1027nb AZERTY",
+      "price": 1815.0,
+      "original_price": 2099.0,
+      "discount_percent": 13,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omen-transcend-16-u1027nb-azerty-r-19326",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068861_6e55cc75-a44b-4c8c-85ca-9bd646489d70.jpg?v=1784191851",
+      "found_at": "2026-07-22T10:25:48.292137+00:00",
+      "price_history": [
+        {
+          "price": 1931.0,
+          "original_price": 2099.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 1815.0,
+          "original_price": 2099.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "e52ab38d1d50",
       "title": "HP laptop 15-fd1058ng QWERTZ",
       "price": 438.0,
@@ -5175,6 +5403,33 @@
         }
       ],
       "approved_at": "21-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0cb579600227",
+      "title": "Lenovo Yoga 7 2-in-1 16ILL10 QWERTZ",
+      "price": 1157.0,
+      "original_price": 1399.0,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-yoga-7-2-in-1-16ill10-qwertz-r-19094",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2197017.jpg?v=1784190848",
+      "found_at": "2026-07-22T10:25:51.778204+00:00",
+      "price_history": [
+        {
+          "price": 1231.0,
+          "original_price": 1399.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 1157.0,
+          "original_price": 1399.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
       "auto_approved": true
     },
     {
@@ -6168,6 +6423,53 @@
       "auto_approved": true
     },
     {
+      "id": "cbe09bb5c9cc",
+      "title": "HP ENVY 6120e",
+      "price": 53.0,
+      "original_price": 92.26,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-envy-6120e-r-19137",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2099303_4916cf17-25f7-4cf4-8514-f79aecc2e3df.jpg?v=1783686488",
+      "found_at": "2026-07-22T10:25:45.025015+00:00",
+      "price_history": [
+        {
+          "price": 52.0,
+          "original_price": 85.9,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 86.16,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 87.12,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 86.62,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 86.44,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 92.26,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "5931e86bb3ae",
       "title": "Eufy battery pack voor deurbel",
       "price": 20.0,
@@ -6501,6 +6803,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2031512_8d559279-90bd-4367-b3a9-7df3e51c4694.jpg?v=1784292795",
       "found_at": "2026-07-18T18:17:22.791488+00:00",
       "approved_at": "18-07-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "878f5bbe0ed3",
+      "title": "HP Deskjet 4220e",
+      "price": 41.0,
+      "original_price": 71.27,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-deskjet-4220e-r-19060",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2007805_0c2a8f2b-6ad4-4913-8ec6-45f4d7a9af05.jpg?v=1783686021",
+      "found_at": "2026-07-22T10:25:45.024945+00:00",
+      "price_history": [
+        {
+          "price": 42.0,
+          "original_price": 68.45,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 69.15,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 68.93,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 70.61,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 71.27,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 71.27,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
       "auto_approved": true
     },
     {
@@ -7333,6 +7682,43 @@
       "auto_approved": true
     },
     {
+      "id": "a48b6e1ff6b2",
+      "title": "Motorola Moto G55 256GB Zwart 5G",
+      "price": 168.0,
+      "original_price": 253.46,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/motorola-moto-g55-256gb-zwart-5g-r-19271",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_fecc0ba0-b4d2-4c92-84f3-4f00bb160bdf.jpg?v=1784191211",
+      "found_at": "2026-07-22T10:25:51.781497+00:00",
+      "price_history": [
+        {
+          "price": 403.0,
+          "original_price": 459.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 265.41,
+          "scraped_at": "2026-07-17T14:00:23.232622+00:00"
+        },
+        {
+          "price": 174.0,
+          "original_price": 254.87,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 168.0,
+          "original_price": 253.46,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "2221391d54e8",
       "title": "HP OfficeJet Pro 9120e All-in-One Printer",
       "price": 145.0,
@@ -7533,6 +7919,117 @@
       "auto_approved": true
     },
     {
+      "id": "c12cf9872da6",
+      "title": "Sony FE 24mm f/1.4 GM",
+      "price": 1173.0,
+      "original_price": 1386.95,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-fe-24mm-f-1-4-gm-r-19108",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1379938.jpg?v=1784190891",
+      "found_at": "2026-07-22T10:25:57.948014+00:00",
+      "price_history": [
+        {
+          "price": 1195.0,
+          "original_price": 1299.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 1213.0,
+          "original_price": 1380.72,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 1173.0,
+          "original_price": 1386.95,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "38f6bed94aa8",
+      "title": "LG DS60T",
+      "price": 172.0,
+      "original_price": 254.48,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ds60t-r-19169",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2084198_0a5ad5d8-1146-45d9-835d-b2a862d3ad71.jpg?v=1783686760",
+      "found_at": "2026-07-22T10:25:51.778391+00:00",
+      "price_history": [
+        {
+          "price": 211.0,
+          "original_price": 244.48,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 199.0,
+          "original_price": 244.48,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 191.0,
+          "original_price": 249.48,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 256.14,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 172.0,
+          "original_price": 254.48,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "25a731c11149",
+      "title": "Magimix Nespresso CitiZ M196 CN Zwart",
+      "price": 107.0,
+      "original_price": 164.67,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-m196-cn-zwart-r-19087",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843717_90e37e14-ddde-4531-87af-7aaa26790efa.jpg?v=1783686370",
+      "found_at": "2026-07-22T10:25:51.780458+00:00",
+      "price_history": [
+        {
+          "price": 135.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 166.33,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 164.67,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "03e89aa98f44",
       "title": "Kitchenaid 5KCM1209EOB Zwart",
       "price": 104.0,
@@ -7637,6 +8134,43 @@
       "auto_approved": true
     },
     {
+      "id": "78bd12931ae9",
+      "title": "Braun Series 7 BT7520",
+      "price": 41.0,
+      "original_price": 67.62,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-7-bt7520-r-19371",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145539_e3239a9f-2fc8-4c43-be91-0dbce4339b24.jpg?v=1784192062",
+      "found_at": "2026-07-22T10:25:42.401836+00:00",
+      "price_history": [
+        {
+          "price": 42.0,
+          "original_price": 59.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 73.18,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 43.0,
+          "original_price": 71.89,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 67.62,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "22-07-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "808ec22b6e95",
       "title": "Oral-B iO 10 Gold Special Edition",
       "price": 265.0,
@@ -7675,184 +8209,6 @@
           "scraped_at": "2026-07-19T10:00:32.517510+00:00"
         }
       ],
-      "approved_at": "22-07-2026 07:16",
-      "auto_approved": true
-    },
-    {
-      "id": "a34afe2e4f21",
-      "title": "Philips 24PHS6000/12",
-      "price": 131.0,
-      "original_price": 197.87,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-24phs6000-12-r-19386",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176840_fb00d0fb-8a78-419c-8e47-9020b61177b6.jpg?v=1784534310",
-      "found_at": "2026-07-22T06:12:12.623075+00:00",
-      "price_history": [
-        {
-          "price": 100.0,
-          "original_price": 139.0,
-          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
-        },
-        {
-          "price": 131.0,
-          "original_price": 197.87,
-          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 07:16",
-      "auto_approved": true
-    },
-    {
-      "id": "8c11b9304eae",
-      "title": "Samsung Galaxy Watch6 Classic 47mm BT Black",
-      "price": 177.0,
-      "original_price": 257.54,
-      "discount_percent": 31,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-watch6-classic-47mm-bt-black-r-18927",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944122_dc94df53-0773-42bc-99ce-9915cce0060c.jpg?v=1783064910",
-      "found_at": "2026-07-22T06:12:15.678089+00:00",
-      "price_history": [
-        {
-          "price": 188.0,
-          "original_price": 207.59,
-          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
-        },
-        {
-          "price": 183.0,
-          "original_price": 206.33,
-          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
-        },
-        {
-          "price": 188.0,
-          "original_price": 207.83,
-          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
-        },
-        {
-          "price": 182.0,
-          "original_price": 261.8,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        },
-        {
-          "price": 175.0,
-          "original_price": 260.04,
-          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
-        },
-        {
-          "price": 182.0,
-          "original_price": 260.8,
-          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
-        },
-        {
-          "price": 177.0,
-          "original_price": 253.45,
-          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 07:16",
-      "auto_approved": true
-    },
-    {
-      "id": "c5d683d8c96e",
-      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP123H",
-      "price": 44.0,
-      "original_price": 71.62,
-      "discount_percent": 38,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp123h-r-19075",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1971395_e2db65bd-bb91-49fd-a3d1-d796eecb9266.jpg?v=1783686196",
-      "found_at": "2026-07-22T06:12:09.551224+00:00",
-      "price_history": [
-        {
-          "price": 46.0,
-          "original_price": 69.4,
-          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 70.73,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 07:16",
-      "auto_approved": true
-    },
-    {
-      "id": "4edff77b41ed",
-      "title": "Oral-B iO Series 6N Wit + extra iO Gentle Care opzetborstel",
-      "price": 92.0,
-      "original_price": 142.08,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-series-6n-wit-extra-io-gentle-care-opzetborstel-r-18849",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797542_a9cdb565-40a3-4f63-91bf-1d339f4a1b37.jpg?v=1783064193",
-      "found_at": "2026-07-22T06:12:12.622003+00:00",
-      "price_history": [
-        {
-          "price": 103.0,
-          "original_price": 155.43,
-          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
-        },
-        {
-          "price": 141.0,
-          "original_price": 158.3,
-          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
-        },
-        {
-          "price": 103.0,
-          "original_price": 151.51,
-          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
-        },
-        {
-          "price": 137.0,
-          "original_price": 145.71,
-          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
-        },
-        {
-          "price": 99.0,
-          "original_price": 131.8,
-          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
-        },
-        {
-          "price": 94.0,
-          "original_price": 148.41,
-          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
-        },
-        {
-          "price": 102.0,
-          "original_price": 147.73,
-          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 142.08,
-          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 07:16",
-      "auto_approved": true
-    },
-    {
-      "id": "a76c0b11d6eb",
-      "title": "Oral-B iO 2 Groen",
-      "price": 31.0,
-      "original_price": 51.02,
-      "discount_percent": 39,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-2-groen-r-19214",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147058_ceb74fb8-45ab-4383-b2f4-5ee7882749e5.jpg?v=1784292522",
-      "found_at": "2026-07-22T06:12:12.621538+00:00",
       "approved_at": "22-07-2026 07:16",
       "auto_approved": true
     }
