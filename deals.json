@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T18:21:58.732159+00:00",
-  "total": 299,
+  "updated_at": "2026-07-23T06:28:56.865825+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -45,6 +45,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209492_ea799c98-e872-4baf-9248-45a2473cbfe4.jpg?v=1784018183",
       "found_at": "2026-07-15T10:27:33.345116+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "d6d12b25497a",
+      "title": "Asus Chromebook Plus CX3402CBA-MW0197 14,0 inch FHD touchscreen laptop (Intel Core i3-1215U processor, 8 GB RAM, 256 GB UFS-geheugen, Chrome OS) - toetsenbord AZERTY",
+      "price": 238.84,
+      "original_price": 614.22,
+      "discount_percent": 61,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CT95LGHB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/618gEp3L5gL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-23T06:02:21.765669+00:00",
+      "approved_at": "23-07-2026 07:28",
       "auto_approved": true
     },
     {
@@ -574,6 +589,33 @@
       "auto_approved": true
     },
     {
+      "id": "4f9921779458",
+      "title": "JBL Endurance Zone, Draadloze Open-ear Sporthoofdtelefoon, Blauw | Ergonomisch Oorhaakontwerp, Bluetooth 5.3, JBL OpenSound-technologie, 32 uur Batterijduur, IP68 Waterdicht, Google Finder",
+      "price": 63.92,
+      "original_price": 189.0,
+      "discount_percent": 66,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FG9HHQTC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61a2AotwGtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-23T06:14:24.037574+00:00",
+      "price_history": [
+        {
+          "price": 74.86,
+          "original_price": 119.99,
+          "scraped_at": "2026-04-06T10:00:32.198032+00:00"
+        },
+        {
+          "price": 63.92,
+          "original_price": 189.0,
+          "scraped_at": "2026-07-23T06:00:30.717269+00:00"
+        }
+      ],
+      "approved_at": "23-07-2026 07:28",
+      "auto_approved": true
+    },
+    {
       "id": "873aa6b0a5cf",
       "title": "iRobot Roomba Max 705 Combo + White",
       "price": 388.0,
@@ -757,6 +799,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146368_f7cdca4a-8c1d-4cf6-a313-bbaf6b3edd0a.jpg?v=1783064903",
       "found_at": "2026-07-04T10:09:06.403507+00:00",
       "approved_at": "04-07-2026 11:14",
+      "auto_approved": true
+    },
+    {
+      "id": "02808178c816",
+      "title": "Megasat HS 50 - Vervangende camera (extra camera voor HS 150 set, IP66, nachtzicht bereik 10m) - zwart",
+      "price": 83.23,
+      "original_price": 219.99,
+      "discount_percent": 62,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FY3NNNGF?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51dfmR7LftL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-23T06:20:25.855127+00:00",
+      "price_history": [
+        {
+          "price": 79.4,
+          "original_price": 81.86,
+          "scraped_at": "2026-06-24T06:03:23.065006+00:00"
+        },
+        {
+          "price": 84.21,
+          "original_price": 100.66,
+          "scraped_at": "2026-07-17T18:00:31.485754+00:00"
+        },
+        {
+          "price": 83.23,
+          "original_price": 219.99,
+          "scraped_at": "2026-07-23T06:00:30.717269+00:00"
+        }
+      ],
+      "approved_at": "23-07-2026 07:28",
       "auto_approved": true
     },
     {
@@ -2445,6 +2519,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041978_4c9ce730-7090-4c59-8e57-7538bad87351.jpg?v=1783064431",
       "found_at": "2026-07-04T10:09:10.480505+00:00",
       "approved_at": "04-07-2026 11:14",
+      "auto_approved": true
+    },
+    {
+      "id": "03a2cd0608bb",
+      "title": "Garmin HRM-600, Premium hartslagmeter, HRV-gegevens, hardloopdynamiek, calorieën, snelheid, afstand, oplaadbare batterij, gegevens registreren & synchroniseren zonder horloge, wasbare band, maat M–XL",
+      "price": 138.17,
+      "original_price": 259.99,
+      "discount_percent": 46,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F7ZGDDCX?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61VNq3XoxBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-23T06:17:50.072723+00:00",
+      "approved_at": "23-07-2026 07:28",
       "auto_approved": true
     },
     {
@@ -8304,127 +8393,6 @@
         {
           "price": 108.0,
           "original_price": 164.33,
-          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 19:21",
-      "auto_approved": true
-    },
-    {
-      "id": "b7e03ec23f7f",
-      "title": "Oral-B iO Kids 6+ Spiderman",
-      "price": 35.0,
-      "original_price": 57.07,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-kids-6-spiderman-r-19202",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2250493.jpg?v=1784292482",
-      "found_at": "2026-07-22T14:10:39.434598+00:00",
-      "price_history": [
-        {
-          "price": 45.0,
-          "original_price": 60.79,
-          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 60.86,
-          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
-        },
-        {
-          "price": 35.0,
-          "original_price": 57.73,
-          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 19:21",
-      "auto_approved": true
-    },
-    {
-      "id": "22a5ad65a778",
-      "title": "Apple MacBook Air 15\" (2025) M4 (10/10) 16GB/256GB Middernacht AZERTY",
-      "price": 1037.0,
-      "original_price": 1229.0,
-      "discount_percent": 15,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-macbook-air-15-2025-m4-10-10-16gb-256gb-middernacht-azerty-r-19096",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146368_79373224-c2fa-438b-98b1-1363af55e33e.jpg?v=1784190846",
-      "found_at": "2026-07-22T14:10:25.195846+00:00",
-      "price_history": [
-        {
-          "price": 1055.0,
-          "original_price": 1199.0,
-          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
-        },
-        {
-          "price": 1037.0,
-          "original_price": 1239.0,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        }
-      ],
-      "approved_at": "22-07-2026 19:21",
-      "auto_approved": true
-    },
-    {
-      "id": "4edff77b41ed",
-      "title": "Oral-B iO Series 6N Wit + extra iO Gentle Care opzetborstel",
-      "price": 97.0,
-      "original_price": 146.23,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-series-6n-wit-extra-io-gentle-care-opzetborstel-r-18849",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797542_a9cdb565-40a3-4f63-91bf-1d339f4a1b37.jpg?v=1783064193",
-      "found_at": "2026-07-22T10:25:54.826692+00:00",
-      "price_history": [
-        {
-          "price": 103.0,
-          "original_price": 155.43,
-          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
-        },
-        {
-          "price": 141.0,
-          "original_price": 158.3,
-          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
-        },
-        {
-          "price": 103.0,
-          "original_price": 151.51,
-          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
-        },
-        {
-          "price": 137.0,
-          "original_price": 145.71,
-          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
-        },
-        {
-          "price": 99.0,
-          "original_price": 131.8,
-          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
-        },
-        {
-          "price": 94.0,
-          "original_price": 148.41,
-          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
-        },
-        {
-          "price": 102.0,
-          "original_price": 147.73,
-          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 142.08,
-          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
-        },
-        {
-          "price": 97.0,
-          "original_price": 146.23,
           "scraped_at": "2026-07-22T10:00:48.747183+00:00"
         }
       ],
