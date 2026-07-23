@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T14:19:06.648844+00:00",
-  "total": 295,
+  "updated_at": "2026-07-23T18:24:50.455785+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -352,6 +352,21 @@
         }
       ],
       "approved_at": "21-07-2026 11:46",
+      "auto_approved": true
+    },
+    {
+      "id": "4249627f7dac",
+      "title": "Knauermann PRO 3 Plus rond (2025), gezondheidshorloge smartwatch met telefoonfunctie, borstkorf, ECG Plus HRV- en SOS-functie, AMOLED-display, BT Bluetooth, slaapapneu, siliconen band, zwart, 14-24,",
+      "price": 91.05,
+      "original_price": 279.99,
+      "discount_percent": 67,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DX18S76W?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61FlIdhOEfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-23T18:10:28.166543+00:00",
+      "approved_at": "23-07-2026 19:24",
       "auto_approved": true
     },
     {
@@ -3301,6 +3316,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1963588_d55848bf-349c-41c7-b588-801e38e683d5.jpg?v=1783408724",
       "found_at": "2026-07-08T10:14:57.467015+00:00",
       "approved_at": "08-07-2026 11:20",
+      "auto_approved": true
+    },
+    {
+      "id": "ad64835f20b3",
+      "title": "Acer Vero CB272Gbmiprx, LED-Monitor - (68.6 cm (27 Zoll), schwarz, FullHD, IPS, HDMI, DP, VGA, Lautsprecher, 120Hz Panel) [Energieklasse B] (UM.HB2EE.G06)",
+      "price": 84.97,
+      "original_price": 159.99,
+      "discount_percent": 46,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CX22HGX3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/8197xgSV6yL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-23T18:17:10.327339+00:00",
+      "price_history": [
+        {
+          "price": 121.8,
+          "original_price": 125.57,
+          "scraped_at": "2026-03-02T15:00:29.801790+00:00"
+        },
+        {
+          "price": 104.27,
+          "original_price": 124.86,
+          "scraped_at": "2026-07-08T06:00:33.547767+00:00"
+        },
+        {
+          "price": 94.61,
+          "original_price": 99.95,
+          "scraped_at": "2026-07-18T18:00:20.007838+00:00"
+        },
+        {
+          "price": 84.97,
+          "original_price": 159.99,
+          "scraped_at": "2026-07-23T18:01:47.055056+00:00"
+        }
+      ],
+      "approved_at": "23-07-2026 19:24",
       "auto_approved": true
     },
     {
@@ -8293,6 +8345,132 @@
         }
       ],
       "approved_at": "23-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "c927a358fd86",
+      "title": "Refurbished iPhone SE (3rd gen) Midnight 64GB",
+      "price": 127.84,
+      "original_price": 186.0,
+      "discount_percent": 31,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-se-3rd-gen-midnight-64gb-r-19268",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712238_a55dff85-887e-4bf1-96ba-c12690165bee.jpg?v=1784191181",
+      "found_at": "2026-07-23T18:19:54.971345+00:00",
+      "price_history": [
+        {
+          "price": 136.0,
+          "original_price": 186.0,
+          "scraped_at": "2026-07-18T06:00:21.037941+00:00"
+        },
+        {
+          "price": 127.84,
+          "original_price": 186.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        }
+      ],
+      "approved_at": "23-07-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "0855094e4c3e",
+      "title": "Miele Triflex HX1 Facelift",
+      "price": 298.0,
+      "original_price": 399.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-triflex-hx1-facelift-r-19021",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2020632.jpg?v=1783409015",
+      "found_at": "2026-07-23T18:19:51.550555+00:00",
+      "price_history": [
+        {
+          "price": 351.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 330.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 326.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 323.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 319.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 316.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 312.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 308.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 305.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 301.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 298.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        }
+      ],
+      "approved_at": "23-07-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "05e763c8ccc6",
+      "title": "Refurbished iPhone 13 128GB Pink",
+      "price": 286.7,
+      "original_price": 383.0,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-pink-r-19284",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631332_942d2c8d-e078-481f-a746-1271c66009bd.jpg?v=1784191379",
+      "found_at": "2026-07-23T18:19:54.971074+00:00",
+      "price_history": [
+        {
+          "price": 305.0,
+          "original_price": 383.0,
+          "scraped_at": "2026-07-18T06:00:21.037941+00:00"
+        },
+        {
+          "price": 286.7,
+          "original_price": 383.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        }
+      ],
+      "approved_at": "23-07-2026 19:24",
       "auto_approved": true
     }
   ]
