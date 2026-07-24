@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T10:31:37.653674+00:00",
-  "total": 294,
+  "updated_at": "2026-07-24T14:18:36.604331+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -8057,6 +8057,48 @@
       "auto_approved": true
     },
     {
+      "id": "5b74cad1d925",
+      "title": "Garmin Forerunner 165 Zwart/Grijs",
+      "price": 155.0,
+      "original_price": 228.63,
+      "discount_percent": 32,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-forerunner-165-zwart-grijs-r-19297",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017022_e0eedcb7-856a-4e4a-bf37-014941a3f5bc.jpg?v=1784191475",
+      "found_at": "2026-07-24T14:13:21.993126+00:00",
+      "price_history": [
+        {
+          "price": 146.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 182.0,
+          "original_price": 210.09,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 193.0,
+          "original_price": 210.09,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 182.0,
+          "original_price": 208.56,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 155.0,
+          "original_price": 228.63,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "4f6737dd8e52",
       "title": "Garmin Forerunner 165 Zwart/Grijs",
       "price": 155.0,
@@ -9547,6 +9589,286 @@
         }
       ],
       "approved_at": "24-07-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "bf6bc7eaea06",
+      "title": "Logitech G Pro X Superlight Draadloze Gaming Muis Zwart",
+      "price": 80.0,
+      "original_price": 111.7,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-draadloze-gaming-muis-zwart-r-18882",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1506618_d3b9e95e-6b5c-431e-9084-80b84bf15a55.jpg?v=1783064464",
+      "found_at": "2026-07-24T14:13:28.868813+00:00",
+      "price_history": [
+        {
+          "price": 123.0,
+          "original_price": 134.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 103.88,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 103.88,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 109.84,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 108.91,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 109.58,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 109.84,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 111.57,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 110.93,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 110.7,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "ab20587320e3",
+      "title": "Braun Series 5 52-A1000S Azure",
+      "price": 65.0,
+      "original_price": 91.18,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-5-52-a1000s-azure-r-19073",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2205184_4964e7c1-1a2c-4ef0-8460-42948efc607f.jpg?v=1783409394",
+      "found_at": "2026-07-24T14:13:18.490085+00:00",
+      "price_history": [
+        {
+          "price": 85.0,
+          "original_price": 91.21,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 94.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 94.51,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": 97.2,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 92.46,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 65.0,
+          "original_price": 91.18,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "1fcbe9765eb0",
+      "title": "HP 935 Creator Draadloze Muis",
+      "price": 60.0,
+      "original_price": 84.0,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-935-creator-draadloze-muis-r-18891",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951471_83632f2f-6d8f-4ecc-9353-41e25a67324a.jpg?v=1783064562",
+      "found_at": "2026-07-24T14:13:21.994076+00:00",
+      "price_history": [
+        {
+          "price": 73.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-06T14:01:02.084481+00:00"
+        },
+        {
+          "price": 69.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 65.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "524021729c8c",
+      "title": "HP 935 Creator Draadloze Muis",
+      "price": 81.0,
+      "original_price": 111.08,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-935-creator-draadloze-muis-r-18887",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951471_97595a73-d1b9-487a-b959-24c3f9b1706d.jpg?v=1783064525",
+      "found_at": "2026-07-24T14:13:21.993627+00:00",
+      "price_history": [
+        {
+          "price": 93.0,
+          "original_price": 101.63,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 114.67,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 115.83,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 114.67,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 111.81,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 105.34,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 108.81,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 111.08,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "8c07efd82b6d",
+      "title": "Sony HT-A5000",
+      "price": 586.0,
+      "original_price": 698.0,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-ht-a5000-r-19308",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1819759_5e9bd103-e295-4c84-bf03-a488a491a12a.jpg?v=1784191583",
+      "found_at": "2026-07-24T14:13:35.629741+00:00",
+      "price_history": [
+        {
+          "price": 919.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 607.0,
+          "original_price": 698.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 642.0,
+          "original_price": 698.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 586.0,
+          "original_price": 698.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 15:18",
       "auto_approved": true
     }
   ]
