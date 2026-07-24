@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T14:18:40.802248+00:00",
-  "total": 291,
+  "updated_at": "2026-07-24T18:25:48.306150+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -8706,6 +8706,58 @@
       "auto_approved": true
     },
     {
+      "id": "abbba30067d2",
+      "title": "Lenovo Tab M10 10,1 inch HD tablet, zwart (Qualcomm Snapdragon 429 4-core processor, 2 GB RAM, 32 GB geheugen, Android Pie 9.0)",
+      "price": 104.04,
+      "original_price": 152.95,
+      "discount_percent": 31,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07TZS5WP7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/619Axf-+bAL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-07-24T18:04:28.754996+00:00",
+      "price_history": [
+        {
+          "price": 127.35,
+          "original_price": null,
+          "scraped_at": "2026-06-13T18:00:25.809957+00:00"
+        },
+        {
+          "price": 125.63,
+          "original_price": null,
+          "scraped_at": "2026-06-18T18:01:30.818557+00:00"
+        },
+        {
+          "price": 122.6,
+          "original_price": null,
+          "scraped_at": "2026-06-23T18:03:18.227867+00:00"
+        },
+        {
+          "price": 119.2,
+          "original_price": null,
+          "scraped_at": "2026-06-29T06:01:31.926194+00:00"
+        },
+        {
+          "price": 112.4,
+          "original_price": null,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 109.89,
+          "original_price": null,
+          "scraped_at": "2026-07-19T14:00:28.007899+00:00"
+        },
+        {
+          "price": 104.04,
+          "original_price": 152.95,
+          "scraped_at": "2026-07-24T18:00:54.922641+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
       "id": "a5db1b4aa98e",
       "title": "HP 322pe - Series 3 Pro - LED-Monitor - 54.5 cm (21.45\")",
       "price": 97.29,
@@ -9658,6 +9710,417 @@
         }
       ],
       "approved_at": "24-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "cc1c80ca50f5",
+      "title": "MSI MPG 274URFDE QD",
+      "price": 317.0,
+      "original_price": 396.94,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-mpg-274urfde-qd-r-19160",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2151589_a6aa97c7-7120-43b8-95e8-5d9f1a61ebba.jpg?v=1783686641",
+      "found_at": "2026-07-24T18:19:56.102903+00:00",
+      "price_history": [
+        {
+          "price": 366.0,
+          "original_price": 398.1,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 378.0,
+          "original_price": 411.42,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 331.0,
+          "original_price": 359.86,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 367.0,
+          "original_price": 399.64,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 353.0,
+          "original_price": 396.91,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 333.0,
+          "original_price": 396.9,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 317.0,
+          "original_price": 396.94,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "cc840a2250e5",
+      "title": "Apple Pencil Pro (2024)",
+      "price": 114.0,
+      "original_price": 152.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-pencil-pro-2024-r-18965",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049366_5b1c805c-9242-43cf-b0f3-998b74bceb44.jpg?v=1783065159",
+      "found_at": "2026-07-24T18:19:45.549077+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-06T14:01:02.084481+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 125.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 117.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 152.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "21ca9fd3354d",
+      "title": "SteelSeries Apex Pro TKL Wireless 2023 QWERTZ",
+      "price": 159.0,
+      "original_price": 209.0,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-apex-pro-tkl-wireless-2023-qwertz-r-18901",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1900834.jpg?v=1783323643",
+      "found_at": "2026-07-24T18:20:03.581967+00:00",
+      "price_history": [
+        {
+          "price": 192.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 180.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 178.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 174.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 171.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 169.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 167.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 165.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "51c6ba14ec85",
+      "title": "OnePlus 13 CPH2653 Europe 256GB 12GB Ebony Eclipse EU",
+      "price": 715.0,
+      "original_price": 831.68,
+      "discount_percent": 14,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oneplus-13-cph2653-europe-256gb-12gb-ebony-eclipse-eu-r-19129",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129040_eaf748bc-491e-475d-8cd3-762884e29771.jpg?v=1784190935",
+      "found_at": "2026-07-24T18:19:56.103164+00:00",
+      "price_history": [
+        {
+          "price": 703.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 740.0,
+          "original_price": 806.43,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 715.0,
+          "original_price": 857.95,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "c207caf016a7",
+      "title": "Samsung SWA-W510 Subwoofer",
+      "price": 227.0,
+      "original_price": 290.21,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-swa-w510-subwoofer-r-19154",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1798855.jpg?v=1783686572",
+      "found_at": "2026-07-24T18:19:59.972512+00:00",
+      "price_history": [
+        {
+          "price": 238.0,
+          "original_price": 293.73,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 227.0,
+          "original_price": 293.73,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 217.0,
+          "original_price": 290.21,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 204.0,
+          "original_price": 290.21,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 227.0,
+          "original_price": 290.21,
+          "scraped_at": "2026-07-22T14:00:37.544148+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "e7b833a346ef",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 95.0,
+      "original_price": 127.67,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19387",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_f7cb36c7-a779-4d0e-9f55-4834d26ceace.jpg?v=1784534351",
+      "found_at": "2026-07-24T18:19:56.104626+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.89,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 127.89,
+          "scraped_at": "2026-07-21T14:00:33.477408+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 128.78,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "84d1ab531eff",
+      "title": "SteelSeries Arctis Nova 3",
+      "price": 68.0,
+      "original_price": 91.91,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-arctis-nova-3-r-19071",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1784856_34d7f048-a49e-47a4-964e-d101e1603c0c.jpg?v=1783409396",
+      "found_at": "2026-07-24T18:20:03.582056+00:00",
+      "price_history": [
+        {
+          "price": 79.0,
+          "original_price": 90.83,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 89.73,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 87.72,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 93.03,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 91.91,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "fa8711d1390a",
+      "title": "Nintendo Switch Dock Set",
+      "price": 64.0,
+      "original_price": 86.95,
+      "discount_percent": 26,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nintendo-switch-dock-set-r-18960",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944860.jpg?v=1783065083",
+      "found_at": "2026-07-24T18:19:56.103057+00:00",
+      "price_history": [
+        {
+          "price": 78.0,
+          "original_price": 89.07,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 90.71,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 69.0,
+          "original_price": 89.51,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 88.51,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        }
+      ],
+      "approved_at": "24-07-2026 19:25",
       "auto_approved": true
     }
   ]
