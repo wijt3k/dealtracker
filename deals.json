@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T10:29:24.627432+00:00",
-  "total": 293,
+  "updated_at": "2026-07-25T14:18:00.260973+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -651,6 +651,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2105184.jpg?v=1784878543",
       "found_at": "2026-07-25T06:09:28.041481+00:00",
       "approved_at": "25-07-2026 07:15",
+      "auto_approved": true
+    },
+    {
+      "id": "27c87b00f25c",
+      "title": "Smartwatch Mobvoi TicWatch Pro 5 GPS Elite Edition",
+      "price": 123.93,
+      "original_price": 279.0,
+      "discount_percent": 55,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CWS6Q8TJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51gxVJ91xCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-25T14:09:10.083789+00:00",
+      "approved_at": "25-07-2026 15:18",
       "auto_approved": true
     },
     {
@@ -2919,6 +2934,38 @@
       "auto_approved": true
     },
     {
+      "id": "933a38c9c4bd",
+      "title": "Domo DO522S Rood",
+      "price": 67.0,
+      "original_price": 124.56,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/domo-do522s-rood-r-19404",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1693036910_af4ab70c-d3d0-4bf1-bee3-0592bd753b9e.jpg?v=1784878508",
+      "found_at": "2026-07-25T10:23:55.334488+00:00",
+      "price_history": [
+        {
+          "price": 80.0,
+          "original_price": 112.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 124.56,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 124.56,
+          "scraped_at": "2026-07-25T14:00:24.603634+00:00"
+        }
+      ],
+      "approved_at": "25-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
       "id": "2e2a26f4dc61",
       "title": "Dyson Corrale stijltang Koper/Nikkel",
       "price": 276.0,
@@ -3420,6 +3467,78 @@
         }
       ],
       "approved_at": "25-07-2026 11:29",
+      "auto_approved": true
+    },
+    {
+      "id": "bf6bc7eaea06",
+      "title": "Logitech G Pro X Superlight Draadloze Gaming Muis Zwart",
+      "price": 61.0,
+      "original_price": 110.69,
+      "discount_percent": 44,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-draadloze-gaming-muis-zwart-r-18882",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1506618_d3b9e95e-6b5c-431e-9084-80b84bf15a55.jpg?v=1783064464",
+      "found_at": "2026-07-24T18:19:56.101215+00:00",
+      "price_history": [
+        {
+          "price": 123.0,
+          "original_price": 134.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 103.88,
+          "scraped_at": "2026-07-06T10:00:59.582247+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 103.88,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 109.84,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 108.91,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 109.58,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 109.84,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 111.57,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 110.93,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 110.7,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 110.69,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "25-07-2026 15:18",
       "auto_approved": true
     },
     {
@@ -9496,6 +9615,259 @@
         }
       ],
       "approved_at": "25-07-2026 11:29",
+      "auto_approved": true
+    },
+    {
+      "id": "1a33fb9d2476",
+      "title": "Sony HT-A5000",
+      "price": 586.0,
+      "original_price": 698.0,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-ht-a5000-r-19311",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1819759_a97e67b3-876c-4aae-a10b-a275166430cf.jpg?v=1784191643",
+      "found_at": "2026-07-25T14:12:50.996878+00:00",
+      "price_history": [
+        {
+          "price": 919.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 607.0,
+          "original_price": 698.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 642.0,
+          "original_price": 698.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 586.0,
+          "original_price": 698.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        }
+      ],
+      "approved_at": "25-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "21ca9fd3354d",
+      "title": "SteelSeries Apex Pro TKL Wireless 2023 QWERTZ",
+      "price": 157.0,
+      "original_price": 209.0,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-apex-pro-tkl-wireless-2023-qwertz-r-18901",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1900834.jpg?v=1783323643",
+      "found_at": "2026-07-25T14:12:50.997292+00:00",
+      "price_history": [
+        {
+          "price": 192.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 180.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 178.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 174.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 171.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 169.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 167.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 165.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 157.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "25-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "27ccafb41940",
+      "title": "Microsoft Surface Slim Pen 2 Zwart",
+      "price": 96.0,
+      "original_price": 130.0,
+      "discount_percent": 26,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/microsoft-surface-slim-pen-2-zwart-r-18964",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1687810.jpg?v=1783065137",
+      "found_at": "2026-07-25T14:12:44.926609+00:00",
+      "price_history": [
+        {
+          "price": 112.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 106.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 130.0,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "25-07-2026 15:18",
+      "auto_approved": true
+    },
+    {
+      "id": "e7b833a346ef",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 94.0,
+      "original_price": 127.6,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19387",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_f7cb36c7-a779-4d0e-9f55-4834d26ceace.jpg?v=1784534351",
+      "found_at": "2026-07-25T14:12:47.751515+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.89,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 127.89,
+          "scraped_at": "2026-07-21T14:00:33.477408+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 128.78,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 127.6,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "25-07-2026 15:18",
       "auto_approved": true
     }
   ]
