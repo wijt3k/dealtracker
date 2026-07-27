@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T10:15:56.865713+00:00",
-  "total": 289,
+  "updated_at": "2026-07-27T14:23:44.220843+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "2aae5a576b79",
@@ -132,6 +132,21 @@
         }
       ],
       "approved_at": "26-07-2026 19:12",
+      "auto_approved": true
+    },
+    {
+      "id": "d5b1e691639f",
+      "title": "Realme X50 Pro Smartphone 8Gb 256Gb 5G, Verde Muschio",
+      "price": 160.18,
+      "original_price": 453.83,
+      "discount_percent": 64,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B085PKZJHJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/8171ryNUk-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-27T14:05:43.521564+00:00",
+      "approved_at": "27-07-2026 15:23",
       "auto_approved": true
     },
     {
@@ -930,6 +945,58 @@
       "auto_approved": true
     },
     {
+      "id": "f22eefaffc15",
+      "title": "Logitech G Pro X Superlight Draadloze Gaming Muis Zwart",
+      "price": 68.0,
+      "original_price": 172.74,
+      "discount_percent": 60,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-draadloze-gaming-muis-zwart-r-18884",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1506618_5b2d29d2-bde5-4d09-a16d-3b6cf637e892.jpg?v=1783064499",
+      "found_at": "2026-07-27T14:19:57.228174+00:00",
+      "price_history": [
+        {
+          "price": 117.0,
+          "original_price": 134.0,
+          "scraped_at": "2026-07-06T14:01:02.084481+00:00"
+        },
+        {
+          "price": 143.0,
+          "original_price": 164.77,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 138.0,
+          "original_price": 165.04,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 165.04,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 171.74,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 166.58,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 172.74,
+          "scraped_at": "2026-07-27T14:00:27.363682+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "ed58f9396d2e",
       "title": "SIEMENS HM736GAB1  Inbouw Multifunctionele oven met magnetron - nishoogte 59.5 cm - inhoud 67 l - Hydrolytisch + Katalytisch",
       "price": 1099.5,
@@ -1461,6 +1528,78 @@
       "auto_approved": true
     },
     {
+      "id": "a339a3a6ab76",
+      "title": "HP 935 Creator Draadloze Muis",
+      "price": 52.0,
+      "original_price": 126.63,
+      "discount_percent": 58,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-935-creator-draadloze-muis-r-18886",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951471_cfa86ec6-5307-45ad-97a7-835c308ca796.jpg?v=1783064524",
+      "found_at": "2026-07-27T14:19:53.958308+00:00",
+      "price_history": [
+        {
+          "price": 73.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-07-06T14:01:02.084481+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 135.8,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 137.76,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 132.8,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 133.96,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 133.96,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 124.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 126.63,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 125.49,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 126.63,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 126.63,
+          "scraped_at": "2026-07-27T14:00:27.363682+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "8c4993f91779",
       "title": "Bose Quietcomfort Ultra Earbuds Zwart",
       "price": 106.0,
@@ -1644,6 +1783,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050902_e4788807-4612-4b2d-982b-fe23a3090c0b.jpg?v=1784018326",
       "found_at": "2026-07-15T10:27:42.488859+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "8690b8b85bdf",
+      "title": "Smartwatch - HUAWEI - Watch FIT 4 PRO - Verde",
+      "price": 142.99,
+      "original_price": 279.0,
+      "discount_percent": 48,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1DPMMDP?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71E1QZtQFrL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-27T14:13:01.402825+00:00",
+      "approved_at": "27-07-2026 15:23",
       "auto_approved": true
     },
     {
@@ -5595,6 +5749,21 @@
       "auto_approved": true
     },
     {
+      "id": "67cacaa6b7ed",
+      "title": "10,1 inch touchscreen mini-monitor, IPS 1540 × 720 USB-C HDMI draagbaar secundair scherm met standaard & luidspreker, gestrekt bar screen voor PC Laptop Rasp PI AIDA64 STEM DIY",
+      "price": 96.36,
+      "original_price": 169.99,
+      "discount_percent": 43,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FGCVT6P2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61TOaz1a1GL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-27T14:18:08.186787+00:00",
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
       "id": "01c61d3a546c",
       "title": "Philips 24E1N1300AE/00",
       "price": 71.0,
@@ -5934,6 +6103,78 @@
         }
       ],
       "approved_at": "26-07-2026 15:46",
+      "auto_approved": true
+    },
+    {
+      "id": "de246ba6d2e7",
+      "title": "Logitech G Pro X Superlight Draadloze Gaming Muis Zwart",
+      "price": 78.0,
+      "original_price": 139.51,
+      "discount_percent": 44,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-draadloze-gaming-muis-zwart-r-18883",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1506618_17984394-c2fe-4c65-acdd-8e591698082a.jpg?v=1783064489",
+      "found_at": "2026-07-27T14:19:57.228097+00:00",
+      "price_history": [
+        {
+          "price": 123.0,
+          "original_price": 134.0,
+          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 124.51,
+          "scraped_at": "2026-07-06T14:01:02.084481+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 135.36,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 130.23,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 135.26,
+          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 141.24,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 142.53,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 138.53,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 141.33,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 129.26,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 139.51,
+          "scraped_at": "2026-07-27T14:00:27.363682+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
       "auto_approved": true
     },
     {
@@ -8794,6 +9035,211 @@
         }
       ],
       "approved_at": "27-07-2026 11:15",
+      "auto_approved": true
+    },
+    {
+      "id": "eefefb77360f",
+      "title": "AOC 24G4X",
+      "price": 100.0,
+      "original_price": 163.0,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g4x-r-19080",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017431_7ec50932-715e-4a59-b520-1772ae0d7906.jpg?v=1783686282",
+      "found_at": "2026-07-27T14:19:50.625019+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 132.5,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 156.66,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 147.75,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 163.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "51c6ba14ec85",
+      "title": "OnePlus 13 CPH2653 Europe 256GB 12GB Ebony Eclipse EU",
+      "price": 673.0,
+      "original_price": 861.66,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oneplus-13-cph2653-europe-256gb-12gb-ebony-eclipse-eu-r-19129",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129040_eaf748bc-491e-475d-8cd3-762884e29771.jpg?v=1784190935",
+      "found_at": "2026-07-27T14:20:00.696589+00:00",
+      "price_history": [
+        {
+          "price": 703.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 740.0,
+          "original_price": 806.43,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 715.0,
+          "original_price": 857.95,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 673.0,
+          "original_price": 861.66,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0095a2971a61",
+      "title": "Sony GP-VPT2BT",
+      "price": 95.0,
+      "original_price": 155.45,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-gp-vpt2bt-r-18955",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1532862_41b9e6de-0807-4b67-946a-a75e30d93393.jpg?v=1783408382",
+      "found_at": "2026-07-27T14:20:03.759784+00:00",
+      "price_history": [
+        {
+          "price": 137.0,
+          "original_price": 156.56,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 156.56,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 158.06,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 157.15,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 160.37,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 155.46,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 152.77,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 152.77,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 153.92,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 156.56,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 156.3,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0467fc05296f",
+      "title": "Viture Luma Ultra XR",
+      "price": 461.0,
+      "original_price": 618.38,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/viture-luma-ultra-xr-r-19124",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1909217116_1e3d6f31-73bd-42e7-bef3-fa018b850623.jpg?v=1784292274",
+      "found_at": "2026-07-27T14:20:06.458821+00:00",
+      "price_history": [
+        {
+          "price": 587.0,
+          "original_price": 651.31,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 477.0,
+          "original_price": 643.41,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 461.0,
+          "original_price": 595.49,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0668f373b37b",
+      "title": "Igloo IE27",
+      "price": 50.0,
+      "original_price": 85.08,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/igloo-ie27-r-19426",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156996.jpg?v=1784878810",
+      "found_at": "2026-07-27T14:19:53.960627+00:00",
+      "price_history": [
+        {
+          "price": 48.0,
+          "original_price": 75.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 85.08,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        }
+      ],
+      "approved_at": "27-07-2026 15:23",
       "auto_approved": true
     }
   ]
