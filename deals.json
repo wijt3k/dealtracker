@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T18:29:58.411678+00:00",
-  "total": 294,
+  "updated_at": "2026-07-29T06:31:36.684682+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "26b7ef7ce93c",
@@ -2143,6 +2143,63 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1778325_9704530a-a269-43dd-b38d-a89a00324ffa.jpg?v=1784292618",
       "found_at": "2026-07-18T10:15:46.971805+00:00",
       "approved_at": "18-07-2026 11:19",
+      "auto_approved": true
+    },
+    {
+      "id": "e78cf6a79b60",
+      "title": "HyperX Cloud III Wireless Gaming Headset - Zwart (PC, PS5, PS4)",
+      "price": 74.0,
+      "original_price": 159.85,
+      "discount_percent": 53,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hyperx-cloud-iii-wireless-gaming-headset-zwart-pc-ps5-ps4-r-18897",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1960406_7055592a-5e13-4b05-9558-6ef24d612d43.jpg?v=1783064645",
+      "found_at": "2026-07-29T06:26:40.430761+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 155.0,
+          "original_price": 171.4,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 168.0,
+          "original_price": 196.0,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 183.99,
+          "scraped_at": "2026-07-10T10:01:00.775337+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 160.47,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 157.6,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 153.86,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 148.18,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "29-07-2026 07:31",
       "auto_approved": true
     },
     {
@@ -8774,6 +8831,162 @@
         }
       ],
       "approved_at": "27-07-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0095a2971a61",
+      "title": "Sony GP-VPT2BT",
+      "price": 95.0,
+      "original_price": 155.45,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-gp-vpt2bt-r-18955",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1532862_41b9e6de-0807-4b67-946a-a75e30d93393.jpg?v=1783408382",
+      "found_at": "2026-07-28T18:24:33.201071+00:00",
+      "price_history": [
+        {
+          "price": 137.0,
+          "original_price": 156.56,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 156.56,
+          "scraped_at": "2026-07-09T10:01:02.650727+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 158.06,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 157.15,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 160.37,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 155.46,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 152.77,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 152.77,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 153.92,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 156.56,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 156.3,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        }
+      ],
+      "approved_at": "29-07-2026 07:31",
+      "auto_approved": true
+    },
+    {
+      "id": "d7f735b629d3",
+      "title": "Asus ROG Strix XG32UCWMG WOLED",
+      "price": 703.0,
+      "original_price": 889.97,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/asus-rog-strix-xg32ucwmg-woled-r-19464",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2221902.jpg?v=1785141682",
+      "found_at": "2026-07-28T18:24:19.167698+00:00",
+      "approved_at": "29-07-2026 07:31",
+      "auto_approved": true
+    },
+    {
+      "id": "6a780c84260b",
+      "title": "Philips PowerPro Expert FC9745/09",
+      "price": 112.0,
+      "original_price": 178.21,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-powerpro-expert-fc9745-09-r-19429",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1372284_c104e380-6651-495a-acae-42629cee970b.jpg?v=1784878866",
+      "found_at": "2026-07-28T18:24:30.066456+00:00",
+      "price_history": [
+        {
+          "price": 114.0,
+          "original_price": 176.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 181.88,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "29-07-2026 07:31",
+      "auto_approved": true
+    },
+    {
+      "id": "0668f373b37b",
+      "title": "Igloo IE27",
+      "price": 50.0,
+      "original_price": 85.08,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/igloo-ie27-r-19426",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156996.jpg?v=1784878810",
+      "found_at": "2026-07-28T18:24:24.911635+00:00",
+      "price_history": [
+        {
+          "price": 48.0,
+          "original_price": 75.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 85.08,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        }
+      ],
+      "approved_at": "29-07-2026 07:31",
+      "auto_approved": true
+    },
+    {
+      "id": "68551d094724",
+      "title": "Kenwood MultiPro XL Weigh+ FDM72.990SS",
+      "price": 146.0,
+      "original_price": 226.0,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kenwood-multipro-xl-weigh-fdm72-990ss-r-19519",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1806810_d7dfc1f8-1e5c-4d68-acd8-793fd0ba2d77.jpg?v=1785222574",
+      "found_at": "2026-07-29T06:26:40.432837+00:00",
+      "approved_at": "29-07-2026 07:31",
       "auto_approved": true
     }
   ]
