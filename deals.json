@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T10:39:38.883695+00:00",
-  "total": 285,
+  "updated_at": "2026-08-01T14:22:26.175045+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -5259,6 +5259,78 @@
       "auto_approved": true
     },
     {
+      "id": "e904d9fd3d46",
+      "title": "GreenPan FROST Grey",
+      "price": 164.0,
+      "original_price": 270.0,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/greenpan-frost-grey-r-19302",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242463_68352e8a-095d-4c4e-aa53-f8a3553cc0ac.jpg?v=1784191499",
+      "found_at": "2026-08-01T14:17:13.632890+00:00",
+      "price_history": [
+        {
+          "price": 220.0,
+          "original_price": 250.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 224.0,
+          "original_price": 267.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 233.0,
+          "original_price": 275.5,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 244.0,
+          "original_price": 282.5,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 278.33,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 258.0,
+          "original_price": 287.67,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 252.0,
+          "original_price": 285.33,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 250.0,
+          "original_price": 291.33,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 244.0,
+          "original_price": 288.67,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 234.0,
+          "original_price": 284.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 270.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
       "id": "664fff354cf7",
       "title": "Oppo A5 Pro 5G Black Brown 256 GB",
       "price": 141.0,
@@ -7707,6 +7779,53 @@
       "auto_approved": true
     },
     {
+      "id": "51c6ba14ec85",
+      "title": "OnePlus 13 CPH2653 Europe 256GB 12GB Ebony Eclipse EU",
+      "price": 659.0,
+      "original_price": 852.61,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oneplus-13-cph2653-europe-256gb-12gb-ebony-eclipse-eu-r-19129",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129040_eaf748bc-491e-475d-8cd3-762884e29771.jpg?v=1784190935",
+      "found_at": "2026-08-01T14:17:17.503536+00:00",
+      "price_history": [
+        {
+          "price": 703.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 740.0,
+          "original_price": 806.43,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 715.0,
+          "original_price": 857.95,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 673.0,
+          "original_price": 861.66,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 799.0,
+          "original_price": 864.33,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 659.0,
+          "original_price": 852.61,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
       "id": "befa9c7da039",
       "title": "LG UltraGear 24GS60F-B",
       "price": 82.0,
@@ -7741,6 +7860,53 @@
         }
       ],
       "approved_at": "29-07-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "5be53e3b94eb",
+      "title": "Turtle Beach Atlas Air PC",
+      "price": 108.0,
+      "original_price": 176.69,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/turtle-beach-atlas-air-pc-r-19109",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2063145.jpg?v=1784190900",
+      "found_at": "2026-08-01T14:17:23.011774+00:00",
+      "price_history": [
+        {
+          "price": 153.0,
+          "original_price": 174.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 147.0,
+          "original_price": 169.53,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 174.4,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 171.47,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 170.47,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 176.69,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
       "auto_approved": true
     },
     {
@@ -7788,6 +7954,48 @@
         }
       ],
       "approved_at": "29-07-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "2e25641eba04",
+      "title": "LG UltraGear 24GS60F-B",
+      "price": 77.0,
+      "original_price": 129.67,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ultragear-24gs60f-b-r-19164",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2047678_cb74eed9-b3c6-4aeb-9b1a-37581aac67e5.jpg?v=1783686686",
+      "found_at": "2026-08-01T14:17:17.501630+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 148.38,
+          "scraped_at": "2026-07-11T10:00:57.337645+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 134.38,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 133.7,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 135.5,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 129.67,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
       "auto_approved": true
     },
     {
@@ -8355,6 +8563,53 @@
       "auto_approved": true
     },
     {
+      "id": "6a84dcd74d4d",
+      "title": "iRobot Roomba Combo Essential Y011040",
+      "price": 152.0,
+      "original_price": 231.0,
+      "discount_percent": 34,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/irobot-roomba-combo-essential-y011040-r-19309",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2025401_43964ca3-2711-4dd9-a7a1-99137fd81cba.jpg?v=1784191605",
+      "found_at": "2026-08-01T14:17:13.634967+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 231.0,
+          "original_price": 263.0,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 223.0,
+          "original_price": 263.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 196.0,
+          "original_price": 231.0,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 184.0,
+          "original_price": 231.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 152.0,
+          "original_price": 231.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
       "id": "fb4dec5585d6",
       "title": "HP 27-cr1950nd All-in-One NL",
       "price": 671.0,
@@ -8434,6 +8689,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989265_36d07888-1ad5-406d-a118-6cf0f6a1f727.jpg?v=1784878724",
       "found_at": "2026-07-30T14:13:15.135452+00:00",
       "approved_at": "30-07-2026 15:16",
+      "auto_approved": true
+    },
+    {
+      "id": "49fcac32dcfc",
+      "title": "Sonos Arc Zwart",
+      "price": 727.0,
+      "original_price": 908.0,
+      "discount_percent": 19,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-arc-zwart-r-19503",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1424419_777d3e9b-f4ea-4fa2-ac85-ece46b9f966a.jpg?v=1785222309",
+      "found_at": "2026-08-01T14:17:23.010475+00:00",
+      "price_history": [
+        {
+          "price": 615.0,
+          "original_price": 699.0,
+          "scraped_at": "2026-07-28T18:00:22.963121+00:00"
+        },
+        {
+          "price": 771.0,
+          "original_price": 857.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 727.0,
+          "original_price": 857.0,
+          "scraped_at": "2026-07-29T14:00:26.453815+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
       "auto_approved": true
     },
     {
@@ -8717,6 +9004,38 @@
       "auto_approved": true
     },
     {
+      "id": "78e72ce5bc5f",
+      "title": "Pierre Dual Stacked Airfryer",
+      "price": 76.0,
+      "original_price": 119.0,
+      "discount_percent": 36,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/pierre-dual-stacked-airfryer-r-19425",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/633368915.jpg?v=1784878809",
+      "found_at": "2026-08-01T14:17:20.059210+00:00",
+      "price_history": [
+        {
+          "price": 128.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 139.0,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": 110.33,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
       "id": "67e77d9abbec",
       "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw AZERTY",
       "price": 900.0,
@@ -8966,6 +9285,48 @@
         }
       ],
       "approved_at": "31-07-2026 11:26",
+      "auto_approved": true
+    },
+    {
+      "id": "e6fc45f963c2",
+      "title": "LG UltraGear 24GS60F-B",
+      "price": 84.0,
+      "original_price": 129.67,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ultragear-24gs60f-b-r-19330",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2047678_eab2c6a7-94d6-49ca-8808-b87d1c50564b.jpg?v=1784191910",
+      "found_at": "2026-08-01T14:17:17.501715+00:00",
+      "price_history": [
+        {
+          "price": 157.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 131.79,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 133.7,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 132.7,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 129.67,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
       "auto_approved": true
     },
     {
@@ -9340,6 +9701,105 @@
       "auto_approved": true
     },
     {
+      "id": "ce440461e357",
+      "title": "JBL Endurance Peak3 Zwart",
+      "price": 53.0,
+      "original_price": 81.97,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-endurance-peak3-zwart-r-19279",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797681_0f228d75-af98-440c-b7b2-db0339712e8e.jpg?v=1784191320",
+      "found_at": "2026-08-01T14:17:13.635466+00:00",
+      "price_history": [
+        {
+          "price": 69.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 83.63,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 85.74,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 82.42,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 81.97,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
+      "id": "d93d9b0a12cc",
+      "title": "AOC 24G4XE",
+      "price": 91.0,
+      "original_price": 135.67,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g4xe-r-19318",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2034677_a7c40c59-fab1-4b4c-bc73-64dc27e67c63.jpg?v=1784191727",
+      "found_at": "2026-08-01T14:17:10.195421+00:00",
+      "price_history": [
+        {
+          "price": 104.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 127.3,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 122.74,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 122.74,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 123.69,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 124.54,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 103.0,
+          "original_price": 133.41,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 135.67,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
       "id": "61be51bae147",
       "title": "Logitech Pebble Keyboard 2 - K380s Rose QWERTZ",
       "price": 25.0,
@@ -9369,6 +9829,68 @@
         }
       ],
       "approved_at": "31-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "e7b833a346ef",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 89.0,
+      "original_price": 131.13,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19387",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_f7cb36c7-a779-4d0e-9f55-4834d26ceace.jpg?v=1784534351",
+      "found_at": "2026-08-01T14:17:17.504159+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.89,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 127.89,
+          "scraped_at": "2026-07-21T14:00:33.477408+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 128.78,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 127.6,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 126.65,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 127.46,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 126.64,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": 127.53,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
       "auto_approved": true
     },
     {
@@ -9478,6 +10000,169 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1812866_f0376b85-1169-4021-afbc-4ee47abbe968.jpg?v=1784534245",
       "found_at": "2026-08-01T06:21:09.390577+00:00",
       "approved_at": "01-08-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "111a56372e6d",
+      "title": "Medela Freestyle Mini Handsfree Single",
+      "price": 64.0,
+      "original_price": 95.81,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-freestyle-mini-handsfree-single-r-19233",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/551048202.jpg?v=1784191070",
+      "found_at": "2026-08-01T14:17:17.502876+00:00",
+      "price_history": [
+        {
+          "price": 95.0,
+          "original_price": 108.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 100.84,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 101.15,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 93.81,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 95.81,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
+      "id": "5b8455fb6d69",
+      "title": "Bowers & Wilkins Px7 S3 Blauw",
+      "price": 260.0,
+      "original_price": 350.24,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bowers-wilkins-px7-s3-blauw-r-19253",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2189140.jpg?v=1784292598",
+      "found_at": "2026-08-01T14:17:10.197166+00:00",
+      "price_history": [
+        {
+          "price": 286.0,
+          "original_price": 367.09,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": 342.71,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 260.0,
+          "original_price": 349.07,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
+      "id": "a8d0386ba381",
+      "title": "Samsung Galaxy Buds3 Zwart",
+      "price": 90.0,
+      "original_price": 128.63,
+      "discount_percent": 30,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-zwart-r-19432",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2075691_9a8604f6-6d45-42a8-a2c0-07e1931ab2bb.jpg?v=1784878929",
+      "found_at": "2026-08-01T14:17:20.061260+00:00",
+      "price_history": [
+        {
+          "price": 111.0,
+          "original_price": 121.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 113.51,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
+      "auto_approved": true
+    },
+    {
+      "id": "17597e6d15f9",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 92.0,
+      "original_price": 131.13,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19322",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_0610023b-a7d0-49ac-9eea-3734874c90a4.jpg?v=1784191782",
+      "found_at": "2026-08-01T14:17:17.504079+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 129.57,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 129.76,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 128.78,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 127.67,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 127.6,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 127.28,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 127.17,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 131.13,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 15:22",
       "auto_approved": true
     }
   ]
