@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T18:36:51.290252+00:00",
-  "total": 292,
+  "updated_at": "2026-08-01T06:25:55.137418+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -266,6 +266,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2084243.jpg?v=1784191524",
       "found_at": "2026-07-16T18:13:09.810619+00:00",
       "approved_at": "16-07-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "ed821d8d14aa",
+      "title": "KOORUI G2421V 24 Inch Gaming Monitor,180Hz, IPS, QHD 1440P, 1ms, Adaptive Sync, VESA Mountable, HDMI/DP, Low Blue Light, 99% SRGB",
+      "price": 102.02,
+      "original_price": 305.0,
+      "discount_percent": 66,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DPHDPWW1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Tkz37egyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-01T06:17:12.548393+00:00",
+      "approved_at": "01-08-2026 07:25",
       "auto_approved": true
     },
     {
@@ -1960,6 +1975,38 @@
       "auto_approved": true
     },
     {
+      "id": "a7b8b8cb8a89",
+      "title": "acer Aspire Go 15 AG15-42P Notebook 15,6 inch Full HD (AMD Ryzen 5 5625U, 16 GB RAM, 512 GB SSD, AMD Radeon Graphics, Windows 11 Home), zilver, Spaans QWERTY-toetsenbord",
+      "price": 522.39,
+      "original_price": 769.0,
+      "discount_percent": 32,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F454GC8S?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71k59Jwv2kL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-01T06:07:33.998943+00:00",
+      "price_history": [
+        {
+          "price": 543.45,
+          "original_price": null,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 538.42,
+          "original_price": null,
+          "scraped_at": "2026-07-26T14:00:24.960502+00:00"
+        },
+        {
+          "price": 522.39,
+          "original_price": 769.0,
+          "scraped_at": "2026-08-01T06:00:52.147023+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 07:25",
+      "auto_approved": true
+    },
+    {
       "id": "5316c5586118",
       "title": "Oral-B iO 5 Black & White",
       "price": 118.0,
@@ -2168,6 +2215,21 @@
         }
       ],
       "approved_at": "31-07-2026 07:53",
+      "auto_approved": true
+    },
+    {
+      "id": "5253e719f444",
+      "title": "JAPANNEXT Monitor 27\" IPS WQHD (2560x1140) | HDR & KVM | Opladen via USB-C (65W) Hoogte- en kantelverstelling (HSP) Ingebouwde luidsprekers | G-Sync/FreeSync | 2 jaar garantie | JN-IPS27FHDR-C65W-HSP",
+      "price": 100.04,
+      "original_price": 199.99,
+      "discount_percent": 49,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B5TLXRL3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71HF4EhYY0L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-01T06:16:52.215685+00:00",
+      "approved_at": "01-08-2026 07:25",
       "auto_approved": true
     },
     {
@@ -5824,6 +5886,33 @@
       "auto_approved": true
     },
     {
+      "id": "ab522f2be85a",
+      "title": "Motorola Moto G84 5G 12+256 Viva Magenta",
+      "price": 171.88,
+      "original_price": 279.99,
+      "discount_percent": 38,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CCYPD7MS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/715huwznvSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-01T06:13:23.714950+00:00",
+      "price_history": [
+        {
+          "price": 136.57,
+          "original_price": null,
+          "scraped_at": "2026-06-19T10:01:26.967299+00:00"
+        },
+        {
+          "price": 171.88,
+          "original_price": 279.99,
+          "scraped_at": "2026-08-01T06:00:52.147023+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 07:25",
+      "auto_approved": true
+    },
+    {
       "id": "465c47e57818",
       "title": "HP OMEN Transcend 14-fb0075nd QWERTY",
       "price": 1159.0,
@@ -9259,6 +9348,21 @@
       "auto_approved": true
     },
     {
+      "id": "1624b8f77650",
+      "title": "Garmin Forerunner 55 - Smartwatch grijs",
+      "price": 157.16,
+      "original_price": 229.99,
+      "discount_percent": 31,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09B8NFYWB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61slUGprRZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-01T06:15:11.637504+00:00",
+      "approved_at": "01-08-2026 07:25",
+      "auto_approved": true
+    },
+    {
       "id": "accc1b19ea71",
       "title": "Oral-B iO Series 6N Wit + extra iO Gentle Care opzetborstel",
       "price": 95.0,
@@ -9607,6 +9711,115 @@
         }
       ],
       "approved_at": "31-07-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "dde04dbbbf98",
+      "title": "Acer Aspire Go 14 AG14-21P-R0XS QWERTZ",
+      "price": 519.0,
+      "original_price": 649.0,
+      "discount_percent": 20,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-aspire-go-14-ag14-21p-r0xs-qwertz-r-19143",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2080442_838e237b-4e2d-4e60-8d62-d8732e9c54ee.jpg?v=1784292317",
+      "found_at": "2026-08-01T06:20:58.948917+00:00",
+      "price_history": [
+        {
+          "price": 597.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 561.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 555.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 549.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 543.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 537.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 531.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 525.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 519.0,
+          "original_price": 649.0,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "6715ef60e31a",
+      "title": "Braun Series 7 AIO7540",
+      "price": 48.0,
+      "original_price": 72.9,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-7-aio7540-r-19400",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2148529.jpg?v=1784878453",
+      "found_at": "2026-08-01T06:20:58.951773+00:00",
+      "price_history": [
+        {
+          "price": 54.0,
+          "original_price": 59.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 72.51,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 72.9,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        }
+      ],
+      "approved_at": "01-08-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "2173f709cf95",
+      "title": "Refurbished iPhone 14 128GB Blue",
+      "price": 350.0,
+      "original_price": 457.0,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-blue-r-19187",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1812866_f0376b85-1169-4021-afbc-4ee47abbe968.jpg?v=1784534245",
+      "found_at": "2026-08-01T06:21:09.390577+00:00",
+      "approved_at": "01-08-2026 07:25",
       "auto_approved": true
     }
   ]
