@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T10:31:11.433141+00:00",
-  "total": 289,
+  "updated_at": "2026-08-02T14:34:19.111128+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -134,6 +134,58 @@
         }
       ],
       "approved_at": "26-06-2026 19:15",
+      "auto_approved": true
+    },
+    {
+      "id": "7af6b391fc9b",
+      "title": "AOC Gaming Q24G2A - 24 inch Quad HD-monitor, 180 Hz, 1 ms, comp. G-Sync, HDR10 (2560 x 1440, 2 x HDMI 2.0, 1 x DisplayPort 1.4) zwart-rood",
+      "price": 96.39,
+      "original_price": 319.99,
+      "discount_percent": 69,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F5BW7TT1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71iM0caATCL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-02T14:25:53.095744+00:00",
+      "price_history": [
+        {
+          "price": 116.25,
+          "original_price": 179.99,
+          "scraped_at": "2026-03-02T11:00:36.973012+00:00"
+        },
+        {
+          "price": 108.59,
+          "original_price": 189.99,
+          "scraped_at": "2026-04-01T06:01:05.696489+00:00"
+        },
+        {
+          "price": 110.89,
+          "original_price": 139.0,
+          "scraped_at": "2026-04-09T10:00:27.291082+00:00"
+        },
+        {
+          "price": 111.19,
+          "original_price": 139.0,
+          "scraped_at": "2026-04-14T14:00:21.017420+00:00"
+        },
+        {
+          "price": 108.74,
+          "original_price": 149.0,
+          "scraped_at": "2026-05-21T06:00:55.727476+00:00"
+        },
+        {
+          "price": 101.91,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-26T10:00:39.800300+00:00"
+        },
+        {
+          "price": 96.39,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
       "auto_approved": true
     },
     {
@@ -356,6 +408,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215375_79c3da4e-591d-4917-91f1-19a5cd28289a.jpg?v=1784018745",
       "found_at": "2026-07-15T10:27:35.659479+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "9d6c884ca07d",
+      "title": "Razer Barracuda X - Draadloze multi-platform headset voor gaming en mobiele apparaten (SmartSwitch Dual Wireless, TriForce 40 mm, cardioïde microfoon, 50 uur batterij, USB-C) Wit",
+      "price": 53.13,
+      "original_price": 159.99,
+      "discount_percent": 66,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09X5FSQDN?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71NSNE6gGZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-02T14:15:39.014044+00:00",
+      "price_history": [
+        {
+          "price": 50.7,
+          "original_price": 349.99,
+          "scraped_at": "2026-07-02T06:00:52.759256+00:00"
+        },
+        {
+          "price": 50.84,
+          "original_price": 69.99,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 51.26,
+          "original_price": 78.64,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 52.95,
+          "original_price": 89.99,
+          "scraped_at": "2026-07-17T14:00:23.232622+00:00"
+        },
+        {
+          "price": 51.44,
+          "original_price": 78.9,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 53.13,
+          "original_price": 159.99,
+          "scraped_at": "2026-08-02T14:00:40.840406+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
       "auto_approved": true
     },
     {
@@ -7434,6 +7533,21 @@
       "auto_approved": true
     },
     {
+      "id": "a29516eeaa4f",
+      "title": "HUAWEI WATCH FIT 4 Smartwatch voor mannen vrouwen, ultra slank, iOS & Android, tot 10 dagen batterijduur, Bluetooth-oproep, GPS Running Smartwatch, Aluminium Case, AMOLED Display, Fitness Tracker",
+      "price": 108.94,
+      "original_price": 169.0,
+      "discount_percent": 35,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1DM4FRZ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71iQa-cYkML._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-02T14:20:07.790883+00:00",
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
       "id": "70019959b2f0",
       "title": "Pierre Contactgrill CG5000 Multi",
       "price": 31.0,
@@ -9732,6 +9846,302 @@
         }
       ],
       "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "15e0489aeab2",
+      "title": "Woxom Boost",
+      "price": 93.0,
+      "original_price": 119.0,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/woxom-boost-r-19384",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2230319.jpg?v=1784292889",
+      "found_at": "2026-08-02T14:29:20.036457+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "82b27506362d",
+      "title": "Clean Air Optima CA-603",
+      "price": 92.0,
+      "original_price": 117.8,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/clean-air-optima-ca-603-r-19182",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391888.jpg?v=1784018115",
+      "found_at": "2026-08-02T14:29:07.165237+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 117.73,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 117.83,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 117.73,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 117.8,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "cb01d3043c41",
+      "title": "Philips Lumea 9000 Series BRI958/00",
+      "price": 460.0,
+      "original_price": 537.56,
+      "discount_percent": 14,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-lumea-9000-series-bri958-00-r-19201",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1624583_9039135e-d6c5-403d-9f5e-b4e5159fad23.jpg?v=1784292458",
+      "found_at": "2026-08-02T14:29:14.137801+00:00",
+      "price_history": [
+        {
+          "price": 506.0,
+          "original_price": 573.43,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 488.0,
+          "original_price": 574.5,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 460.0,
+          "original_price": 535.16,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "18d483f1fcae",
+      "title": "Dreame L10s Ultra Gen 3 Set",
+      "price": 414.0,
+      "original_price": 486.0,
+      "discount_percent": 14,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-l10s-ultra-gen-3-set-r-19518",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2230126_bfed51c9-1eb6-4669-9a50-619ce4f348c1.jpg?v=1785222542",
+      "found_at": "2026-08-02T14:29:07.166113+00:00",
+      "price_history": [
+        {
+          "price": 440.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-07-28T18:00:22.963121+00:00"
+        },
+        {
+          "price": 439.0,
+          "original_price": 489.57,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 414.0,
+          "original_price": 489.57,
+          "scraped_at": "2026-07-29T14:00:26.453815+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "a860ae70a400",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 104.0,
+      "original_price": 130.46,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19474",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_550c9da6-5e83-4afd-88ae-9864ce99d174.jpg?v=1785141799",
+      "found_at": "2026-08-02T14:29:14.136799+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 126.64,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.18,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "da40fbee216a",
+      "title": "Google Pixel 8 128 GB zwart",
+      "price": 323.0,
+      "original_price": 383.53,
+      "discount_percent": 15,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/google-pixel-8-128-gb-zwart-r-19283",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1986891_595c0a51-5e47-47b3-ba2c-0820390526e5.jpg?v=1784191360",
+      "found_at": "2026-08-02T14:29:10.905533+00:00",
+      "price_history": [
+        {
+          "price": 414.0,
+          "original_price": 471.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 431.0,
+          "original_price": 489.04,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 416.0,
+          "original_price": 489.04,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 391.0,
+          "original_price": 489.04,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 323.0,
+          "original_price": 383.53,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "6470e16b2f91",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 566.82,
+      "original_price": 649.0,
+      "discount_percent": 12,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19264",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_f65ed5ae-2817-4f74-a87e-e495d6594bf0.jpg?v=1784292676",
+      "found_at": "2026-08-02T14:29:17.452134+00:00",
+      "price_history": [
+        {
+          "price": 603.0,
+          "original_price": null,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 566.82,
+          "original_price": 649.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "149af5be8924",
+      "title": "Refurbished iPhone 13 256GB Black",
+      "price": 255.68,
+      "original_price": 306.0,
+      "discount_percent": 16,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-256gb-black-r-19189",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631102_0952ebee-8395-4064-a10a-52963d4afe14.jpg?v=1784292386",
+      "found_at": "2026-08-02T14:29:17.451305+00:00",
+      "price_history": [
+        {
+          "price": 272.0,
+          "original_price": 306.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 255.68,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 15:34",
       "auto_approved": true
     }
   ]
