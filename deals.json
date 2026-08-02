@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T06:23:09.452664+00:00",
-  "total": 291,
+  "updated_at": "2026-08-02T10:31:00.749957+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -8236,6 +8236,33 @@
       "auto_approved": true
     },
     {
+      "id": "efb0ebceb4f2",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 501.02,
+      "original_price": 649.0,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19198",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_f4df431f-59f9-43e8-afd5-2e069022244b.jpg?v=1784292442",
+      "found_at": "2026-08-02T10:26:12.857493+00:00",
+      "price_history": [
+        {
+          "price": 533.0,
+          "original_price": 625.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 501.02,
+          "original_price": 649.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
       "id": "67e77d9abbec",
       "title": "Apple MacBook Air 13\" (2025) M4 (10/8) 16GB/256GB Hemelblauw AZERTY",
       "price": 900.0,
@@ -9366,6 +9393,48 @@
       "auto_approved": true
     },
     {
+      "id": "223822144215",
+      "title": "Brother DCP-L8410CDW",
+      "price": 365.0,
+      "original_price": 463.73,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/brother-dcp-l8410cdw-r-19478",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1370456.jpg?v=1785141841",
+      "found_at": "2026-08-02T10:26:02.945597+00:00",
+      "price_history": [
+        {
+          "price": 419.0,
+          "original_price": 465.86,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 407.0,
+          "original_price": 464.12,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 408.0,
+          "original_price": 466.71,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 395.0,
+          "original_price": 466.07,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 365.0,
+          "original_price": 463.73,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
       "id": "0467fc05296f",
       "title": "Viture Luma Ultra XR",
       "price": 529.0,
@@ -9477,6 +9546,75 @@
         }
       ],
       "approved_at": "02-08-2026 07:22",
+      "auto_approved": true
+    },
+    {
+      "id": "764d1ca5e3c5",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 417.36,
+      "original_price": 519.0,
+      "discount_percent": 19,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19090",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_50ad7ce1-068d-4f97-8671-a9227509165b.jpg?v=1784292118",
+      "found_at": "2026-08-02T10:26:12.857384+00:00",
+      "price_history": [
+        {
+          "price": 444.0,
+          "original_price": 519.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 417.36,
+          "original_price": 519.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "ce70506b9873",
+      "title": "JBL Endurance Peak3 Zwart",
+      "price": 63.0,
+      "original_price": 88.65,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-endurance-peak3-zwart-r-19282",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797681_42c90b2c-7571-4971-9859-bb39bbb2bb7d.jpg?v=1784191351",
+      "found_at": "2026-08-02T10:26:06.654527+00:00",
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": 83.96,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 85.74,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 82.27,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 81.97,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
       "auto_approved": true
     },
     {
@@ -9697,6 +9835,33 @@
       "auto_approved": true
     },
     {
+      "id": "1e70623af0c7",
+      "title": "Refurbished iPhone 13 128GB Green",
+      "price": 270.72,
+      "original_price": 341.0,
+      "discount_percent": 20,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-green-r-19188",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712270_26973a6c-2032-4a90-bb9c-6e50d7ea944e.jpg?v=1784292377",
+      "found_at": "2026-08-02T10:26:12.856739+00:00",
+      "price_history": [
+        {
+          "price": 288.0,
+          "original_price": 341.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 270.72,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
       "id": "966dcda3ed1c",
       "title": "Refurbished iPhone 13 128GB Pink",
       "price": 309.0,
@@ -9724,6 +9889,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950866_9999003a-da7e-47f9-b13b-58a40d530301.jpg?v=1784292415",
       "found_at": "2026-08-02T06:17:31.798286+00:00",
       "approved_at": "02-08-2026 07:22",
+      "auto_approved": true
+    },
+    {
+      "id": "1b3422726616",
+      "title": "KODAK Mini Shot 2 ERA 4PASS 2-in-1 Instant Camera en Fotoprinter (5,3 x 8,6 cm) (fotoprinter + 8 vellen, geel)",
+      "price": 95.52,
+      "original_price": 127.33,
+      "discount_percent": 24,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CHS7DL8R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71zw53BONWL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-02T10:18:59.560204+00:00",
+      "price_history": [
+        {
+          "price": 102.04,
+          "original_price": 132.2,
+          "scraped_at": "2026-07-11T14:00:53.623999+00:00"
+        },
+        {
+          "price": 99.87,
+          "original_price": 99.99,
+          "scraped_at": "2026-07-17T06:00:45.379693+00:00"
+        },
+        {
+          "price": 95.52,
+          "original_price": 127.33,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
       "auto_approved": true
     },
     {
@@ -9904,6 +10101,127 @@
         }
       ],
       "approved_at": "02-08-2026 07:22",
+      "auto_approved": true
+    },
+    {
+      "id": "56ea9f22bff3",
+      "title": "Philips 275E1S/00",
+      "price": 77.0,
+      "original_price": 99.0,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-275e1s-00-r-19313",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1491932_31e45944-82a1-4a24-aae4-946552b66008.jpg?v=1784191675",
+      "found_at": "2026-08-02T10:26:09.313156+00:00",
+      "price_history": [
+        {
+          "price": 161.0,
+          "original_price": 176.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "4b754ca48c78",
+      "title": "Samsung Jet 75E Multi",
+      "price": 226.0,
+      "original_price": 276.5,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-jet-75e-multi-r-19521",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1957932_4f93f734-a930-4814-92d9-c94f85708158.jpg?v=1785222592",
+      "found_at": "2026-08-02T10:26:12.858982+00:00",
+      "price_history": [
+        {
+          "price": 251.0,
+          "original_price": 286.0,
+          "scraped_at": "2026-07-28T18:00:22.963121+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 288.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 288.0,
+          "scraped_at": "2026-07-29T14:00:26.453815+00:00"
+        },
+        {
+          "price": 232.0,
+          "original_price": 284.0,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 226.0,
+          "original_price": 276.5,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
+      "auto_approved": true
+    },
+    {
+      "id": "d319e122fca2",
+      "title": "VEMER VE794900 EASYEYE Draadloze camera voor binnen met speciale app, inbouwbox met 2 modules, Full-HD-beveiligingscamera en infraroodtechnologie, stroomvoorziening 230 V, grijs",
+      "price": 97.81,
+      "original_price": 124.46,
+      "discount_percent": 21,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F19G4ZTT?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61lAOrJoWhL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-02T10:19:42.907680+00:00",
+      "price_history": [
+        {
+          "price": 104.32,
+          "original_price": 125.19,
+          "scraped_at": "2026-07-11T18:00:56.106517+00:00"
+        },
+        {
+          "price": 102.15,
+          "original_price": 125.19,
+          "scraped_at": "2026-07-17T06:00:45.379693+00:00"
+        },
+        {
+          "price": 99.98,
+          "original_price": 124.46,
+          "scraped_at": "2026-07-28T06:00:54.420285+00:00"
+        },
+        {
+          "price": 97.81,
+          "original_price": 124.46,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        }
+      ],
+      "approved_at": "02-08-2026 11:31",
       "auto_approved": true
     }
   ]
