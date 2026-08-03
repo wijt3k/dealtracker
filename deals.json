@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T06:24:59.893757+00:00",
-  "total": 297,
+  "updated_at": "2026-08-03T10:32:31.398534+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -460,6 +460,63 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241561.jpg?v=1784292532",
       "found_at": "2026-07-18T10:15:37.918634+00:00",
       "approved_at": "18-07-2026 11:19",
+      "auto_approved": true
+    },
+    {
+      "id": "20fba55fb0df",
+      "title": "Samsung Galaxy Tab S5e LTE SM-T725 -P-DE ES versie 64GB zwart",
+      "price": 136.52,
+      "original_price": 329.99,
+      "discount_percent": 58,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07PK3DN34?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51-fRQJEfGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-03T10:05:52.954811+00:00",
+      "price_history": [
+        {
+          "price": 242.62,
+          "original_price": null,
+          "scraped_at": "2026-06-22T14:03:09.456410+00:00"
+        },
+        {
+          "price": 225.87,
+          "original_price": null,
+          "scraped_at": "2026-06-27T14:00:53.290089+00:00"
+        },
+        {
+          "price": 209.12,
+          "original_price": null,
+          "scraped_at": "2026-07-02T18:01:05.806892+00:00"
+        },
+        {
+          "price": 192.36,
+          "original_price": null,
+          "scraped_at": "2026-07-08T06:00:33.547767+00:00"
+        },
+        {
+          "price": 175.61,
+          "original_price": null,
+          "scraped_at": "2026-07-13T10:00:15.395382+00:00"
+        },
+        {
+          "price": 158.86,
+          "original_price": null,
+          "scraped_at": "2026-07-18T14:00:23.875718+00:00"
+        },
+        {
+          "price": 147.69,
+          "original_price": null,
+          "scraped_at": "2026-07-23T18:01:47.055056+00:00"
+        },
+        {
+          "price": 136.52,
+          "original_price": 329.99,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        }
+      ],
+      "approved_at": "03-08-2026 11:32",
       "auto_approved": true
     },
     {
@@ -6477,6 +6534,21 @@
       "auto_approved": true
     },
     {
+      "id": "4e31212cad40",
+      "title": "Garmin Vívoactive 4 Smartwatch met gps, met functies voor muziek, lichaamsenergiemonitoring, geanimeerde work-outs, hartslag en zuurstofsaturatie enz. (gereviseerd), zwart/leisteen",
+      "price": 183.75,
+      "original_price": 279.99,
+      "discount_percent": 34,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0865ZVCH8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61jp0mc5nKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-03T10:15:59.356505+00:00",
+      "approved_at": "03-08-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "0d18a2798e25",
       "title": "Tefal Renew Black Keramische Wokpan 28 cm",
       "price": 23.0,
@@ -9251,6 +9323,33 @@
       "auto_approved": true
     },
     {
+      "id": "8899bc65dd7d",
+      "title": "Samsung Galaxy A12 - Smartphone 64GB, 4GB RAM, Dual SIM, Black",
+      "price": 113.18,
+      "original_price": 149.99,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08Q8KKQ6H?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81A3nwwKt2S._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-03T10:11:36.485917+00:00",
+      "price_history": [
+        {
+          "price": 112.99,
+          "original_price": 149.99,
+          "scraped_at": "2026-07-24T06:00:47.737786+00:00"
+        },
+        {
+          "price": 113.18,
+          "original_price": 149.99,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        }
+      ],
+      "approved_at": "03-08-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "966dcda3ed1c",
       "title": "Refurbished iPhone 13 128GB Pink",
       "price": 309.0,
@@ -9947,6 +10046,58 @@
       "auto_approved": true
     },
     {
+      "id": "2fc046172acf",
+      "title": "Kitchenaid 5KSM2CB5BGS Mengkom",
+      "price": 139.0,
+      "original_price": 169.6,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kitchenaid-5ksm2cb5bgs-mengkom-r-19314",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1648935_26d9b57a-8d15-402f-bd3a-581ceb7e8bc0.jpg?v=1784191688",
+      "found_at": "2026-08-03T10:27:45.327208+00:00",
+      "price_history": [
+        {
+          "price": 129.0,
+          "original_price": 141.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": null,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 165.72,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 171.99,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 162.26,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 165.6,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 165.6,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        }
+      ],
+      "approved_at": "03-08-2026 11:32",
+      "auto_approved": true
+    },
+    {
       "id": "cf49d5dc459a",
       "title": "Lenovo IdeaPad Slim 5 14IAH8 83BF001KMB AZERTY",
       "price": 527.0,
@@ -10048,33 +10199,6 @@
         }
       ],
       "approved_at": "02-08-2026 19:25",
-      "auto_approved": true
-    },
-    {
-      "id": "01d0538edbe1",
-      "title": "Weber Braadspit Genesis 4/6 branders",
-      "price": 156.0,
-      "original_price": 186.33,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/weber-braadspit-genesis-4-6-branders-r-19463",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2020954.jpg?v=1785141679",
-      "found_at": "2026-08-03T06:20:01.334342+00:00",
-      "price_history": [
-        {
-          "price": 184.0,
-          "original_price": 200.0,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 186.33,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        }
-      ],
-      "approved_at": "03-08-2026 07:24",
       "auto_approved": true
     }
   ]
