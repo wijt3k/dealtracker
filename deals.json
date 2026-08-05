@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T07:02:41.350694+00:00",
-  "total": 290,
+  "updated_at": "2026-08-05T10:27:02.001794+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "83c6232a31d4",
@@ -385,6 +385,21 @@
         }
       ],
       "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "6f64e5c615ca",
+      "title": "realme 9 Pro+ 5G-smartphone, Sony IMX766-topcamera, MediaTek Dimensity 920 5G-processor, 60 W SuperDart-lading, 90 Hz super AMOLED-scherm, Dual Sim, NFC, 6+ 128 GB, Midnight Black",
+      "price": 124.55,
+      "original_price": 362.87,
+      "discount_percent": 65,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09PBVBXQK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61TP0zVNsfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-05T10:02:22.625012+00:00",
+      "approved_at": "05-08-2026 11:27",
       "auto_approved": true
     },
     {
@@ -1503,6 +1518,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050902_e4788807-4612-4b2d-982b-fe23a3090c0b.jpg?v=1784018326",
       "found_at": "2026-07-15T10:27:42.488859+00:00",
       "approved_at": "15-07-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "2d44e18bca12",
+      "title": "Samsung LS24D600UAUXEN",
+      "price": 1195.0,
+      "original_price": 1528.68,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-ls24d600uauxen-r-19433",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2079689_0f652dd8-e83b-49b9-adfc-f22380e3c05e.jpg?v=1784878929",
+      "found_at": "2026-08-05T10:22:08.417209+00:00",
+      "approved_at": "05-08-2026 11:27",
       "auto_approved": true
     },
     {
@@ -5662,6 +5692,48 @@
       "auto_approved": true
     },
     {
+      "id": "11b366eb0787",
+      "title": "Hammer Watch 2 Smartwatch, AMOLED+ Gorilla Glass, GPS, 530 mAh, tot 13 dagen gebruiksduur, sportmodus, geïntegreerde zaklamp, robuust, geschikt voor buiten, 1.5",
+      "price": 68.93,
+      "original_price": 116.99,
+      "discount_percent": 41,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DP7GN15J?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71zcRTcWHnL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-05T10:09:57.858289+00:00",
+      "price_history": [
+        {
+          "price": 78.86,
+          "original_price": 114.69,
+          "scraped_at": "2026-07-10T14:00:28.612259+00:00"
+        },
+        {
+          "price": 76.28,
+          "original_price": 116.99,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 72.81,
+          "original_price": 89.99,
+          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+        },
+        {
+          "price": 70.87,
+          "original_price": 89.99,
+          "scraped_at": "2026-07-31T06:00:32.585528+00:00"
+        },
+        {
+          "price": 68.93,
+          "original_price": 116.99,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "5be53e3b94eb",
       "title": "Turtle Beach Atlas Air PC",
       "price": 108.0,
@@ -6179,6 +6251,48 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017138.jpg?v=1785141795",
       "found_at": "2026-07-30T06:11:53.353808+00:00",
       "approved_at": "30-07-2026 07:15",
+      "auto_approved": true
+    },
+    {
+      "id": "82b27506362d",
+      "title": "Clean Air Optima CA-603",
+      "price": 71.0,
+      "original_price": 117.8,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/clean-air-optima-ca-603-r-19182",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391888.jpg?v=1784018115",
+      "found_at": "2026-08-05T10:21:59.201681+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 117.73,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 117.83,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 117.73,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 117.8,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 117.8,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
       "auto_approved": true
     },
     {
@@ -6956,6 +7070,33 @@
       "auto_approved": true
     },
     {
+      "id": "1cc091771ca6",
+      "title": "DeLonghi  Rivelia EXAM440.55.G",
+      "price": 504.0,
+      "original_price": 650.7,
+      "discount_percent": 22,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-rivelia-exam440-55-g-r-19639",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018519_ca1f6e4e-7add-46ad-a06a-37710755e197.jpg?v=1785834793",
+      "found_at": "2026-08-05T10:21:59.201759+00:00",
+      "price_history": [
+        {
+          "price": 465.0,
+          "original_price": 529.0,
+          "scraped_at": "2026-08-04T14:00:29.263483+00:00"
+        },
+        {
+          "price": 504.0,
+          "original_price": 650.7,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "958558d27d14",
       "title": "Apple iPad Pro 2025 13 inch 256GB Wifi Zwart",
       "price": 1398.0,
@@ -7047,6 +7188,48 @@
         }
       ],
       "approved_at": "31-07-2026 11:26",
+      "auto_approved": true
+    },
+    {
+      "id": "127c71ee767f",
+      "title": "TCL MOVETIME MT46-4G Kids Smartwatch met GPS-tracking, SOS-knop, 2MP camera, fitnesstracking en gepersonaliseerde thema's",
+      "price": 84.04,
+      "original_price": 129.99,
+      "discount_percent": 35,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GKDR4LJF?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/41ftFK7DjsL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-05T10:12:13.377958+00:00",
+      "price_history": [
+        {
+          "price": 93.47,
+          "original_price": 129.99,
+          "scraped_at": "2026-06-29T14:01:05.132699+00:00"
+        },
+        {
+          "price": 92.24,
+          "original_price": 129.99,
+          "scraped_at": "2026-07-04T18:00:31.887942+00:00"
+        },
+        {
+          "price": 86.09,
+          "original_price": 129.99,
+          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+        },
+        {
+          "price": 85.85,
+          "original_price": 129.99,
+          "scraped_at": "2026-07-31T06:00:32.585528+00:00"
+        },
+        {
+          "price": 84.04,
+          "original_price": 129.99,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
       "auto_approved": true
     },
     {
@@ -8128,6 +8311,43 @@
       "auto_approved": true
     },
     {
+      "id": "2417942170c2",
+      "title": "Oral-B iO 10 Gold Special Edition",
+      "price": 272.0,
+      "original_price": 357.03,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-10-gold-special-edition-r-19403",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220080_89b7cb7d-12f3-4749-a87a-283231b59f77.jpg?v=1784878462",
+      "found_at": "2026-08-05T10:22:05.681078+00:00",
+      "price_history": [
+        {
+          "price": 280.0,
+          "original_price": 319.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 365.0,
+          "original_price": 379.73,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 352.0,
+          "original_price": null,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 272.0,
+          "original_price": 357.03,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "17597e6d15f9",
       "title": "Philips 24E1N1300AE/00",
       "price": 92.0,
@@ -8946,6 +9166,33 @@
       "auto_approved": true
     },
     {
+      "id": "7644499c336c",
+      "title": "Philips Shaver i9000 X9002/10",
+      "price": 156.0,
+      "original_price": 205.03,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-x9002-10-r-19533",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156149_e9f38ff8-70e4-4cf0-b046-467f01572826.jpg?v=1785834071",
+      "found_at": "2026-08-05T10:22:08.414802+00:00",
+      "price_history": [
+        {
+          "price": 167.0,
+          "original_price": 190.0,
+          "scraped_at": "2026-08-04T14:00:29.263483+00:00"
+        },
+        {
+          "price": 156.0,
+          "original_price": 205.03,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "1e70623af0c7",
       "title": "Refurbished iPhone 13 128GB Green",
       "price": 270.72,
@@ -8973,6 +9220,93 @@
       "auto_approved": true
     },
     {
+      "id": "19d59de8e677",
+      "title": "Beafon, Smartwatch 601, polshorloge, AMOLED-display 1,43 inch (3,63 cm), pandaglas, kompas, hoogtemeter, IP68, 5ATM, sportmode, hartslag, bloedzuurstof, stappenteller, bluetooth-oproepen, GPS,",
+      "price": 67.0,
+      "original_price": 91.46,
+      "discount_percent": 26,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0G3QRQWJB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51b9T3l3MeL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-05T10:09:24.410549+00:00",
+      "price_history": [
+        {
+          "price": 84.86,
+          "original_price": 94.34,
+          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
+        },
+        {
+          "price": 83.95,
+          "original_price": 96.7,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 83.03,
+          "original_price": 94.51,
+          "scraped_at": "2026-05-24T06:02:02.838127+00:00"
+        },
+        {
+          "price": 82.12,
+          "original_price": 95.11,
+          "scraped_at": "2026-05-29T10:00:19.189086+00:00"
+        },
+        {
+          "price": 80.29,
+          "original_price": 96.89,
+          "scraped_at": "2026-06-08T14:00:43.100128+00:00"
+        },
+        {
+          "price": 79.34,
+          "original_price": 95.22,
+          "scraped_at": "2026-06-14T10:00:44.917407+00:00"
+        },
+        {
+          "price": 78.42,
+          "original_price": 96.15,
+          "scraped_at": "2026-06-19T14:01:13.302397+00:00"
+        },
+        {
+          "price": 77.53,
+          "original_price": 95.72,
+          "scraped_at": "2026-06-24T18:03:26.507207+00:00"
+        },
+        {
+          "price": 75.75,
+          "original_price": 92.59,
+          "scraped_at": "2026-06-30T06:01:38.842666+00:00"
+        },
+        {
+          "price": 73.97,
+          "original_price": 90.41,
+          "scraped_at": "2026-07-10T14:00:28.612259+00:00"
+        },
+        {
+          "price": 72.23,
+          "original_price": 90.4,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 70.49,
+          "original_price": 90.39,
+          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+        },
+        {
+          "price": 68.76,
+          "original_price": 91.46,
+          "scraped_at": "2026-07-31T06:00:32.585528+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 91.46,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "966dcda3ed1c",
       "title": "Refurbished iPhone 13 128GB Pink",
       "price": 309.0,
@@ -8988,6 +9322,53 @@
       "auto_approved": true
     },
     {
+      "id": "dcc66aa61bc1",
+      "title": "Philips Series 7000 17-in-1 MG7941/15",
+      "price": 56.0,
+      "original_price": 76.26,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-7000-17-in-1-mg7941-15-r-19421",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224806_efd8d680-e24b-492f-92be-46f64c27a85a.jpg?v=1784878745",
+      "found_at": "2026-08-05T10:22:08.414509+00:00",
+      "price_history": [
+        {
+          "price": 59.0,
+          "original_price": 68.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 75.65,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 75.87,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 76.99,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 76.21,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 76.26,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
       "id": "e6fe30245fe2",
       "title": "Refurbished iPhone 14 128GB Black",
       "price": 346.0,
@@ -9000,6 +9381,85 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950866_9999003a-da7e-47f9-b13b-58a40d530301.jpg?v=1784292415",
       "found_at": "2026-08-02T06:17:31.798286+00:00",
       "approved_at": "02-08-2026 07:22",
+      "auto_approved": true
+    },
+    {
+      "id": "ab90baafecb4",
+      "title": "Withings Scanwatch Nova Black",
+      "price": 481.0,
+      "original_price": 575.78,
+      "discount_percent": 16,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/withings-scanwatch-nova-black-r-19148",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2099361.jpg?v=1784292325",
+      "found_at": "2026-08-05T10:22:11.282165+00:00",
+      "price_history": [
+        {
+          "price": 462.0,
+          "original_price": 524.02,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 512.0,
+          "original_price": 570.82,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 527.0,
+          "original_price": 578.51,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 509.0,
+          "original_price": 578.77,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 502.0,
+          "original_price": 574.96,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 481.0,
+          "original_price": 575.78,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
+      "id": "a860ae70a400",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 99.0,
+      "original_price": 131.9,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19474",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_550c9da6-5e83-4afd-88ae-9864ce99d174.jpg?v=1785141799",
+      "found_at": "2026-08-05T10:22:05.681709+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 126.64,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.18,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 126.94,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        }
+      ],
+      "approved_at": "05-08-2026 11:27",
       "auto_approved": true
     },
     {
@@ -9180,80 +9640,6 @@
           "price": 32.0,
           "original_price": 43.85,
           "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        }
-      ],
-      "approved_at": "02-08-2026 07:22",
-      "auto_approved": true
-    },
-    {
-      "id": "4af2d99ba8f7",
-      "title": "Samsung Galaxy Tab S8 Ultra 14.6 inch 128GB Wifi Grijs",
-      "price": 703.0,
-      "original_price": 811.39,
-      "discount_percent": 13,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-tab-s8-ultra-14-6-inch-128gb-wifi-grijs-r-19500",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1769076.jpg?v=1785142023",
-      "found_at": "2026-08-02T06:17:31.799866+00:00",
-      "price_history": [
-        {
-          "price": 931.0,
-          "original_price": 1059.0,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 746.0,
-          "original_price": 848.39,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 703.0,
-          "original_price": 811.39,
-          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
-        }
-      ],
-      "approved_at": "02-08-2026 07:22",
-      "auto_approved": true
-    },
-    {
-      "id": "87774cad2397",
-      "title": "LG UltraGear 24GS60F-B",
-      "price": 100.0,
-      "original_price": 129.91,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lg-ultragear-24gs60f-b-r-19332",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2047678_16d051b4-4e3c-4cf9-8ade-b2213acbe4e5.jpg?v=1784191940",
-      "found_at": "2026-08-02T06:17:28.374490+00:00",
-      "price_history": [
-        {
-          "price": 164.0,
-          "original_price": 179.0,
-          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 131.79,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 133.7,
-          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
-        },
-        {
-          "price": 107.0,
-          "original_price": 132.7,
-          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
-        },
-        {
-          "price": 100.0,
-          "original_price": 129.91,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
         }
       ],
       "approved_at": "02-08-2026 07:22",
