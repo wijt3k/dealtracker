@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T06:44:23.783848+00:00",
-  "total": 293,
+  "updated_at": "2026-08-06T10:50:28.719904+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "83c6232a31d4",
@@ -256,6 +256,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220480_f6d1f543-b4eb-4e36-a224-4503f24f992d.jpg?v=1785834342",
       "found_at": "2026-08-04T14:26:53.617607+00:00",
       "approved_at": "04-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
+      "id": "bb44dffec548",
+      "title": "Beats Studio Pro - draadloze bluetooth-koptelefoon met ruisonderdrukking - gepersonaliseerde ruimtelijke audio, lossless audio via USB-C, compatibiliteit met Apple en Android - zandsteen",
+      "price": 127.42,
+      "original_price": 399.95,
+      "discount_percent": 68,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CCF2Q9G6?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51V8-16lsTL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-08-06T10:29:11.100427+00:00",
+      "price_history": [
+        {
+          "price": 126.54,
+          "original_price": 399.95,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 127.42,
+          "original_price": 399.95,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
       "auto_approved": true
     },
     {
@@ -4237,6 +4264,33 @@
       "auto_approved": true
     },
     {
+      "id": "c63f24557b12",
+      "title": "Huawei Watch 5 46mm Smartwatch Negro Rates-L19F",
+      "price": 160.63,
+      "original_price": 261.99,
+      "discount_percent": 38,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1G7R5R7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71jMuxf9TbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-06T10:35:07.593586+00:00",
+      "price_history": [
+        {
+          "price": 239.8,
+          "original_price": 346.45,
+          "scraped_at": "2026-02-27T07:00:54.077785+00:00"
+        },
+        {
+          "price": 160.63,
+          "original_price": 261.99,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
       "id": "653394b5b497",
       "title": "BOSCH  KGE49AICA -  Koel-vriescombinatie - breedte 70 cm - hoogte 201 cm - inhoud 419 l",
       "price": 594.0,
@@ -5265,6 +5319,53 @@
       "auto_approved": true
     },
     {
+      "id": "87774cad2397",
+      "title": "LG UltraGear 24GS60F-B",
+      "price": 77.0,
+      "original_price": 131.98,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ultragear-24gs60f-b-r-19332",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2047678_16d051b4-4e3c-4cf9-8ade-b2213acbe4e5.jpg?v=1784191940",
+      "found_at": "2026-08-06T10:44:25.412727+00:00",
+      "price_history": [
+        {
+          "price": 164.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 118.0,
+          "original_price": 131.79,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 133.7,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 132.7,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 129.91,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 131.98,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
       "id": "d3365dfd7af2",
       "title": "SAMSUNG WW90DG6U85LBU3 6000-serie -  Wasmachine Voorlader - 9 kg - 1400 rpm - 72 dB - automatisch doseren",
       "price": 524.25,
@@ -5907,6 +6008,100 @@
       "auto_approved": true
     },
     {
+      "id": "f56459248250",
+      "title": "AOC 24G4X",
+      "price": 141.0,
+      "original_price": 218.75,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-24g4x-r-19465",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2017431_feb666e0-4dcf-471f-9db1-5d9b4409470d.jpg?v=1785141685",
+      "found_at": "2026-08-06T10:44:19.306528+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 160.33,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 162.5,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 173.0,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 234.0,
+          "original_price": 269.99,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 226.0,
+          "original_price": null,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 218.75,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
+      "id": "56ea9f22bff3",
+      "title": "Philips 275E1S/00",
+      "price": 59.0,
+      "original_price": 99.0,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-275e1s-00-r-19313",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1491932_31e45944-82a1-4a24-aae4-946552b66008.jpg?v=1784191675",
+      "found_at": "2026-08-06T10:44:25.415080+00:00",
+      "price_history": [
+        {
+          "price": 161.0,
+          "original_price": 176.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
       "id": "c2f91c7d9ca5",
       "title": "Rowenta Ultimate Experience CF9625",
       "price": 59.0,
@@ -6326,6 +6521,63 @@
       "auto_approved": true
     },
     {
+      "id": "e404982b2bdd",
+      "title": "Xiaomi REDMI 15C 5G, Smartphone 4+256GB, 6,9\" 120Hz Display, MediaTek Dimensity 6300-processor 6nm Octa-core, 50MP AI Dual Camera, 6000mAh, Midnight Black, Oplader niet inbegrepen",
+      "price": 127.4,
+      "original_price": 199.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FHBRHJBM?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/618-u9p4+uL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-06T10:19:42.994631+00:00",
+      "price_history": [
+        {
+          "price": 146.25,
+          "original_price": 190.18,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 114.72,
+          "original_price": 139.9,
+          "scraped_at": "2026-03-10T07:00:17.939892+00:00"
+        },
+        {
+          "price": 115.5,
+          "original_price": 1249.0,
+          "scraped_at": "2026-06-27T06:01:14.968019+00:00"
+        },
+        {
+          "price": 136.62,
+          "original_price": 140.85,
+          "scraped_at": "2026-07-02T06:00:52.759256+00:00"
+        },
+        {
+          "price": 155.2,
+          "original_price": null,
+          "scraped_at": "2026-07-22T06:00:34.410339+00:00"
+        },
+        {
+          "price": 126.1,
+          "original_price": 182.48,
+          "scraped_at": "2026-07-27T06:00:56.604825+00:00"
+        },
+        {
+          "price": 145.6,
+          "original_price": 182.48,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 127.4,
+          "original_price": 199.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
       "id": "6a84dcd74d4d",
       "title": "iRobot Roomba Combo Essential Y011040",
       "price": 152.0,
@@ -6499,6 +6751,73 @@
       "image": "https://m.media-amazon.com/images/I/71iQa-cYkML._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-08-02T14:20:07.790883+00:00",
       "approved_at": "02-08-2026 15:34",
+      "auto_approved": true
+    },
+    {
+      "id": "2fc046172acf",
+      "title": "Kitchenaid 5KSM2CB5BGS Mengkom",
+      "price": 107.0,
+      "original_price": 165.6,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/kitchenaid-5ksm2cb5bgs-mengkom-r-19314",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1648935_26d9b57a-8d15-402f-bd3a-581ceb7e8bc0.jpg?v=1784191688",
+      "found_at": "2026-08-06T10:44:22.412932+00:00",
+      "price_history": [
+        {
+          "price": 129.0,
+          "original_price": 141.0,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": null,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 165.72,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 171.99,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 162.26,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 165.6,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 165.6,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 162.77,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 162.77,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 165.6,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
       "auto_approved": true
     },
     {
@@ -8129,6 +8448,152 @@
       "auto_approved": true
     },
     {
+      "id": "be5e9d3ec377",
+      "title": "Philips Lumea 8000 Series BRI945/00",
+      "price": 260.0,
+      "original_price": 349.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-lumea-8000-series-bri945-00-r-19200",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1709724_abd9490c-c035-48f2-b309-1a66ba98d8d1.jpg?v=1784292457",
+      "found_at": "2026-08-02T10:26:09.313896+00:00",
+      "price_history": [
+        {
+          "price": 301.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 298.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 295.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 292.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 288.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 285.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 282.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 279.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 272.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 269.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 266.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 263.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 260.0,
+          "original_price": 349.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
+      "id": "11cf74853f75",
+      "title": "HYPERX Cloud III bekabelde gamingheadset PC PS5 Xbox-serie X|S schuine drivers van 53 mm DTS Memory Foam Stevig frame Ultraheldere microfoon van 10 mm USB-C USB-A 3,5 mm",
+      "price": 52.77,
+      "original_price": 79.9,
+      "discount_percent": 33,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C3BSZ56D?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71AMEEP3HLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-01T10:14:21.265381+00:00",
+      "price_history": [
+        {
+          "price": 51.64,
+          "original_price": 229.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 52.77,
+          "original_price": 79.9,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
+      "id": "74e1caa137b6",
+      "title": "Xiaomi Pad 8 11.2 Inch Tablet 8+128GB Pine Green 3.2K 144Hz Display HyperAI | Snapdragon 8s Gen 4 Mobile Platform, 9200mAh (typ) Battery, 45W Turbo Charging, 5.75mm Slim Body Desgin, 3 Year Warranty",
+      "price": 333.97,
+      "original_price": 435.39,
+      "discount_percent": 23,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GCNHZ93G?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61JzA9l7dJL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-06T10:13:34.589327+00:00",
+      "price_history": [
+        {
+          "price": 347.64,
+          "original_price": null,
+          "scraped_at": "2026-07-22T06:00:34.410339+00:00"
+        },
+        {
+          "price": 339.3,
+          "original_price": null,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 333.97,
+          "original_price": 435.39,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
       "id": "464832a27d47",
       "title": "Samsung Galaxy Tab A11 - Tablet - Android - 64 GB - 22.05 cm (8.7\")",
       "price": 155.72,
@@ -8213,6 +8678,80 @@
         }
       ],
       "approved_at": "04-08-2026 11:23",
+      "auto_approved": true
+    },
+    {
+      "id": "d86689279f22",
+      "title": "Xiaomi Pad 8 11.2 Inch Tablet 8+256GB Blue 3.2K 144Hz Display HyperAI | Snapdragon 8s Gen 4 Mobile Platform, 9200mAh (typ) Battery, 45W Turbo Charging, 5.75mm Slim Body Desgin, 3 Year Warranty",
+      "price": 377.28,
+      "original_price": 483.78,
+      "discount_percent": 22,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GCNCNJZ7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Ojaqo5-CL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-06T10:13:54.257955+00:00",
+      "price_history": [
+        {
+          "price": 408.75,
+          "original_price": null,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 402.7,
+          "original_price": null,
+          "scraped_at": "2026-07-22T06:00:34.410339+00:00"
+        },
+        {
+          "price": 396.64,
+          "original_price": null,
+          "scraped_at": "2026-07-27T06:00:56.604825+00:00"
+        },
+        {
+          "price": 390.59,
+          "original_price": null,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 377.28,
+          "original_price": 483.78,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
+      "id": "70f43b75904c",
+      "title": "DeLonghi PrimaDonna Soul ECAM 610.75.MB",
+      "price": 1091.0,
+      "original_price": 1264.37,
+      "discount_percent": 13,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-primadonna-soul-ecam-610-75-mb-r-19462",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1792465.jpg?v=1785141665",
+      "found_at": "2026-08-02T10:26:02.945945+00:00",
+      "price_history": [
+        {
+          "price": 1195.0,
+          "original_price": null,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 1143.0,
+          "original_price": 1228.39,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 1091.0,
+          "original_price": 1268.22,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
       "auto_approved": true
     },
     {
@@ -8429,6 +8968,58 @@
         }
       ],
       "approved_at": "05-08-2026 11:27",
+      "auto_approved": true
+    },
+    {
+      "id": "6088e0fa627c",
+      "title": "JBL Live 460NC draadloze on-ear Bluetooth-hoofdtelefoon in het wit, met ruisonderdrukking en spraakassistent, voor maximaal 50 uur muziekgenot",
+      "price": 52.46,
+      "original_price": 77.0,
+      "discount_percent": 31,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08VDVVR3Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61o7kepZyRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-07-26T14:25:42.572001+00:00",
+      "price_history": [
+        {
+          "price": 52.58,
+          "original_price": 229.99,
+          "scraped_at": "2026-05-03T06:00:30.790666+00:00"
+        },
+        {
+          "price": 53.8,
+          "original_price": 249.15,
+          "scraped_at": "2026-05-24T06:02:02.838127+00:00"
+        },
+        {
+          "price": 50.12,
+          "original_price": 52.76,
+          "scraped_at": "2026-06-16T10:01:19.971169+00:00"
+        },
+        {
+          "price": 52.65,
+          "original_price": 59.64,
+          "scraped_at": "2026-06-26T14:30:44.454710+00:00"
+        },
+        {
+          "price": 52.81,
+          "original_price": 60.47,
+          "scraped_at": "2026-07-10T18:00:59.903468+00:00"
+        },
+        {
+          "price": 54.94,
+          "original_price": 64.14,
+          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
+        },
+        {
+          "price": 52.46,
+          "original_price": 77.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
       "auto_approved": true
     },
     {
@@ -8719,6 +9310,48 @@
       "auto_approved": true
     },
     {
+      "id": "862c0e62e7ca",
+      "title": "Philips Airfryer 1000 Series NA154/00",
+      "price": 90.0,
+      "original_price": 126.26,
+      "discount_percent": 28,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-airfryer-1000-series-na154-00-r-19427",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132706_01cf7e00-bba8-49cc-932f-37e7fb1e58e9.jpg?v=1784878845",
+      "found_at": "2026-08-05T10:22:05.682020+00:00",
+      "price_history": [
+        {
+          "price": 98.0,
+          "original_price": 112.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 120.37,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 120.77,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 122.92,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 125.51,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
+      "auto_approved": true
+    },
+    {
       "id": "309e2142e8f1",
       "title": "Braun Series 5 52-A1000S Azure",
       "price": 65.0,
@@ -8854,6 +9487,38 @@
         }
       ],
       "approved_at": "04-08-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "a860ae70a400",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 99.0,
+      "original_price": 136.65,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19474",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_550c9da6-5e83-4afd-88ae-9864ce99d174.jpg?v=1785141799",
+      "found_at": "2026-08-06T10:44:25.414922+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 126.64,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.18,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 126.94,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        }
+      ],
+      "approved_at": "06-08-2026 11:50",
       "auto_approved": true
     },
     {
@@ -9027,221 +9692,6 @@
         }
       ],
       "approved_at": "02-08-2026 19:25",
-      "auto_approved": true
-    },
-    {
-      "id": "642baa102eb0",
-      "title": "Samsung Essential S3 S24D304GAU - S30GD Series - LED-Monitor - 60 cm (24\")",
-      "price": 65.48,
-      "original_price": 91.99,
-      "discount_percent": 28,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DSG5RYZ2?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71nth0YGnSL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-08-05T18:16:55.290327+00:00",
-      "price_history": [
-        {
-          "price": 70.09,
-          "original_price": 99.91,
-          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
-        },
-        {
-          "price": 58.44,
-          "original_price": 99.5,
-          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
-        },
-        {
-          "price": 65.48,
-          "original_price": 91.99,
-          "scraped_at": "2026-08-05T18:00:54.687492+00:00"
-        }
-      ],
-      "approved_at": "05-08-2026 19:27",
-      "auto_approved": true
-    },
-    {
-      "id": "ce70506b9873",
-      "title": "JBL Endurance Peak3 Zwart",
-      "price": 63.0,
-      "original_price": 88.65,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/jbl-endurance-peak3-zwart-r-19282",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797681_42c90b2c-7571-4971-9859-bb39bbb2bb7d.jpg?v=1784191351",
-      "found_at": "2026-08-02T10:26:06.654527+00:00",
-      "price_history": [
-        {
-          "price": 72.0,
-          "original_price": 79.0,
-          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
-        },
-        {
-          "price": 74.0,
-          "original_price": 83.96,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": 85.74,
-          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
-        },
-        {
-          "price": 68.0,
-          "original_price": 82.27,
-          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
-        },
-        {
-          "price": 63.0,
-          "original_price": 81.97,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        }
-      ],
-      "approved_at": "02-08-2026 11:31",
-      "auto_approved": true
-    },
-    {
-      "id": "3d0035c98f5e",
-      "title": "Philips 272B1G/00",
-      "price": 139.0,
-      "original_price": 187.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-272b1g-00-r-19470",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1538713_ebf34378-e3f0-471e-abce-0806adc3155c.jpg?v=1785141745",
-      "found_at": "2026-08-02T06:17:28.377104+00:00",
-      "price_history": [
-        {
-          "price": 146.0,
-          "original_price": 192.5,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 139.0,
-          "original_price": 190.88,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        }
-      ],
-      "approved_at": "02-08-2026 07:22",
-      "auto_approved": true
-    },
-    {
-      "id": "e17192991505",
-      "title": "TCL S45H 2.0 Soundbar",
-      "price": 63.0,
-      "original_price": 88.0,
-      "discount_percent": 28,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tcl-s45h-2-0-soundbar-r-19625",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2051839_15ef284e-0e92-4adf-b10a-b4d9b945a3c9.jpg?v=1785834645",
-      "found_at": "2026-08-04T14:27:06.280318+00:00",
-      "approved_at": "04-08-2026 15:31",
-      "auto_approved": true
-    },
-    {
-      "id": "1f1c470bf7e2",
-      "title": "Tefal Duetto+ Pannenset 4-delig",
-      "price": 59.0,
-      "original_price": 82.0,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-duetto-pannenset-4-delig-r-19574",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1390243.jpg?v=1785834295",
-      "found_at": "2026-08-04T14:27:06.280410+00:00",
-      "approved_at": "04-08-2026 15:31",
-      "auto_approved": true
-    },
-    {
-      "id": "1569e53a7925",
-      "title": "LG - 27-inch UltraGearâ„¢ Nano IPS 1ms Gaming Monitor",
-      "price": 102.96,
-      "original_price": 139.99,
-      "discount_percent": 26,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0BVZ5Q2FW?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/616mp05PAAL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-08-03T06:16:18.744163+00:00",
-      "approved_at": "03-08-2026 07:24",
-      "auto_approved": true
-    },
-    {
-      "id": "afaa5ce1efe0",
-      "title": "Trezor Safe 7 - Charcoal Black",
-      "price": 194.0,
-      "original_price": 252.27,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/trezor-safe-7-charcoal-black-r-18146",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2243557.jpg?v=1780406828",
-      "found_at": "2026-08-02T06:17:35.166867+00:00",
-      "price_history": [
-        {
-          "price": 229.0,
-          "original_price": 249.0,
-          "scraped_at": "2026-06-30T10:00:58.772753+00:00"
-        },
-        {
-          "price": 221.0,
-          "original_price": 249.0,
-          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
-        },
-        {
-          "price": 209.0,
-          "original_price": 249.0,
-          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
-        },
-        {
-          "price": 194.0,
-          "original_price": 252.27,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        }
-      ],
-      "approved_at": "02-08-2026 07:22",
-      "auto_approved": true
-    },
-    {
-      "id": "e469a17070a2",
-      "title": "Philips Hue Filamentlamp White Ambiance Globe E27",
-      "price": 31.0,
-      "original_price": 43.72,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-filamentlamp-white-ambiance-globe-e27-r-19483",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1636376_9fb55516-d52e-416c-922c-c670d1cfb546.jpg?v=1785141895",
-      "found_at": "2026-08-02T10:26:09.313700+00:00",
-      "price_history": [
-        {
-          "price": 34.0,
-          "original_price": 44.01,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 32.0,
-          "original_price": 43.85,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 43.41,
-          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
-        }
-      ],
-      "approved_at": "05-08-2026 19:27",
       "auto_approved": true
     }
   ]
