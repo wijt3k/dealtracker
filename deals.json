@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T10:29:41.032712+00:00",
-  "total": 300,
+  "updated_at": "2026-08-07T10:29:43.351384+00:00",
+  "total": 295,
   "deals": [
     {
       "id": "83c6232a31d4",
@@ -2478,21 +2478,6 @@
           "scraped_at": "2026-07-26T14:00:24.960502+00:00"
         }
       ],
-      "approved_at": "26-07-2026 15:46",
-      "auto_approved": true
-    },
-    {
-      "id": "76edf766fb4b",
-      "title": "DUUX North Smart 14K BTU/h Grijs",
-      "price": 710.25,
-      "original_price": 947.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=340401",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a65be920f4b1_ASSET_MMS_86328309-500x500.png",
-      "found_at": "2026-07-23T06:23:37.983301+00:00",
       "approved_at": "26-07-2026 15:46",
       "auto_approved": true
     },
@@ -5184,21 +5169,6 @@
       "auto_approved": true
     },
     {
-      "id": "908aede5479c",
-      "title": "KOENIC KFZ 641 E NF W Diepvriezer kastmodel",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=339705",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a65dab3f0740_ASSET_MMS_151433996-500x500.png",
-      "found_at": "2026-07-20T10:12:32.605708+00:00",
-      "approved_at": "26-07-2026 15:46",
-      "auto_approved": true
-    },
-    {
       "id": "49cd5bf58f6d",
       "title": "Neff T16SBN1L0",
       "price": 183.0,
@@ -6638,38 +6608,6 @@
       "auto_approved": true
     },
     {
-      "id": "49fcac32dcfc",
-      "title": "Sonos Arc Zwart",
-      "price": 727.0,
-      "original_price": 908.0,
-      "discount_percent": 19,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sonos-arc-zwart-r-19503",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1424419_777d3e9b-f4ea-4fa2-ac85-ece46b9f966a.jpg?v=1785222309",
-      "found_at": "2026-08-01T14:17:23.010475+00:00",
-      "price_history": [
-        {
-          "price": 615.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-07-28T18:00:22.963121+00:00"
-        },
-        {
-          "price": 771.0,
-          "original_price": 857.0,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 727.0,
-          "original_price": 857.0,
-          "scraped_at": "2026-07-29T14:00:26.453815+00:00"
-        }
-      ],
-      "approved_at": "01-08-2026 15:22",
-      "auto_approved": true
-    },
-    {
       "id": "2fc046172acf",
       "title": "Kitchenaid 5KSM2CB5BGS Mengkom",
       "price": 107.0,
@@ -7485,68 +7423,6 @@
         }
       ],
       "approved_at": "06-08-2026 07:44",
-      "auto_approved": true
-    },
-    {
-      "id": "accc1b19ea71",
-      "title": "Oral-B iO Series 6N Wit + extra iO Gentle Care opzetborstel",
-      "price": 95.0,
-      "original_price": 144.72,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-series-6n-wit-extra-io-gentle-care-opzetborstel-r-19237",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797542_a5d6373a-350d-4c08-90d2-7a0bef51c467.jpg?v=1784191115",
-      "found_at": "2026-07-31T14:11:57.413674+00:00",
-      "price_history": [
-        {
-          "price": 139.0,
-          "original_price": 159.0,
-          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
-        },
-        {
-          "price": 98.0,
-          "original_price": 147.01,
-          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
-        },
-        {
-          "price": 104.0,
-          "original_price": 145.74,
-          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
-        },
-        {
-          "price": 106.0,
-          "original_price": 146.23,
-          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 143.46,
-          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
-        },
-        {
-          "price": 112.0,
-          "original_price": 139.5,
-          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
-        },
-        {
-          "price": 105.0,
-          "original_price": 139.69,
-          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
-        },
-        {
-          "price": 96.0,
-          "original_price": 142.52,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 95.0,
-          "original_price": 144.72,
-          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
-        }
-      ],
-      "approved_at": "31-07-2026 15:15",
       "auto_approved": true
     },
     {
@@ -8489,38 +8365,6 @@
           "price": 64.0,
           "original_price": 95.81,
           "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        }
-      ],
-      "approved_at": "01-08-2026 15:22",
-      "auto_approved": true
-    },
-    {
-      "id": "5b8455fb6d69",
-      "title": "Bowers & Wilkins Px7 S3 Blauw",
-      "price": 260.0,
-      "original_price": 350.24,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bowers-wilkins-px7-s3-blauw-r-19253",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2189140.jpg?v=1784292598",
-      "found_at": "2026-08-01T14:17:10.197166+00:00",
-      "price_history": [
-        {
-          "price": 286.0,
-          "original_price": 367.09,
-          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
-        },
-        {
-          "price": 276.0,
-          "original_price": 342.71,
-          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
-        },
-        {
-          "price": 260.0,
-          "original_price": 349.07,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
         }
       ],
       "approved_at": "01-08-2026 15:22",
