@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T10:29:43.351384+00:00",
-  "total": 295,
+  "updated_at": "2026-08-07T14:27:10.755839+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "83c6232a31d4",
@@ -69,6 +69,93 @@
         }
       ],
       "approved_at": "31-07-2026 11:26",
+      "auto_approved": true
+    },
+    {
+      "id": "c6ed51799837",
+      "title": "HP OMEN Transcend 16-u1975nd QWERTY",
+      "price": 1127.28,
+      "original_price": 2399.0,
+      "discount_percent": 53,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omen-transcend-16-u1975nd-qwerty-r-19327",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2019010_236f87fa-5c52-4faa-8afd-e81233852cce.jpg?v=1784191886",
+      "found_at": "2026-08-07T14:21:47.960775+00:00",
+      "price_history": [
+        {
+          "price": 1831.83,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 1811.7,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 1791.57,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
+        },
+        {
+          "price": 1771.44,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 1751.31,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 1731.18,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 1711.05,
+          "original_price": 2013.0,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 1690.92,
+          "original_price": 2013.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 1670.79,
+          "original_price": 2013.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 1650.66,
+          "original_price": 2013.0,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 1630.53,
+          "original_price": 2479.0,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 1610.4,
+          "original_price": 2479.0,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 1167.54,
+          "original_price": 2399.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        },
+        {
+          "price": 1127.28,
+          "original_price": 2399.0,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        }
+      ],
+      "approved_at": "07-08-2026 15:27",
       "auto_approved": true
     },
     {
@@ -502,6 +589,21 @@
       "image": "https://m.media-amazon.com/images/I/61MQb3lYftL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-08-07T10:06:29.736551+00:00",
       "approved_at": "07-08-2026 11:29",
+      "auto_approved": true
+    },
+    {
+      "id": "60df2a029fb7",
+      "title": "HONOR X8 ontgrendelde mobiele telefoon, 6 + 128 GB, 6,7 inch FullView display, 90 Hz, Dual Sim, Android 11 smartphone, 64 MP Quad camera, Qualcomm Snapdragon 680, snel opladen 22,5 W, NFC, zwart",
+      "price": 113.66,
+      "original_price": 293.64,
+      "discount_percent": 61,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09XDZ9RBJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61d9f0ojuGL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-07T14:05:14.932884+00:00",
+      "approved_at": "07-08-2026 15:27",
       "auto_approved": true
     },
     {
@@ -1637,6 +1739,21 @@
       "auto_approved": true
     },
     {
+      "id": "32994a67635b",
+      "title": "Apple iPad Air 11-inch met M3 chip: Liquid Retina-display, 512 GB, 12 MP camera aan de voor- en achterkant, wifi 6E, gemaakt voor Apple Intelligence, Touch ID, batterij voor een hele dag – Paars",
+      "price": 644.56,
+      "original_price": 899.0,
+      "discount_percent": 28,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DZ76C67Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71tY0e--55L._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-08-07T14:03:05.180258+00:00",
+      "approved_at": "07-08-2026 15:27",
+      "auto_approved": true
+    },
+    {
       "id": "01634a3b37f5",
       "title": "Lenovo Yoga Tab Plus, AI-tablet, 12,7 inch 144 Hz 3K, Snapdragon 8 Gen 3-processor, 16 GB RAM, 256 GB geheugen, WiFi 6, Android 14-tablet, Tab Pen Pro en toetsenbord inbegrepen - Seashell",
       "price": 632.85,
@@ -1791,6 +1908,21 @@
         }
       ],
       "approved_at": "04-08-2026 19:20",
+      "auto_approved": true
+    },
+    {
+      "id": "1d66fbe2a367",
+      "title": "Motorola Moto G14 - 4G Smartphone - Dual SIM - RAM 4 GB / Intern Memory 128 GB - MicroSD-slot - LCD-display - 6,5 inch - 2",
+      "price": 181.99,
+      "original_price": 319.0,
+      "discount_percent": 42,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CG6SVLM9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71cm2Fs3XsL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-07T14:05:57.757322+00:00",
+      "approved_at": "07-08-2026 15:27",
       "auto_approved": true
     },
     {
@@ -6551,6 +6683,43 @@
       "auto_approved": true
     },
     {
+      "id": "6d98e27e03ea",
+      "title": "Fujifilm INSTAX Mini 12 Instant Camera met 20 Shot Film Pack - Blossom Pink",
+      "price": 80.86,
+      "original_price": 129.0,
+      "discount_percent": 37,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C2HZ342Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61MH8o3dtxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-07T14:13:33.243759+00:00",
+      "price_history": [
+        {
+          "price": 104.81,
+          "original_price": 121.49,
+          "scraped_at": "2026-07-11T18:00:56.106517+00:00"
+        },
+        {
+          "price": 102.31,
+          "original_price": 119.65,
+          "scraped_at": "2026-07-17T06:00:45.379693+00:00"
+        },
+        {
+          "price": 97.3,
+          "original_price": 116.63,
+          "scraped_at": "2026-07-28T06:00:54.420285+00:00"
+        },
+        {
+          "price": 80.86,
+          "original_price": 129.0,
+          "scraped_at": "2026-08-07T14:00:24.464671+00:00"
+        }
+      ],
+      "approved_at": "07-08-2026 15:27",
+      "auto_approved": true
+    },
+    {
       "id": "309e2142e8f1",
       "title": "Braun Series 5 52-A1000S Azure",
       "price": 62.0,
@@ -7114,6 +7283,48 @@
         }
       ],
       "approved_at": "30-07-2026 19:27",
+      "auto_approved": true
+    },
+    {
+      "id": "23aae5b04b96",
+      "title": "Philips Hue Secure desktop camera, 2K-videoresolutie, activeert meldingen, tweerichtingsaudio, naadloze integratie met Hue lampen, compact ontwerp, inclusief stijlvolle cameravoet, zwart​",
+      "price": 90.68,
+      "original_price": 140.0,
+      "discount_percent": 35,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FSLRQDPQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/41tt7BCKVwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-07T14:14:55.697278+00:00",
+      "price_history": [
+        {
+          "price": 106.05,
+          "original_price": 649.99,
+          "scraped_at": "2026-07-12T10:00:44.478947+00:00"
+        },
+        {
+          "price": 99.72,
+          "original_price": 649.99,
+          "scraped_at": "2026-07-17T14:00:23.232622+00:00"
+        },
+        {
+          "price": 97.05,
+          "original_price": 649.99,
+          "scraped_at": "2026-07-22T18:00:45.342411+00:00"
+        },
+        {
+          "price": 102.86,
+          "original_price": 140.0,
+          "scraped_at": "2026-07-28T06:00:54.420285+00:00"
+        },
+        {
+          "price": 90.68,
+          "original_price": 140.0,
+          "scraped_at": "2026-08-07T14:00:24.464671+00:00"
+        }
+      ],
+      "approved_at": "07-08-2026 15:27",
       "auto_approved": true
     },
     {
@@ -8854,6 +9065,58 @@
       "auto_approved": true
     },
     {
+      "id": "1e70623af0c7",
+      "title": "Refurbished iPhone 13 128GB Green",
+      "price": 256.32,
+      "original_price": 341.0,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-green-r-19188",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712270_26973a6c-2032-4a90-bb9c-6e50d7ea944e.jpg?v=1784292377",
+      "found_at": "2026-08-07T10:24:33.181163+00:00",
+      "price_history": [
+        {
+          "price": 288.0,
+          "original_price": 341.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 270.72,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 267.84,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 264.96,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 262.08,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 259.2,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        },
+        {
+          "price": 256.32,
+          "original_price": 341.0,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        }
+      ],
+      "approved_at": "07-08-2026 15:27",
+      "auto_approved": true
+    },
+    {
       "id": "b8915374d138",
       "title": "Panasonic SD-R2530KXE",
       "price": 136.0,
@@ -9121,110 +9384,6 @@
         }
       ],
       "approved_at": "06-08-2026 11:50",
-      "auto_approved": true
-    },
-    {
-      "id": "17597e6d15f9",
-      "title": "Philips 24E1N1300AE/00",
-      "price": 92.0,
-      "original_price": 131.13,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19322",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_0610023b-a7d0-49ac-9eea-3734874c90a4.jpg?v=1784191782",
-      "found_at": "2026-08-01T14:17:17.504079+00:00",
-      "price_history": [
-        {
-          "price": 109.0,
-          "original_price": 119.0,
-          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
-        },
-        {
-          "price": 90.0,
-          "original_price": 129.57,
-          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
-        },
-        {
-          "price": 109.0,
-          "original_price": 129.76,
-          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
-        },
-        {
-          "price": 105.0,
-          "original_price": 128.78,
-          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
-        },
-        {
-          "price": 102.0,
-          "original_price": 127.67,
-          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
-        },
-        {
-          "price": 101.0,
-          "original_price": 127.6,
-          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
-        },
-        {
-          "price": 105.0,
-          "original_price": 127.28,
-          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
-        },
-        {
-          "price": 99.0,
-          "original_price": 127.17,
-          "scraped_at": "2026-07-27T10:00:26.164799+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 131.13,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        }
-      ],
-      "approved_at": "01-08-2026 15:22",
-      "auto_approved": true
-    },
-    {
-      "id": "223822144215",
-      "title": "Brother DCP-L8410CDW",
-      "price": 365.0,
-      "original_price": 463.73,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/brother-dcp-l8410cdw-r-19478",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1370456.jpg?v=1785141841",
-      "found_at": "2026-08-02T10:26:02.945597+00:00",
-      "price_history": [
-        {
-          "price": 419.0,
-          "original_price": 465.86,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 407.0,
-          "original_price": 464.12,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 408.0,
-          "original_price": 466.71,
-          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
-        },
-        {
-          "price": 395.0,
-          "original_price": 466.07,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        },
-        {
-          "price": 365.0,
-          "original_price": 463.73,
-          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
-        }
-      ],
-      "approved_at": "02-08-2026 11:31",
       "auto_approved": true
     }
   ]
