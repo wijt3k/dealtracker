@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T10:31:10.584714+00:00",
-  "total": 286,
+  "updated_at": "2026-08-09T14:26:39.828231+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -428,6 +428,21 @@
       "image": "https://m.media-amazon.com/images/I/519KVc-h8xL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-08-05T14:11:45.341797+00:00",
       "approved_at": "05-08-2026 15:30",
+      "auto_approved": true
+    },
+    {
+      "id": "51b17d33e3b8",
+      "title": "Beats Solo 4 — draadloze Bluetooth on-ear-koptelefoon, Appel en Android compatibel, 50 uur luistertijd – Zachtroze",
+      "price": 72.02,
+      "original_price": 229.95,
+      "discount_percent": 68,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CZPKPFTW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51JNqP2C4rL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-08-09T14:07:34.160808+00:00",
+      "approved_at": "09-08-2026 15:26",
       "auto_approved": true
     },
     {
@@ -4624,6 +4639,53 @@
       "auto_approved": true
     },
     {
+      "id": "1117554056f5",
+      "title": "Apple Watch Ultra 2 4G 49mm Zilver Trail Band Blauw M/L",
+      "price": 643.0,
+      "original_price": 832.66,
+      "discount_percent": 22,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-ultra-2-4g-49mm-zilver-trail-band-blauw-m-l-r-19482",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092811_d193eace-26e3-4c59-bed2-b160e980bd57.jpg?v=1785141882",
+      "found_at": "2026-08-09T14:21:50.688133+00:00",
+      "price_history": [
+        {
+          "price": 707.0,
+          "original_price": 716.49,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 735.0,
+          "original_price": 758.98,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 827.0,
+          "original_price": 899.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 643.0,
+          "original_price": 724.25,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 827.0,
+          "original_price": 832.66,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        },
+        {
+          "price": 643.0,
+          "original_price": 832.66,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "302d7d2ed759",
       "title": "Theragun Mini Gen 3 Black",
       "price": 128.0,
@@ -8260,6 +8322,33 @@
       "auto_approved": true
     },
     {
+      "id": "175d54c967ac",
+      "title": "JBL Xtreme 4 Blauw",
+      "price": 228.0,
+      "original_price": 307.77,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-xtreme-4-blauw-r-19559",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2125915.jpg?v=1786104177",
+      "found_at": "2026-08-09T14:21:53.639697+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 310.0,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 228.0,
+          "original_price": 307.77,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
       "id": "3d0035c98f5e",
       "title": "Philips 272B1G/00",
       "price": 141.0,
@@ -8336,6 +8425,21 @@
         }
       ],
       "approved_at": "08-08-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "30e00e5cf218",
+      "title": "Braun Silk Expert Pro 5 PL5311",
+      "price": 335.0,
+      "original_price": 429.55,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-expert-pro-5-pl5311-r-19554",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/214658205.jpg?v=1786104111",
+      "found_at": "2026-08-09T14:21:50.689811+00:00",
+      "approved_at": "09-08-2026 15:26",
       "auto_approved": true
     },
     {
@@ -8509,6 +8613,330 @@
         }
       ],
       "approved_at": "09-08-2026 07:07",
+      "auto_approved": true
+    },
+    {
+      "id": "84a000bde411",
+      "title": "AOC 27E4U 24 inch FHD-monitor, 120Hz, IPS, 1ms MPRT, adaptieve synchronisatie, HDR-modus, hoogteverstelling (1920x1080, HDMI 1x 1.4, DP 1x 1.2, USB-hub) zwart",
+      "price": 104.83,
+      "original_price": 144.4,
+      "discount_percent": 27,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FB3SNLVY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71JdB7Tt-jL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-09T14:18:16.713616+00:00",
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "2773f45d319d",
+      "title": "nutribullet 900 Pro Silver",
+      "price": 41.0,
+      "original_price": 58.0,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nutribullet-900-pro-silver-r-19584",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2138300.jpg?v=1786104202",
+      "found_at": "2026-08-09T14:21:56.698056+00:00",
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "149af5be8924",
+      "title": "Refurbished iPhone 13 256GB Black",
+      "price": 236.64,
+      "original_price": 306.0,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-256gb-black-r-19189",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631102_0952ebee-8395-4064-a10a-52963d4afe14.jpg?v=1784292386",
+      "found_at": "2026-08-09T14:21:59.968539+00:00",
+      "price_history": [
+        {
+          "price": 272.0,
+          "original_price": 306.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 255.68,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 252.96,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 250.24,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 247.52,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 244.8,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        },
+        {
+          "price": 242.08,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        },
+        {
+          "price": 239.36,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 236.64,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "2e6d928a9374",
+      "title": "Nilfisk Buddy 12",
+      "price": 48.0,
+      "original_price": 66.29,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nilfisk-buddy-12-r-19613",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/nilfisk_buddy_ii_12.jpg?v=1786105172",
+      "found_at": "2026-08-09T14:21:56.697860+00:00",
+      "price_history": [
+        {
+          "price": 50.0,
+          "original_price": 66.29,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 66.29,
+          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "7644499c336c",
+      "title": "Philips Shaver i9000 X9002/10",
+      "price": 156.0,
+      "original_price": 203.29,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-x9002-10-r-19533",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156149_e9f38ff8-70e4-4cf0-b046-467f01572826.jpg?v=1785834071",
+      "found_at": "2026-08-09T14:21:59.967491+00:00",
+      "price_history": [
+        {
+          "price": 167.0,
+          "original_price": 190.0,
+          "scraped_at": "2026-08-04T14:00:29.263483+00:00"
+        },
+        {
+          "price": 156.0,
+          "original_price": 205.03,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "f9941ed9bac5",
+      "title": "Krups Nescafe Dolce Gusto Genio S Plus KP3408",
+      "price": 66.0,
+      "original_price": 89.68,
+      "discount_percent": 26,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-genio-s-plus-kp3408-r-19514",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1460362_adc1e311-e292-461a-b408-f2e8b4164920.jpg?v=1785222481",
+      "found_at": "2026-08-09T14:21:56.696252+00:00",
+      "price_history": [
+        {
+          "price": 80.0,
+          "original_price": 92.0,
+          "scraped_at": "2026-07-28T18:00:22.963121+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 90.05,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 89.42,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 88.59,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 94.42,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 91.11,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 89.11,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "dcc66aa61bc1",
+      "title": "Philips Series 7000 17-in-1 MG7941/15",
+      "price": 55.0,
+      "original_price": 74.98,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-7000-17-in-1-mg7941-15-r-19421",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224806_efd8d680-e24b-492f-92be-46f64c27a85a.jpg?v=1784878745",
+      "found_at": "2026-08-09T14:21:59.967104+00:00",
+      "price_history": [
+        {
+          "price": 59.0,
+          "original_price": 68.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 75.65,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 75.87,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 76.99,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 76.21,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 76.26,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 75.11,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "a8d0386ba381",
+      "title": "Samsung Galaxy Buds3 White",
+      "price": 101.0,
+      "original_price": 133.61,
+      "discount_percent": 24,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds3-zwart-r-19432",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1182x1200.jpg?v=1785912867",
+      "found_at": "2026-08-09T14:21:59.970030+00:00",
+      "price_history": [
+        {
+          "price": 111.0,
+          "original_price": 121.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 113.51,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 130.92,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "e6477826ea12",
+      "title": "Lego Snoopy's Doghouse 21368",
+      "price": 53.0,
+      "original_price": 70.45,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lego-snoopys-doghouse-21368-r-19563",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/107208180.jpg?v=1786104180",
+      "found_at": "2026-08-09T14:21:56.696520+00:00",
+      "approved_at": "09-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "1b46912845eb",
+      "title": "Apple Watch Series 10 4G 46mm Zwart Sportband M/L",
+      "price": 367.0,
+      "original_price": 438.34,
+      "discount_percent": 16,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-series-10-4g-46mm-zwart-sportband-m-l-r-19528",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093026_2acb6ac8-ccdc-4963-aaac-d4fa5cde1611.jpg?v=1786024263",
+      "found_at": "2026-08-09T14:21:50.688024+00:00",
+      "price_history": [
+        {
+          "price": 411.0,
+          "original_price": 506.0,
+          "scraped_at": "2026-08-06T14:00:45.911793+00:00"
+        },
+        {
+          "price": 367.0,
+          "original_price": 448.47,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 15:26",
       "auto_approved": true
     }
   ]
