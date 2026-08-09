@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T06:07:31.910608+00:00",
-  "total": 292,
+  "updated_at": "2026-08-09T10:30:56.304309+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -1534,6 +1534,48 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1965057_11d52f4f-50ba-4ae9-8559-077cbed81351.jpg?v=1786104126",
       "found_at": "2026-08-08T10:28:43.691920+00:00",
       "approved_at": "08-08-2026 11:34",
+      "auto_approved": true
+    },
+    {
+      "id": "cf8be19a1837",
+      "title": "Xiaomi REDMI 15C 5G, Smartphone 4+128GB, 6,9\" 120Hz Display, MediaTek Dimensity 6300-processor 6nm Octa-core, 50MP AI Dual Camera, 6000mAh, Mintgroen, Oplader niet inbegrepen",
+      "price": 91.06,
+      "original_price": 179.0,
+      "discount_percent": 49,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FHBQ7PGF?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61o4fmZ-ymL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-09T10:02:25.614172+00:00",
+      "price_history": [
+        {
+          "price": 122.55,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 125.13,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
+        },
+        {
+          "price": 105.73,
+          "original_price": 109.0,
+          "scraped_at": "2026-06-05T10:00:21.687501+00:00"
+        },
+        {
+          "price": 104.71,
+          "original_price": 127.7,
+          "scraped_at": "2026-07-01T06:01:59.568170+00:00"
+        },
+        {
+          "price": 91.06,
+          "original_price": 111.05,
+          "scraped_at": "2026-07-11T14:00:53.623999+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 11:30",
       "auto_approved": true
     },
     {
@@ -4812,6 +4854,53 @@
       "auto_approved": true
     },
     {
+      "id": "1117554056f5",
+      "title": "Apple Watch Ultra 2 4G 49mm Zilver Trail Band Blauw M/L",
+      "price": 643.0,
+      "original_price": 832.66,
+      "discount_percent": 22,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-ultra-2-4g-49mm-zilver-trail-band-blauw-m-l-r-19482",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092811_d193eace-26e3-4c59-bed2-b160e980bd57.jpg?v=1785141882",
+      "found_at": "2026-08-09T10:25:28.294510+00:00",
+      "price_history": [
+        {
+          "price": 707.0,
+          "original_price": 716.49,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 735.0,
+          "original_price": 758.98,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 827.0,
+          "original_price": 899.0,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 643.0,
+          "original_price": 724.25,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 827.0,
+          "original_price": 832.66,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        },
+        {
+          "price": 643.0,
+          "original_price": 832.66,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "302d7d2ed759",
       "title": "Theragun Mini Gen 3 Black",
       "price": 128.0,
@@ -7230,6 +7319,21 @@
       "auto_approved": true
     },
     {
+      "id": "694493048ca1",
+      "title": "Samsung Galaxy S20 FE Cloud Mint SM-G780FZGDEUB Dual-SIM 128GB Android 10.0 Smartphone, groen",
+      "price": 196.4,
+      "original_price": 280.0,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08HNCK96D?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/715yko4kU1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-09T10:07:04.327666+00:00",
+      "approved_at": "09-08-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "51d3e5040c46",
       "title": "Acer Aspire Spin 14 ASP14-51MTN-50X6 QWERTZ",
       "price": 604.0,
@@ -8490,6 +8594,33 @@
       "auto_approved": true
     },
     {
+      "id": "175d54c967ac",
+      "title": "JBL Xtreme 4 Blauw",
+      "price": 228.0,
+      "original_price": 307.77,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-xtreme-4-blauw-r-19559",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2125915.jpg?v=1786104177",
+      "found_at": "2026-08-09T10:25:31.657577+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 310.0,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 228.0,
+          "original_price": 307.77,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "3d0035c98f5e",
       "title": "Philips 272B1G/00",
       "price": 141.0,
@@ -8569,6 +8700,21 @@
       "auto_approved": true
     },
     {
+      "id": "30e00e5cf218",
+      "title": "Braun Silk Expert Pro 5 PL5311",
+      "price": 335.0,
+      "original_price": 429.55,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-expert-pro-5-pl5311-r-19554",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/214658205.jpg?v=1786104111",
+      "found_at": "2026-08-09T10:25:28.296274+00:00",
+      "approved_at": "09-08-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "4b754ca48c78",
       "title": "Samsung Jet 75E Multi",
       "price": 216.0,
@@ -8623,6 +8769,21 @@
         }
       ],
       "approved_at": "08-08-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "98d3a50bd268",
+      "title": "JBL Live Flex 4, Draadloze Oordopjes met Bluetooth, Zwart | True Adaptive Noise Cancelling, Smart Charging Case, IP54 Waterdicht, 50 Uur Batterijduur",
+      "price": 144.31,
+      "original_price": 199.99,
+      "discount_percent": 27,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GS2MRK7M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/611Sw2SqK9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-09T10:14:24.115371+00:00",
+      "approved_at": "09-08-2026 11:30",
       "auto_approved": true
     },
     {
@@ -8739,6 +8900,83 @@
         }
       ],
       "approved_at": "09-08-2026 07:07",
+      "auto_approved": true
+    },
+    {
+      "id": "2773f45d319d",
+      "title": "nutribullet 900 Pro Silver",
+      "price": 41.0,
+      "original_price": 58.0,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nutribullet-900-pro-silver-r-19584",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2138300.jpg?v=1786104202",
+      "found_at": "2026-08-09T10:25:34.356607+00:00",
+      "approved_at": "09-08-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "149af5be8924",
+      "title": "Refurbished iPhone 13 256GB Black",
+      "price": 236.64,
+      "original_price": 306.0,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-256gb-black-r-19189",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631102_0952ebee-8395-4064-a10a-52963d4afe14.jpg?v=1784292386",
+      "found_at": "2026-08-09T10:25:37.876366+00:00",
+      "price_history": [
+        {
+          "price": 272.0,
+          "original_price": 306.0,
+          "scraped_at": "2026-07-27T18:00:34.120188+00:00"
+        },
+        {
+          "price": 255.68,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 252.96,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 250.24,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 247.52,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 244.8,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        },
+        {
+          "price": 242.08,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        },
+        {
+          "price": 239.36,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 236.64,
+          "original_price": 306.0,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 11:30",
       "auto_approved": true
     }
   ]
