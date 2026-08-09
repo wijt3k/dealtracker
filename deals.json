@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T18:17:22.960712+00:00",
-  "total": 296,
+  "updated_at": "2026-08-09T06:07:15.347035+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -8921,6 +8921,122 @@
         }
       ],
       "approved_at": "08-08-2026 19:17",
+      "auto_approved": true
+    },
+    {
+      "id": "862c0e62e7ca",
+      "title": "Philips Airfryer 1000 Series NA154/00",
+      "price": 90.0,
+      "original_price": 127.98,
+      "discount_percent": 29,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-airfryer-1000-series-na154-00-r-19427",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132706_01cf7e00-bba8-49cc-932f-37e7fb1e58e9.jpg?v=1784878845",
+      "found_at": "2026-08-09T06:04:08.276449+00:00",
+      "price_history": [
+        {
+          "price": 98.0,
+          "original_price": 112.0,
+          "scraped_at": "2026-07-25T06:00:25.392398+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 120.37,
+          "scraped_at": "2026-07-25T10:01:02.332819+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 120.77,
+          "scraped_at": "2026-07-26T10:00:39.013206+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 122.92,
+          "scraped_at": "2026-07-31T10:00:29.112904+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 125.51,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 07:07",
+      "auto_approved": true
+    },
+    {
+      "id": "e55ebdb05e11",
+      "title": "Apple iPad Air (2025) 11 inch 128GB Wifi Witgoud",
+      "price": 527.0,
+      "original_price": 643.42,
+      "discount_percent": 18,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-11-inch-128gb-wifi-witgoud-r-19526",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145201_9bf4ad02-f828-49f1-a9b2-9013b642e97e.jpg?v=1786103984",
+      "found_at": "2026-08-09T06:04:00.552118+00:00",
+      "approved_at": "09-08-2026 07:07",
+      "auto_approved": true
+    },
+    {
+      "id": "42a5c4b0422b",
+      "title": "Igloo IE42",
+      "price": 98.0,
+      "original_price": 136.35,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/igloo-ie42-r-19645",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2157020_46732c4f-5ec9-4012-bdf8-68e89cadfe61.jpg?v=1785834846",
+      "found_at": "2026-08-09T06:04:04.522048+00:00",
+      "price_history": [
+        {
+          "price": 90.0,
+          "original_price": 103.0,
+          "scraped_at": "2026-08-04T14:00:29.263483+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 135.4,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 135.4,
+          "scraped_at": "2026-08-05T14:01:05.212015+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 07:07",
+      "auto_approved": true
+    },
+    {
+      "id": "e3a272181ef5",
+      "title": "Dyson V15s Detect Submarine",
+      "price": 729.0,
+      "original_price": 859.63,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v15s-detect-submarine-r-19632",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1951146_a9a0923b-a5e5-4015-8bfe-74a05d5660c8.jpg?v=1786104454",
+      "found_at": "2026-08-09T06:04:04.520466+00:00",
+      "price_history": [
+        {
+          "price": 773.0,
+          "original_price": 859.63,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 729.0,
+          "original_price": 859.63,
+          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
+        }
+      ],
+      "approved_at": "09-08-2026 07:07",
       "auto_approved": true
     }
   ]
