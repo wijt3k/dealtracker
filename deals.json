@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T10:38:36.063420+00:00",
-  "total": 295,
+  "updated_at": "2026-08-11T14:50:08.418910+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -1559,6 +1559,48 @@
         }
       ],
       "approved_at": "07-08-2026 19:44",
+      "auto_approved": true
+    },
+    {
+      "id": "387c5a3ca5c2",
+      "title": "Apple AirPods 4 Active Noise Cancellation",
+      "price": 105.0,
+      "original_price": 193.02,
+      "discount_percent": 45,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-4-active-noise-cancellation-r-19492",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092552_b67fd00c-fd3c-473e-bde4-e433c1d250f6.jpg?v=1785141986",
+      "found_at": "2026-08-11T14:44:04.583381+00:00",
+      "price_history": [
+        {
+          "price": 125.0,
+          "original_price": 198.93,
+          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 198.89,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
+        },
+        {
+          "price": 117.0,
+          "original_price": 195.78,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 193.98,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 186.78,
+          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
       "auto_approved": true
     },
     {
@@ -4410,6 +4452,68 @@
       "auto_approved": true
     },
     {
+      "id": "8c11b9304eae",
+      "title": "Samsung Galaxy Watch6 Classic 47mm BT Black",
+      "price": 166.0,
+      "original_price": 250.0,
+      "discount_percent": 33,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-watch6-classic-47mm-bt-black-r-18927",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1944122_dc94df53-0773-42bc-99ce-9915cce0060c.jpg?v=1783064910",
+      "found_at": "2026-08-11T14:44:14.692196+00:00",
+      "price_history": [
+        {
+          "price": 188.0,
+          "original_price": 207.59,
+          "scraped_at": "2026-07-04T10:00:30.121788+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 206.33,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 188.0,
+          "original_price": 207.83,
+          "scraped_at": "2026-07-14T10:00:18.853450+00:00"
+        },
+        {
+          "price": 182.0,
+          "original_price": 261.8,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 260.04,
+          "scraped_at": "2026-07-18T10:00:20.266878+00:00"
+        },
+        {
+          "price": 182.0,
+          "original_price": 260.8,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 177.0,
+          "original_price": 253.45,
+          "scraped_at": "2026-07-20T10:00:20.469950+00:00"
+        },
+        {
+          "price": 172.0,
+          "original_price": 257.54,
+          "scraped_at": "2026-07-22T10:00:48.747183+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 255.91,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
+      "auto_approved": true
+    },
+    {
       "id": "c896eec9a52e",
       "title": "Eufy eufyCam Indoor Cam S350",
       "price": 71.0,
@@ -4747,6 +4851,43 @@
       "auto_approved": true
     },
     {
+      "id": "642baa102eb0",
+      "title": "Samsung Essential S3 S24D304GAU - S30GD Series - LED-Monitor - 60 cm (24\")",
+      "price": 56.58,
+      "original_price": 91.99,
+      "discount_percent": 38,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DSG5RYZ2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71nth0YGnSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-11T14:29:07.874010+00:00",
+      "price_history": [
+        {
+          "price": 70.09,
+          "original_price": 99.91,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 58.44,
+          "original_price": 99.5,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 65.48,
+          "original_price": 91.99,
+          "scraped_at": "2026-08-05T18:00:54.687492+00:00"
+        },
+        {
+          "price": 56.58,
+          "original_price": 91.99,
+          "scraped_at": "2026-08-11T14:00:59.142529+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
+      "auto_approved": true
+    },
+    {
       "id": "1301343f53ca",
       "title": "Ahrend Brisk onderstel wit",
       "price": 348.0,
@@ -5024,6 +5165,33 @@
       "image": "https://m.media-amazon.com/images/I/71JKh8hWiwL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-08-09T18:12:27.810472+00:00",
       "approved_at": "09-08-2026 19:39",
+      "auto_approved": true
+    },
+    {
+      "id": "5e369681aedd",
+      "title": "Philips 24E1N1300AE/00",
+      "price": 82.0,
+      "original_price": 128.39,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-19029",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_d8b4034c-d1fa-481a-bbab-5a73a7fa91f1.jpg?v=1783409089",
+      "found_at": "2026-08-11T14:44:11.407110+00:00",
+      "price_history": [
+        {
+          "price": 85.0,
+          "original_price": 142.34,
+          "scraped_at": "2026-07-08T10:00:28.828108+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": 128.39,
+          "scraped_at": "2026-08-11T14:00:59.142529+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
       "auto_approved": true
     },
     {
@@ -6544,6 +6712,48 @@
       "auto_approved": true
     },
     {
+      "id": "d86689279f22",
+      "title": "Xiaomi Pad 8 11.2 Inch Tablet 8+256GB Blue 3.2K 144Hz Display HyperAI | Snapdragon 8s Gen 4 Mobile Platform, 9200mAh (typ) Battery, 45W Turbo Charging, 5.75mm Slim Body Desgin, 3 Year Warranty",
+      "price": 377.28,
+      "original_price": 483.78,
+      "discount_percent": 22,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GCNCNJZ7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Ojaqo5-CL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-11T14:12:21.928992+00:00",
+      "price_history": [
+        {
+          "price": 408.75,
+          "original_price": null,
+          "scraped_at": "2026-07-16T18:00:31.490651+00:00"
+        },
+        {
+          "price": 402.7,
+          "original_price": null,
+          "scraped_at": "2026-07-22T06:00:34.410339+00:00"
+        },
+        {
+          "price": 396.64,
+          "original_price": null,
+          "scraped_at": "2026-07-27T06:00:56.604825+00:00"
+        },
+        {
+          "price": 390.59,
+          "original_price": null,
+          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
+        },
+        {
+          "price": 377.28,
+          "original_price": 483.78,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
+      "auto_approved": true
+    },
+    {
       "id": "eab6d458ccd0",
       "title": "ASUS TUF Gaming VG246H1A, 24 inch Full HD Monitor, 100 Hz, 0,5 ms MPRT, FreeSync, ELMB Sync, GameFast Input, IPS Panel, 16:9, 1920x1080, HDMI",
       "price": 97.45,
@@ -7437,6 +7647,33 @@
       "auto_approved": true
     },
     {
+      "id": "40dbd461cbcf",
+      "title": "Samsung X526B Galaxy Tab S10 FE 10.9\" (EE), 5G, 128GB 8GB RAM, Gray",
+      "price": 456.51,
+      "original_price": 539.99,
+      "discount_percent": 15,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1982B4Z?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/615uWuZ5CgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-11T14:13:13.362001+00:00",
+      "price_history": [
+        {
+          "price": 483.69,
+          "original_price": 529.99,
+          "scraped_at": "2026-07-16T06:00:22.525356+00:00"
+        },
+        {
+          "price": 456.51,
+          "original_price": 539.99,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
+      "auto_approved": true
+    },
+    {
       "id": "19d59de8e677",
       "title": "Beafon, Smartwatch 601, polshorloge, AMOLED-display 1,43 inch (3,63 cm), pandaglas, kompas, hoogtemeter, IP68, 5ATM, sportmode, hartslag, bloedzuurstof, stappenteller, bluetooth-oproepen, GPS,",
       "price": 67.0,
@@ -8064,6 +8301,43 @@
       "auto_approved": true
     },
     {
+      "id": "052c76db5d78",
+      "title": "Lenovo Legion 27-10 Gaming Pro Monitor 27 inch FHD (IPS, 240 Hz, 0,5 ms, 2 x HDMI 2.1, DP 1.4, HDMI-kabel, AMD FreeSync Premium), instelling in kantel/hoogte/draaien/draaibaar, zwart",
+      "price": 96.39,
+      "original_price": 119.0,
+      "discount_percent": 19,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FHKXPWKS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Au-E55wmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-11T14:39:54.666895+00:00",
+      "price_history": [
+        {
+          "price": 96.39,
+          "original_price": 119.0,
+          "scraped_at": "2026-06-20T06:01:33.693299+00:00"
+        },
+        {
+          "price": 93.14,
+          "original_price": 114.99,
+          "scraped_at": "2026-06-27T10:01:10.061585+00:00"
+        },
+        {
+          "price": 101.24,
+          "original_price": 124.99,
+          "scraped_at": "2026-07-02T14:00:28.698624+00:00"
+        },
+        {
+          "price": 96.39,
+          "original_price": 139.99,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
+      "auto_approved": true
+    },
+    {
       "id": "8bffa23d91f6",
       "title": "DJI Osmo Pocket 4 Creator Combo",
       "price": 541.0,
@@ -8152,6 +8426,58 @@
         }
       ],
       "approved_at": "10-08-2026 07:21",
+      "auto_approved": true
+    },
+    {
+      "id": "e8900639d575",
+      "title": "SaveFamily SaveWatch Plus 2 Smartwatch voor kinderen met GPS-zoeker, oproepen, video, Whatsapp, Spotify, App Store, witte wijzerplaat en siliconen armband Maui",
+      "price": 130.05,
+      "original_price": 159.0,
+      "discount_percent": 18,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FQNY8WNB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51gfseTg09L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-11T14:26:07.997272+00:00",
+      "price_history": [
+        {
+          "price": 131.34,
+          "original_price": 159.0,
+          "scraped_at": "2026-06-14T18:01:42.317356+00:00"
+        },
+        {
+          "price": 130.38,
+          "original_price": 159.0,
+          "scraped_at": "2026-06-25T14:01:36.407253+00:00"
+        },
+        {
+          "price": 127.2,
+          "original_price": 159.0,
+          "scraped_at": "2026-06-30T18:01:25.178563+00:00"
+        },
+        {
+          "price": 130.38,
+          "original_price": 159.0,
+          "scraped_at": "2026-07-13T06:00:44.638453+00:00"
+        },
+        {
+          "price": 125.61,
+          "original_price": null,
+          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
+        },
+        {
+          "price": 133.56,
+          "original_price": 160.17,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        },
+        {
+          "price": 130.05,
+          "original_price": 159.0,
+          "scraped_at": "2026-08-11T14:00:59.142529+00:00"
+        }
+      ],
+      "approved_at": "11-08-2026 15:50",
       "auto_approved": true
     },
     {
@@ -8558,92 +8884,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364181.jpg?v=1786104023",
       "found_at": "2026-08-10T14:22:00.588925+00:00",
       "approved_at": "10-08-2026 15:26",
-      "auto_approved": true
-    },
-    {
-      "id": "29084e4d75a9",
-      "title": "Dyson Airwrap Complete Long Volumise Blauw/Koper",
-      "price": 461.0,
-      "original_price": 517.71,
-      "discount_percent": 10,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-complete-long-volumise-blauw-koper-r-19588",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2078825_9a9ae2f1-2233-4880-a836-443eb966e5c8.jpg?v=1786104243",
-      "found_at": "2026-08-10T14:21:57.481157+00:00",
-      "price_history": [
-        {
-          "price": 422.0,
-          "original_price": 502.07,
-          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
-        },
-        {
-          "price": 461.0,
-          "original_price": 517.71,
-          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
-        }
-      ],
-      "approved_at": "10-08-2026 15:26",
-      "auto_approved": true
-    },
-    {
-      "id": "e26b718c701f",
-      "title": "Philips Sonicare DiamondClean 9000 HX9914/54",
-      "price": 179.0,
-      "original_price": 207.8,
-      "discount_percent": 13,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-sonicare-diamondclean-9000-hx9914-54-r-19589",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1487181_fd3fbf43-f6b1-46e8-8fc2-0516db055b16.jpg?v=1786104243",
-      "found_at": "2026-08-11T06:14:16.552120+00:00",
-      "price_history": [
-        {
-          "price": 172.0,
-          "original_price": 209.0,
-          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
-        },
-        {
-          "price": 185.0,
-          "original_price": 208.09,
-          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
-        },
-        {
-          "price": 179.0,
-          "original_price": 207.8,
-          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
-        }
-      ],
-      "approved_at": "11-08-2026 07:18",
-      "auto_approved": true
-    },
-    {
-      "id": "6de8e43c546b",
-      "title": "JBL Flip 7 Paars",
-      "price": 103.0,
-      "original_price": 120.48,
-      "discount_percent": 14,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/jbl-flip-7-paars-r-19665",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2148165.jpg?v=1786024440",
-      "found_at": "2026-08-11T06:14:13.067093+00:00",
-      "price_history": [
-        {
-          "price": 106.0,
-          "original_price": 114.0,
-          "scraped_at": "2026-08-06T14:00:45.911793+00:00"
-        },
-        {
-          "price": 103.0,
-          "original_price": 120.46,
-          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
-        }
-      ],
-      "approved_at": "11-08-2026 07:18",
       "auto_approved": true
     }
   ]
