@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T06:28:27.552066+00:00",
-  "total": 290,
+  "updated_at": "2026-08-14T10:17:29.073301+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -4164,6 +4164,21 @@
       "auto_approved": true
     },
     {
+      "id": "fc85b615922d",
+      "title": "DJI Osmo Pocket 3",
+      "price": 298.0,
+      "original_price": 411.41,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-osmo-pocket-3-r-19238",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1984393_3678db19-d54e-4a71-9f62-470eccfae909.jpg?v=1784292583",
+      "found_at": "2026-08-14T10:12:18.909194+00:00",
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
       "id": "78e72ce5bc5f",
       "title": "Pierre Dual Stacked Airfryer",
       "price": 76.0,
@@ -7307,6 +7322,38 @@
       "auto_approved": true
     },
     {
+      "id": "29084e4d75a9",
+      "title": "Dyson Airwrap Complete Long Volumise Blauw/Koper",
+      "price": 445.0,
+      "original_price": 517.71,
+      "discount_percent": 14,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-airwrap-complete-long-volumise-blauw-koper-r-19588",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2078825_9a9ae2f1-2233-4880-a836-443eb966e5c8.jpg?v=1786104243",
+      "found_at": "2026-08-14T10:12:18.909729+00:00",
+      "price_history": [
+        {
+          "price": 422.0,
+          "original_price": 502.07,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 461.0,
+          "original_price": 517.71,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        },
+        {
+          "price": 445.0,
+          "original_price": 517.71,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
       "id": "e26b718c701f",
       "title": "Philips Sonicare DiamondClean 9000 HX9914/54",
       "price": 179.0,
@@ -7900,6 +7947,33 @@
       "auto_approved": true
     },
     {
+      "id": "217a1d6b449a",
+      "title": "Aqara 2K WiFi Camera E1 Voor Binnen, 360° Pan/Tilt, HomeKit Secure Video | AI Personen en Spraakdetectie, Tweeweg Audio, Nachtzicht, Ondersteunt HomeKit, Alexa, Google Home, IFTTT",
+      "price": 55.93,
+      "original_price": 69.99,
+      "discount_percent": 20,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CCHQ38D2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/6134T2Cs0hL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-14T10:06:52.337743+00:00",
+      "price_history": [
+        {
+          "price": 55.06,
+          "original_price": 59.99,
+          "scraped_at": "2026-03-30T14:00:25.437872+00:00"
+        },
+        {
+          "price": 55.93,
+          "original_price": 69.99,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
       "id": "e8900639d575",
       "title": "SaveFamily SaveWatch Plus 2 Smartwatch voor kinderen met GPS-zoeker, oproepen, video, Whatsapp, Spotify, App Store, witte wijzerplaat en siliconen armband Maui",
       "price": 130.05,
@@ -8050,6 +8124,33 @@
         }
       ],
       "approved_at": "10-08-2026 07:21",
+      "auto_approved": true
+    },
+    {
+      "id": "a61b93dbedd1",
+      "title": "Apple iPhone 15 256GB Zwart",
+      "price": 725.0,
+      "original_price": 810.32,
+      "discount_percent": 10,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-15-256gb-zwart-r-19704",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969032_7db6961b-ba00-4848-8884-247135895a71.jpg?v=1786448275",
+      "found_at": "2026-08-14T10:12:18.906892+00:00",
+      "price_history": [
+        {
+          "price": 771.0,
+          "original_price": 805.75,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 725.0,
+          "original_price": 810.32,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
       "auto_approved": true
     },
     {
@@ -8248,6 +8349,38 @@
       "auto_approved": true
     },
     {
+      "id": "b4047f3cf9cd",
+      "title": "Phillips Airfryer L 3000 Serie NA322/00",
+      "price": 105.0,
+      "original_price": 127.97,
+      "discount_percent": 17,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/phillips-airfryer-l-3000-serie-na322-00-r-19595",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110013.jpg?v=1786104282",
+      "found_at": "2026-08-14T10:12:24.539462+00:00",
+      "price_history": [
+        {
+          "price": 108.0,
+          "original_price": 126.74,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 127.55,
+          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 127.97,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
       "id": "f21718132fc4",
       "title": "Wisberg WB1M25B",
       "price": 75.0,
@@ -8346,6 +8479,102 @@
         }
       ],
       "approved_at": "14-08-2026 07:28",
+      "auto_approved": true
+    },
+    {
+      "id": "09b586c67fbe",
+      "title": "Reolink Binnen Beveiligings Camera, 4K Baby Monitor met Pan & Tilt, 3X Optische Zoom, Huil & Bewegingsdetectie, Automatisch Volgen, Wi-Fi 6, Privé Modus, E1 Zoom Zwart",
+      "price": 81.05,
+      "original_price": 97.65,
+      "discount_percent": 16,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F18CPQ3B?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61fhjjvXk9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-14T10:07:56.053460+00:00",
+      "price_history": [
+        {
+          "price": 77.26,
+          "original_price": 99.99,
+          "scraped_at": "2026-06-28T06:01:00.775019+00:00"
+        },
+        {
+          "price": 80.37,
+          "original_price": 86.42,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 81.05,
+          "original_price": 97.65,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "eb60993e2a9b",
+      "title": "Dyson V8 Cyclone",
+      "price": 335.0,
+      "original_price": 381.5,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v8-cyclone-r-19631",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1948962941.jpg?v=1786104437",
+      "found_at": "2026-08-14T10:12:21.233827+00:00",
+      "price_history": [
+        {
+          "price": 367.0,
+          "original_price": 382.08,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 351.0,
+          "original_price": 382.08,
+          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 381.5,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "1f6aab7490f3",
+      "title": "Oral-B iO Series 6N Licht Roze + extra iO Gentle Care opzetb",
+      "price": 111.0,
+      "original_price": 131.73,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-series-6n-licht-roze-extra-io-gentle-care-opzetb-r-19662",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797549_3d730937-e3df-424a-b91a-7f9545518b0d.jpg?v=1786104554",
+      "found_at": "2026-08-14T10:12:24.537476+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 132.3,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 130.92,
+          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 131.73,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
       "auto_approved": true
     },
     {
@@ -8460,6 +8689,48 @@
         }
       ],
       "approved_at": "14-08-2026 07:28",
+      "auto_approved": true
+    },
+    {
+      "id": "ffc91dd1bf74",
+      "title": "Logitech G Pro X Superlight Draadloze Gaming Muis Zwart",
+      "price": 93.0,
+      "original_price": 109.72,
+      "discount_percent": 15,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-draadloze-gaming-muis-zwart-r-19709",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1506618_33982e88-0d33-48fe-9631-131f107b7d22.jpg?v=1786448330",
+      "found_at": "2026-08-14T10:12:21.236946+00:00",
+      "approved_at": "14-08-2026 11:17",
+      "auto_approved": true
+    },
+    {
+      "id": "7f2e7fd16b0b",
+      "title": "SteelSeries Apex Pro TKL 2023 QWERTY",
+      "price": 146.0,
+      "original_price": 166.74,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-apex-pro-tkl-2023-qwerty-r-19703",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1900676_dfa8e6ca-2ede-4714-be39-3b90cd7bd44a.jpg?v=1786448268",
+      "found_at": "2026-08-14T10:12:27.418143+00:00",
+      "price_history": [
+        {
+          "price": 202.0,
+          "original_price": 220.0,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 146.0,
+          "original_price": 166.74,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        }
+      ],
+      "approved_at": "14-08-2026 11:17",
       "auto_approved": true
     }
   ]
