@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T14:56:31.443768+00:00",
-  "total": 292,
+  "updated_at": "2026-08-15T18:36:50.490008+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61d99fe9047b",
@@ -656,6 +656,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2140369_5c079d19-aa5f-4638-9d1d-a01fd3d1bdf8.jpg?v=1786709495",
       "found_at": "2026-08-15T10:11:33.129218+00:00",
       "approved_at": "15-08-2026 11:16",
+      "auto_approved": true
+    },
+    {
+      "id": "36fc07782a59",
+      "title": "Samsung Galaxy S22+ 5G 128 GB Schwarz Smartphone 6,6\" AMOLED 50MP 8GB RAM eSIM",
+      "price": 197.42,
+      "original_price": 351.18,
+      "discount_percent": 43,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09RKH568R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81iTotDoCkL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-15T18:05:42.636903+00:00",
+      "approved_at": "15-08-2026 19:36",
       "auto_approved": true
     },
     {
@@ -6495,6 +6510,21 @@
       "auto_approved": true
     },
     {
+      "id": "dd201bc4e2c4",
+      "title": "HUAWEI WATCH FIT 5 Smartwatch, GPS, 1,82′′ AMOLED Display, NFC, Gezondheidsmonitoring, 5 ATM waterbestendigheid, Valdetectie, Tot 10 Dagen Batterijduur, Beschikbaar voor iOS en Android, Zilver",
+      "price": 139.39,
+      "original_price": 169.99,
+      "discount_percent": 18,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GT9BQ2MR?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/714K3M6vMtL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-15T18:18:49.774580+00:00",
+      "approved_at": "15-08-2026 19:36",
+      "auto_approved": true
+    },
+    {
       "id": "aacba31d9121",
       "title": "AOC Monitor Q27B35E 27 inch QHD, 75Hz, IPS, 1ms MPRT, Adaptive Sync, HDR10 (2560 x 1440, HDMI 1x1.4, DP 1x1.4), zwart",
       "price": 96.39,
@@ -7902,6 +7932,341 @@
         }
       ],
       "approved_at": "15-08-2026 15:56",
+      "auto_approved": true
+    },
+    {
+      "id": "a413a3421b25",
+      "title": "Refurbished iPhone SE (3rd gen) Midnight 64GB",
+      "price": 174.15,
+      "original_price": 186.0,
+      "discount_percent": 6,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-se-3rd-gen-midnight-64gb-r-19204",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712238_dc1030e8-ca19-4a12-9d18-b789873f00e6.jpg?v=1784292484",
+      "found_at": "2026-08-15T18:32:05.772869+00:00",
+      "price_history": [
+        {
+          "price": 202.1,
+          "original_price": null,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 199.95,
+          "original_price": null,
+          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
+        },
+        {
+          "price": 197.8,
+          "original_price": null,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 195.65,
+          "original_price": null,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 193.5,
+          "original_price": null,
+          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
+        },
+        {
+          "price": 191.35,
+          "original_price": null,
+          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
+        },
+        {
+          "price": 189.2,
+          "original_price": null,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 187.05,
+          "original_price": null,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        },
+        {
+          "price": 184.9,
+          "original_price": 186.0,
+          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
+        },
+        {
+          "price": 182.75,
+          "original_price": 186.0,
+          "scraped_at": "2026-08-11T10:00:51.491973+00:00"
+        },
+        {
+          "price": 180.6,
+          "original_price": 186.0,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 178.45,
+          "original_price": 186.0,
+          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
+        },
+        {
+          "price": 176.3,
+          "original_price": 186.0,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 174.15,
+          "original_price": 186.0,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        }
+      ],
+      "approved_at": "15-08-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "a011d14e89bd",
+      "title": "Garmin G010-N2566-00 Vivomove Sport, - Certificado Reacondicionado",
+      "price": 142.33,
+      "original_price": 152.45,
+      "discount_percent": 6,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CMZD9GBY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71cAsHXxhFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-15T18:19:36.857789+00:00",
+      "price_history": [
+        {
+          "price": 142.37,
+          "original_price": 152.1,
+          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
+        },
+        {
+          "price": 137.68,
+          "original_price": 152.16,
+          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
+        },
+        {
+          "price": 142.33,
+          "original_price": 152.45,
+          "scraped_at": "2026-08-15T18:00:37.261607+00:00"
+        }
+      ],
+      "approved_at": "15-08-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "18c3cf92a9d0",
+      "title": "Pioneer SPH-DA160DAB",
+      "price": 289.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/884418/pioneer-sph-da160dab.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1589816",
+      "found_at": "2026-08-15T18:33:01.681959+00:00",
+      "price_history": [
+        {
+          "price": 274.0,
+          "original_price": null,
+          "scraped_at": "2026-03-19T11:00:23.069484+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": null,
+          "scraped_at": "2026-03-19T15:00:22.185880+00:00"
+        },
+        {
+          "price": 275.0,
+          "original_price": null,
+          "scraped_at": "2026-03-20T11:00:23.254122+00:00"
+        },
+        {
+          "price": 277.0,
+          "original_price": null,
+          "scraped_at": "2026-03-20T15:00:16.223615+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": null,
+          "scraped_at": "2026-03-21T11:00:21.488208+00:00"
+        },
+        {
+          "price": 277.0,
+          "original_price": null,
+          "scraped_at": "2026-03-21T15:00:40.615730+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": null,
+          "scraped_at": "2026-03-22T11:00:23.262996+00:00"
+        },
+        {
+          "price": 277.0,
+          "original_price": null,
+          "scraped_at": "2026-03-22T15:00:21.699285+00:00"
+        },
+        {
+          "price": 285.0,
+          "original_price": null,
+          "scraped_at": "2026-04-02T18:00:26.803009+00:00"
+        },
+        {
+          "price": 278.0,
+          "original_price": null,
+          "scraped_at": "2026-05-26T14:00:29.423196+00:00"
+        },
+        {
+          "price": 267.0,
+          "original_price": null,
+          "scraped_at": "2026-06-03T10:00:36.474534+00:00"
+        },
+        {
+          "price": 278.0,
+          "original_price": null,
+          "scraped_at": "2026-06-05T10:00:21.687501+00:00"
+        },
+        {
+          "price": 304.0,
+          "original_price": null,
+          "scraped_at": "2026-07-23T14:00:54.199225+00:00"
+        },
+        {
+          "price": 289.0,
+          "original_price": null,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        }
+      ],
+      "approved_at": "15-08-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "a06b8731bb36",
+      "title": "Lenovo MS Draadloze Office Headset",
+      "price": 86.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "audio",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/964077/lenovo-ms-draadloze-office-headset.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2164571",
+      "found_at": "2026-08-15T18:33:01.676624+00:00",
+      "approved_at": "15-08-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "98a7c2f33c3e",
+      "title": "BaByliss Power Pro 2300 6716DE",
+      "price": 80.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/938575/babyliss-power-pro-2300-6716de.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/1981384",
+      "found_at": "2026-08-15T18:33:01.671240+00:00",
+      "price_history": [
+        {
+          "price": 70.0,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": null,
+          "scraped_at": "2026-03-30T06:00:49.881945+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": null,
+          "scraped_at": "2026-04-07T10:00:23.854944+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": null,
+          "scraped_at": "2026-05-25T10:00:28.964593+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": null,
+          "scraped_at": "2026-06-11T18:00:28.481541+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": null,
+          "scraped_at": "2026-07-08T14:01:00.552314+00:00"
+        },
+        {
+          "price": 74.0,
+          "original_price": null,
+          "scraped_at": "2026-08-02T14:00:40.840406+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": null,
+          "scraped_at": "2026-08-03T14:00:50.128262+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": null,
+          "scraped_at": "2026-08-05T06:00:29.942945+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": null,
+          "scraped_at": "2026-08-05T14:01:05.212015+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": null,
+          "scraped_at": "2026-08-06T14:00:45.911793+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": null,
+          "scraped_at": "2026-08-07T14:00:24.464671+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": null,
+          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
+        }
+      ],
+      "approved_at": "15-08-2026 19:36",
+      "auto_approved": true
+    },
+    {
+      "id": "cc3d7067e2f2",
+      "title": "Fellowes Professional Series Metalen Voetensteun",
+      "price": 65.0,
+      "original_price": null,
+      "discount_percent": 0,
+      "category": "elektronica",
+      "source": "Coolblue Tweedekans",
+      "condition": "Tweedekans",
+      "url": "https://www.coolblue.nl/product/184190/fellowes-professional-series-metalen-voetensteun.html",
+      "image": "https://image.coolblue.nl/transparent/max/212x170/products/2210719",
+      "found_at": "2026-08-15T18:33:01.665793+00:00",
+      "price_history": [
+        {
+          "price": 65.0,
+          "original_price": null,
+          "scraped_at": "2026-03-12T05:57:45.900126+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": null,
+          "scraped_at": "2026-04-30T10:00:32.244825+00:00"
+        },
+        {
+          "price": 65.0,
+          "original_price": null,
+          "scraped_at": "2026-05-01T10:00:50.175270+00:00"
+        }
+      ],
+      "approved_at": "15-08-2026 19:36",
       "auto_approved": true
     }
   ]
