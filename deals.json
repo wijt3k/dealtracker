@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T14:21:21.233208+00:00",
-  "total": 295,
+  "updated_at": "2026-08-20T19:10:37.518268+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "61afa953217f",
@@ -6950,6 +6950,135 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364326.jpg?v=1786709898",
       "found_at": "2026-08-20T06:39:36.584952+00:00",
       "approved_at": "20-08-2026 15:21",
+      "auto_approved": true
+    },
+    {
+      "id": "af20ee61f61f",
+      "title": "Wisberg S70 Ultimate Power",
+      "price": 116.0,
+      "original_price": 174.0,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wisberg-s70-ultimate-power-r-19579",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242268.jpg?v=1785834357",
+      "found_at": "2026-08-20T19:06:21.036394+00:00",
+      "price_history": [
+        {
+          "price": 172.0,
+          "original_price": 239.0,
+          "scraped_at": "2026-08-04T14:00:29.263483+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 239.0,
+          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
+        },
+        {
+          "price": 140.0,
+          "original_price": 190.0,
+          "scraped_at": "2026-08-11T10:00:51.491973+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 192.67,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 174.0,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        }
+      ],
+      "approved_at": "20-08-2026 20:10",
+      "auto_approved": true
+    },
+    {
+      "id": "a85710ab2039",
+      "title": "IMOU RV1",
+      "price": 122.0,
+      "original_price": 181.49,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/imou-rv1-r-19795",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2073021_315e1d04-dfe7-4392-892f-724c96faf294.jpg?v=1786710012",
+      "found_at": "2026-08-20T19:06:08.982682+00:00",
+      "price_history": [
+        {
+          "price": 117.0,
+          "original_price": 156.96,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 173.02,
+          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 176.23,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 173.02,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 181.49,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        }
+      ],
+      "approved_at": "20-08-2026 20:10",
+      "auto_approved": true
+    },
+    {
+      "id": "b805c7a2bdee",
+      "title": "WMF KITCHENmini 413180012 2-in-1 Vario",
+      "price": 63.0,
+      "original_price": 97.24,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-kitchenmini-413180012-2-in-1-vario-r-19841",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1560255.jpg?v=1787040374",
+      "found_at": "2026-08-20T19:06:21.036561+00:00",
+      "approved_at": "20-08-2026 20:10",
+      "auto_approved": true
+    },
+    {
+      "id": "bc5209f9898d",
+      "title": "JBL Live Beam 3 Zwart",
+      "price": 114.0,
+      "original_price": 170.1,
+      "discount_percent": 32,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-live-beam-3-zwart-r-19865",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2043525.jpg?v=1787040457",
+      "found_at": "2026-08-20T19:06:12.513241+00:00",
+      "approved_at": "20-08-2026 20:10",
+      "auto_approved": true
+    },
+    {
+      "id": "1972b338d210",
+      "title": "Apple Smart Folio iPad Air 13 inch (2024) Houtskoolgrijs",
+      "price": 75.0,
+      "original_price": 115.28,
+      "discount_percent": 34,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-smart-folio-ipad-air-13-inch-2024-houtskoolgrijs-r-19724",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2052192.jpg?v=1787040034",
+      "found_at": "2026-08-20T19:06:06.276646+00:00",
+      "approved_at": "20-08-2026 20:10",
       "auto_approved": true
     }
   ]
