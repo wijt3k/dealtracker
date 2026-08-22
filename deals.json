@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T06:27:25.749909+00:00",
-  "total": 300,
+  "updated_at": "2026-08-22T06:27:39.555852+00:00",
+  "total": 262,
   "deals": [
     {
       "id": "f9c1611a0f80",
@@ -48,53 +48,6 @@
       "auto_approved": true
     },
     {
-      "id": "70f43b75904c",
-      "title": "DeLonghi PrimaDonna Soul ECAM 610.75.MB",
-      "price": 693.0,
-      "original_price": 1143.76,
-      "discount_percent": 39,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/delonghi-primadonna-soul-ecam-610-75-mb-r-19462",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1792465.jpg?v=1785141665",
-      "found_at": "2026-08-09T06:04:04.519424+00:00",
-      "price_history": [
-        {
-          "price": 1195.0,
-          "original_price": null,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 1143.0,
-          "original_price": 1228.39,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 1091.0,
-          "original_price": 1268.22,
-          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
-        },
-        {
-          "price": 1026.0,
-          "original_price": 1228.39,
-          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
-        },
-        {
-          "price": 948.0,
-          "original_price": 1243.77,
-          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
-        },
-        {
-          "price": 693.0,
-          "original_price": 1143.76,
-          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 19:39",
-      "auto_approved": true
-    },
-    {
       "id": "eec4d6f6f4a6",
       "title": "Apple iPad Pro (2024) 13 inch 2 TB Wifi Zwart",
       "price": 1346.0,
@@ -107,36 +60,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2049144_815c980d-8749-4f10-ad48-ef2bc79ee7a1.jpg?v=1787300442",
       "found_at": "2026-08-21T18:23:13.035067+00:00",
       "approved_at": "21-08-2026 19:27",
-      "auto_approved": true
-    },
-    {
-      "id": "d12b0cfdf610",
-      "title": "SAMSUNG QE100QN80FUXXN - Ultra HD 4K - Mini-led-tv - 100 inch - 2025",
-      "price": 1724.25,
-      "original_price": 2299.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341659",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed92b1867c_ASSET_MMS_165395881-500x500.png",
-      "found_at": "2026-08-11T10:31:27.333220+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "43a33d55479a",
-      "title": "LG OLED83B56LA - Ultra HD 4K - OLED-tv - 83 inch - 2025",
-      "price": 2474.25,
-      "original_price": 3299.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341705",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed9575cb30_ASSET_MMS_151399629-500x500.png",
-      "found_at": "2026-08-11T10:31:27.295553+00:00",
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -260,21 +183,6 @@
       "auto_approved": true
     },
     {
-      "id": "4b2c77f0b519",
-      "title": "PHILIPS 85PUS9000/12 - Ultra HD 4K - QLED-tv - 85 inch - 2025",
-      "price": 1199.25,
-      "original_price": 1599.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341668",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed92b27a5e_ASSET_MMS_176234308-500x500.png",
-      "found_at": "2026-08-11T10:31:27.326919+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "7acf5bb1571a",
       "title": "Apple MacBook Air 15\" (2024) M3 (8/10) 8GB/256GB Middernacht AZERTY",
       "price": 938.0,
@@ -302,33 +210,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2042167_deb903c8-0dbb-49a4-ab1a-ec9c4c130207.jpg?v=1786953964",
       "found_at": "2026-08-18T10:32:27.146956+00:00",
       "approved_at": "18-08-2026 11:37",
-      "auto_approved": true
-    },
-    {
-      "id": "468a0af82930",
-      "title": "SAMSUNG  RB53DG706AS9EF -  Koel-vriescombinatie - breedte 75.9 cm - hoogte 203 cm - inhoud 538 l - NoFrost",
-      "price": 1161.75,
-      "original_price": 1549.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341510",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7b1d4caeea4_ASSET_MMS_139882648-500x500.png",
-      "found_at": "2026-08-06T10:43:29.957322+00:00",
-      "price_history": [
-        {
-          "price": 936.75,
-          "original_price": 1249.0,
-          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
-        },
-        {
-          "price": 1161.75,
-          "original_price": 1549.0,
-          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -484,33 +365,6 @@
       "auto_approved": true
     },
     {
-      "id": "928b9d800386",
-      "title": "BLACKVIEW Tablet Active 8 Pro 10.3 WiFi + 4G 8 GB/256 GB zwart merk",
-      "price": 147.31,
-      "original_price": 306.99,
-      "discount_percent": 52,
-      "category": "tablets",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CPPMJDPK?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/51ep4lFS6wL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-08-18T06:04:42.980992+00:00",
-      "price_history": [
-        {
-          "price": 142.43,
-          "original_price": null,
-          "scraped_at": "2026-04-29T10:00:30.265151+00:00"
-        },
-        {
-          "price": 147.31,
-          "original_price": 306.99,
-          "scraped_at": "2026-08-18T06:00:36.664804+00:00"
-        }
-      ],
-      "approved_at": "18-08-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "d7d55e9fec9b",
       "title": "Lenovo IdeaPad Slim 5 16IMH9 83DC003PGE QWERTZ",
       "price": 869.0,
@@ -586,33 +440,6 @@
       "auto_approved": true
     },
     {
-      "id": "c7f22a75bf95",
-      "title": "MIELE TWH 780 WP -  Warmtepompdroger - 9 kg - 62 dB - Energielabel C",
-      "price": 1049.25,
-      "original_price": 1399.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341673",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7f49db85125_ASSET_MMS_148403855-500x500.png",
-      "found_at": "2026-08-11T10:31:27.322291+00:00",
-      "price_history": [
-        {
-          "price": 1124.25,
-          "original_price": 1499.0,
-          "scraped_at": "2026-08-11T10:00:51.491973+00:00"
-        },
-        {
-          "price": 1049.25,
-          "original_price": 1399.0,
-          "scraped_at": "2026-08-11T18:00:30.281697+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "5e9408570b9b",
       "title": "Dreame X40 Ultra Complete Black",
       "price": 488.0,
@@ -625,21 +452,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041978_ad23ab5e-42af-4f36-a8e8-5719a7a3ffa4.jpg?v=1786709716",
       "found_at": "2026-08-15T10:11:26.099236+00:00",
       "approved_at": "15-08-2026 11:16",
-      "auto_approved": true
-    },
-    {
-      "id": "52911b563365",
-      "title": "MIELE WWC 380 WCS PowerWash -  Wasmachine Voorlader - 8 kg - 1600 rpm - 73 dB",
-      "price": 1011.75,
-      "original_price": 1349.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341591",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a786bd57f026_ASSET_MMS_148403690-500x500.png",
-      "found_at": "2026-08-06T14:21:00.729992+00:00",
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -790,21 +602,6 @@
       "auto_approved": true
     },
     {
-      "id": "48b992460f7b",
-      "title": "TCL 75C6K - Ultra HD 4K - Mini-led-tv - 75 inch - 2025",
-      "price": 974.25,
-      "original_price": 1299.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341712",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed95ae6b25_ASSET_MMS_172698070-500x500.png",
-      "found_at": "2026-08-11T10:31:27.289694+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "eb939da13f1f",
       "title": "Eufy eufyCam S3 Pro, 3+1 kit",
       "price": 424.0,
@@ -861,21 +658,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=342397",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7f11673494a_ASSET_MMS_180073007-500x500.png",
       "found_at": "2026-08-14T14:35:11.157787+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "feecf5463d46",
-      "title": "MICROSOFT Surface Pro - 12 inch - Snapdragon X 26-100 - 16 GB - 512 GB - Adreno™ Onboard Graphics - -Copilot+ PC",
-      "price": 936.75,
-      "original_price": 1249.0,
-      "discount_percent": 25,
-      "category": "laptops",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341801",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7f1fe2783a0_ASSET_MMS_154275324-500x500.png",
-      "found_at": "2026-08-11T14:43:20.403245+00:00",
       "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
@@ -1041,93 +823,6 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a81a65a51be2_ASSET_MMS_181437975-500x500.png",
       "found_at": "2026-08-14T14:35:11.164645+00:00",
       "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "6470e16b2f91",
-      "title": "Refurbished iPhone 15 128GB Black",
-      "price": 349.74,
-      "original_price": 557.58,
-      "discount_percent": 37,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19264",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_f65ed5ae-2817-4f74-a87e-e495d6594bf0.jpg?v=1784292676",
-      "found_at": "2026-08-17T10:20:44.922658+00:00",
-      "price_history": [
-        {
-          "price": 554.76,
-          "original_price": 649.0,
-          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
-        },
-        {
-          "price": 548.73,
-          "original_price": 626.0,
-          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
-        },
-        {
-          "price": 542.7,
-          "original_price": null,
-          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
-        },
-        {
-          "price": 536.67,
-          "original_price": 542.65,
-          "scraped_at": "2026-08-07T10:00:23.153561+00:00"
-        },
-        {
-          "price": 530.64,
-          "original_price": 555.98,
-          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
-        },
-        {
-          "price": 524.61,
-          "original_price": 555.98,
-          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
-        },
-        {
-          "price": 518.58,
-          "original_price": 555.98,
-          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
-        },
-        {
-          "price": 512.55,
-          "original_price": 555.98,
-          "scraped_at": "2026-08-11T10:00:51.491973+00:00"
-        },
-        {
-          "price": 506.52,
-          "original_price": 555.98,
-          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
-        },
-        {
-          "price": 500.49,
-          "original_price": 557.58,
-          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
-        },
-        {
-          "price": 494.46,
-          "original_price": 557.58,
-          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
-        },
-        {
-          "price": 488.43,
-          "original_price": 557.58,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 482.4,
-          "original_price": 557.58,
-          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
-        },
-        {
-          "price": 349.74,
-          "original_price": 557.58,
-          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
-        }
-      ],
-      "approved_at": "17-08-2026 11:24",
       "auto_approved": true
     },
     {
@@ -1298,21 +993,6 @@
       "auto_approved": true
     },
     {
-      "id": "bdd65e3cfb0f",
-      "title": "AGM G2 Guardian 5G - 256 GB Zwart",
-      "price": 824.99,
-      "original_price": 1099.99,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341859",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a800e825203e_ASSET_MMS_133990320-500x500.png",
-      "found_at": "2026-08-12T06:31:01.821514+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "aeed7cc8085a",
       "title": "Blackvue DR970X-2CH LTE Plus II 64GB",
       "price": 597.0,
@@ -1339,21 +1019,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=342400",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7f2dc6362cc_ASSET_MMS_169422644-500x500.png",
       "found_at": "2026-08-14T14:35:11.154922+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "a17d298ce989",
-      "title": "SAMSUNG BRB80F26BDS0EF - Inbouw Koel-vriescombinatie - NoFrost - Nishoogte 178.2 cm",
-      "price": 824.25,
-      "original_price": 1099.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341633",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ebd0578a90_ASSET_MMS_181437939-500x500.png",
-      "found_at": "2026-08-10T14:21:15.862292+00:00",
       "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
@@ -1547,36 +1212,6 @@
       "auto_approved": true
     },
     {
-      "id": "9d22307ccba0",
-      "title": "SAMSUNG QE43QN90FATXXN - Ultra HD 4K - Neo QLED-tv - 43 inch - 2025",
-      "price": 749.25,
-      "original_price": 999.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341656",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed92b10fb8_ASSET_MMS_160719074-500x500.png",
-      "found_at": "2026-08-11T10:31:27.335866+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "416411545dcd",
-      "title": "SAMSUNG QE55QN82FAUXXN - Ultra HD 4K - Mini-led-tv - 55 inch - 2025",
-      "price": 749.25,
-      "original_price": 999.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341535",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8046df398e1_ASSET_MMS_157837967-500x500.png",
-      "found_at": "2026-08-06T10:43:29.942714+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "ea55ffaf110b",
       "title": "Apple iPad Air (2025) 13 inch 128GB Wifi Paars",
       "price": 606.0,
@@ -1646,21 +1281,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1673758.jpg?v=1785834074",
       "found_at": "2026-08-04T14:27:06.279569+00:00",
       "approved_at": "04-08-2026 15:31",
-      "auto_approved": true
-    },
-    {
-      "id": "cae2981317aa",
-      "title": "LENOVO V17 G4 IRU - 17.3 inch - Intel Core i5-13420H - 16 GB - 512 GB - Windows 11 Pro",
-      "price": 725.25,
-      "original_price": 967.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341798",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7f200e96f5c_ASSET_MMS_163675468-500x500.png",
-      "found_at": "2026-08-11T14:43:20.404174+00:00",
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -2245,36 +1865,6 @@
       "auto_approved": true
     },
     {
-      "id": "ee1527e4a73b",
-      "title": "LG GBBS322BEV Koel-vriescombinatie met DoorCooling Smart Inverter compessor hoogte 210.9cm - breedte 65cm - inhoud 262l - Energie label B - Essense Black Steel",
-      "price": 674.25,
-      "original_price": 899.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341655",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ee75aac0e9_ASSET_MMS_164608671-500x500.png",
-      "found_at": "2026-08-11T10:31:27.336888+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "ef9b706bba95",
-      "title": "SAMSUNG UE75U8000FUXXN - Ultra HD 4K - Led-tv - 75 inch - 2025",
-      "price": 674.25,
-      "original_price": 899.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341516",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7f2df67cc81_ASSET_MMS_165395455-500x500.png",
-      "found_at": "2026-08-06T10:43:29.952748+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "68551d094724",
       "title": "Kenwood MultiPro XL Weigh+ FDM72.990SS",
       "price": 148.0,
@@ -2481,21 +2071,6 @@
       "auto_approved": true
     },
     {
-      "id": "77dfe5293971",
-      "title": "TCL 75T69C - Ultra HD 4K - QLED-tv - 75 inch - 2025",
-      "price": 649.5,
-      "original_price": 866.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341527",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8046df0f02f_ASSET_MMS_152529873-500x500.png",
-      "found_at": "2026-08-06T10:43:29.947243+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "843873dc39ee",
       "title": "Refurbished iPhone 15 128GB Black",
       "price": 439.0,
@@ -2553,33 +2128,6 @@
       "auto_approved": true
     },
     {
-      "id": "6d4ce2bed775",
-      "title": "SAMSUNG QE65QN74FATXXN - Ultra HD 4K - Neo QLED-tv - 65 inch - 2025",
-      "price": 636.75,
-      "original_price": 849.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341581",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7c8a84a592e_ASSET_MMS_154445417-500x500.png",
-      "found_at": "2026-08-15T18:31:53.968925+00:00",
-      "price_history": [
-        {
-          "price": 749.25,
-          "original_price": 999.0,
-          "scraped_at": "2026-08-06T14:00:45.911793+00:00"
-        },
-        {
-          "price": 636.75,
-          "original_price": 849.0,
-          "scraped_at": "2026-08-12T18:00:30.004242+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "5cc73ec54b18",
       "title": "LG F4WR9513S2W TurboWash360 -  Wasmachine Voorlader - 13 kg - 1400 rpm - 71 dB - automatisch doseren",
       "price": 636.75,
@@ -2601,48 +2149,6 @@
           "price": 636.75,
           "original_price": 849.0,
           "scraped_at": "2026-08-16T10:00:41.350411+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "c56210504324",
-      "title": "HAIER H4F272WCH1 60  Vrijstaand Vrieskast - breedte 60 cm - hoogte 177.5 cm - inhoud 276 l - NoFrost",
-      "price": 636.75,
-      "original_price": 849.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341504",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8038d2a55ed_ASSET_MMS_142375683-500x500.png",
-      "found_at": "2026-08-06T10:43:29.960201+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "dcb0e6c8dd6a",
-      "title": "LG Instaview GBG5160CEV Koel-vriescombinatie - Hoogte 195cm - Breedte 65cm - NoFrost - Essence Zwart Staal",
-      "price": 636.75,
-      "original_price": 849.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341508",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7b390bab31e_ASSET_MMS_155999342-500x500.png",
-      "found_at": "2026-08-06T10:43:29.958287+00:00",
-      "price_history": [
-        {
-          "price": 708.0,
-          "original_price": 944.0,
-          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
-        },
-        {
-          "price": 636.75,
-          "original_price": 849.0,
-          "scraped_at": "2026-08-11T18:00:30.281697+00:00"
         }
       ],
       "approved_at": "16-08-2026 15:23",
@@ -2886,51 +2392,6 @@
       "auto_approved": true
     },
     {
-      "id": "1c4b0d9d6fbc",
-      "title": "KOENIC KDD 211 C NF IN B - Amerikaanse koelkast - breedte 91 cm - hoogte 179 cm - inhoud 592 l - NoFrost",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341647",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed92b19257_ASSET_MMS_144278718-500x500.png",
-      "found_at": "2026-08-11T10:31:27.340691+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "e9be589b1498",
-      "title": "ETNA FIV560RVS - Fornuis - Inductie 2-fasen (Perilex) - breedte 60 cm",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341725",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ee75ac962e_ASSET_MMS_71235812-500x500.png",
-      "found_at": "2026-08-11T10:31:27.278265+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "321c36d7890e",
-      "title": "SIEMENS WG44G2A5NL iQ500 intelligentDosing Wasmachine",
-      "price": 599.25,
-      "original_price": 799.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341727",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ee75c920ed_ASSET_MMS_92576379-500x500.png",
-      "found_at": "2026-08-11T10:31:27.276422+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "57286712e7cc",
       "title": "Oral-B iO 3N Zwart",
       "price": 48.0,
@@ -2965,21 +2426,6 @@
         }
       ],
       "approved_at": "19-08-2026 07:32",
-      "auto_approved": true
-    },
-    {
-      "id": "30e3e38d0cab",
-      "title": "BOSCH  KGE49AICA -  Koel-vriescombinatie - breedte 70 cm - hoogte 201 cm - inhoud 419 l",
-      "price": 594.0,
-      "original_price": 792.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341505",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ecb1462c30_ASSET_MMS_79384650-500x500.png",
-      "found_at": "2026-08-11T14:43:38.091356+00:00",
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -3378,21 +2824,6 @@
       "auto_approved": true
     },
     {
-      "id": "05aa02199d7b",
-      "title": "LG RH80T2AP6RM Warmtepompdroger",
-      "price": 561.75,
-      "original_price": 749.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341734",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ef5607b847_ASSET_MMS_103019048-500x500.png",
-      "found_at": "2026-08-11T10:31:27.269887+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "7cb009d937d4",
       "title": "Dreame L50 Ultra",
       "price": 414.0,
@@ -3752,43 +3183,6 @@
       "auto_approved": true
     },
     {
-      "id": "47ef7229c326",
-      "title": "GRADO SR225x Prestige-serie Bedrade stereohoofdtelefoon met open achterkant",
-      "price": 181.61,
-      "original_price": 282.37,
-      "discount_percent": 35,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B091G6N36N?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/81tmIf35u+S._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-08-18T06:13:27.274271+00:00",
-      "price_history": [
-        {
-          "price": 191.42,
-          "original_price": 279.0,
-          "scraped_at": "2026-07-19T06:00:36.047844+00:00"
-        },
-        {
-          "price": 188.07,
-          "original_price": 282.05,
-          "scraped_at": "2026-07-28T06:00:54.420285+00:00"
-        },
-        {
-          "price": 182.33,
-          "original_price": 199.0,
-          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
-        },
-        {
-          "price": 181.61,
-          "original_price": 282.37,
-          "scraped_at": "2026-08-18T06:00:36.664804+00:00"
-        }
-      ],
-      "approved_at": "18-08-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "27a90990075b",
       "title": "Calor Pro Express Ultimate GV9550",
       "price": 143.0,
@@ -3892,48 +3286,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341974",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a81b47434449_ASSET_MMS_101731220-500x500.png",
       "found_at": "2026-08-12T10:14:33.992842+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "f065e1d65fd3",
-      "title": "SAMSUNG WW11DB7B94GBU3 Bespoke 7000-serie -  Wasmachine Voorlader - 11 kg - 1400 rpm - 72 dB - automatisch doseren",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341756",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8046cc1d552_ASSET_MMS_181437684-500x500.png",
-      "found_at": "2026-08-11T14:43:20.433036+00:00",
-      "price_history": [
-        {
-          "price": 636.75,
-          "original_price": 849.0,
-          "scraped_at": "2026-08-11T14:00:59.142529+00:00"
-        },
-        {
-          "price": 524.25,
-          "original_price": 699.0,
-          "scraped_at": "2026-08-15T14:00:36.107524+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
-      "id": "c3bb8d699591",
-      "title": "LIEBHERR Liebherr CUE 2831 - Koel-vriescombinatie - breedte 55 cm - hoogte 161.2 cm - inhoud 266 l",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341569",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a807f176f541_ASSET_MMS_139816566-500x500.png",
-      "found_at": "2026-08-06T14:21:00.743608+00:00",
       "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
@@ -4107,21 +3459,6 @@
       "auto_approved": true
     },
     {
-      "id": "a8200b208629",
-      "title": "SAMSUNG  RB34C670DWW/EF -  Koel-vriescombinatie - breedte 59.5 cm - hoogte 185.3 cm - inhoud 344 l - NoFrost",
-      "price": 516.75,
-      "original_price": 689.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341654",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ace06df271_ASSET_MMS_153892350-500x500.png",
-      "found_at": "2026-08-11T10:31:27.337841+00:00",
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "cf4c9ea171df",
       "title": "BaByliss BaByliss Super-X Metal Tondeuse E991E",
       "price": 59.0,
@@ -4248,33 +3585,6 @@
         }
       ],
       "approved_at": "07-08-2026 11:29",
-      "auto_approved": true
-    },
-    {
-      "id": "21cd3026089e",
-      "title": "PHILIPS 65MLED810/12 - Ultra HD 4K - Mini-led-tv - 65 inch - 2025",
-      "price": 501.75,
-      "original_price": 669.0,
-      "discount_percent": 25,
-      "category": "tv",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341566",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a807f0aed395_ASSET_MMS_165403468-500x500.png",
-      "found_at": "2026-08-06T14:21:00.746352+00:00",
-      "price_history": [
-        {
-          "price": 477.75,
-          "original_price": 637.0,
-          "scraped_at": "2026-08-06T14:00:45.911793+00:00"
-        },
-        {
-          "price": 501.75,
-          "original_price": 669.0,
-          "scraped_at": "2026-08-12T18:00:30.004242+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -4583,63 +3893,6 @@
       "auto_approved": true
     },
     {
-      "id": "0d18a2798e25",
-      "title": "Tefal Renew Black Keramische Wokpan 28 cm",
-      "price": 23.0,
-      "original_price": 41.49,
-      "discount_percent": 44,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-renew-black-keramische-wokpan-28-cm-r-19475",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2160412.jpg?v=1785141813",
-      "found_at": "2026-07-30T06:11:59.487608+00:00",
-      "approved_at": "30-07-2026 07:15",
-      "auto_approved": true
-    },
-    {
-      "id": "92c4ce57f658",
-      "title": "Tefal Renew Black Keramische Wokpan 28 cm",
-      "price": 23.0,
-      "original_price": 41.24,
-      "discount_percent": 44,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-renew-black-keramische-wokpan-28-cm-r-19476",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2160412_6e5edcdf-a76d-4e02-88c4-2b07d4a9e23e.jpg?v=1785141821",
-      "found_at": "2026-08-16T06:26:45.403262+00:00",
-      "price_history": [
-        {
-          "price": 25.0,
-          "original_price": 39.99,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": 39.99,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        },
-        {
-          "price": 27.0,
-          "original_price": 43.15,
-          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
-        },
-        {
-          "price": 25.0,
-          "original_price": 39.99,
-          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
-        },
-        {
-          "price": 23.0,
-          "original_price": 39.15,
-          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 19:39",
-      "auto_approved": true
-    },
-    {
       "id": "f2bba9df5bd5",
       "title": "SIEMENS HK9R3A250 - Fornuis - Keramisch - 3 phases (Perilex)- breedte 60 cm",
       "price": 481.5,
@@ -4915,21 +4168,6 @@
         }
       ],
       "approved_at": "21-08-2026 11:39",
-      "auto_approved": true
-    },
-    {
-      "id": "bf4aaa325715",
-      "title": "LIEBHERR Liebherr FNE 1404 - Vrijstaand Vrieskast - breedte 55.0 cm - hoogte 85.0 cm - inhoud 93 l - NoFrost",
-      "price": 459.75,
-      "original_price": 613.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341715",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7aed509420a_ASSET_MMS_140405759-500x500.png",
-      "found_at": "2026-08-11T10:31:27.287334+00:00",
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
@@ -5217,33 +4455,6 @@
       "auto_approved": true
     },
     {
-      "id": "719a6b3b92df",
-      "title": "BRAUN IPL PL7211 IPL-apparaat Roze",
-      "price": 449.25,
-      "original_price": 599.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341742",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ef562e0154_ASSET_MMS_171345346-500x500.png",
-      "found_at": "2026-08-11T14:43:20.443037+00:00",
-      "price_history": [
-        {
-          "price": 516.75,
-          "original_price": 689.0,
-          "scraped_at": "2026-08-11T14:00:59.142529+00:00"
-        },
-        {
-          "price": 449.25,
-          "original_price": 599.0,
-          "scraped_at": "2026-08-14T14:00:29.585705+00:00"
-        }
-      ],
-      "approved_at": "16-08-2026 15:23",
-      "auto_approved": true
-    },
-    {
       "id": "a37c70d339b0",
       "title": "Sage Barista Touch Impress Cold Black Truffle",
       "price": 879.0,
@@ -5338,73 +4549,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1891035_49775c7d-1beb-48a8-b4c3-7f74923385e4.jpg?v=1786104074",
       "found_at": "2026-08-08T10:28:33.791570+00:00",
       "approved_at": "08-08-2026 11:34",
-      "auto_approved": true
-    },
-    {
-      "id": "223822144215",
-      "title": "Brother DCP-L8410CDW",
-      "price": 350.0,
-      "original_price": 482.17,
-      "discount_percent": 27,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/brother-dcp-l8410cdw-r-19478",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1370456.jpg?v=1785141841",
-      "found_at": "2026-08-02T14:29:07.165154+00:00",
-      "price_history": [
-        {
-          "price": 419.0,
-          "original_price": 465.86,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 407.0,
-          "original_price": 464.12,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 408.0,
-          "original_price": 466.71,
-          "scraped_at": "2026-07-30T10:00:26.182424+00:00"
-        },
-        {
-          "price": 395.0,
-          "original_price": 466.07,
-          "scraped_at": "2026-08-01T10:00:27.619360+00:00"
-        },
-        {
-          "price": 365.0,
-          "original_price": 463.73,
-          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
-        },
-        {
-          "price": 349.0,
-          "original_price": 466.05,
-          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
-        },
-        {
-          "price": 350.0,
-          "original_price": 487.63,
-          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
-        }
-      ],
-      "approved_at": "07-08-2026 19:44",
-      "auto_approved": true
-    },
-    {
-      "id": "184ad2b3cbd4",
-      "title": "BOSCH CMA583MS0 -  inbouw Combimagnetron - nishoogte 45.2 cm - 900 W - Inhoud 44 l",
-      "price": 441.0,
-      "original_price": 588.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=341692",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a7ed93de8bbc_pixelboxx-mss-76043986-500x500.png",
-      "found_at": "2026-08-11T10:31:27.307279+00:00",
-      "approved_at": "16-08-2026 15:23",
       "auto_approved": true
     },
     {
