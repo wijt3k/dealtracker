@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T06:33:29.284898+00:00",
-  "total": 292,
+  "updated_at": "2026-08-24T10:33:40.757569+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d2b2d35757cb",
@@ -911,6 +911,21 @@
         }
       ],
       "approved_at": "23-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "20c364c9c498",
+      "title": "acer Aspire 14 AI Copilot+ PC A14-11M WUXGA IPS Laptop (Qualcomm Snapdragon X X1-26100, 16 GB RAM, 512 GB SSD, Qualcomm Adreno Windows 11 Home), blauw, QWERTY-toetsenbord Spaans",
+      "price": 568.3,
+      "original_price": 812.38,
+      "discount_percent": 30,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B8H2DDZZ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/719VkBZPoSL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-24T10:05:54.196278+00:00",
+      "approved_at": "24-08-2026 11:33",
       "auto_approved": true
     },
     {
@@ -5908,6 +5923,63 @@
       "auto_approved": true
     },
     {
+      "id": "06cbff51197e",
+      "title": "Philips HR1855/70 Viva",
+      "price": 79.0,
+      "original_price": 121.95,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hr1855-70-viva-r-19546",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364181.jpg?v=1786104023",
+      "found_at": "2026-08-24T10:28:33.746193+00:00",
+      "price_history": [
+        {
+          "price": 105.0,
+          "original_price": 124.67,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 122.64,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 123.71,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 123.01,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 122.62,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 124.44,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 125.98,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 121.95,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
+      "auto_approved": true
+    },
+    {
       "id": "1972b338d210",
       "title": "Apple Smart Folio iPad Air 13 inch (2024) Houtskoolgrijs",
       "price": 75.0,
@@ -6017,6 +6089,48 @@
       "auto_approved": true
     },
     {
+      "id": "f21718132fc4",
+      "title": "Wisberg WB1M25B",
+      "price": 55.0,
+      "original_price": 85.25,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wisberg-wb1m25b-r-19596",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2150766.jpg?v=1786104287",
+      "found_at": "2026-08-24T10:28:40.246528+00:00",
+      "price_history": [
+        {
+          "price": 90.0,
+          "original_price": 103.0,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 90.5,
+          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 85.67,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 84.67,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 85.25,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
+      "auto_approved": true
+    },
+    {
       "id": "684687dd910a",
       "title": "Philips Baristina Plus BAR500/00 Stainless Steel",
       "price": 297.0,
@@ -6051,6 +6165,33 @@
         }
       ],
       "approved_at": "23-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "78163d93561e",
+      "title": "Refurbished iPhone 14 Pro 256GB Black",
+      "price": 483.16,
+      "original_price": 616.0,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-pro-256gb-black-r-19811",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1983120_1a5d15c8-8ac7-49d3-9c52-e7f7d2c2f2af.jpg?v=1786953122",
+      "found_at": "2026-08-24T10:28:36.992365+00:00",
+      "price_history": [
+        {
+          "price": 514.0,
+          "original_price": 616.0,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 483.16,
+          "original_price": 616.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
       "auto_approved": true
     },
     {
@@ -6359,6 +6500,120 @@
       "auto_approved": true
     },
     {
+      "id": "735fb12f266e",
+      "title": "TCL Tablet Tab 10 Gen 4, 10,1 inch IPS-display, 4 GB + 128 GB, 6000 mAh batterij met 18 W snel opladen, IP54",
+      "price": 113.53,
+      "original_price": 160.37,
+      "discount_percent": 29,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FQHRQS2B?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51mjmkB3rEL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-24T10:07:28.944885+00:00",
+      "price_history": [
+        {
+          "price": 106.17,
+          "original_price": 120.0,
+          "scraped_at": "2026-06-19T06:01:58.180621+00:00"
+        },
+        {
+          "price": 104.45,
+          "original_price": 120.0,
+          "scraped_at": "2026-06-24T06:03:23.065006+00:00"
+        },
+        {
+          "price": 102.73,
+          "original_price": 120.0,
+          "scraped_at": "2026-06-29T10:01:57.987586+00:00"
+        },
+        {
+          "price": 101.65,
+          "original_price": 120.0,
+          "scraped_at": "2026-07-04T18:00:31.887942+00:00"
+        },
+        {
+          "price": 105.28,
+          "original_price": 120.0,
+          "scraped_at": "2026-07-10T06:00:51.278437+00:00"
+        },
+        {
+          "price": 107.86,
+          "original_price": 120.0,
+          "scraped_at": "2026-07-15T10:00:24.479679+00:00"
+        },
+        {
+          "price": 106.02,
+          "original_price": 109.0,
+          "scraped_at": "2026-07-20T14:00:35.103583+00:00"
+        },
+        {
+          "price": 108.22,
+          "original_price": 109.0,
+          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+        },
+        {
+          "price": 113.14,
+          "original_price": null,
+          "scraped_at": "2026-07-30T18:01:09.912367+00:00"
+        },
+        {
+          "price": 115.36,
+          "original_price": 160.37,
+          "scraped_at": "2026-08-14T06:00:51.676156+00:00"
+        },
+        {
+          "price": 113.53,
+          "original_price": 160.37,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
+      "auto_approved": true
+    },
+    {
+      "id": "eb60993e2a9b",
+      "title": "Dyson V8 Cyclone",
+      "price": 291.0,
+      "original_price": 382.37,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v8-cyclone-r-19631",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1948962941.jpg?v=1786104437",
+      "found_at": "2026-08-24T10:28:27.521753+00:00",
+      "price_history": [
+        {
+          "price": 367.0,
+          "original_price": 382.08,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 351.0,
+          "original_price": 382.08,
+          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 381.5,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 315.0,
+          "original_price": 382.75,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 291.0,
+          "original_price": 382.37,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
+      "auto_approved": true
+    },
+    {
       "id": "6b56217d1da8",
       "title": "Ninja Luxe Café Premier ES601EU",
       "price": 373.0,
@@ -6428,6 +6683,43 @@
       "auto_approved": true
     },
     {
+      "id": "441bc44377db",
+      "title": "Oral-B iO9N Black",
+      "price": 155.0,
+      "original_price": 213.56,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io9n-black-r-19860",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1809169_95dcd68c-c72e-4785-9c6b-565c2899386e.jpg?v=1787040407",
+      "found_at": "2026-08-24T10:28:33.745178+00:00",
+      "price_history": [
+        {
+          "price": 168.0,
+          "original_price": 230.64,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 165.0,
+          "original_price": 211.3,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 206.88,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 155.0,
+          "original_price": 203.86,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
+      "auto_approved": true
+    },
+    {
       "id": "37be0cb7631d",
       "title": "Braun SE810 Face",
       "price": 43.0,
@@ -6457,6 +6749,33 @@
         }
       ],
       "approved_at": "23-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "f3cfd3d20bc4",
+      "title": "Philips Shaver 7000 series S7887/58",
+      "price": 141.0,
+      "original_price": 194.4,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-7000-series-s7887-58-r-19930",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1910323_5b7ffabc-d320-41a9-a5a7-0eca565d525e.jpg?v=1786953773",
+      "found_at": "2026-08-24T10:28:36.990382+00:00",
+      "price_history": [
+        {
+          "price": 146.0,
+          "original_price": 196.06,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 194.4,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "24-08-2026 11:33",
       "auto_approved": true
     },
     {
@@ -6774,35 +7093,30 @@
       "auto_approved": true
     },
     {
-      "id": "1fade7dd6705",
-      "title": "HUAWEI WATCH GT 6 GPS 46mm Smartwatch, 1,47 inch AMOLED-scherm, Tot 21 dagen batterijduur, Pro-level functies voor wielrennen, compatibel met zowel iOS als Android,emotioneel welzijn, Noir Zwart",
-      "price": 140.33,
-      "original_price": 191.7,
-      "discount_percent": 26,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FK4J2X7D?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71BMyRfTLOL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-08-24T06:13:47.183347+00:00",
+      "id": "a6af31c7a1cc",
+      "title": "Refurbished iPhone 13 Pro 256GB Black",
+      "price": 325.24,
+      "original_price": 415.0,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-pro-256gb-black-r-19829",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1630871.jpg?v=1786953277",
+      "found_at": "2026-08-24T10:28:36.992310+00:00",
       "price_history": [
         {
-          "price": 154.02,
-          "original_price": 179.99,
-          "scraped_at": "2026-08-13T14:00:31.858690+00:00"
-        },
-        {
-          "price": 156.07,
-          "original_price": 191.7,
+          "price": 346.0,
+          "original_price": 415.0,
           "scraped_at": "2026-08-18T18:00:57.382254+00:00"
         },
         {
-          "price": 140.33,
-          "original_price": 191.7,
-          "scraped_at": "2026-08-24T06:00:50.370947+00:00"
+          "price": 325.24,
+          "original_price": 415.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
         }
       ],
-      "approved_at": "24-08-2026 07:33",
+      "approved_at": "24-08-2026 11:33",
       "auto_approved": true
     }
   ]
