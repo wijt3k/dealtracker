@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-24T18:21:17.936682+00:00",
-  "total": 295,
+  "updated_at": "2026-08-25T06:42:04.590893+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d2b2d35757cb",
@@ -137,6 +137,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220480_686b558c-7748-4757-bebb-c5126d5762b7.jpg?v=1787556350",
       "found_at": "2026-08-24T18:15:47.410127+00:00",
       "approved_at": "24-08-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "5b4661f2c8b7",
+      "title": "Oppo A77 5G 4GB/64GB Negro (Midnight Black) Dual SIM",
+      "price": 149.9,
+      "original_price": 405.0,
+      "discount_percent": 62,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B82ZVY7W?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51ryjDs7JBL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-25T06:13:32.648876+00:00",
+      "price_history": [
+        {
+          "price": 163.23,
+          "original_price": null,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        },
+        {
+          "price": 156.56,
+          "original_price": null,
+          "scraped_at": "2026-08-19T18:01:06.178890+00:00"
+        },
+        {
+          "price": 149.9,
+          "original_price": 405.0,
+          "scraped_at": "2026-08-25T06:00:43.336258+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
       "auto_approved": true
     },
     {
@@ -1058,6 +1090,21 @@
         }
       ],
       "approved_at": "23-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "b9fefb110748",
+      "title": "Apple iPad mini (A17 Pro): 8,3 inch Liquid Retina-display, 128 GB, wifi 6E, 12 MP camera aan de voorkant/12 MP camera aan de achterkant, Touch ID, batterij voor een hele dag – Blauw",
+      "price": 463.08,
+      "original_price": 688.97,
+      "discount_percent": 32,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DK3YL8F9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/714A90zIiFL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-08-25T06:05:10.364643+00:00",
+      "approved_at": "25-08-2026 07:42",
       "auto_approved": true
     },
     {
@@ -2990,6 +3037,63 @@
       "auto_approved": true
     },
     {
+      "id": "cf8be19a1837",
+      "title": "Xiaomi REDMI 15C 5G, Smartphone 4+128GB, 6,9\" 120Hz Display, MediaTek Dimensity 6300-processor 6nm Octa-core, 50MP AI Dual Camera, 6000mAh, Mintgroen, Oplader niet inbegrepen",
+      "price": 104.31,
+      "original_price": 179.0,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FHBQ7PGF?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61o4fmZ-ymL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-25T06:08:22.457415+00:00",
+      "price_history": [
+        {
+          "price": 122.55,
+          "original_price": 129.0,
+          "scraped_at": "2026-04-13T14:00:31.051894+00:00"
+        },
+        {
+          "price": 125.13,
+          "original_price": 129.0,
+          "scraped_at": "2026-05-07T18:00:51.509039+00:00"
+        },
+        {
+          "price": 105.73,
+          "original_price": 109.0,
+          "scraped_at": "2026-06-05T10:00:21.687501+00:00"
+        },
+        {
+          "price": 104.71,
+          "original_price": 127.7,
+          "scraped_at": "2026-07-01T06:01:59.568170+00:00"
+        },
+        {
+          "price": 91.06,
+          "original_price": 111.05,
+          "scraped_at": "2026-07-11T14:00:53.623999+00:00"
+        },
+        {
+          "price": 146.78,
+          "original_price": 179.0,
+          "scraped_at": "2026-08-14T18:00:49.152812+00:00"
+        },
+        {
+          "price": 145.4,
+          "original_price": 179.0,
+          "scraped_at": "2026-08-19T18:01:06.178890+00:00"
+        },
+        {
+          "price": 104.31,
+          "original_price": 179.0,
+          "scraped_at": "2026-08-25T06:00:43.336258+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
       "id": "814d96685388",
       "title": "Samsung Essential S4 LS24D402GAUXEN",
       "price": 65.0,
@@ -4118,6 +4222,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1896924_59df11fd-dcb5-4b39-8427-2c9d927b273b.jpg?v=1787556456",
       "found_at": "2026-08-24T18:15:47.409483+00:00",
       "approved_at": "24-08-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "9a4d7661a32a",
+      "title": "Braun Series 9 PRO+ 9615S Grafiet",
+      "price": 220.0,
+      "original_price": 329.94,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-9-pro-9615s-grafiet-r-19925",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2206027.jpg?v=1786953740",
+      "found_at": "2026-08-24T06:27:54.014659+00:00",
+      "price_history": [
+        {
+          "price": 240.0,
+          "original_price": 333.12,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 258.0,
+          "original_price": 338.51,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 330.83,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 246.0,
+          "original_price": 325.97,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 322.14,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 220.0,
+          "original_price": 329.94,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
       "auto_approved": true
     },
     {
@@ -5552,6 +5703,78 @@
       "auto_approved": true
     },
     {
+      "id": "e26b718c701f",
+      "title": "Philips Sonicare DiamondClean 9000 HX9914/54",
+      "price": 147.0,
+      "original_price": 223.07,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-sonicare-diamondclean-9000-hx9914-54-r-19589",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1487181_fd3fbf43-f6b1-46e8-8fc2-0516db055b16.jpg?v=1786104243",
+      "found_at": "2026-08-24T06:28:03.563633+00:00",
+      "price_history": [
+        {
+          "price": 172.0,
+          "original_price": 209.0,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 185.0,
+          "original_price": 208.09,
+          "scraped_at": "2026-08-09T10:00:46.752244+00:00"
+        },
+        {
+          "price": 179.0,
+          "original_price": 207.8,
+          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
+        },
+        {
+          "price": 167.0,
+          "original_price": 211.5,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 173.0,
+          "original_price": 206.92,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 168.0,
+          "original_price": 204.91,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 158.0,
+          "original_price": 205.29,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 147.0,
+          "original_price": 223.07,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
+      "id": "69f9fd0f28a7",
+      "title": "Motorola Moto G56 5G 8GB/256GB Negro (Black Oyster) Dual SIM",
+      "price": 166.09,
+      "original_price": 249.0,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F7RJP97N?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71fSZP2HerL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-25T06:13:16.255427+00:00",
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
       "id": "5e369681aedd",
       "title": "Philips 24E1N1300AE/00",
       "price": 88.0,
@@ -5963,6 +6186,85 @@
       "auto_approved": true
     },
     {
+      "id": "e90fad9bd691",
+      "title": "Braun Silk·épil 5 5-041 Roze",
+      "price": 44.0,
+      "original_price": 72.0,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-epil-5-5-041-roze-r-19926",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1983878958.jpg?v=1786953743",
+      "found_at": "2026-08-24T06:27:54.014844+00:00",
+      "price_history": [
+        {
+          "price": 46.0,
+          "original_price": 65.0,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 43.0,
+          "original_price": 62.5,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 72.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
+      "id": "6b56217d1da8",
+      "title": "Ninja Luxe Café Premier ES601EU",
+      "price": 356.0,
+      "original_price": 477.24,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ninja-luxe-cafe-premier-es601eu-r-19942",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176943_46f05dc8-e58c-4e30-8b42-083b1707c556.jpg?v=1786953915",
+      "found_at": "2026-08-24T06:27:59.860673+00:00",
+      "price_history": [
+        {
+          "price": 392.0,
+          "original_price": 432.0,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 369.0,
+          "original_price": 431.27,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 366.0,
+          "original_price": 433.26,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 358.0,
+          "original_price": 444.69,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 373.0,
+          "original_price": 462.91,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 356.0,
+          "original_price": 477.24,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
       "id": "dbb071e6d171",
       "title": "Miele Guard L1 Select Parquet Grafietgrijs",
       "price": 252.0,
@@ -6017,6 +6319,48 @@
         }
       ],
       "approved_at": "24-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "a37c70d339b0",
+      "title": "Sage Barista Touch Impress Cold Black Truffle",
+      "price": 863.0,
+      "original_price": 1041.0,
+      "discount_percent": 17,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sage-barista-touch-impress-cold-black-truffle-r-19936",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2174246.jpg?v=1786953846",
+      "found_at": "2026-08-24T06:28:07.127530+00:00",
+      "price_history": [
+        {
+          "price": 879.0,
+          "original_price": 1080.55,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 895.0,
+          "original_price": 1093.98,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 829.0,
+          "original_price": 1077.54,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 895.0,
+          "original_price": 1041.0,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        },
+        {
+          "price": 863.0,
+          "original_price": 1041.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
       "auto_approved": true
     },
     {
@@ -6273,6 +6617,43 @@
       "auto_approved": true
     },
     {
+      "id": "71d2939e296f",
+      "title": "DeLonghi EC685.BK Dedica Zwart",
+      "price": 111.0,
+      "original_price": 163.56,
+      "discount_percent": 32,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-ec685-bk-dedica-zwart-r-19842",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1370886_14bd5182-bccd-4b18-b353-edbd3277e56a.jpg?v=1786953339",
+      "found_at": "2026-08-24T06:27:54.015210+00:00",
+      "price_history": [
+        {
+          "price": 134.0,
+          "original_price": 158.25,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 162.88,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 158.88,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 163.56,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
       "id": "684687dd910a",
       "title": "Philips Baristina Plus BAR500/00 Stainless Steel",
       "price": 297.0,
@@ -6412,6 +6793,33 @@
       "auto_approved": true
     },
     {
+      "id": "4b96cf7b797e",
+      "title": "Tefal Express Vision SV8152",
+      "price": 108.0,
+      "original_price": 157.28,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-express-vision-sv8152-r-19935",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2204150.jpg?v=1786953836",
+      "found_at": "2026-08-24T06:28:07.129701+00:00",
+      "price_history": [
+        {
+          "price": 113.0,
+          "original_price": 157.09,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 157.28,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "25-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
       "id": "ba60339a5149",
       "title": "Bowers & Wilkins Px8 S2 Draadloze Over-Ear Hoofdtelefoon met geavanceerde Noise Cancelling, Bluetooth 5.3 met aptX Lossless, Auracast, Hi-Res audio, 30 uur Afspeeltijd, Snelladen - Warm Stone",
       "price": 496.37,
@@ -6480,192 +6888,6 @@
           "scraped_at": "2026-08-20T10:00:23.865884+00:00"
         }
       ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "090c7fd3db2e",
-      "title": "BaByliss BaByliss Super-X Metal Tondeuse E991E",
-      "price": 73.0,
-      "original_price": 108.22,
-      "discount_percent": 32,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/babyliss-babyliss-super-x-metal-tondeuse-e991e-r-19776",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815329_8a39a147-a82e-4eed-a8ac-fe56b5dbfe1f.jpg?v=1787040254",
-      "found_at": "2026-08-21T14:16:32.812137+00:00",
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "da738775fd7a",
-      "title": "Shokz OpenFit Zwart",
-      "price": 111.0,
-      "original_price": 160.67,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/shokz-openfit-zwart-r-19833",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935097_526e5a2b-dc10-4513-9e12-c24e9f2f4a1b.jpg?v=1786710067",
-      "found_at": "2026-08-21T18:23:26.077955+00:00",
-      "price_history": [
-        {
-          "price": 113.0,
-          "original_price": 162.25,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 122.0,
-          "original_price": 158.09,
-          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": 166.83,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": 163.84,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 150.0,
-          "original_price": 162.37,
-          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 159.49,
-          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "a85710ab2039",
-      "title": "IMOU RV1",
-      "price": 120.0,
-      "original_price": 171.42,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/imou-rv1-r-19795",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2073021_315e1d04-dfe7-4392-892f-724c96faf294.jpg?v=1786710012",
-      "found_at": "2026-08-21T06:17:37.647261+00:00",
-      "price_history": [
-        {
-          "price": 117.0,
-          "original_price": 156.96,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 121.0,
-          "original_price": 173.02,
-          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": 176.23,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
-        },
-        {
-          "price": 121.0,
-          "original_price": 173.02,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 122.0,
-          "original_price": 181.49,
-          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 170.03,
-          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": 175.53,
-          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "924774f76db9",
-      "title": "Philips Hue Gradient Lightstrip uitbreiding",
-      "price": 39.0,
-      "original_price": 58.29,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-gradient-lightstrip-uitbreiding-r-19699",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1636386_2bac798e-b879-4d5e-9624-761f6be8a0b4.jpg?v=1786448236",
-      "found_at": "2026-08-21T18:23:23.142739+00:00",
-      "price_history": [
-        {
-          "price": 46.0,
-          "original_price": 58.82,
-          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 58.52,
-          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
-        },
-        {
-          "price": 43.0,
-          "original_price": 59.34,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 59.15,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
-        },
-        {
-          "price": 39.0,
-          "original_price": 58.29,
-          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "c89b1ecf0f11",
-      "title": "Sennheiser Momentum 4 Wireless Zwart",
-      "price": 143.0,
-      "original_price": 199.0,
-      "discount_percent": 28,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sennheiser-momentum-4-wireless-zwart-r-20030",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1796933_5f38ba89-5715-4617-9e2b-2e8eebe6b246.jpg?v=1787556587",
-      "found_at": "2026-08-24T18:16:03.675195+00:00",
-      "approved_at": "24-08-2026 19:21",
-      "auto_approved": true
-    },
-    {
-      "id": "f6d1c6272339",
-      "title": "Samsung Galaxy Watch4 40 mm Rosegoud",
-      "price": 143.0,
-      "original_price": 199.0,
-      "discount_percent": 28,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-watch4-40-mm-rosegoud-r-19897",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1619606_0a636063-82c6-4189-83f4-a14d3e81dc4a.jpg?v=1787040712",
-      "found_at": "2026-08-21T18:23:26.077218+00:00",
       "approved_at": "23-08-2026 19:28",
       "auto_approved": true
     }
