@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T18:27:55.848281+00:00",
-  "total": 292,
+  "updated_at": "2026-08-26T06:47:02.907068+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d2b2d35757cb",
@@ -1389,6 +1389,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2169624.jpg?v=1784878460",
       "found_at": "2026-07-25T06:09:11.537844+00:00",
       "approved_at": "25-07-2026 07:15",
+      "auto_approved": true
+    },
+    {
+      "id": "aebfdd3d6ad7",
+      "title": "Apple MacBook Neo 13 inch laptop met A18 Pro-chip: Gemaakt voor AI en Apple Intelligence, Liquid Retina-display, 8 GB centraal geheugen, 256 GB SSD-opslag, 1080p FaceTime HD-camera; Indigo",
+      "price": 513.17,
+      "original_price": 728.0,
+      "discount_percent": 29,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GR6JTCTR?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61q6XUpxQkL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-08-26T06:06:37.429769+00:00",
+      "approved_at": "26-08-2026 07:47",
       "auto_approved": true
     },
     {
@@ -6009,6 +6024,48 @@
       "auto_approved": true
     },
     {
+      "id": "54d46bd1a8cb",
+      "title": "Samsung Galaxy A16 5G smartphone zonder contract, Android-telefoon, 50 MP hoofdcamera, 16,91 cm/6,7\" display, 128 GB, blauw zwart, 2,5 jaar fabrieksgarantie [exclusief bij Amazon]",
+      "price": 154.43,
+      "original_price": 230.32,
+      "discount_percent": 32,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DGF2HM9P?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51QUW7wkN6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-26T06:21:17.457712+00:00",
+      "price_history": [
+        {
+          "price": 154.84,
+          "original_price": 233.55,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 148.89,
+          "original_price": 230.47,
+          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+        },
+        {
+          "price": 145.28,
+          "original_price": 197.27,
+          "scraped_at": "2026-07-31T06:00:32.585528+00:00"
+        },
+        {
+          "price": 162.07,
+          "original_price": null,
+          "scraped_at": "2026-08-20T18:01:23.643808+00:00"
+        },
+        {
+          "price": 154.43,
+          "original_price": 230.32,
+          "scraped_at": "2026-08-26T06:00:28.732220+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
+      "auto_approved": true
+    },
+    {
       "id": "28ef07ddf555",
       "title": "Amazfit Active 3 Premium GPS-smartwatch voor hardlopen, 45 mm, 1,32 inch AMOLED-display van saffier, batterijduur 12 dagen, 4 GB geheugen, NFC, offline kaarten, 170+ sportmodi, voor Android en iPhone",
       "price": 111.14,
@@ -6909,6 +6966,193 @@
         }
       ],
       "approved_at": "25-08-2026 19:27",
+      "auto_approved": true
+    },
+    {
+      "id": "eb60993e2a9b",
+      "title": "Dyson V8 Cyclone",
+      "price": 291.0,
+      "original_price": 383.41,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v8-cyclone-r-19631",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1948962941.jpg?v=1786104437",
+      "found_at": "2026-08-26T06:41:39.851622+00:00",
+      "price_history": [
+        {
+          "price": 367.0,
+          "original_price": 382.08,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 351.0,
+          "original_price": 382.08,
+          "scraped_at": "2026-08-08T14:00:30.158616+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 381.5,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 315.0,
+          "original_price": 382.75,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 291.0,
+          "original_price": 382.37,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
+      "auto_approved": true
+    },
+    {
+      "id": "3dd8a1a3af6c",
+      "title": "Ecovacs T50 Omni Gen 3",
+      "price": 322.0,
+      "original_price": 419.26,
+      "discount_percent": 23,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ecovacs-t50-omni-gen-3-r-19989",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/625556880.jpg?v=1787556156",
+      "found_at": "2026-08-26T06:41:39.851860+00:00",
+      "price_history": [
+        {
+          "price": 347.0,
+          "original_price": 395.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 342.0,
+          "original_price": 419.26,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 322.0,
+          "original_price": 419.26,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
+      "auto_approved": true
+    },
+    {
+      "id": "f1d224b931b2",
+      "title": "Sony ULT Wear Zwart",
+      "price": 97.0,
+      "original_price": 140.12,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-ult-wear-zwart-r-20029",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2033148_deb66795-8416-4a3f-ab69-8c58bc286697.jpg?v=1787556575",
+      "found_at": "2026-08-26T06:41:50.619907+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 140.12,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
+      "auto_approved": true
+    },
+    {
+      "id": "edd15477a091",
+      "title": "WHOOP SportFlex 5.0 Band - Gravity",
+      "price": 35.0,
+      "original_price": 53.0,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/whoop-sportflex-5-0-band-gravity-r-19762",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/653747478.jpg?v=1787040191",
+      "found_at": "2026-08-26T06:41:54.166114+00:00",
+      "price_history": [
+        {
+          "price": 38.0,
+          "original_price": 53.0,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 35.0,
+          "original_price": 53.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
+      "auto_approved": true
+    },
+    {
+      "id": "2ac52aa2281a",
+      "title": "Philips Series 7000 BT7665/15",
+      "price": 46.0,
+      "original_price": 67.67,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-7000-bt7665-15-r-19915",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2223107.jpg?v=1787040754",
+      "found_at": "2026-08-26T06:41:47.333859+00:00",
+      "price_history": [
+        {
+          "price": 57.0,
+          "original_price": 68.2,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 69.5,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 67.67,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
+      "auto_approved": true
+    },
+    {
+      "id": "f513aede84ad",
+      "title": "HyperX Cloud III Wired Gaming Headset - Black",
+      "price": 58.0,
+      "original_price": 84.75,
+      "discount_percent": 31,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hyperx-cloud-iii-wired-gaming-headset-black-r-19737",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935179_a859f2cc-a1f0-40b2-b3ab-1b44a4d352e8.jpg?v=1787040114",
+      "found_at": "2026-08-26T06:41:39.853981+00:00",
+      "price_history": [
+        {
+          "price": 60.0,
+          "original_price": 86.41,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 84.75,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 07:47",
       "auto_approved": true
     }
   ]
