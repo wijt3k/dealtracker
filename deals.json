@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T10:54:50.169481+00:00",
-  "total": 294,
+  "updated_at": "2026-08-26T14:31:49.414318+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "d2b2d35757cb",
@@ -32,6 +32,21 @@
         }
       ],
       "approved_at": "23-08-2026 07:42",
+      "auto_approved": true
+    },
+    {
+      "id": "39f66ca6d09b",
+      "title": "Dell XPS 13 (9340) Laptop 13,4 inch (33,4 cm) FHD+ Display 120 Hz, Intel Core Ultra 5 Series 1, Intel Evo Edition, Intel Arc, 16 GB RAM, 512 GB SSD, Windows 11 Home, toetsenbord met",
+      "price": 429.0,
+      "original_price": 946.33,
+      "discount_percent": 54,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CYXN8DGS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Lc0d-MTmL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-26T14:05:55.493660+00:00",
+      "approved_at": "26-08-2026 15:31",
       "auto_approved": true
     },
     {
@@ -860,6 +875,21 @@
       "auto_approved": true
     },
     {
+      "id": "eabdbac75e29",
+      "title": "Hammer Energy X2 5G outdoor mobiele telefoon, 8 + 8 GB/256 GB mobiele telefoon, bouwplaatsmobiele telefoon en robuuste mobiele telefoon, 6,1 inch display, IP69 waterdicht, 5000 mAh accu, Dual SIM",
+      "price": 176.47,
+      "original_price": 338.78,
+      "discount_percent": 47,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FX3FFFR2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71w69Md+p1L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-26T14:15:42.105161+00:00",
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "2e0251eee1b7",
       "title": "Eufy X10 Pro Omni",
       "price": 455.0,
@@ -902,6 +932,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2041978_0e7f7dca-5255-4355-b3a0-d5982d5d7c2d.jpg?v=1787556392",
       "found_at": "2026-08-24T18:15:51.148715+00:00",
       "approved_at": "24-08-2026 19:21",
+      "auto_approved": true
+    },
+    {
+      "id": "a37c70d339b0",
+      "title": "Sage Barista Touch Impress Cold Black Truffle",
+      "price": 799.0,
+      "original_price": 1099.48,
+      "discount_percent": 27,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sage-barista-touch-impress-cold-black-truffle-r-19936",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2174246.jpg?v=1786953846",
+      "found_at": "2026-08-25T10:03:14.867681+00:00",
+      "price_history": [
+        {
+          "price": 879.0,
+          "original_price": 1080.55,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 895.0,
+          "original_price": 1093.98,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 829.0,
+          "original_price": 1077.54,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 895.0,
+          "original_price": 1041.0,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        },
+        {
+          "price": 863.0,
+          "original_price": 1041.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 799.0,
+          "original_price": 1077.67,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
       "auto_approved": true
     },
     {
@@ -2326,6 +2403,33 @@
       "auto_approved": true
     },
     {
+      "id": "b0263d1a7db0",
+      "title": "Sennheiser Accentum Wireless Zwart",
+      "price": 60.0,
+      "original_price": 113.8,
+      "discount_percent": 47,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sennheiser-accentum-wireless-zwart-r-20027",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1973807_9ea3a6cd-4aa5-4510-b947-a70e93abc878.jpg?v=1787556546",
+      "found_at": "2026-08-25T06:37:35.773378+00:00",
+      "price_history": [
+        {
+          "price": 64.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 113.71,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "691f81c3f17f",
       "title": "iRobot Max 705 Combo Robot + AutoWash Dock Zwart",
       "price": 503.0,
@@ -3104,6 +3208,38 @@
       "auto_approved": true
     },
     {
+      "id": "57f92723cd29",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 404.55,
+      "original_price": 569.99,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19817",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_477794fe-ccdb-479c-a3d8-945e054cc3d2.jpg?v=1786953158",
+      "found_at": "2026-08-24T06:28:03.565516+00:00",
+      "price_history": [
+        {
+          "price": 435.0,
+          "original_price": 584.0,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 408.9,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 404.55,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "183a4d740111",
       "title": "AEG LTR7STEAM - Wasmachine bovenlader - 7 kg - 1300 rpm - 79 dB Wasmachine (7 kg, 1300 rpm, A)",
       "price": 585.75,
@@ -3793,6 +3929,33 @@
         }
       ],
       "approved_at": "20-08-2026 11:22",
+      "auto_approved": true
+    },
+    {
+      "id": "0ac1c2f3143e",
+      "title": "Magimix Nespresso Inissia Zwart M105",
+      "price": 84.0,
+      "original_price": 142.47,
+      "discount_percent": 41,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-inissia-zwart-m105-r-20049",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843685_8772ab8a-ec29-4232-a711-25d212bb972c.jpg?v=1787556792",
+      "found_at": "2026-08-25T06:37:25.204609+00:00",
+      "price_history": [
+        {
+          "price": 58.0,
+          "original_price": 90.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 142.47,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
       "auto_approved": true
     },
     {
@@ -5524,6 +5687,95 @@
       "auto_approved": true
     },
     {
+      "id": "a85710ab2039",
+      "title": "IMOU RV1",
+      "price": 110.0,
+      "original_price": 175.05,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/imou-rv1-r-19795",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2073021_315e1d04-dfe7-4392-892f-724c96faf294.jpg?v=1786710012",
+      "found_at": "2026-08-25T14:36:32.041211+00:00",
+      "price_history": [
+        {
+          "price": 117.0,
+          "original_price": 156.96,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 173.02,
+          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 176.23,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 173.02,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 181.49,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 170.03,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 175.53,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": 175.05,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
+      "id": "081024276c43",
+      "title": "Refurbished iPhone 13 128GB Pink",
+      "price": 237.15,
+      "original_price": 347.0,
+      "discount_percent": 31,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-pink-r-19819",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631332_6b4b0e8c-54d8-4001-a88d-6649d382a6d7.jpg?v=1786953188",
+      "found_at": "2026-08-24T06:28:03.564842+00:00",
+      "price_history": [
+        {
+          "price": 255.0,
+          "original_price": 347.0,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 239.7,
+          "original_price": 347.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 237.15,
+          "original_price": 347.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "188db6ef9972",
       "title": "OnePlus Watch 2R  Forest Green",
       "price": 122.0,
@@ -5697,6 +5949,33 @@
       "auto_approved": true
     },
     {
+      "id": "76696e5aa1db",
+      "title": "Oral-B iO Kids 6+ Stitch",
+      "price": 33.0,
+      "original_price": 57.74,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-kids-6-stitch-r-20052",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2250496.jpg?v=1787556830",
+      "found_at": "2026-08-25T14:36:35.375661+00:00",
+      "price_history": [
+        {
+          "price": 51.0,
+          "original_price": 59.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 33.0,
+          "original_price": 54.25,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
       "id": "fc991acec35c",
       "title": "Sony Playstation 5 DualSense Draadloze Controller Starlight",
       "price": 46.0,
@@ -5844,6 +6123,60 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2197455.jpg?v=1787556691",
       "found_at": "2026-08-25T10:03:14.867042+00:00",
       "approved_at": "25-08-2026 11:06",
+      "auto_approved": true
+    },
+    {
+      "id": "8b05e454b357",
+      "title": "Dreame D30 Ultra",
+      "price": 248.0,
+      "original_price": 359.0,
+      "discount_percent": 30,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-d30-ultra-r-20143",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/242810472_d4b47686-6eb2-44d1-bd24-7c57c02f67d3.jpg?v=1787646350",
+      "found_at": "2026-08-26T14:27:00.052489+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 359.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 248.0,
+          "original_price": 359.0,
+          "scraped_at": "2026-08-26T14:00:26.550668+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
+      "auto_approved": true
+    },
+    {
+      "id": "e742fa6733c9",
+      "title": "Nordväl BP125 Battery Pack Ultra",
+      "price": 179.0,
+      "original_price": 267.33,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nordval-bp125-battery-pack-ultra-r-20014",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2167703.jpg?v=1787556412",
+      "found_at": "2026-08-25T06:37:25.205642+00:00",
+      "price_history": [
+        {
+          "price": 201.0,
+          "original_price": 280.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 179.0,
+          "original_price": 267.33,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "26-08-2026 15:31",
       "auto_approved": true
     },
     {
@@ -6309,169 +6642,6 @@
       "url": "https://stekkerstore.com/products/refurbished-iphone-se-3rd-gen-midnight-128gb-r-19828",
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712238_4185242c-b50e-4bd4-9df9-9c7d65edbf87.jpg?v=1786953274",
       "found_at": "2026-08-20T06:39:42.457247+00:00",
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "f978ba11b8c5",
-      "title": "Dell SE2725H 27\" Full HD (1920x1080) Monitor, 75Hz, VA, 5ms, VESA (100x100mm), HDMI, VGA, 3 Jaar Garantie, Zwart",
-      "price": 86.16,
-      "original_price": 135.0,
-      "discount_percent": 36,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DD7464M5?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71V7BPEYtxL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-08-23T18:18:20.239993+00:00",
-      "price_history": [
-        {
-          "price": 87.44,
-          "original_price": 135.0,
-          "scraped_at": "2026-08-18T14:00:25.797925+00:00"
-        },
-        {
-          "price": 86.16,
-          "original_price": 135.0,
-          "scraped_at": "2026-08-23T18:00:23.432704+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "1a3778435e82",
-      "title": "Shokz OpenRun Pro 2 Zwart",
-      "price": 121.0,
-      "original_price": 184.54,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/shokz-openrun-pro-2-zwart-r-19975",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2088335_e2252943-8144-4204-a5fe-bc846e360baa.jpg?v=1787645613",
-      "found_at": "2026-08-26T10:50:04.656219+00:00",
-      "approved_at": "26-08-2026 11:54",
-      "auto_approved": true
-    },
-    {
-      "id": "3c0f8002503b",
-      "title": "GreenPan FROST Grey",
-      "price": 214.0,
-      "original_price": 306.63,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/greenpan-frost-grey-r-19945",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242463_5c197efe-c51f-4a6b-a9d2-c5d52737301d.jpg?v=1786953962",
-      "found_at": "2026-08-20T06:39:32.962682+00:00",
-      "price_history": [
-        {
-          "price": 221.0,
-          "original_price": 256.66,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
-        },
-        {
-          "price": 210.0,
-          "original_price": 305.04,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 214.0,
-          "original_price": 315.01,
-          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "db120a83bd72",
-      "title": "Samsung MC32DG7646KKE1",
-      "price": 240.0,
-      "original_price": 339.29,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-mc32dg7646kke1-r-19792",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2045545_00a5ca34-d7f4-4e00-80f2-ea9910d0369e.jpg?v=1786709965",
-      "found_at": "2026-08-21T18:23:26.077379+00:00",
-      "price_history": [
-        {
-          "price": 263.0,
-          "original_price": 284.0,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 248.0,
-          "original_price": 281.0,
-          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
-        },
-        {
-          "price": 249.0,
-          "original_price": 315.86,
-          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
-        },
-        {
-          "price": 240.0,
-          "original_price": 315.86,
-          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 19:28",
-      "auto_approved": true
-    },
-    {
-      "id": "cdd2dbcc2112",
-      "title": "Karcher 5 Comfort Premium Home *EU",
-      "price": 298.0,
-      "original_price": 411.99,
-      "discount_percent": 27,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/karcher-5-comfort-premium-home-eu-r-19768",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/images_318e2040-27ab-4f9a-81c3-3a2c71e690cc.jpg?v=1786710624",
-      "found_at": "2026-08-21T10:35:06.761866+00:00",
-      "price_history": [
-        {
-          "price": 320.0,
-          "original_price": 423.18,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 302.0,
-          "original_price": 411.11,
-          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
-        },
-        {
-          "price": 310.0,
-          "original_price": 404.12,
-          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
-        },
-        {
-          "price": 309.0,
-          "original_price": 408.87,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 298.0,
-          "original_price": 419.45,
-          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
-        },
-        {
-          "price": 300.0,
-          "original_price": 412.87,
-          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
-        },
-        {
-          "price": 298.0,
-          "original_price": 411.99,
-          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
-        }
-      ],
       "approved_at": "23-08-2026 19:28",
       "auto_approved": true
     }
