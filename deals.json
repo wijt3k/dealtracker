@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T15:01:42.782935+00:00",
-  "total": 294,
+  "updated_at": "2026-08-27T18:28:10.282393+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "39f66ca6d09b",
@@ -3334,6 +3334,33 @@
       "auto_approved": true
     },
     {
+      "id": "91bd8eadf67e",
+      "title": "Weber compact",
+      "price": 267.0,
+      "original_price": 399.0,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/weber-compact-r-20129",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2246202.jpg?v=1787646230",
+      "found_at": "2026-08-26T14:27:17.251773+00:00",
+      "price_history": [
+        {
+          "price": 287.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 267.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-08-26T14:00:26.550668+00:00"
+        }
+      ],
+      "approved_at": "27-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "78e72ce5bc5f",
       "title": "Pierre Dual Stacked Airfryer",
       "price": 49.0,
@@ -6481,6 +6508,53 @@
       "auto_approved": true
     },
     {
+      "id": "0823493c29e0",
+      "title": "EMPORIA SMART.7lite, Senioren-Smartphone Android 15, 5,45 Zoll Display, LTE",
+      "price": 174.82,
+      "original_price": 259.0,
+      "discount_percent": 32,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FF51VS7M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61-MaBKygyL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-27T18:08:40.738887+00:00",
+      "price_history": [
+        {
+          "price": 157.22,
+          "original_price": 218.45,
+          "scraped_at": "2026-07-12T18:00:24.967745+00:00"
+        },
+        {
+          "price": 153.12,
+          "original_price": 218.45,
+          "scraped_at": "2026-07-19T10:00:32.517510+00:00"
+        },
+        {
+          "price": 140.42,
+          "original_price": 218.45,
+          "scraped_at": "2026-07-24T10:00:23.028789+00:00"
+        },
+        {
+          "price": 168.8,
+          "original_price": 198.21,
+          "scraped_at": "2026-08-11T06:00:30.734834+00:00"
+        },
+        {
+          "price": 172.41,
+          "original_price": 247.96,
+          "scraped_at": "2026-08-19T14:00:51.436851+00:00"
+        },
+        {
+          "price": 174.82,
+          "original_price": 259.0,
+          "scraped_at": "2026-08-27T18:00:53.041387+00:00"
+        }
+      ],
+      "approved_at": "27-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "5a7460275ff0",
       "title": "Phillips Series 5000 11-in-1 MG5941/15",
       "price": 36.0,
@@ -6582,6 +6656,132 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/d0_2126e522-78d5-4172-9318-3769e7d71581.jpg?v=1787748771",
       "found_at": "2026-08-27T14:56:32.218039+00:00",
       "approved_at": "27-08-2026 16:01",
+      "auto_approved": true
+    },
+    {
+      "id": "b805c7a2bdee",
+      "title": "WMF KITCHENmini 413180012 2-in-1 Vario",
+      "price": 60.0,
+      "original_price": 97.96,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-kitchenmini-413180012-2-in-1-vario-r-19841",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1560255.jpg?v=1787040374",
+      "found_at": "2026-08-27T14:56:45.705726+00:00",
+      "price_history": [
+        {
+          "price": 63.0,
+          "original_price": 97.24,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 60.0,
+          "original_price": 88.85,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "27-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "eaf892ba32f4",
+      "title": "Ecovacs T50 Omni Gen 3",
+      "price": 287.0,
+      "original_price": 399.0,
+      "discount_percent": 28,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ecovacs-t50-omni-gen-3-r-20177",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/625556880_b28ff66c-ffde-49bc-ae5e-626cff36388b.jpg?v=1787748113",
+      "found_at": "2026-08-27T18:22:26.040541+00:00",
+      "approved_at": "27-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "f325e0127b10",
+      "title": "Philips 8000 Series DST8040/30",
+      "price": 71.0,
+      "original_price": 113.63,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-8000-series-dst8040-30-r-20050",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2192945.jpg?v=1787556824",
+      "found_at": "2026-08-27T18:22:36.200050+00:00",
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 100.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 113.85,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "27-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "06cbff51197e",
+      "title": "Philips HR1855/70 Viva",
+      "price": 79.0,
+      "original_price": 124.78,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hr1855-70-viva-r-19546",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364181.jpg?v=1786104023",
+      "found_at": "2026-08-27T18:22:36.200466+00:00",
+      "price_history": [
+        {
+          "price": 105.0,
+          "original_price": 124.67,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 122.64,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 123.71,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 123.01,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 122.62,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 124.44,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 125.98,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 121.95,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "27-08-2026 19:28",
       "auto_approved": true
     }
   ]
