@@ -1,39 +1,7 @@
 {
-  "updated_at": "2026-08-27T06:42:02.406468+00:00",
-  "total": 300,
+  "updated_at": "2026-08-27T06:42:15.523833+00:00",
+  "total": 296,
   "deals": [
-    {
-      "id": "d2b2d35757cb",
-      "title": "Microsoft Surface Pro 11 Copilot+ PC Qualcomm Snapdragon 256 GB 33 cm (13 inch) 16 GB Wi-Fi 7 (802.11be) Windows 11 Pro Platina",
-      "price": 739.81,
-      "original_price": 1852.27,
-      "discount_percent": 60,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DHXR3VYP?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61ivrH+2k3L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-08-23T06:09:11.682985+00:00",
-      "price_history": [
-        {
-          "price": 798.11,
-          "original_price": null,
-          "scraped_at": "2026-08-09T18:00:35.632338+00:00"
-        },
-        {
-          "price": 768.97,
-          "original_price": null,
-          "scraped_at": "2026-08-17T06:00:55.853389+00:00"
-        },
-        {
-          "price": 739.81,
-          "original_price": 1852.27,
-          "scraped_at": "2026-08-23T06:00:37.342923+00:00"
-        }
-      ],
-      "approved_at": "23-08-2026 07:42",
-      "auto_approved": true
-    },
     {
       "id": "39f66ca6d09b",
       "title": "Dell XPS 13 (9340) Laptop 13,4 inch (33,4 cm) FHD+ Display 120 Hz, Intel Core Ultra 5 Series 1, Intel Evo Edition, Intel Arc, 16 GB RAM, 512 GB SSD, Windows 11 Home, toetsenbord met",
@@ -1721,21 +1689,6 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a884bed0af60_ASSET_MMS_171279848-500x500.png",
       "found_at": "2026-08-18T06:32:04.750877+00:00",
       "approved_at": "23-08-2026 15:38",
-      "auto_approved": true
-    },
-    {
-      "id": "b3c4e76179fb",
-      "title": "AEG TO64IA0AFB",
-      "price": 314.0,
-      "original_price": 484.0,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/aeg-to64ia0afb-r-19402",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2169624.jpg?v=1784878460",
-      "found_at": "2026-07-25T06:09:11.537844+00:00",
-      "approved_at": "25-07-2026 07:15",
       "auto_approved": true
     },
     {
@@ -4145,21 +4098,6 @@
       "auto_approved": true
     },
     {
-      "id": "3376359bf6f5",
-      "title": "SAMSUNG DV90DG52A0AHEN 5000-serie -  Warmtepompdroger - 9 kg - 65 dB - Energielabel C",
-      "price": 524.25,
-      "original_price": 699.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=343598",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8866bfbe8af_ASSET_MMS_181438018-500x500.png",
-      "found_at": "2026-08-21T18:22:31.937685+00:00",
-      "approved_at": "23-08-2026 15:38",
-      "auto_approved": true
-    },
-    {
       "id": "f967b4487f06",
       "title": "EVERGLADES EVCK6250 - Fornuis - Inductie 2-fasen (Perilex) - breedte 60 cm Fornuis",
       "price": 524.25,
@@ -6022,21 +5960,6 @@
       "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=342798",
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a883e2edc099_ASSET_MMS_140405818-500x500.png",
       "found_at": "2026-08-18T14:21:24.257816+00:00",
-      "approved_at": "23-08-2026 15:38",
-      "auto_approved": true
-    },
-    {
-      "id": "53f1de2110b7",
-      "title": "BOSCH WTH8300SNL Serie 4 AutoDry Warmtepompdroger",
-      "price": 449.25,
-      "original_price": 599.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=342906",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a88762c6ef75_ASSET_MMS_144154183-500x500.png",
-      "found_at": "2026-08-18T14:21:24.174417+00:00",
       "approved_at": "23-08-2026 15:38",
       "auto_approved": true
     },
