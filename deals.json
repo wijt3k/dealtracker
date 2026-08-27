@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T15:01:32.835462+00:00",
-  "total": 300,
+  "updated_at": "2026-08-27T15:01:42.782935+00:00",
+  "total": 294,
   "deals": [
     {
       "id": "39f66ca6d09b",
@@ -1794,78 +1794,6 @@
       "auto_approved": true
     },
     {
-      "id": "01d0538edbe1",
-      "title": "Weber Braadspit Genesis 4/6 branders",
-      "price": 98.0,
-      "original_price": 181.66,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/weber-braadspit-genesis-4-6-branders-r-19463",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2020954.jpg?v=1785141679",
-      "found_at": "2026-08-18T10:32:36.272573+00:00",
-      "price_history": [
-        {
-          "price": 184.0,
-          "original_price": 200.0,
-          "scraped_at": "2026-07-28T10:01:06.624460+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 186.33,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": 186.33,
-          "scraped_at": "2026-08-03T10:00:31.210715+00:00"
-        },
-        {
-          "price": 158.0,
-          "original_price": 175.79,
-          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
-        },
-        {
-          "price": 146.0,
-          "original_price": 177.99,
-          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
-        },
-        {
-          "price": 145.0,
-          "original_price": 185.56,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 131.0,
-          "original_price": 183.16,
-          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
-        },
-        {
-          "price": 98.0,
-          "original_price": 181.66,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
-        }
-      ],
-      "approved_at": "18-08-2026 11:37",
-      "auto_approved": true
-    },
-    {
-      "id": "e4e274bd978a",
-      "title": "Bowers & Wilkins FS-600 S3 Zwart (per paar)",
-      "price": 135.0,
-      "original_price": 239.96,
-      "discount_percent": 43,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bowers-wilkins-fs-600-s3-zwart-per-paar-r-19774",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1975769.jpg?v=1786709772",
-      "found_at": "2026-08-15T10:11:26.097400+00:00",
-      "approved_at": "15-08-2026 11:16",
-      "auto_approved": true
-    },
-    {
       "id": "171ebb62638a",
       "title": "WiZ Connected Box met TV verlichting - WiZ Entertainment Sta",
       "price": 41.0,
@@ -1938,53 +1866,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/821797721.avif?v=1786710572",
       "found_at": "2026-08-15T10:11:33.130057+00:00",
       "approved_at": "15-08-2026 11:16",
-      "auto_approved": true
-    },
-    {
-      "id": "7644499c336c",
-      "title": "Philips Shaver i9000 X9002/10",
-      "price": 111.0,
-      "original_price": 199.17,
-      "discount_percent": 44,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-shaver-i9000-x9002-10-r-19533",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156149_e9f38ff8-70e4-4cf0-b046-467f01572826.jpg?v=1785834071",
-      "found_at": "2026-08-20T10:18:44.904879+00:00",
-      "price_history": [
-        {
-          "price": 167.0,
-          "original_price": 190.0,
-          "scraped_at": "2026-08-04T14:00:29.263483+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 205.03,
-          "scraped_at": "2026-08-05T10:00:29.267927+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": 203.81,
-          "scraped_at": "2026-08-10T10:00:30.718729+00:00"
-        },
-        {
-          "price": 142.0,
-          "original_price": 205.66,
-          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
-        },
-        {
-          "price": 135.0,
-          "original_price": 203.62,
-          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 199.17,
-          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
-        }
-      ],
-      "approved_at": "20-08-2026 11:22",
       "auto_approved": true
     },
     {
@@ -3311,38 +3192,6 @@
         }
       ],
       "approved_at": "25-08-2026 07:42",
-      "auto_approved": true
-    },
-    {
-      "id": "814d96685388",
-      "title": "Samsung Essential S4 LS24D402GAUXEN",
-      "price": 65.0,
-      "original_price": 116.78,
-      "discount_percent": 44,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-essential-s4-ls24d402gauxen-r-19513",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2134689.jpg?v=1785222463",
-      "found_at": "2026-07-29T14:27:50.410770+00:00",
-      "price_history": [
-        {
-          "price": 61.0,
-          "original_price": 86.0,
-          "scraped_at": "2026-07-28T18:00:22.963121+00:00"
-        },
-        {
-          "price": 70.0,
-          "original_price": 116.78,
-          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
-        },
-        {
-          "price": 65.0,
-          "original_price": 116.78,
-          "scraped_at": "2026-07-29T14:00:26.453815+00:00"
-        }
-      ],
-      "approved_at": "29-07-2026 15:32",
       "auto_approved": true
     },
     {
@@ -5103,21 +4952,6 @@
       "auto_approved": true
     },
     {
-      "id": "46cbb702df42",
-      "title": "LG F4DR3096N3W TurboWash -  Was-droogcombinatie - 9 kg + 6 kg - 1400 rpm - 71 dB",
-      "price": 486.75,
-      "original_price": 649.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=342634",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8407595d638_ASSET_MMS_177702616-500x500.png",
-      "found_at": "2026-08-23T06:37:27.614301+00:00",
-      "approved_at": "23-08-2026 15:38",
-      "auto_approved": true
-    },
-    {
       "id": "32012595d640",
       "title": "LG RHX1008NWH - Warmtepompdroger - 8 kg - 64 - Energielabel C",
       "price": 486.75,
@@ -5224,21 +5058,6 @@
         }
       ],
       "approved_at": "27-08-2026 11:24",
-      "auto_approved": true
-    },
-    {
-      "id": "066739e8549c",
-      "title": "BOSCH HKR39C250 - Fornuis - Keramisch - 3-fasen (Perilex) - breedte 60 cm",
-      "price": 481.5,
-      "original_price": 642.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=343449",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a885a4708ec7_ASSET_MMS_78683881-500x500.png",
-      "found_at": "2026-08-20T14:16:00.998378+00:00",
-      "approved_at": "23-08-2026 15:38",
       "auto_approved": true
     },
     {
