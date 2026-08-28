@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T18:28:16.772442+00:00",
-  "total": 295,
+  "updated_at": "2026-08-28T06:27:17.617605+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "39f66ca6d09b",
@@ -6618,6 +6618,169 @@
         }
       ],
       "approved_at": "27-08-2026 19:28",
+      "auto_approved": true
+    },
+    {
+      "id": "3a723e910fa5",
+      "title": "Magimix Nespresso CitiZ M196 CN Zwart",
+      "price": 94.0,
+      "original_price": 145.0,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-m196-cn-zwart-r-20133",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843717_921de5d3-04b1-4fae-8f3e-f024b410aa7e.jpg?v=1787747967",
+      "found_at": "2026-08-28T06:21:35.592682+00:00",
+      "approved_at": "28-08-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "7e6a2b505242",
+      "title": "Asus Zenbook 14 OLED UX3405CA-QL367W",
+      "price": 1257.0,
+      "original_price": 1464.0,
+      "discount_percent": 14,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/asus-zenbook-14-oled-ux3405ca-ql367w-r-19998",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2136550.jpg?v=1787645700",
+      "found_at": "2026-08-28T06:21:25.510656+00:00",
+      "price_history": [
+        {
+          "price": 1319.0,
+          "original_price": 1499.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 1257.0,
+          "original_price": 1464.0,
+          "scraped_at": "2026-08-27T10:00:22.484243+00:00"
+        }
+      ],
+      "approved_at": "28-08-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "4ab907099bb9",
+      "title": "Dreame C1 Station GCJZ2419",
+      "price": 358.0,
+      "original_price": 481.27,
+      "discount_percent": 25,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-c1-station-gcjz2419-r-19750",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209402.jpg?v=1786709513",
+      "found_at": "2026-08-28T06:21:28.607316+00:00",
+      "price_history": [
+        {
+          "price": 421.0,
+          "original_price": 479.0,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 397.0,
+          "original_price": 489.0,
+          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
+        },
+        {
+          "price": 396.0,
+          "original_price": 468.56,
+          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
+        },
+        {
+          "price": 382.0,
+          "original_price": 475.57,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 358.0,
+          "original_price": 476.17,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        }
+      ],
+      "approved_at": "28-08-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "da738775fd7a",
+      "title": "Shokz OpenFit Zwart",
+      "price": 104.0,
+      "original_price": 159.49,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/shokz-openfit-zwart-r-19833",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935097_526e5a2b-dc10-4513-9e12-c24e9f2f4a1b.jpg?v=1786710067",
+      "found_at": "2026-08-28T06:21:42.989679+00:00",
+      "price_history": [
+        {
+          "price": 113.0,
+          "original_price": 162.25,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 158.09,
+          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 166.83,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 163.84,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 162.37,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 159.49,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 159.49,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        }
+      ],
+      "approved_at": "28-08-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "090c7fd3db2e",
+      "title": "BaByliss BaByliss Super-X Metal Tondeuse E991E",
+      "price": 70.0,
+      "original_price": 110.27,
+      "discount_percent": 36,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-babyliss-super-x-metal-tondeuse-e991e-r-19776",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815329_8a39a147-a82e-4eed-a8ac-fe56b5dbfe1f.jpg?v=1787040254",
+      "found_at": "2026-08-28T06:21:25.511253+00:00",
+      "price_history": [
+        {
+          "price": 73.0,
+          "original_price": 102.17,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 100.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "28-08-2026 07:27",
       "auto_approved": true
     }
   ]
