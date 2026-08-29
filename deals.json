@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T18:37:03.764681+00:00",
-  "total": 285,
+  "updated_at": "2026-08-29T06:33:51.263544+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "39f66ca6d09b",
@@ -5647,6 +5647,38 @@
       "auto_approved": true
     },
     {
+      "id": "f978ba11b8c5",
+      "title": "Dell SE2725H 27\" Full HD (1920x1080) Monitor, 75Hz, VA, 5ms, VESA (100x100mm), HDMI, VGA, 3 Jaar Garantie, Zwart",
+      "price": 84.87,
+      "original_price": 135.0,
+      "discount_percent": 37,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DD7464M5?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71V7BPEYtxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-29T06:22:37.874814+00:00",
+      "price_history": [
+        {
+          "price": 87.44,
+          "original_price": 135.0,
+          "scraped_at": "2026-08-18T14:00:25.797925+00:00"
+        },
+        {
+          "price": 86.16,
+          "original_price": 135.0,
+          "scraped_at": "2026-08-23T18:00:23.432704+00:00"
+        },
+        {
+          "price": 84.87,
+          "original_price": 135.0,
+          "scraped_at": "2026-08-29T06:00:46.874917+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
       "id": "82b9c01def47",
       "title": "Hozelock Fast Cart Slangenwagen 40m",
       "price": 85.0,
@@ -6184,6 +6216,21 @@
       "auto_approved": true
     },
     {
+      "id": "ec8ac1b27977",
+      "title": "ZTE Blade A36 4G smartphone, 128 GB geheugen, 12 GB RAM (4 GB + 8 GB Memory Fusion), 5000 mAh batterij, 8 MP camera met AI, Android 15, Nebula Black",
+      "price": 93.43,
+      "original_price": 145.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GKGVCPLH?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Tf6OvEijL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-29T06:08:46.635791+00:00",
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
       "id": "96b627082545",
       "title": "Clean Air Optima CA-604B Smart Top Filling",
       "price": 93.0,
@@ -6457,6 +6504,388 @@
         }
       ],
       "approved_at": "28-08-2026 19:37",
+      "auto_approved": true
+    },
+    {
+      "id": "ba9c54dc1c85",
+      "title": "Philips Series 7000 17-in-1 MG7941/15",
+      "price": 48.0,
+      "original_price": 75.63,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-series-7000-17-in-1-mg7941-15-r-20163",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224806_34b1f9e1-4ade-4689-82a4-988461215552.jpg?v=1787748068",
+      "found_at": "2026-08-29T06:27:57.522835+00:00",
+      "price_history": [
+        {
+          "price": 51.0,
+          "original_price": 72.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 75.63,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "27c201fb3403",
+      "title": "Acer Aspire 17 A17-51GM-70LZ QWERTZ",
+      "price": 811.0,
+      "original_price": 980.5,
+      "discount_percent": 17,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-aspire-17-a17-51gm-70lz-qwertz-r-20094",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2122319.jpg?v=1787645908",
+      "found_at": "2026-08-29T06:27:45.450075+00:00",
+      "price_history": [
+        {
+          "price": 882.0,
+          "original_price": 959.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 811.0,
+          "original_price": 980.5,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "796b7594ce79",
+      "title": "SMEG KLF03BLMEU Zwart",
+      "price": 120.0,
+      "original_price": 176.64,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/smeg-klf03blmeu-zwart-r-20081",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1460485_b7fd353d-3930-4557-b5dd-38fb8657cb6a.jpg?v=1787645781",
+      "found_at": "2026-08-29T06:28:00.529643+00:00",
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "8dbee1880812",
+      "title": "Satechi Aluminum Mac Mini Stand Hub Zilver",
+      "price": 59.0,
+      "original_price": 91.29,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/satechi-aluminum-mac-mini-stand-hub-zilver-r-19697",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1581072_5cc43b36-212b-43a0-9b5d-e828f3aeecd2.jpg?v=1786448225",
+      "found_at": "2026-08-29T06:28:00.528481+00:00",
+      "price_history": [
+        {
+          "price": 79.0,
+          "original_price": 85.45,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": 88.94,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 91.05,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 91.29,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "713b6da28b71",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 443.0,
+      "original_price": 569.99,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19979",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_904e5363-20c0-4c4e-8319-729e6f6f0cfd.jpg?v=1787645659",
+      "found_at": "2026-08-29T06:28:00.525817+00:00",
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "8b46dcb17ac4",
+      "title": "Philips 5000 Series HR2767/00",
+      "price": 64.0,
+      "original_price": 98.36,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-5000-series-hr2767-00-r-20051",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2030543.jpg?v=1787556821",
+      "found_at": "2026-08-29T06:27:54.622854+00:00",
+      "price_history": [
+        {
+          "price": 49.0,
+          "original_price": 69.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 97.52,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "7b6c400b4fc2",
+      "title": "BaByliss BaByliss Super-X Metal Tondeuse E991E",
+      "price": 73.0,
+      "original_price": 109.55,
+      "discount_percent": 33,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-babyliss-super-x-metal-tondeuse-e991e-r-19929",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815329_407c2cee-0170-48f4-9c7b-04c1a91d0124.jpg?v=1786953756",
+      "found_at": "2026-08-29T06:27:45.451826+00:00",
+      "price_history": [
+        {
+          "price": 76.0,
+          "original_price": 102.17,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 108.22,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "1fade7dd6705",
+      "title": "HUAWEI WATCH GT 6 GPS 46mm Smartwatch, 1,47 inch AMOLED-scherm, Tot 21 dagen batterijduur, Pro-level functies voor wielrennen, compatibel met zowel iOS als Android,emotioneel welzijn, Noir Zwart",
+      "price": 133.78,
+      "original_price": 191.7,
+      "discount_percent": 30,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FK4J2X7D?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71BMyRfTLOL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-29T06:14:02.964615+00:00",
+      "price_history": [
+        {
+          "price": 154.02,
+          "original_price": 179.99,
+          "scraped_at": "2026-08-13T14:00:31.858690+00:00"
+        },
+        {
+          "price": 156.07,
+          "original_price": 191.7,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 140.33,
+          "original_price": 191.7,
+          "scraped_at": "2026-08-24T06:00:50.370947+00:00"
+        },
+        {
+          "price": 133.78,
+          "original_price": 191.7,
+          "scraped_at": "2026-08-29T06:00:46.874917+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "03f6a559b547",
+      "title": "Oppo Reno15 512GB Donkerblauw 5G",
+      "price": 452.0,
+      "original_price": 576.88,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oppo-reno15-512gb-donkerblauw-5g-r-20190",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/674285104_ea42a4bc-e2c6-42db-a409-d28a05c1ce03.jpg?v=1787748265",
+      "found_at": "2026-08-29T06:27:54.621078+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 452.0,
+          "original_price": 576.88,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "4ab907099bb9",
+      "title": "Dreame C1 Station GCJZ2419",
+      "price": 358.0,
+      "original_price": 467.57,
+      "discount_percent": 23,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-c1-station-gcjz2419-r-19750",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209402.jpg?v=1786709513",
+      "found_at": "2026-08-29T06:27:47.886705+00:00",
+      "price_history": [
+        {
+          "price": 421.0,
+          "original_price": 479.0,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 397.0,
+          "original_price": 489.0,
+          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
+        },
+        {
+          "price": 396.0,
+          "original_price": 468.56,
+          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
+        },
+        {
+          "price": 382.0,
+          "original_price": 475.57,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 358.0,
+          "original_price": 476.17,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "edd15477a091",
+      "title": "WHOOP SportFlex 5.0 Band - Gravity",
+      "price": 34.0,
+      "original_price": 53.0,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/whoop-sportflex-5-0-band-gravity-r-19762",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/653747478.jpg?v=1787040191",
+      "found_at": "2026-08-29T06:28:04.115608+00:00",
+      "price_history": [
+        {
+          "price": 38.0,
+          "original_price": 53.0,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 35.0,
+          "original_price": 53.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 34.0,
+          "original_price": 53.0,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "2fea608d368f",
+      "title": "Philips Shaver i9000 Prestige Ultra XP9402/31",
+      "price": 275.0,
+      "original_price": 368.51,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-ultra-xp9402-31-r-20044",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156221_dffdec34-a0d3-4958-ad21-d579abe7ae26.jpg?v=1787556747",
+      "found_at": "2026-08-29T06:27:57.523662+00:00",
+      "price_history": [
+        {
+          "price": 253.0,
+          "original_price": 275.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 275.0,
+          "original_price": 358.44,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "3dd8a1a3af6c",
+      "title": "Ecovacs T50 Omni Gen 3",
+      "price": 322.0,
+      "original_price": 422.84,
+      "discount_percent": 23,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ecovacs-t50-omni-gen-3-r-19989",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/625556880.jpg?v=1787556156",
+      "found_at": "2026-08-29T06:27:47.888293+00:00",
+      "price_history": [
+        {
+          "price": 347.0,
+          "original_price": 395.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 342.0,
+          "original_price": 419.26,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 322.0,
+          "original_price": 419.26,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        },
+        {
+          "price": 331.0,
+          "original_price": 421.58,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 322.0,
+          "original_price": 422.84,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "29-08-2026 07:33",
       "auto_approved": true
     }
   ]
