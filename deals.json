@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T10:28:49.786625+00:00",
-  "total": 289,
+  "updated_at": "2026-08-30T14:25:11.802495+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "39f66ca6d09b",
@@ -7013,6 +7013,423 @@
         }
       ],
       "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
+      "id": "9e99a8e955ef",
+      "title": "Wisberg WB1M25B",
+      "price": 62.0,
+      "original_price": 91.0,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wisberg-wb1m25b-r-19986",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2150766_03196f7a-409d-45a8-804f-ee6265871a53.jpg?v=1787556108",
+      "found_at": "2026-08-30T14:19:30.583721+00:00",
+      "price_history": [
+        {
+          "price": 61.0,
+          "original_price": 95.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 83.33,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 65.0,
+          "original_price": 83.33,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 91.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "b455f6f175f9",
+      "title": "Lenovo IdeaPad Flex 5 14IAU7 82R700HLMH QWERTY",
+      "price": 631.0,
+      "original_price": 763.0,
+      "discount_percent": 17,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideapad-flex-5-14iau7-82r700hlmh-qwerty-r-20023",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1947659_d46973c1-6cd5-4d45-b948-601d80f1f44d.jpg?v=1787556511",
+      "found_at": "2026-08-30T14:19:17.453039+00:00",
+      "price_history": [
+        {
+          "price": 671.0,
+          "original_price": 763.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 631.0,
+          "original_price": 763.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "fa3e2885615e",
+      "title": "Rowenta Compact Power XXL RO4B11",
+      "price": 71.0,
+      "original_price": 101.71,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-compact-power-xxl-ro4b11-r-20181",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107556_f6add537-37c0-4707-9b6a-3d08886de13a.jpg?v=1787748187",
+      "found_at": "2026-08-30T14:19:27.727142+00:00",
+      "price_history": [
+        {
+          "price": 77.0,
+          "original_price": 107.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 101.68,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "cca8fe2efb90",
+      "title": "Refurbished iPhone 13 128GB Pink",
+      "price": 269.28,
+      "original_price": 351.0,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-pink-r-19808",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631332_1fa5de9d-5595-4651-b210-e0396a190126.jpg?v=1786953078",
+      "found_at": "2026-08-30T14:19:24.540949+00:00",
+      "price_history": [
+        {
+          "price": 306.0,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 287.64,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 284.58,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 281.52,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 278.46,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 275.4,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 272.34,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 269.28,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "5a1aeef4bbff",
+      "title": "Refurbished iPhone 13 128GB Black",
+      "price": 269.28,
+      "original_price": 351.0,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-black-r-19816",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1933876_2e86f507-808f-4c23-8045-b7b3677561ef.jpg?v=1786953157",
+      "found_at": "2026-08-30T14:19:24.540842+00:00",
+      "price_history": [
+        {
+          "price": 306.0,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 287.64,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 284.58,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 281.52,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 278.46,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 275.4,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 272.34,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 269.28,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "d0a7aeaa64ac",
+      "title": "Ezviz RS20 Pro Onderhoudspakket",
+      "price": 27.0,
+      "original_price": 40.0,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ezviz-rs20-pro-onderhoudspakket-r-20032",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127331.jpg?v=1787556600",
+      "found_at": "2026-08-30T14:19:14.498057+00:00",
+      "price_history": [
+        {
+          "price": 28.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 27.0,
+          "original_price": 40.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "6f8cc489bb2d",
+      "title": "Oral-B iO5N Pink",
+      "price": 79.0,
+      "original_price": 112.42,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io5n-pink-r-19911",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1778315_70b4fcf5-e51d-4b65-b2f7-e0ccf9d07515.jpg?v=1786953681",
+      "found_at": "2026-08-30T14:19:21.127971+00:00",
+      "price_history": [
+        {
+          "price": 87.0,
+          "original_price": 110.67,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 108.26,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 113.45,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "7e0a2302b035",
+      "title": "Philips Lumea IPL 9900 Series BRP959/00 SkinAI",
+      "price": 400.0,
+      "original_price": 500.0,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-lumea-ipl-9900-series-brp959-00-skinai-r-19738",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2197507_d4723463-39db-4941-945c-46ddee4ee67a.jpg?v=1787040130",
+      "found_at": "2026-08-30T14:19:24.538228+00:00",
+      "price_history": [
+        {
+          "price": 440.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 418.0,
+          "original_price": 492.93,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 425.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 400.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "c628805d685a",
+      "title": "Apple AirPods Max 2 Middernacht",
+      "price": 449.0,
+      "original_price": 556.38,
+      "discount_percent": 19,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-airpods-max-2-middernacht-r-20060",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/401514823_3c683d6c-ad4a-48da-a597-622bbe618c44.jpg?v=1787556930",
+      "found_at": "2026-08-30T14:19:11.942541+00:00",
+      "price_history": [
+        {
+          "price": 388.0,
+          "original_price": 442.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 465.0,
+          "original_price": 570.5,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 449.0,
+          "original_price": 556.38,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "6ff9b1b9f25d",
+      "title": "BLACK+DECKER Black & Decker PD1420LP-QW",
+      "price": 72.0,
+      "original_price": 102.22,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/black-decker-black-decker-pd1420lp-qw-r-19845",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1363298.jpg?v=1786953375",
+      "found_at": "2026-08-30T14:19:11.944422+00:00",
+      "price_history": [
+        {
+          "price": 95.0,
+          "original_price": 107.99,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 76.0,
+          "original_price": 103.91,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 106.6,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 84.0,
+          "original_price": 104.62,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 113.11,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 100.7,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 72.0,
+          "original_price": 102.22,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "194d44fed144",
+      "title": "Philips Sonicare Prestige 9900 HX9992/11",
+      "price": 175.0,
+      "original_price": 233.79,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-sonicare-prestige-9900-hx9992-11-r-19728",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1577333_df07ed78-4cb7-4fdb-8a51-ce81f6cff75d.jpg?v=1787040076",
+      "found_at": "2026-08-30T14:19:24.539850+00:00",
+      "price_history": [
+        {
+          "price": 192.0,
+          "original_price": 238.02,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 186.0,
+          "original_price": 235.28,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 233.79,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 15:25",
       "auto_approved": true
     }
   ]
