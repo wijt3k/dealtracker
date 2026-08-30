@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-30T06:31:43.776212+00:00",
-  "total": 294,
+  "updated_at": "2026-08-30T10:28:46.527235+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "39f66ca6d09b",
@@ -5623,6 +5623,38 @@
       "auto_approved": true
     },
     {
+      "id": "a5acbf3ad160",
+      "title": "Wisberg S70 Ultimate Power",
+      "price": 131.0,
+      "original_price": 198.5,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wisberg-s70-ultimate-power-r-19985",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242268_9d581c98-d6dd-43f5-9979-72d6002a4538.jpg?v=1787556103",
+      "found_at": "2026-08-30T10:23:19.907489+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 169.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 137.0,
+          "original_price": 178.67,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 198.5,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
       "id": "84464e1245cc",
       "title": "Ring Camera met schijnwerpers Plus bedraad (Floodlight Cam Wired Plus) | 1080p HD-video, led-schijnwerpers, ingebouwde sirene, vaste bedrading | Ring Home-proefperiode (30 dagen gratis)",
       "price": 74.99,
@@ -6013,6 +6045,38 @@
       "auto_approved": true
     },
     {
+      "id": "de8e7b12490e",
+      "title": "Oral-B iO Ultimate Clean Wit (6 stuks)",
+      "price": 26.0,
+      "original_price": 42.94,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-ultimate-clean-wit-6-stuks-r-19893",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2157950_5a3a634a-154b-46df-bd9c-3847d065e8b9.jpg?v=1787040690",
+      "found_at": "2026-08-30T10:23:10.763425+00:00",
+      "price_history": [
+        {
+          "price": 29.0,
+          "original_price": 41.12,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 28.0,
+          "original_price": 44.71,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        },
+        {
+          "price": 26.0,
+          "original_price": 42.94,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
       "id": "d4dbaa7f16b5",
       "title": "Apple iPad Pro 2025 11 inch 256GB Wifi Zwart",
       "price": 1090.0,
@@ -6309,6 +6373,43 @@
       "auto_approved": true
     },
     {
+      "id": "634b5826f5d5",
+      "title": "Oral-B iO 3N Zwart en Roze Duo pack",
+      "price": 80.0,
+      "original_price": 121.89,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-3n-zwart-en-roze-duo-pack-r-20016",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076355_af74aa9e-2e0b-476c-ac52-fc7c394b9a35.jpg?v=1787556433",
+      "found_at": "2026-08-30T10:23:10.763021+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 116.55,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 118.45,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 121.89,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
       "id": "e90fad9bd691",
       "title": "Braun Silk·épil 5 5-041 Roze",
       "price": 47.0,
@@ -6400,6 +6501,60 @@
         }
       ],
       "approved_at": "29-08-2026 07:33",
+      "auto_approved": true
+    },
+    {
+      "id": "29eafd2b5940",
+      "title": "Samsung Samsung 32\" Full HD F6000F (2025)",
+      "price": 239.0,
+      "original_price": 330.59,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-samsung-32-full-hd-f6000f-2025-r-20232",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2171812_bfa09309-d8bd-4987-97b2-8e7128b9d736.jpg?v=1787919133",
+      "found_at": "2026-08-30T10:23:17.005683+00:00",
+      "price_history": [
+        {
+          "price": 253.0,
+          "original_price": 313.22,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 313.22,
+          "scraped_at": "2026-08-29T14:00:24.897626+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
+      "id": "91889c5f45f0",
+      "title": "Samsung 32\" Full HD F6000F (2025)",
+      "price": 239.0,
+      "original_price": 330.59,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-32-full-hd-f6000f-2025-r-20223",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2171812_95e280c4-e074-4aa6-9a2f-a0f04014f206.jpg?v=1787919059",
+      "found_at": "2026-08-30T10:23:17.004486+00:00",
+      "price_history": [
+        {
+          "price": 253.0,
+          "original_price": 313.22,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 313.22,
+          "scraped_at": "2026-08-29T14:00:24.897626+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 11:28",
       "auto_approved": true
     },
     {
@@ -6702,6 +6857,43 @@
       "auto_approved": true
     },
     {
+      "id": "a03c105bc523",
+      "title": "Audio-Technica AT-LP60XBTBK",
+      "price": 152.0,
+      "original_price": 212.78,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/audio-technica-at-lp60xbtbk-r-20018",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1385982_54150472-8a96-48bb-be9a-74a5365b3ba2.jpg?v=1787556467",
+      "found_at": "2026-08-30T10:23:02.496179+00:00",
+      "price_history": [
+        {
+          "price": 147.0,
+          "original_price": 168.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 165.0,
+          "original_price": 211.1,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 156.0,
+          "original_price": 211.1,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        },
+        {
+          "price": 152.0,
+          "original_price": 212.78,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
       "id": "3dd8a1a3af6c",
       "title": "Ecovacs T50 Omni Gen 3",
       "price": 322.0,
@@ -6964,35 +7156,40 @@
       "auto_approved": true
     },
     {
-      "id": "dd657fe1b60b",
-      "title": "DJI Osmo Pocket 3 - Creator Combo",
-      "price": 378.0,
-      "original_price": 480.9,
-      "discount_percent": 21,
+      "id": "8af2cd9ccb96",
+      "title": "Sony Bravia Theatre Bar 6 Zwart",
+      "price": 291.0,
+      "original_price": 382.03,
+      "discount_percent": 23,
       "category": "elektronica",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dji-osmo-pocket-3-creator-combo-r-20135",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989460_a4370c3a-71dd-41ec-9d4e-b8911a305fb4.jpg?v=1787747970",
-      "found_at": "2026-08-30T06:25:31.562030+00:00",
+      "url": "https://stekkerstore.com/products/sony-bravia-theatre-bar-6-zwart-r-19788",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156045_fa641200-8cfe-464b-bd7d-e78d242673de.jpg?v=1786709932",
+      "found_at": "2026-08-30T10:23:17.007236+00:00",
       "price_history": [
         {
-          "price": 456.0,
-          "original_price": 519.0,
-          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+          "price": 342.0,
+          "original_price": 399.33,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
         },
         {
-          "price": 386.0,
-          "original_price": 461.32,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+          "price": 322.0,
+          "original_price": 398.06,
+          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
         },
         {
-          "price": 378.0,
-          "original_price": 480.9,
-          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+          "price": 311.0,
+          "original_price": 399.59,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 291.0,
+          "original_price": 372.75,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
         }
       ],
-      "approved_at": "30-08-2026 07:31",
+      "approved_at": "30-08-2026 11:28",
       "auto_approved": true
     }
   ]
