@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T06:37:14.524055+00:00",
-  "total": 291,
+  "updated_at": "2026-08-31T10:47:08.454246+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -75,6 +75,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135940.jpg?v=1787645919",
       "found_at": "2026-08-26T10:50:00.672583+00:00",
       "approved_at": "26-08-2026 11:54",
+      "auto_approved": true
+    },
+    {
+      "id": "6baa8490d311",
+      "title": "Microsoft Surface Laptop | Copilot+ PC | 13,8 inch touchscreen | Snapdragon® X Elite (12 kernen) | 16 GB RAM | 512 GB SSD | Nieuwste model, 7e editie | zwart",
+      "price": 905.24,
+      "original_price": 1510.68,
+      "discount_percent": 40,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D1VZCM76?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61f3WGJepHL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-31T10:07:45.206664+00:00",
+      "approved_at": "31-08-2026 11:47",
       "auto_approved": true
     },
     {
@@ -1131,6 +1146,21 @@
         }
       ],
       "approved_at": "25-08-2026 15:41",
+      "auto_approved": true
+    },
+    {
+      "id": "1ff4e8988ebf",
+      "title": "Refurbished iPhone SE 2020 Black 128GB - A",
+      "price": 108.0,
+      "original_price": 205.0,
+      "discount_percent": 47,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-se-2020-black-128gb-a-r-20228",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1415943_3a0b7cf3-3716-4fc8-a12c-964ecbd452c9.jpg?v=1787919097",
+      "found_at": "2026-08-31T10:41:41.000922+00:00",
+      "approved_at": "31-08-2026 11:47",
       "auto_approved": true
     },
     {
@@ -2592,6 +2622,43 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a883e1c91ebe_ASSET_MMS_105467051-500x500.png",
       "found_at": "2026-08-19T14:17:12.277629+00:00",
       "approved_at": "23-08-2026 15:38",
+      "auto_approved": true
+    },
+    {
+      "id": "cce9b8fe03a3",
+      "title": "Dyson Car+Boat",
+      "price": 151.0,
+      "original_price": 241.15,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-car-boat-r-19769",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156901.jpg?v=1786709678",
+      "found_at": "2026-08-31T10:41:30.765747+00:00",
+      "price_history": [
+        {
+          "price": 201.0,
+          "original_price": 229.35,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 231.36,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 230.53,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 241.15,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
       "auto_approved": true
     },
     {
@@ -5136,6 +5203,21 @@
       "auto_approved": true
     },
     {
+      "id": "d2198c89ba63",
+      "title": "HP OmniBook X Flip 2-in-1 Next Gen AI laptop | AMD Ryzen AI 7 350 (8C) | speciale NPU voor KI | 50 NPU Tops | Copilot+ PC | 14\" 3K 2880x1800 OLED-touchscreen | 16GB | 1TB SSD | Win11 | QWERTZ | zilver",
+      "price": 902.08,
+      "original_price": 1094.11,
+      "discount_percent": 17,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DYL3Q921?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Y4fBGWHDL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-31T10:07:23.941070+00:00",
+      "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
       "id": "c1f33b19259d",
       "title": "Siemens Volautomaat EQ500 Classic TP511R09",
       "price": 467.0,
@@ -5879,6 +5961,53 @@
       "auto_approved": true
     },
     {
+      "id": "54d46bd1a8cb",
+      "title": "Samsung Galaxy A16 5G smartphone zonder contract, Android-telefoon, 50 MP hoofdcamera, 16,91 cm/6,7\" display, 128 GB, blauw zwart, 2,5 jaar fabrieksgarantie [exclusief bij Amazon]",
+      "price": 160.12,
+      "original_price": 230.32,
+      "discount_percent": 30,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DGF2HM9P?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51QUW7wkN6L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-31T10:19:09.925286+00:00",
+      "price_history": [
+        {
+          "price": 154.84,
+          "original_price": 233.55,
+          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+        },
+        {
+          "price": 148.89,
+          "original_price": 230.47,
+          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+        },
+        {
+          "price": 145.28,
+          "original_price": 197.27,
+          "scraped_at": "2026-07-31T06:00:32.585528+00:00"
+        },
+        {
+          "price": 162.07,
+          "original_price": null,
+          "scraped_at": "2026-08-20T18:01:23.643808+00:00"
+        },
+        {
+          "price": 154.43,
+          "original_price": 230.32,
+          "scraped_at": "2026-08-26T06:00:28.732220+00:00"
+        },
+        {
+          "price": 160.12,
+          "original_price": 230.32,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
       "id": "8dbee1880812",
       "title": "Satechi Aluminum Mac Mini Stand Hub Zilver",
       "price": 59.0,
@@ -5967,6 +6096,43 @@
         }
       ],
       "approved_at": "30-08-2026 11:28",
+      "auto_approved": true
+    },
+    {
+      "id": "0b96622a063b",
+      "title": "Sonos Move Reistas",
+      "price": 56.0,
+      "original_price": 86.7,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sonos-move-reistas-r-19780",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1508785.jpg?v=1786709803",
+      "found_at": "2026-08-31T10:41:44.310579+00:00",
+      "price_history": [
+        {
+          "price": 78.0,
+          "original_price": 86.24,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 86.44,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 86.56,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 56.0,
+          "original_price": 86.7,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
       "auto_approved": true
     },
     {
@@ -6348,6 +6514,48 @@
       "auto_approved": true
     },
     {
+      "id": "02f02b1285ca",
+      "title": "Medela Freestyle Hands-Free",
+      "price": 200.0,
+      "original_price": 273.67,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-freestyle-hands-free-r-20154",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1866500_e6c307d3-6886-40d1-b7dd-f65c572193b4.jpg?v=1787748021",
+      "found_at": "2026-08-31T10:41:34.440011+00:00",
+      "price_history": [
+        {
+          "price": 210.0,
+          "original_price": 239.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 249.0,
+          "original_price": 281.02,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 201.0,
+          "original_price": 251.85,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 249.0,
+          "original_price": 249.71,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 200.0,
+          "original_price": 273.67,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
       "id": "7c3ce0142fdb",
       "title": "Apple iPhone 16e 128GB Wit",
       "price": 463.0,
@@ -6669,6 +6877,60 @@
       "auto_approved": true
     },
     {
+      "id": "301acb1bcd79",
+      "title": "Shokz OpenFit Zwart",
+      "price": 120.0,
+      "original_price": 168.24,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/shokz-openfit-zwart-r-20145",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935097_1c20c1d0-4847-404e-a0aa-16d53617deab.jpg?v=1787748005",
+      "found_at": "2026-08-31T10:41:44.309786+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 156.04,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
+      "id": "b7144d559515",
+      "title": "Lenovo IdeaCentre AIO 27IRH9 F0HM0089NY",
+      "price": 1231.0,
+      "original_price": 1399.0,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideacentre-aio-27irh9-f0hm0089ny-r-20221",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2071795_2d40ea9b-03b8-43bc-8f03-74792db7a7e6.jpg?v=1787919033",
+      "found_at": "2026-08-31T10:41:34.438481+00:00",
+      "price_history": [
+        {
+          "price": 1287.0,
+          "original_price": 1399.0,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 1231.0,
+          "original_price": 1399.0,
+          "scraped_at": "2026-08-29T14:00:24.897626+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
       "id": "e691f7631bf6",
       "title": "Samsung Galaxy Tab S Grau Tablet 8.192 MB 128 GB 27,9 cm 11\" 2.560*1.600",
       "price": 484.61,
@@ -6977,6 +7239,53 @@
         }
       ],
       "approved_at": "30-08-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "f1647e471341",
+      "title": "Karcher SC 5 EasyFix",
+      "price": 289.0,
+      "original_price": 371.85,
+      "discount_percent": 22,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/karcher-sc-5-easyfix-r-19971",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2025220.jpg?v=1787556033",
+      "found_at": "2026-08-31T10:41:34.438046+00:00",
+      "price_history": [
+        {
+          "price": 282.0,
+          "original_price": 321.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 315.0,
+          "original_price": 379.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 297.0,
+          "original_price": 373.23,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 315.0,
+          "original_price": 374.51,
+          "scraped_at": "2026-08-27T10:00:22.484243+00:00"
+        },
+        {
+          "price": 305.0,
+          "original_price": 374.3,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 289.0,
+          "original_price": 371.85,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
       "auto_approved": true
     },
     {
@@ -7361,6 +7670,88 @@
       "auto_approved": true
     },
     {
+      "id": "383b5144d8ed",
+      "title": "Sony GP-VPT2BT",
+      "price": 116.0,
+      "original_price": 157.14,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-gp-vpt2bt-r-19695",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1532862_053c42a2-b6f3-4c8d-b410-accdd7001443.jpg?v=1786448193",
+      "found_at": "2026-08-31T10:41:44.310749+00:00",
+      "price_history": [
+        {
+          "price": 143.0,
+          "original_price": 155.24,
+          "scraped_at": "2026-08-12T10:00:57.596009+00:00"
+        },
+        {
+          "price": 146.0,
+          "original_price": 157.39,
+          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
+        },
+        {
+          "price": 137.0,
+          "original_price": 156.86,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 153.38,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 132.0,
+          "original_price": 152.04,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 152.37,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 125.0,
+          "original_price": 158.54,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 160.55,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 166.58,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 161.2,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 162.14,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": 165.41,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 157.14,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
       "id": "395cbf0cc3b8",
       "title": "Satechi Aluminum Mac Mini Stand Hub Zilver",
       "price": 65.0,
@@ -7403,109 +7794,35 @@
       "auto_approved": true
     },
     {
-      "id": "3110c1f20cd0",
-      "title": "Oral-B iO 6N Zwart + extra iO Gentle Care opzetborstel",
-      "price": 110.0,
-      "original_price": 149.37,
-      "discount_percent": 26,
+      "id": "dd657fe1b60b",
+      "title": "DJI Osmo Pocket 3 - Creator Combo",
+      "price": 378.0,
+      "original_price": 470.54,
+      "discount_percent": 19,
       "category": "elektronica",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-6n-zwart-extra-io-gentle-care-opzetborstel-r-19838",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2193627_65817ff7-0ff9-4ef1-aec8-71ad1839e1e7.jpg?v=1787040355",
-      "found_at": "2026-08-31T06:31:22.501151+00:00",
+      "url": "https://stekkerstore.com/products/dji-osmo-pocket-3-creator-combo-r-20135",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989460_a4370c3a-71dd-41ec-9d4e-b8911a305fb4.jpg?v=1787747970",
+      "found_at": "2026-08-31T10:41:30.764846+00:00",
       "price_history": [
         {
-          "price": 125.0,
-          "original_price": 152.99,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 121.0,
-          "original_price": 156.61,
-          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
-        },
-        {
-          "price": 133.0,
-          "original_price": 158.53,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 121.0,
-          "original_price": 155.32,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 117.0,
-          "original_price": 156.07,
-          "scraped_at": "2026-08-27T10:00:22.484243+00:00"
-        },
-        {
-          "price": 110.0,
-          "original_price": 149.37,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
-        }
-      ],
-      "approved_at": "31-08-2026 07:37",
-      "auto_approved": true
-    },
-    {
-      "id": "9c0ff8869cd4",
-      "title": "Philips 5000 Series Dual Basket NA552/00",
-      "price": 169.0,
-      "original_price": 223.26,
-      "discount_percent": 24,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-5000-series-dual-basket-na552-00-r-20004",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129341.jpg?v=1787556322",
-      "found_at": "2026-08-31T06:31:22.502049+00:00",
-      "price_history": [
-        {
-          "price": 165.0,
-          "original_price": 188.0,
-          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
-        },
-        {
-          "price": 175.0,
-          "original_price": 227.33,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 169.0,
-          "original_price": 223.26,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
-        }
-      ],
-      "approved_at": "31-08-2026 07:37",
-      "auto_approved": true
-    },
-    {
-      "id": "89afa32f7af9",
-      "title": "Oral-B iO9N Black",
-      "price": 166.0,
-      "original_price": 218.66,
-      "discount_percent": 24,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io9n-black-r-20134",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1809169_f69dff36-f126-4834-ad5f-9cb41e31f1ad.jpg?v=1787747966",
-      "found_at": "2026-08-31T06:31:22.501688+00:00",
-      "price_history": [
-        {
-          "price": 263.0,
-          "original_price": 299.0,
+          "price": 456.0,
+          "original_price": 519.0,
           "scraped_at": "2026-08-27T14:00:28.403469+00:00"
         },
         {
-          "price": 166.0,
-          "original_price": 218.66,
+          "price": 386.0,
+          "original_price": 461.32,
           "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 378.0,
+          "original_price": 480.9,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
         }
       ],
-      "approved_at": "31-08-2026 07:37",
+      "approved_at": "31-08-2026 11:47",
       "auto_approved": true
     }
   ]
