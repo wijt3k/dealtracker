@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T14:31:54.601239+00:00",
-  "total": 298,
+  "updated_at": "2026-08-31T18:45:19.362015+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -15,6 +15,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1556202_c7391cca-5d37-4cab-a533-dad74e52bd64.jpg?v=1787646286",
       "found_at": "2026-08-26T10:50:00.671184+00:00",
       "approved_at": "26-08-2026 11:54",
+      "auto_approved": true
+    },
+    {
+      "id": "53f3bfed99fe",
+      "title": "Samsung X910 Galaxy Tab S9 Ultra 1TB/16GB RAM WiFi Graphite",
+      "price": 932.31,
+      "original_price": 1999.99,
+      "discount_percent": 53,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CCXLKVP2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/610OxTXkLwL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-08-31T18:11:34.510779+00:00",
+      "approved_at": "31-08-2026 19:45",
       "auto_approved": true
     },
     {
@@ -90,6 +105,21 @@
       "image": "https://m.media-amazon.com/images/I/61f3WGJepHL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-08-31T10:07:45.206664+00:00",
       "approved_at": "31-08-2026 11:47",
+      "auto_approved": true
+    },
+    {
+      "id": "42bfc7fff1f6",
+      "title": "Samsung Galaxy Tab S11 Ultra, AI-tablet, wifi, licht design, veelzijdige AI-tools, Dex, 256 GB geheugen, 12 GB RAM, lange batterijduur, grijs",
+      "price": 919.89,
+      "original_price": 1439.28,
+      "discount_percent": 36,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FJS9S19J?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61RV6oWvgwL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-31T18:11:09.428108+00:00",
+      "approved_at": "31-08-2026 19:45",
       "auto_approved": true
     },
     {
@@ -7367,6 +7397,38 @@
       "auto_approved": true
     },
     {
+      "id": "78d7659cc587",
+      "title": "Ring Spotlight Camera Plus op batterij | 1080p HD-video, tweerichtingsspraak, nachtzicht in kleur, LED-schijnwerpers, doe-het-zelf-installatie | Ring Home-proefperiode (30 dagen gratis)",
+      "price": 71.82,
+      "original_price": 99.99,
+      "discount_percent": 28,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09K1LWPRK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51BaOUyHq5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-08-31T18:28:12.180258+00:00",
+      "price_history": [
+        {
+          "price": 79.19,
+          "original_price": 89.99,
+          "scraped_at": "2026-03-10T15:00:15.652099+00:00"
+        },
+        {
+          "price": 63.19,
+          "original_price": 99.99,
+          "scraped_at": "2026-08-24T06:00:50.370947+00:00"
+        },
+        {
+          "price": 71.82,
+          "original_price": 99.99,
+          "scraped_at": "2026-08-31T18:00:27.870764+00:00"
+        }
+      ],
+      "approved_at": "31-08-2026 19:45",
+      "auto_approved": true
+    },
+    {
       "id": "57ddff2cc847",
       "title": "Refurbished iPhone 15 128GB Black",
       "price": 467.28,
@@ -7777,43 +7839,6 @@
           "price": 276.66,
           "original_price": 351.0,
           "scraped_at": "2026-08-31T10:00:21.532114+00:00"
-        }
-      ],
-      "approved_at": "31-08-2026 15:31",
-      "auto_approved": true
-    },
-    {
-      "id": "546cd7a0e106",
-      "title": "Philips Series 9000 20-in-1 MG9557/15",
-      "price": 71.0,
-      "original_price": 97.71,
-      "discount_percent": 27,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-9000-20-in-1-mg9557-15-r-19858",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224812_888cb59c-7f72-457d-b736-a9d297ad1398.jpg?v=1787040386",
-      "found_at": "2026-08-31T14:26:31.193539+00:00",
-      "price_history": [
-        {
-          "price": 78.0,
-          "original_price": 101.41,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 75.0,
-          "original_price": 99.08,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 81.0,
-          "original_price": 88.77,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        },
-        {
-          "price": 71.0,
-          "original_price": 94.49,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
         }
       ],
       "approved_at": "31-08-2026 15:31",
