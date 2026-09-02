@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T14:42:10.745504+00:00",
-  "total": 297,
+  "updated_at": "2026-09-02T18:24:11.499790+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -183,6 +183,21 @@
       "auto_approved": true
     },
     {
+      "id": "a37a195effd8",
+      "title": "Dreame Aqua 10 Ultra Roller Complete Black",
+      "price": 349.0,
+      "original_price": 725.79,
+      "discount_percent": 51,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-aqua-10-ultra-roller-complete-black-r-20319",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220480_a7d62bee-c324-40f2-8797-ea9f1514a8ac.jpg?v=1788249598",
+      "found_at": "2026-09-02T18:18:49.384257+00:00",
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
       "id": "5efefd00cff7",
       "title": "DJI Air 3S Fly More Combo (DJI RC 2)",
       "price": 1014.0,
@@ -225,6 +240,68 @@
       "image": "https://m.media-amazon.com/images/I/71OW8JO0M8L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-08-30T06:04:02.781343+00:00",
       "approved_at": "30-08-2026 07:31",
+      "auto_approved": true
+    },
+    {
+      "id": "73c51d26c7cb",
+      "title": "Lenovo IdeaPad 5 2-in-1 14Q8X9 Qualcomm Snapdragon X1P-42-100 hybride (2-en-1) 35,6 cm (14 inch) Écran Tactile WUXGA 16 Go",
+      "price": 923.59,
+      "original_price": 1389.61,
+      "discount_percent": 33,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DMH5B1JY?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61BXoN4-IPL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-02T18:03:29.925057+00:00",
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "8af2cd9ccb96",
+      "title": "Sony Bravia Theatre Bar 6 Zwart",
+      "price": 170.0,
+      "original_price": 393.27,
+      "discount_percent": 56,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-bravia-theatre-bar-6-zwart-r-19788",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156045_fa641200-8cfe-464b-bd7d-e78d242673de.jpg?v=1786709932",
+      "found_at": "2026-08-30T14:19:27.730758+00:00",
+      "price_history": [
+        {
+          "price": 342.0,
+          "original_price": 399.33,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 322.0,
+          "original_price": 398.06,
+          "scraped_at": "2026-08-16T10:00:41.350411+00:00"
+        },
+        {
+          "price": 311.0,
+          "original_price": 399.59,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 291.0,
+          "original_price": 372.75,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 237.0,
+          "original_price": 384.94,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 170.0,
+          "original_price": 393.27,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -974,6 +1051,21 @@
       "auto_approved": true
     },
     {
+      "id": "e59757267d47",
+      "title": "Bosch AquaSurf 280",
+      "price": 28.0,
+      "original_price": 65.53,
+      "discount_percent": 57,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-aquasurf-280-r-20365",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132435.jpg?v=1788264098",
+      "found_at": "2026-09-02T18:18:46.587614+00:00",
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
       "id": "6b2ff601a17c",
       "title": "HP 920 Ergonomic Wireless Mouse",
       "price": 49.0,
@@ -1222,6 +1314,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090833.jpg?v=1787646222",
       "found_at": "2026-08-26T10:49:47.556183+00:00",
       "approved_at": "26-08-2026 11:54",
+      "auto_approved": true
+    },
+    {
+      "id": "1c23f2bcdb49",
+      "title": "Refurbished iPhone 15 128GB Blue",
+      "price": 425.0,
+      "original_price": 626.0,
+      "discount_percent": 32,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-blue-r-20307",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969002_fa5bf8dc-ba53-4391-8900-6169ba4b94d8.jpg?v=1788249511",
+      "found_at": "2026-09-02T18:18:59.154735+00:00",
+      "approved_at": "02-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -1579,6 +1686,21 @@
       "auto_approved": true
     },
     {
+      "id": "a66e781f111d",
+      "title": "Karcher eco!Booster 130 (K2+K3)",
+      "price": 20.0,
+      "original_price": 42.02,
+      "discount_percent": 52,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/karcher-eco-booster-130-k2-k3-r-20366",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2028508.jpg?v=1788264099",
+      "found_at": "2026-09-02T18:18:52.878397+00:00",
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
       "id": "84e564ef2725",
       "title": "SIEMENS SN25EI13CE VarioSpeed Plus Vaatwasser - Vrijstaand - 14 couverts - 42 dB(A)",
       "price": 672.75,
@@ -1591,6 +1713,83 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8aeefed0bde_ASSET_MMS_149472696-500x500.png",
       "found_at": "2026-08-18T14:21:24.203357+00:00",
       "approved_at": "23-08-2026 15:38",
+      "auto_approved": true
+    },
+    {
+      "id": "da738775fd7a",
+      "title": "Shokz OpenFit Zwart",
+      "price": 86.0,
+      "original_price": 159.05,
+      "discount_percent": 45,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/shokz-openfit-zwart-r-19833",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935097_526e5a2b-dc10-4513-9e12-c24e9f2f4a1b.jpg?v=1786710067",
+      "found_at": "2026-08-30T10:23:17.006183+00:00",
+      "price_history": [
+        {
+          "price": 113.0,
+          "original_price": 162.25,
+          "scraped_at": "2026-08-15T10:00:36.701266+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 158.09,
+          "scraped_at": "2026-08-17T10:00:23.134952+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 166.83,
+          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+        },
+        {
+          "price": 151.0,
+          "original_price": 163.84,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 162.37,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 159.49,
+          "scraped_at": "2026-08-21T10:00:26.767167+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 159.49,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 152.76,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 161.63,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 86.0,
+          "original_price": 168.24,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 166.57,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 86.0,
+          "original_price": 159.05,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -2613,6 +2812,21 @@
       "auto_approved": true
     },
     {
+      "id": "b8ac0a621151",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 386.0,
+      "original_price": 549.0,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-20305",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_8301f951-5ab5-480e-8724-3e956d681e85.jpg?v=1788249504",
+      "found_at": "2026-09-02T18:18:59.154681+00:00",
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
       "id": "5d3290851cc9",
       "title": "Philips Indoor Cam 2K Pan & Tilt Wit",
       "price": 265.0,
@@ -2697,6 +2911,33 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a8813d46a4e3_ASSET_MMS_103961378-500x500.png",
       "found_at": "2026-08-18T10:31:52.815668+00:00",
       "approved_at": "23-08-2026 15:38",
+      "auto_approved": true
+    },
+    {
+      "id": "32567bb347a8",
+      "title": "Minifire 27 inch 100 Hz gebogen monitor, USB Type-C-poort, ingebouwde luidspreker, oogverzorging voor bedrijven/kantoor, FHD 1080P pc-scherm, 100 x 100 mm VESA, flikkervrij, laagblauwe modus",
+      "price": 80.11,
+      "original_price": 139.0,
+      "discount_percent": 42,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DBPX1K7F?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71xuOOYuWlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-02T18:14:39.089756+00:00",
+      "price_history": [
+        {
+          "price": 95.17,
+          "original_price": 119.99,
+          "scraped_at": "2026-05-14T14:00:25.464663+00:00"
+        },
+        {
+          "price": 80.11,
+          "original_price": 139.0,
+          "scraped_at": "2026-09-02T18:00:29.622547+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -5471,6 +5712,33 @@
       "auto_approved": true
     },
     {
+      "id": "15e676831015",
+      "title": "Rowenta X-Force Flex 9.60 RH2078 Steelstofzuiger",
+      "price": 127.0,
+      "original_price": 190.05,
+      "discount_percent": 33,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-x-force-flex-9-60-rh2078-steelstofzuiger-r-20256",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1897447_f4af6394-a119-452d-8a46-b8e10ce1b8a1.jpg?v=1788249244",
+      "found_at": "2026-09-02T14:36:40.043808+00:00",
+      "price_history": [
+        {
+          "price": 136.0,
+          "original_price": 190.05,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 127.0,
+          "original_price": 190.05,
+          "scraped_at": "2026-09-02T14:00:35.958818+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
       "id": "7b6c400b4fc2",
       "title": "BaByliss BaByliss Super-X Metal Tondeuse E991E",
       "price": 69.0,
@@ -5673,6 +5941,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1891035_74af8f17-2b29-4ab5-9772-1fdafda5ebf9.jpg?v=1788249119",
       "found_at": "2026-09-02T10:24:02.926408+00:00",
       "approved_at": "02-09-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "89afa32f7af9",
+      "title": "Oral-B iO9N Black",
+      "price": 157.0,
+      "original_price": 227.89,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io9n-black-r-20134",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1809169_f69dff36-f126-4834-ad5f-9cb41e31f1ad.jpg?v=1787747966",
+      "found_at": "2026-08-31T18:39:53.725513+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 218.66,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 162.0,
+          "original_price": 224.39,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 157.0,
+          "original_price": 227.89,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -6582,6 +6887,75 @@
       "auto_approved": true
     },
     {
+      "id": "14b75ef80db4",
+      "title": "Samsung Galaxy Tab A9+ 5G Lte-Tdd & Lte-Fdd 128 Gb 27.9 Cm (11), SM-X216BZAEEUB",
+      "price": 239.79,
+      "original_price": 325.0,
+      "discount_percent": 26,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CVBBCSB8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51hqDTP-KqL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-09-02T18:07:00.236702+00:00",
+      "price_history": [
+        {
+          "price": 249.0,
+          "original_price": null,
+          "scraped_at": "2026-03-10T11:00:16.154847+00:00"
+        },
+        {
+          "price": 246.99,
+          "original_price": null,
+          "scraped_at": "2026-08-28T14:00:21.047320+00:00"
+        },
+        {
+          "price": 239.79,
+          "original_price": 325.0,
+          "scraped_at": "2026-09-02T18:00:29.622547+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "9e99a8e955ef",
+      "title": "Wisberg WB1M25B",
+      "price": 62.0,
+      "original_price": 93.5,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wisberg-wb1m25b-r-19986",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2150766_03196f7a-409d-45a8-804f-ee6265871a53.jpg?v=1787556108",
+      "found_at": "2026-08-30T18:31:29.905255+00:00",
+      "price_history": [
+        {
+          "price": 61.0,
+          "original_price": 95.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 70.0,
+          "original_price": 83.33,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 65.0,
+          "original_price": 83.33,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 91.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        }
+      ],
+      "approved_at": "02-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
       "id": "5a1aeef4bbff",
       "title": "Refurbished iPhone 13 128GB Black",
       "price": 260.1,
@@ -6956,359 +7330,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364181_35f487f5-5629-4a51-b4cf-c25495bda9c2.jpg?v=1787646328",
       "found_at": "2026-08-29T18:13:14.560443+00:00",
       "approved_at": "29-08-2026 19:18",
-      "auto_approved": true
-    },
-    {
-      "id": "2ac52aa2281a",
-      "title": "Philips Series 7000 BT7665/15",
-      "price": 46.0,
-      "original_price": 69.3,
-      "discount_percent": 33,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-7000-bt7665-15-r-19915",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2223107.jpg?v=1787040754",
-      "found_at": "2026-08-29T18:13:14.561623+00:00",
-      "price_history": [
-        {
-          "price": 57.0,
-          "original_price": 68.2,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 69.5,
-          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 67.67,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        }
-      ],
-      "approved_at": "29-08-2026 19:18",
-      "auto_approved": true
-    },
-    {
-      "id": "a03c105bc523",
-      "title": "Audio-Technica AT-LP60XBTBK",
-      "price": 152.0,
-      "original_price": 212.78,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/audio-technica-at-lp60xbtbk-r-20018",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1385982_54150472-8a96-48bb-be9a-74a5365b3ba2.jpg?v=1787556467",
-      "found_at": "2026-08-30T10:23:02.496179+00:00",
-      "price_history": [
-        {
-          "price": 147.0,
-          "original_price": 168.0,
-          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
-        },
-        {
-          "price": 165.0,
-          "original_price": 211.1,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 211.1,
-          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
-        },
-        {
-          "price": 152.0,
-          "original_price": 212.78,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
-        }
-      ],
-      "approved_at": "30-08-2026 11:28",
-      "auto_approved": true
-    },
-    {
-      "id": "3dd8a1a3af6c",
-      "title": "Ecovacs T50 Omni Gen 3",
-      "price": 322.0,
-      "original_price": 419.62,
-      "discount_percent": 23,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/ecovacs-t50-omni-gen-3-r-19989",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/625556880.jpg?v=1787556156",
-      "found_at": "2026-08-29T18:13:03.521794+00:00",
-      "price_history": [
-        {
-          "price": 347.0,
-          "original_price": 395.0,
-          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
-        },
-        {
-          "price": 342.0,
-          "original_price": 419.26,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 322.0,
-          "original_price": 419.26,
-          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
-        },
-        {
-          "price": 331.0,
-          "original_price": 421.58,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 322.0,
-          "original_price": 422.84,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        }
-      ],
-      "approved_at": "29-08-2026 19:18",
-      "auto_approved": true
-    },
-    {
-      "id": "02f02b1285ca",
-      "title": "Medela Freestyle Hands-Free",
-      "price": 200.0,
-      "original_price": 273.67,
-      "discount_percent": 26,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/medela-freestyle-hands-free-r-20154",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1866500_e6c307d3-6886-40d1-b7dd-f65c572193b4.jpg?v=1787748021",
-      "found_at": "2026-08-31T10:41:34.440011+00:00",
-      "price_history": [
-        {
-          "price": 210.0,
-          "original_price": 239.0,
-          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
-        },
-        {
-          "price": 249.0,
-          "original_price": 281.02,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        },
-        {
-          "price": 201.0,
-          "original_price": 251.85,
-          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
-        },
-        {
-          "price": 249.0,
-          "original_price": 249.71,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
-        },
-        {
-          "price": 200.0,
-          "original_price": 273.67,
-          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
-        }
-      ],
-      "approved_at": "31-08-2026 11:47",
-      "auto_approved": true
-    },
-    {
-      "id": "7c3ce0142fdb",
-      "title": "Apple iPhone 16e 128GB Wit",
-      "price": 463.0,
-      "original_price": 581.65,
-      "discount_percent": 20,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-iphone-16e-128gb-wit-r-20216",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2141666_3adf2c27-dbe9-44da-86dc-8cee38246386.jpg?v=1787918985",
-      "found_at": "2026-08-29T18:12:59.741814+00:00",
-      "approved_at": "29-08-2026 19:18",
-      "auto_approved": true
-    },
-    {
-      "id": "57ddff2cc847",
-      "title": "Refurbished iPhone 15 128GB Black",
-      "price": 451.35,
-      "original_price": 569.99,
-      "discount_percent": 20,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19815",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_6a726f35-d55c-44f0-8752-50e7cc8defea.jpg?v=1786953153",
-      "found_at": "2026-09-01T18:40:59.108752+00:00",
-      "price_history": [
-        {
-          "price": 531.0,
-          "original_price": null,
-          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
-        },
-        {
-          "price": 499.14,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
-        },
-        {
-          "price": 493.83,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 488.52,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 483.21,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
-        },
-        {
-          "price": 477.9,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        },
-        {
-          "price": 472.59,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
-        },
-        {
-          "price": 467.28,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
-        },
-        {
-          "price": 461.97,
-          "original_price": 569.99,
-          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
-        },
-        {
-          "price": 456.66,
-          "original_price": 569.99,
-          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
-        },
-        {
-          "price": 451.35,
-          "original_price": 569.99,
-          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
-        }
-      ],
-      "approved_at": "02-09-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "2bbc415c0820",
-      "title": "BaByliss Super-X Metal Series Baardtrimmer",
-      "price": 59.0,
-      "original_price": 86.94,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/babyliss-super-x-metal-series-baardtrimmer-r-19976",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989265_de67e535-909f-4eaf-afb8-43bcabe5881b.jpg?v=1787645617",
-      "found_at": "2026-08-31T06:31:13.191799+00:00",
-      "price_history": [
-        {
-          "price": 62.0,
-          "original_price": 87.48,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 86.81,
-          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
-        }
-      ],
-      "approved_at": "02-09-2026 15:41",
-      "auto_approved": true
-    },
-    {
-      "id": "f513aede84ad",
-      "title": "HyperX Cloud III Wired Gaming Headset - Black",
-      "price": 58.0,
-      "original_price": 85.86,
-      "discount_percent": 32,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hyperx-cloud-iii-wired-gaming-headset-black-r-19737",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935179_a859f2cc-a1f0-40b2-b3ab-1b44a4d352e8.jpg?v=1787040114",
-      "found_at": "2026-08-29T18:13:07.562885+00:00",
-      "price_history": [
-        {
-          "price": 60.0,
-          "original_price": 86.41,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 84.75,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        }
-      ],
-      "approved_at": "29-08-2026 19:18",
-      "auto_approved": true
-    },
-    {
-      "id": "c1fd8e7e3f45",
-      "title": "Dyson Airwrap i.d.Curly+Coily Limited Edition (Amber Silk)",
-      "price": 405.0,
-      "original_price": 515.31,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-i-d-curly-coily-limited-edition-amber-silk-r-19749",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2207935.jpg?v=1786953054",
-      "found_at": "2026-08-29T18:13:03.521396+00:00",
-      "price_history": [
-        {
-          "price": 446.0,
-          "original_price": 522.01,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
-        },
-        {
-          "price": 430.0,
-          "original_price": 513.67,
-          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
-        },
-        {
-          "price": 405.0,
-          "original_price": 515.31,
-          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
-        }
-      ],
-      "approved_at": "29-08-2026 19:18",
-      "auto_approved": true
-    },
-    {
-      "id": "f1d224b931b2",
-      "title": "Sony ULT Wear Zwart",
-      "price": 97.0,
-      "original_price": 139.08,
-      "discount_percent": 30,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-ult-wear-zwart-r-20029",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2033148_deb66795-8416-4a3f-ab69-8c58bc286697.jpg?v=1787556575",
-      "found_at": "2026-08-30T06:25:44.308964+00:00",
-      "price_history": [
-        {
-          "price": 91.0,
-          "original_price": 99.0,
-          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
-        },
-        {
-          "price": 97.0,
-          "original_price": 140.12,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        }
-      ],
-      "approved_at": "30-08-2026 07:31",
       "auto_approved": true
     }
   ]
