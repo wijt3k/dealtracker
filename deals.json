@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T14:48:54.869014+00:00",
-  "total": 296,
+  "updated_at": "2026-09-05T18:22:28.497081+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -7703,6 +7703,199 @@
         }
       ],
       "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "be7501ca236f",
+      "title": "Refurbished iPhone 13 128GB White",
+      "price": 260.76,
+      "original_price": 351.0,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-13-128gb-white-r-19809",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1631129_dd8db59e-4c33-48d3-955e-aa53bf404320.jpg?v=1786953107",
+      "found_at": "2026-09-05T18:16:37.377413+00:00",
+      "price_history": [
+        {
+          "price": 318.0,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 298.92,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 295.74,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 292.56,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 289.38,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 286.2,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 283.02,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 279.84,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 276.66,
+          "original_price": 351.0,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 273.48,
+          "original_price": 351.0,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 270.3,
+          "original_price": 351.0,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 267.12,
+          "original_price": 351.0,
+          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
+        },
+        {
+          "price": 263.94,
+          "original_price": 351.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 260.76,
+          "original_price": 351.0,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "2bbc415c0820",
+      "title": "BaByliss Super-X Metal Series Baardtrimmer",
+      "price": 59.0,
+      "original_price": 88.94,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/babyliss-super-x-metal-series-baardtrimmer-r-19976",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1989265_de67e535-909f-4eaf-afb8-43bcabe5881b.jpg?v=1787645617",
+      "found_at": "2026-09-05T18:16:23.627472+00:00",
+      "price_history": [
+        {
+          "price": 62.0,
+          "original_price": 87.48,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 86.81,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 68.0,
+          "original_price": 92.09,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 88.94,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "42670bee36d5",
+      "title": "Philips Lumea IPL 9900 Series BRP959/00 SkinAI",
+      "price": 390.0,
+      "original_price": 500.0,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-lumea-ipl-9900-series-brp959-00-skinai-r-19729",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2197507_4e1cba98-b3de-44e5-ab53-1de414710758.jpg?v=1787040080",
+      "found_at": "2026-09-05T18:16:37.374807+00:00",
+      "price_history": [
+        {
+          "price": 460.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 437.0,
+          "original_price": 492.93,
+          "scraped_at": "2026-08-22T10:00:45.338466+00:00"
+        },
+        {
+          "price": 445.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 420.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 390.0,
+          "original_price": 500.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 19:22",
+      "auto_approved": true
+    },
+    {
+      "id": "fa3e2885615e",
+      "title": "Rowenta Compact Power XXL RO4B11",
+      "price": 71.0,
+      "original_price": 105.34,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/rowenta-compact-power-xxl-ro4b11-r-20181",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107556_f6add537-37c0-4707-9b6a-3d08886de13a.jpg?v=1787748187",
+      "found_at": "2026-09-05T18:16:41.238655+00:00",
+      "price_history": [
+        {
+          "price": 77.0,
+          "original_price": 107.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 71.0,
+          "original_price": 101.68,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 19:22",
       "auto_approved": true
     }
   ]
