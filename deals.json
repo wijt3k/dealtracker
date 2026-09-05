@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T10:51:52.722639+00:00",
-  "total": 285,
+  "updated_at": "2026-09-05T14:48:17.514000+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -1774,6 +1774,38 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a87e9cf40f13_ASSET_MMS_171279807-500x500.png",
       "found_at": "2026-08-19T18:28:17.034956+00:00",
       "approved_at": "23-08-2026 15:38",
+      "auto_approved": true
+    },
+    {
+      "id": "64a13372de01",
+      "title": "Bose QuietComfort Draadloze noise cancelling-hoofdtelefoon, Bluetooth over-ear hoofdtelefoon met afspeeltijd tot 24 uur, Zandsteen - Limited-Edition",
+      "price": 175.77,
+      "original_price": 299.95,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D4Z9C562?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61C5t1ltM5L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-05T14:25:45.277799+00:00",
+      "price_history": [
+        {
+          "price": 171.34,
+          "original_price": 208.95,
+          "scraped_at": "2026-08-04T10:00:30.109875+00:00"
+        },
+        {
+          "price": 179.55,
+          "original_price": 189.0,
+          "scraped_at": "2026-08-25T18:00:22.737822+00:00"
+        },
+        {
+          "price": 175.77,
+          "original_price": 189.0,
+          "scraped_at": "2026-08-31T06:00:48.266298+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
       "auto_approved": true
     },
     {
@@ -7251,6 +7283,518 @@
         }
       ],
       "approved_at": "28-08-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "078c775b7154",
+      "title": "Braun Silk·épil 5 5-041 Roze",
+      "price": 38.0,
+      "original_price": 61.84,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-epil-5-5-041-roze-r-19916",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1983878958_cb222139-8e62-440f-806a-96f373dd2f79.jpg?v=1787040762",
+      "found_at": "2026-09-05T10:45:43.719280+00:00",
+      "price_history": [
+        {
+          "price": 57.0,
+          "original_price": 65.0,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 62.5,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 72.0,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 67.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 73.75,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 73.6,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 73.6,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 62.82,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 38.0,
+          "original_price": 61.84,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "57ddff2cc847",
+      "title": "Refurbished iPhone 15 128GB Black",
+      "price": 435.42,
+      "original_price": 569.99,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-black-r-19815",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_6a726f35-d55c-44f0-8752-50e7cc8defea.jpg?v=1786953153",
+      "found_at": "2026-09-05T14:42:24.320844+00:00",
+      "price_history": [
+        {
+          "price": 531.0,
+          "original_price": null,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
+        },
+        {
+          "price": 499.14,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 493.83,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 488.52,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 483.21,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 477.9,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 472.59,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 467.28,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 461.97,
+          "original_price": 569.99,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 456.66,
+          "original_price": 569.99,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 451.35,
+          "original_price": 569.99,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 446.04,
+          "original_price": 569.99,
+          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
+        },
+        {
+          "price": 440.73,
+          "original_price": 569.99,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 435.42,
+          "original_price": 569.99,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "bc106a90d5c3",
+      "title": "Lenovo IdeaPad Flex 3 Chromebook 12IAN8 82XH001YMH QWERTY",
+      "price": 249.0,
+      "original_price": 346.0,
+      "discount_percent": 28,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideapad-flex-3-chromebook-12ian8-82xh001ymh-qwerty-r-20353",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2155201.jpg?v=1788419865",
+      "found_at": "2026-09-05T10:45:49.589537+00:00",
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "89afa32f7af9",
+      "title": "Oral-B iO9N Black",
+      "price": 157.0,
+      "original_price": 227.89,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io9n-black-r-20134",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1809169_f69dff36-f126-4834-ad5f-9cb41e31f1ad.jpg?v=1787747966",
+      "found_at": "2026-09-05T14:42:21.326851+00:00",
+      "price_history": [
+        {
+          "price": 263.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 166.0,
+          "original_price": 218.66,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 162.0,
+          "original_price": 224.39,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 157.0,
+          "original_price": 227.89,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "7e7f37fa9158",
+      "title": "Tunturi MG70 Massage Gun Pro",
+      "price": 108.0,
+      "original_price": 163.61,
+      "discount_percent": 33,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tunturi-mg70-massage-gun-pro-r-20019",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1992830.jpg?v=1787556470",
+      "found_at": "2026-09-05T14:42:30.632547+00:00",
+      "price_history": [
+        {
+          "price": 118.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "b9ac8a7f00a8",
+      "title": "Oral-B Cross Action Wit (10 stuks)",
+      "price": 20.0,
+      "original_price": 32.49,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-cross-action-wit-10-stuks-r-19913",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2157962.jpg?v=1787040745",
+      "found_at": "2026-09-05T14:42:21.325406+00:00",
+      "price_history": [
+        {
+          "price": 28.0,
+          "original_price": 30.99,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 27.0,
+          "original_price": 30.49,
+          "scraped_at": "2026-08-24T10:00:50.868873+00:00"
+        },
+        {
+          "price": 26.0,
+          "original_price": 30.49,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 25.0,
+          "original_price": 30.49,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 21.0,
+          "original_price": 27.99,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 20.0,
+          "original_price": 27.99,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "b9e531d13cdf",
+      "title": "Philips HR1855/70 Viva",
+      "price": 82.0,
+      "original_price": 122.95,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hr1855-70-viva-r-20142",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364181_35f487f5-5629-4a51-b4cf-c25495bda9c2.jpg?v=1787646328",
+      "found_at": "2026-09-05T14:42:24.317607+00:00",
+      "price_history": [
+        {
+          "price": 86.0,
+          "original_price": 123.97,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": 125.0,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "b1c5d4df051d",
+      "title": "Sennheiser Sennheiser HD 205-II",
+      "price": 31.0,
+      "original_price": 49.0,
+      "discount_percent": 36,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sennheiser-sennheiser-hd-205-ii-r-20325",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/425846.jpg?v=1788419583",
+      "found_at": "2026-09-05T14:42:27.308395+00:00",
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "64788c2e86fe",
+      "title": "Jabra Evolve 65 TE Link UC Mono Stand Draadloze Koptelefoon",
+      "price": 115.94,
+      "original_price": 170.11,
+      "discount_percent": 31,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DBLTSWYQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61FrLj1kM+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-05T14:24:51.546861+00:00",
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "d581aef16056",
+      "title": "Philips FC9334/09",
+      "price": 117.0,
+      "original_price": 170.57,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-fc9334-09-r-20283",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368745_cd881a69-7bff-42ad-8682-d5095cdf2167.jpg?v=1788249328",
+      "found_at": "2026-09-05T14:42:24.317283+00:00",
+      "price_history": [
+        {
+          "price": 127.0,
+          "original_price": 152.54,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 117.0,
+          "original_price": 170.57,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "2f591a847ce1",
+      "title": "SteelSeries Arctis Nova 5P",
+      "price": 93.0,
+      "original_price": 138.1,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-arctis-nova-5p-r-19756",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050249.jpg?v=1787040191",
+      "found_at": "2026-09-05T14:42:30.631860+00:00",
+      "price_history": [
+        {
+          "price": 110.0,
+          "original_price": 121.42,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 131.92,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 133.8,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 138.68,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "9c0ff8869cd4",
+      "title": "Philips 5000 Series Dual Basket NA552/00",
+      "price": 159.0,
+      "original_price": 225.97,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-5000-series-dual-basket-na552-00-r-20004",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129341.jpg?v=1787556322",
+      "found_at": "2026-09-05T14:42:21.326997+00:00",
+      "price_history": [
+        {
+          "price": 165.0,
+          "original_price": 188.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 227.33,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 169.0,
+          "original_price": 223.26,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 220.77,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 225.97,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "c29beabc0bf8",
+      "title": "Philips Lumea Prestige BRI947/00",
+      "price": 281.0,
+      "original_price": 375.79,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-lumea-prestige-bri947-00-r-20141",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1767373_23d5577e-1e7f-448e-909e-5c265a6a6150.jpg?v=1787747996",
+      "found_at": "2026-09-05T14:42:24.318116+00:00",
+      "price_history": [
+        {
+          "price": 367.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 284.0,
+          "original_price": 388.92,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 281.0,
+          "original_price": 360.13,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
+      "auto_approved": true
+    },
+    {
+      "id": "b7144d559515",
+      "title": "Lenovo IdeaCentre AIO 27IRH9 F0HM0089NY",
+      "price": 839.0,
+      "original_price": 999.0,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideacentre-aio-27irh9-f0hm0089ny-r-20221",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2071795_2d40ea9b-03b8-43bc-8f03-74792db7a7e6.jpg?v=1787919033",
+      "found_at": "2026-09-05T14:42:18.625588+00:00",
+      "price_history": [
+        {
+          "price": 1287.0,
+          "original_price": 1399.0,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 1231.0,
+          "original_price": 1399.0,
+          "scraped_at": "2026-08-29T14:00:24.897626+00:00"
+        },
+        {
+          "price": 879.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
+        },
+        {
+          "price": 839.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        }
+      ],
+      "approved_at": "05-09-2026 15:48",
       "auto_approved": true
     }
   ]
