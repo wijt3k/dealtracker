@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T14:44:11.054556+00:00",
-  "total": 297,
+  "updated_at": "2026-09-10T18:52:16.793175+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c1f33b19259d",
@@ -2948,6 +2948,21 @@
         }
       ],
       "approved_at": "05-09-2026 11:51",
+      "auto_approved": true
+    },
+    {
+      "id": "aeb8641b4552",
+      "title": "Acer Nitro V15 (ANV15-52-714T) gaming laptop, FHD IPS 165Hz display, Intel Core i7-13620H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 5050, Windows 11, QWERTZ toetsenbord",
+      "price": 849.7,
+      "original_price": 1109.8,
+      "discount_percent": 23,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B8QL8P2C?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71xWPkbN8QL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-09-10T18:06:05.641086+00:00",
+      "approved_at": "10-09-2026 19:52",
       "auto_approved": true
     },
     {
@@ -8745,6 +8760,73 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2053581_c31c1e9e-4f97-4994-a65a-ae03bb7782af.jpg?v=1788851401",
       "found_at": "2026-09-10T14:38:07.406895+00:00",
       "approved_at": "10-09-2026 15:43",
+      "auto_approved": true
+    },
+    {
+      "id": "9c8ab5ab8e2e",
+      "title": "Philips Hue Gradient Lightstrip uitbreiding",
+      "price": 35.0,
+      "original_price": 56.82,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hue-gradient-lightstrip-uitbreiding-r-20450",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1636386_1a6d6d1e-3eb8-4e7e-ab14-000132ee8e3a.jpg?v=1788945823",
+      "found_at": "2026-09-10T18:47:06.847860+00:00",
+      "approved_at": "10-09-2026 19:52",
+      "auto_approved": true
+    },
+    {
+      "id": "e691f7631bf6",
+      "title": "Samsung Galaxy Tab S Grau Tablet 8.192 MB 128 GB 27,9 cm 11\" 2.560*1.600",
+      "price": 464.12,
+      "original_price": 599.0,
+      "discount_percent": 22,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0C89L9B5W?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71oaGnwvXlL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-09-10T18:14:14.322200+00:00",
+      "price_history": [
+        {
+          "price": 505.31,
+          "original_price": null,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 491.41,
+          "original_price": null,
+          "scraped_at": "2026-07-27T06:00:56.604825+00:00"
+        },
+        {
+          "price": 501.58,
+          "original_price": 599.0,
+          "scraped_at": "2026-08-15T06:00:32.859896+00:00"
+        },
+        {
+          "price": 493.1,
+          "original_price": 599.0,
+          "scraped_at": "2026-08-20T10:00:23.865884+00:00"
+        },
+        {
+          "price": 484.61,
+          "original_price": 599.0,
+          "scraped_at": "2026-08-31T06:00:48.266298+00:00"
+        },
+        {
+          "price": 473.23,
+          "original_price": 599.0,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        },
+        {
+          "price": 464.12,
+          "original_price": 599.0,
+          "scraped_at": "2026-09-10T18:01:21.020088+00:00"
+        }
+      ],
+      "approved_at": "10-09-2026 19:52",
       "auto_approved": true
     }
   ]
