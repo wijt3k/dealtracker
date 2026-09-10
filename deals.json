@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T06:43:06.061695+00:00",
-  "total": 295,
+  "updated_at": "2026-09-10T10:24:35.761029+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c1f33b19259d",
@@ -374,6 +374,21 @@
         }
       ],
       "approved_at": "06-09-2026 12:05",
+      "auto_approved": true
+    },
+    {
+      "id": "41b1797e9451",
+      "title": "Asus ROG Ally RC73XA-NH011W",
+      "price": 719.0,
+      "original_price": 1112.81,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/asus-rog-ally-rc73xa-nh011w-r-20417",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2219745_ba77fb45-969a-4f0f-8103-901feccd1f90.jpg?v=1788945677",
+      "found_at": "2026-09-10T10:19:21.895879+00:00",
+      "approved_at": "10-09-2026 11:24",
       "auto_approved": true
     },
     {
@@ -4197,6 +4212,21 @@
       "auto_approved": true
     },
     {
+      "id": "4b9f2fa7ecca",
+      "title": "Braun Series 9 PRO+ 9667CC Zilver",
+      "price": 269.0,
+      "original_price": 411.25,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-9-pro-9667cc-zilver-r-20418",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/28033929_771ea7b1-59ca-4372-bfec-8596a019ed90.jpg?v=1788945693",
+      "found_at": "2026-09-10T10:19:21.899001+00:00",
+      "approved_at": "10-09-2026 11:24",
+      "auto_approved": true
+    },
+    {
       "id": "df04e23eba6f",
       "title": "Weber Original Kettle 47 cm Zwart",
       "price": 60.0,
@@ -7064,6 +7094,21 @@
       "auto_approved": true
     },
     {
+      "id": "6b7e1bd72ed8",
+      "title": "Philips Hue Outdoor Lightstrip 2m",
+      "price": 71.0,
+      "original_price": 120.08,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hue-outdoor-lightstrip-2m-r-20474",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1932004.jpg?v=1788945857",
+      "found_at": "2026-09-10T10:19:34.986237+00:00",
+      "approved_at": "10-09-2026 11:24",
+      "auto_approved": true
+    },
+    {
       "id": "8cde6682fae7",
       "title": "Bosch Cleann'n Allergy BGC05AAA1",
       "price": 59.0,
@@ -7649,6 +7694,83 @@
       "auto_approved": true
     },
     {
+      "id": "02f02b1285ca",
+      "title": "Medela Freestyle Hands-Free",
+      "price": 169.0,
+      "original_price": 256.25,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/medela-freestyle-hands-free-r-20154",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1866500_e6c307d3-6886-40d1-b7dd-f65c572193b4.jpg?v=1787748021",
+      "found_at": "2026-09-10T10:19:31.839725+00:00",
+      "price_history": [
+        {
+          "price": 210.0,
+          "original_price": 239.0,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 249.0,
+          "original_price": 281.02,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 201.0,
+          "original_price": 251.85,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 249.0,
+          "original_price": 249.71,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 200.0,
+          "original_price": 273.67,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 192.0,
+          "original_price": 270.76,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 186.0,
+          "original_price": 270.76,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 179.0,
+          "original_price": 266.21,
+          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
+        },
+        {
+          "price": 186.0,
+          "original_price": 219.65,
+          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
+        },
+        {
+          "price": 169.0,
+          "original_price": 254.06,
+          "scraped_at": "2026-09-07T10:00:33.324067+00:00"
+        },
+        {
+          "price": 174.0,
+          "original_price": 216.51,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 169.0,
+          "original_price": 256.25,
+          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+        }
+      ],
+      "approved_at": "10-09-2026 11:24",
+      "auto_approved": true
+    },
+    {
       "id": "120294fc0502",
       "title": "Refurbished iPhone SE (3rd gen) Midnight 64GB",
       "price": 123.2,
@@ -8012,6 +8134,53 @@
         }
       ],
       "approved_at": "04-09-2026 11:42",
+      "auto_approved": true
+    },
+    {
+      "id": "f1d224b931b2",
+      "title": "Sony ULT Wear Zwart",
+      "price": 85.0,
+      "original_price": 138.16,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-ult-wear-zwart-r-20029",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2033148_deb66795-8416-4a3f-ab69-8c58bc286697.jpg?v=1787556575",
+      "found_at": "2026-09-10T10:19:38.681585+00:00",
+      "price_history": [
+        {
+          "price": 91.0,
+          "original_price": 99.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 140.12,
+          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 138.28,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 89.0,
+          "original_price": 134.02,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 130.76,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 85.0,
+          "original_price": 134.1,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        }
+      ],
+      "approved_at": "10-09-2026 11:24",
       "auto_approved": true
     },
     {
@@ -8518,35 +8687,75 @@
       "auto_approved": true
     },
     {
-      "id": "9899e78666c3",
-      "title": "GreenPan FROST Cream",
-      "price": 224.0,
-      "original_price": 321.36,
-      "discount_percent": 30,
+      "id": "299eddbc0527",
+      "title": "Euroseats Slinger verstelbaar zit-sta frame zwart",
+      "price": 218.0,
+      "original_price": 316.84,
+      "discount_percent": 31,
       "category": "elektronica",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/greenpan-frost-cream-r-20391",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242442_e613eb87-95ce-46b1-972d-586bc715088b.jpg?v=1788850445",
-      "found_at": "2026-09-10T06:35:27.128049+00:00",
+      "url": "https://stekkerstore.com/products/euroseats-slinger-verstelbaar-zit-sta-frame-zwart-r-19991",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1542165_f9539366-e5bd-4b78-9bd9-5d20e2ffb2e6.jpg?v=1787556152",
+      "found_at": "2026-09-10T10:19:25.266469+00:00",
       "price_history": [
         {
-          "price": 232.0,
-          "original_price": 264.0,
-          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
+          "price": 276.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
         },
         {
-          "price": 237.0,
-          "original_price": 321.36,
+          "price": 259.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 256.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 253.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 251.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 248.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
+        },
+        {
+          "price": 245.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 242.0,
+          "original_price": 300.0,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        },
+        {
+          "price": 225.0,
+          "original_price": 297.37,
+          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 288.28,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 218.0,
+          "original_price": 291.41,
           "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        },
-        {
-          "price": 224.0,
-          "original_price": 321.36,
-          "scraped_at": "2026-09-09T14:00:54.449238+00:00"
         }
       ],
-      "approved_at": "10-09-2026 07:42",
+      "approved_at": "10-09-2026 11:24",
       "auto_approved": true
     }
   ]
