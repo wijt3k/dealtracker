@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T14:31:29.738624+00:00",
-  "total": 296,
+  "updated_at": "2026-09-14T18:24:27.140782+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -2904,6 +2904,73 @@
       "image": "https://m.media-amazon.com/images/I/61HL9pGWEoL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-09-14T06:25:20.337415+00:00",
       "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
+      "id": "81f1afc8c11c",
+      "title": "Princess Table Chef XXL Classic",
+      "price": 26.0,
+      "original_price": 50.0,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/princess-table-chef-xxl-classic-r-20040",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1502406.jpg?v=1787556698",
+      "found_at": "2026-09-13T14:02:46.643646+00:00",
+      "price_history": [
+        {
+          "price": 46.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
+        },
+        {
+          "price": 43.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 42.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 39.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-07T10:00:33.324067+00:00"
+        },
+        {
+          "price": 38.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 37.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 36.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        },
+        {
+          "price": 26.0,
+          "original_price": 50.0,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -9134,6 +9201,87 @@
         }
       ],
       "approved_at": "13-09-2026 07:06",
+      "auto_approved": true
+    },
+    {
+      "id": "0bffbe11e6ef",
+      "title": "MSI Thin 15 B13VE-2051NL QWERTY",
+      "price": 992.0,
+      "original_price": 1135.67,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-thin-15-b13ve-2051nl-qwerty-r-20480",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2039953.jpg?v=1788851326",
+      "found_at": "2026-09-13T10:05:09.518944+00:00",
+      "price_history": [
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
+        },
+        {
+          "price": 992.0,
+          "original_price": 1164.0,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "3ebfe65c5274",
+      "title": "Logitech G PRO X Wireless LIGHTSPEED Gaming Headset",
+      "price": 95.0,
+      "original_price": 129.07,
+      "discount_percent": 26,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-wireless-lightspeed-gaming-headset-r-20533",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135200_d27b56a6-419d-4afc-86e0-4eae3c90d0c3.jpg?v=1789024691",
+      "found_at": "2026-09-13T10:05:05.880316+00:00",
+      "price_history": [
+        {
+          "price": 96.0,
+          "original_price": 129.63,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 128.53,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "5f3a65c2a670",
+      "title": "AOC AOC Q27G4ZR",
+      "price": 148.0,
+      "original_price": 195.02,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-aoc-q27g4zr-r-20552",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2182329_7e20eeed-b081-463e-9596-6ede6e36b079.jpg?v=1789118287",
+      "found_at": "2026-09-14T18:17:58.344071+00:00",
+      "price_history": [
+        {
+          "price": 157.0,
+          "original_price": 204.54,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 148.0,
+          "original_price": 194.69,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 19:24",
       "auto_approved": true
     }
   ]
