@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T18:56:41.265750+00:00",
-  "total": 293,
+  "updated_at": "2026-09-14T06:48:37.017936+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -951,6 +951,21 @@
       "auto_approved": true
     },
     {
+      "id": "9095652664a6",
+      "title": "Acer Swift Go 14 AI OLED | Laptop | Ryzen Al 7 | 16GB | 512GB | met voeding",
+      "price": 994.67,
+      "original_price": 1319.03,
+      "discount_percent": 24,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BW96TTZB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71yMMiuHHgL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:03:41.828896+00:00",
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
       "id": "6a0a68787a28",
       "title": "Oppo Reno15 512GB Donkerblauw 5G",
       "price": 350.0,
@@ -1442,6 +1457,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090833.jpg?v=1787646222",
       "found_at": "2026-08-26T10:49:47.556183+00:00",
       "approved_at": "26-08-2026 11:54",
+      "auto_approved": true
+    },
+    {
+      "id": "b783ea3e2d2c",
+      "title": "HKC 24 inch gamingmonitor, Full HD (1920 × 1080), 240 Hz Fast IPS, 1 ms, HDR400, 90% DCI-P3, tot 260 Hz overklokt, VESA 100 × 100, blauw lichtfilter, HDMI 2.0 & DisplayPort 1.4",
+      "price": 89.08,
+      "original_price": 171.41,
+      "discount_percent": 48,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FYVXNK85?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/810Bc9nUwDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:38:24.265990+00:00",
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     },
     {
@@ -2705,6 +2735,21 @@
         }
       ],
       "approved_at": "10-09-2026 07:42",
+      "auto_approved": true
+    },
+    {
+      "id": "ae296f0b49bb",
+      "title": "Midland H9 Pro WiFi Action Camera, C1518, Ultra HD 4K",
+      "price": 79.58,
+      "original_price": 141.92,
+      "discount_percent": 43,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09HV3CKH8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61HL9pGWEoL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:25:20.337415+00:00",
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     },
     {
@@ -6251,6 +6296,53 @@
       "auto_approved": true
     },
     {
+      "id": "f8ba5c89ddf0",
+      "title": "Apple iPad met A16 chip: 11 inch Liquid Retina-display, 128 GB, wifi 6, 12 MP camera aan de voor- en achterkant, Touch ID, batterij voor een hele dag – Zilver",
+      "price": 365.67,
+      "original_price": 489.0,
+      "discount_percent": 25,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DZ75RKZH?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/616FFqht2sL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:06:12.026335+00:00",
+      "price_history": [
+        {
+          "price": 331.55,
+          "original_price": 349.0,
+          "scraped_at": "2026-02-23T21:25:42.738603+00:00"
+        },
+        {
+          "price": 355.2,
+          "original_price": 373.89,
+          "scraped_at": "2026-03-01T11:00:21.284958+00:00"
+        },
+        {
+          "price": 455.05,
+          "original_price": 479.0,
+          "scraped_at": "2026-07-17T10:00:26.459839+00:00"
+        },
+        {
+          "price": 379.89,
+          "original_price": 469.0,
+          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
+        },
+        {
+          "price": 426.55,
+          "original_price": 469.0,
+          "scraped_at": "2026-08-25T18:00:22.737822+00:00"
+        },
+        {
+          "price": 365.67,
+          "original_price": 489.0,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
       "id": "b03eede26eb7",
       "title": "Nintendo Switch Joy-Con Rechts Neon Rood",
       "price": 26.0,
@@ -6563,6 +6655,90 @@
         }
       ],
       "approved_at": "12-09-2026 15:20",
+      "auto_approved": true
+    },
+    {
+      "id": "d544d3f1fe9f",
+      "title": "Ring-buitencamera Plus op batterij (Outdoor Camera Plus nieuwste generatie) | 2K-groothoekvideo I zelf te installeren draadloze beveiligingscamera I gratis Ring-proefabonnement van 30 dagen",
+      "price": 64.19,
+      "original_price": 99.99,
+      "discount_percent": 35,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D23Y1N3Y?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51IfyHro4PL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:24:20.502951+00:00",
+      "price_history": [
+        {
+          "price": 50.99,
+          "original_price": 59.99,
+          "scraped_at": "2026-05-18T10:00:35.587943+00:00"
+        },
+        {
+          "price": 60.26,
+          "original_price": 99.99,
+          "scraped_at": "2026-09-08T14:01:03.842319+00:00"
+        },
+        {
+          "price": 64.19,
+          "original_price": 99.99,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
+      "id": "b97a7999282d",
+      "title": "Jabra Evolve2 55 draadloze stereo headset met oplaadstandaard, Jabra Air Comfort technologie, noise cancelling microfoons en ANC - werkt met UC-platforms zoals Zoom en Google Meet - zwart",
+      "price": 99.96,
+      "original_price": 150.48,
+      "discount_percent": 33,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BS1PB2TC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51Ak-k8ZhpL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:11:25.413327+00:00",
+      "price_history": [
+        {
+          "price": 77.19,
+          "original_price": 158.5,
+          "scraped_at": "2026-04-24T06:00:27.852907+00:00"
+        },
+        {
+          "price": 96.27,
+          "original_price": 152.5,
+          "scraped_at": "2026-08-17T18:00:54.778493+00:00"
+        },
+        {
+          "price": 98.94,
+          "original_price": 150.48,
+          "scraped_at": "2026-09-08T06:01:03.837256+00:00"
+        },
+        {
+          "price": 99.96,
+          "original_price": 150.48,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
+      "id": "d560dff98941",
+      "title": "VTech LeapMOVE TV-console",
+      "price": 63.66,
+      "original_price": 99.01,
+      "discount_percent": 35,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F3DSKYYG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/619Hnd8KsAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:22:04.672206+00:00",
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     },
     {
@@ -7118,6 +7294,21 @@
       "auto_approved": true
     },
     {
+      "id": "d500f6a59130",
+      "title": "Jabra Evolve2 55 USB-A MS Stereo - 25599-999-999",
+      "price": 88.78,
+      "original_price": 129.85,
+      "discount_percent": 31,
+      "category": "audio",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BS1PT8M7?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51mxXdi91XL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:11:06.473849+00:00",
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
       "id": "9539259c53a1",
       "title": "BaByliss Perfect Finish AS126E",
       "price": 30.0,
@@ -7179,6 +7370,63 @@
         }
       ],
       "approved_at": "12-09-2026 15:20",
+      "auto_approved": true
+    },
+    {
+      "id": "1b3422726616",
+      "title": "KODAK Mini Shot 2 ERA 4PASS 2-in-1 Instant Camera en Fotoprinter (5,3 x 8,6 cm) (fotoprinter + 8 vellen, geel)",
+      "price": 79.64,
+      "original_price": 116.35,
+      "discount_percent": 31,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CHS7DL8R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71zw53BONWL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:25:36.332951+00:00",
+      "price_history": [
+        {
+          "price": 102.04,
+          "original_price": 132.2,
+          "scraped_at": "2026-07-11T14:00:53.623999+00:00"
+        },
+        {
+          "price": 99.87,
+          "original_price": 99.99,
+          "scraped_at": "2026-07-17T06:00:45.379693+00:00"
+        },
+        {
+          "price": 95.52,
+          "original_price": 127.33,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 93.35,
+          "original_price": 125.42,
+          "scraped_at": "2026-08-07T14:00:24.464671+00:00"
+        },
+        {
+          "price": 83.44,
+          "original_price": 94.76,
+          "scraped_at": "2026-08-23T06:00:37.342923+00:00"
+        },
+        {
+          "price": 85.38,
+          "original_price": 117.76,
+          "scraped_at": "2026-09-03T06:01:00.223528+00:00"
+        },
+        {
+          "price": 81.8,
+          "original_price": 117.32,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 79.64,
+          "original_price": 116.35,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     },
     {
@@ -7566,6 +7814,73 @@
       "auto_approved": true
     },
     {
+      "id": "d319e122fca2",
+      "title": "VEMER VE794900 EASYEYE WLAN-camera voor binnen met speciale app, inbouwdoos met 2 modules, Full HD-beveiligingscamera en infraroodtechnologie, voeding 230 V, grijs",
+      "price": 81.91,
+      "original_price": 118.6,
+      "discount_percent": 30,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F19G4ZTT?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61lAOrJoWhL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:26:27.491012+00:00",
+      "price_history": [
+        {
+          "price": 104.32,
+          "original_price": 125.19,
+          "scraped_at": "2026-07-11T18:00:56.106517+00:00"
+        },
+        {
+          "price": 102.15,
+          "original_price": 125.19,
+          "scraped_at": "2026-07-17T06:00:45.379693+00:00"
+        },
+        {
+          "price": 99.98,
+          "original_price": 124.46,
+          "scraped_at": "2026-07-28T06:00:54.420285+00:00"
+        },
+        {
+          "price": 97.81,
+          "original_price": 124.46,
+          "scraped_at": "2026-08-02T10:00:20.004059+00:00"
+        },
+        {
+          "price": 94.92,
+          "original_price": 116.21,
+          "scraped_at": "2026-08-12T14:00:53.991852+00:00"
+        },
+        {
+          "price": 92.75,
+          "original_price": 124.46,
+          "scraped_at": "2026-08-17T18:00:54.778493+00:00"
+        },
+        {
+          "price": 90.59,
+          "original_price": 124.46,
+          "scraped_at": "2026-08-23T06:00:37.342923+00:00"
+        },
+        {
+          "price": 87.69,
+          "original_price": 124.46,
+          "scraped_at": "2026-08-28T18:00:26.112758+00:00"
+        },
+        {
+          "price": 84.8,
+          "original_price": 118.6,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 81.91,
+          "original_price": 118.6,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
       "id": "346906cbcff3",
       "title": "Insta360 X5 Essentials Bundle Zwart",
       "price": 541.0,
@@ -7844,6 +8159,43 @@
       "auto_approved": true
     },
     {
+      "id": "6bad3d827fd7",
+      "title": "KODAK Printomatic Full-Color Instant Print Digitale Camera - Hoogwaardige Foto's op Zink 2x3\" Plakpapier - 5MP, Draagbaar, Creatief en Leuk Cadeau voor Verjaardag, Kerstmis, Vakantie - Blauw",
+      "price": 52.11,
+      "original_price": 74.66,
+      "discount_percent": 30,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B07BB5FDS2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71CEinTctLL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:18:39.122464+00:00",
+      "price_history": [
+        {
+          "price": 58.09,
+          "original_price": 89.98,
+          "scraped_at": "2026-02-24T07:46:06.340673+00:00"
+        },
+        {
+          "price": 57.54,
+          "original_price": 76.19,
+          "scraped_at": "2026-03-05T11:00:21.923397+00:00"
+        },
+        {
+          "price": 54.06,
+          "original_price": 69.99,
+          "scraped_at": "2026-08-31T06:00:48.266298+00:00"
+        },
+        {
+          "price": 52.11,
+          "original_price": 74.66,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
       "id": "76974373032b",
       "title": "Logitech StreamCam Grijs",
       "price": 142.0,
@@ -7873,6 +8225,75 @@
         }
       ],
       "approved_at": "13-09-2026 11:09",
+      "auto_approved": true
+    },
+    {
+      "id": "44e08c090edd",
+      "title": "Shokz OpenMove Open-Ear beengeleiding koptelefoon, licht 29g, Grijs",
+      "price": 63.6,
+      "original_price": 89.95,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09BW29FJS?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51vqrFR12TL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:10:19.024873+00:00",
+      "price_history": [
+        {
+          "price": 84.62,
+          "original_price": 89.95,
+          "scraped_at": "2026-08-09T18:00:35.632338+00:00"
+        },
+        {
+          "price": 72.95,
+          "original_price": 117.0,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        },
+        {
+          "price": 61.44,
+          "original_price": 64.0,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 63.6,
+          "original_price": 89.95,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
+      "auto_approved": true
+    },
+    {
+      "id": "fcbeb6bf723f",
+      "title": "Samsung Odyssey G5 S27CG552EU - G55C Series - LED-Monitor - Gaming - gebogen - 68 cm (27\")",
+      "price": 107.69,
+      "original_price": 149.0,
+      "discount_percent": 27,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CP687WQK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/713rvnXTEiL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:38:53.668615+00:00",
+      "price_history": [
+        {
+          "price": 118.6,
+          "original_price": 129.99,
+          "scraped_at": "2026-03-14T19:00:30.611206+00:00"
+        },
+        {
+          "price": 126.85,
+          "original_price": null,
+          "scraped_at": "2026-05-13T06:00:31.650670+00:00"
+        },
+        {
+          "price": 107.69,
+          "original_price": 149.0,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
+        }
+      ],
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     },
     {
@@ -8832,365 +9253,122 @@
       "auto_approved": true
     },
     {
-      "id": "99b1a38fabe2",
-      "title": "Pixel Maker Camera Value Up Kit",
-      "price": 67.0,
-      "original_price": 89.0,
-      "discount_percent": 24,
-      "category": "camera",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/pixel-maker-camera-value-up-kit-r-20086",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2181627.jpg?v=1787645837",
-      "found_at": "2026-09-13T10:05:12.472066+00:00",
-      "price_history": [
-        {
-          "price": 81.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 76.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
-        },
-        {
-          "price": 75.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
-        },
-        {
-          "price": 74.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
-        },
-        {
-          "price": 73.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
-        },
-        {
-          "price": 71.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
-        },
-        {
-          "price": 70.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
-        },
-        {
-          "price": 68.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 67.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        }
-      ],
-      "approved_at": "13-09-2026 11:09",
-      "auto_approved": true
-    },
-    {
-      "id": "e3d62d2102d1",
-      "title": "Skullcandy Push 540 Open Wireless Open Ear Bluetooth Earbuds, Koptelefoon, Zweet- en waterbestendig, Accuduur van 42 uur, Verwijderbare nekband, Stevige pasvorm - Rood",
-      "price": 68.25,
-      "original_price": 89.99,
-      "discount_percent": 24,
-      "category": "smartphones",
+      "id": "f474fd04fc33",
+      "title": "Polaroid - Bundel Instant Camera Go Gen 2 Zwart + Zwarte Clip",
+      "price": 64.63,
+      "original_price": 86.34,
+      "discount_percent": 25,
+      "category": "wearables",
       "source": "Amazon RetourDeals",
       "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0GQJSWK42?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71BNwIJkorL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-13T18:29:04.898603+00:00",
+      "url": "https://www.amazon.nl/dp/B0GDCHRVJ2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71oxMCbWCsL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:24:39.036058+00:00",
       "price_history": [
         {
-          "price": 81.21,
+          "price": 87.29,
           "original_price": 89.99,
-          "scraped_at": "2026-06-30T06:01:38.842666+00:00"
+          "scraped_at": "2026-06-01T18:00:54.335546+00:00"
         },
         {
-          "price": 80.34,
-          "original_price": 89.99,
-          "scraped_at": "2026-07-05T10:00:44.895984+00:00"
+          "price": 82.78,
+          "original_price": 86.23,
+          "scraped_at": "2026-06-23T06:03:39.083459+00:00"
         },
         {
-          "price": 79.48,
-          "original_price": 89.99,
-          "scraped_at": "2026-07-10T14:00:28.612259+00:00"
+          "price": 80.14,
+          "original_price": 86.38,
+          "scraped_at": "2026-07-08T14:01:00.552314+00:00"
         },
         {
-          "price": 77.75,
-          "original_price": 89.99,
-          "scraped_at": "2026-07-20T18:00:37.298994+00:00"
+          "price": 82.72,
+          "original_price": 86.38,
+          "scraped_at": "2026-07-13T18:00:19.266614+00:00"
         },
         {
-          "price": 76.89,
-          "original_price": 89.99,
-          "scraped_at": "2026-07-25T18:01:03.421090+00:00"
+          "price": 81.44,
+          "original_price": 86.38,
+          "scraped_at": "2026-07-19T06:00:36.047844+00:00"
         },
         {
-          "price": 76.02,
-          "original_price": 89.99,
-          "scraped_at": "2026-07-31T06:00:32.585528+00:00"
+          "price": 80.15,
+          "original_price": 86.38,
+          "scraped_at": "2026-07-29T10:00:45.380583+00:00"
         },
         {
-          "price": 75.16,
-          "original_price": 89.99,
-          "scraped_at": "2026-08-05T06:00:29.942945+00:00"
+          "price": 77.0,
+          "original_price": 87.01,
+          "scraped_at": "2026-08-08T10:00:50.070390+00:00"
         },
         {
-          "price": 74.29,
-          "original_price": 89.99,
-          "scraped_at": "2026-08-13T06:01:08.885123+00:00"
+          "price": 76.16,
+          "original_price": 87.01,
+          "scraped_at": "2026-08-18T18:00:57.382254+00:00"
         },
         {
-          "price": 73.43,
-          "original_price": 89.99,
-          "scraped_at": "2026-08-18T10:00:30.468292+00:00"
+          "price": 75.31,
+          "original_price": 87.01,
+          "scraped_at": "2026-08-24T06:00:50.370947+00:00"
         },
         {
-          "price": 72.57,
-          "original_price": 89.99,
-          "scraped_at": "2026-08-23T14:00:31.468996+00:00"
-        },
-        {
-          "price": 69.97,
-          "original_price": 89.99,
-          "scraped_at": "2026-09-07T14:00:34.947576+00:00"
-        },
-        {
-          "price": 68.25,
-          "original_price": 89.99,
-          "scraped_at": "2026-09-13T18:00:43.146776+00:00"
-        }
-      ],
-      "approved_at": "13-09-2026 19:56",
-      "auto_approved": true
-    },
-    {
-      "id": "5cdcbfe53fd8",
-      "title": "Kodak FZ55 Zwart",
-      "price": 120.0,
-      "original_price": 155.0,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/kodak-fz55-zwart-r-20138",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1855299.jpg?v=1787646301",
-      "found_at": "2026-09-13T14:02:40.824708+00:00",
-      "price_history": [
-        {
-          "price": 142.0,
-          "original_price": 155.0,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": null,
-          "scraped_at": "2026-08-27T10:00:22.484243+00:00"
-        },
-        {
-          "price": 151.0,
-          "original_price": 163.0,
-          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
-        },
-        {
-          "price": 137.0,
-          "original_price": 158.66,
-          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
-        },
-        {
-          "price": 130.0,
-          "original_price": 154.0,
-          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": 155.0,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        }
-      ],
-      "approved_at": "13-09-2026 15:06",
-      "auto_approved": true
-    },
-    {
-      "id": "04e5b6c63f77",
-      "title": "Asus Vivobook S16 M3607HA-RP145W QWERTY",
-      "price": 791.0,
-      "original_price": 899.0,
-      "discount_percent": 12,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/asus-vivobook-s16-m3607ha-rp145w-qwerty-r-20481",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2234915_3ce0a1e5-964e-4d73-823a-6255e8be0b43.jpg?v=1788851333",
-      "found_at": "2026-09-13T14:02:34.497127+00:00",
-      "approved_at": "13-09-2026 15:06",
-      "auto_approved": true
-    },
-    {
-      "id": "dc53940ca0a3",
-      "title": "Boretti Brikettenstarter",
-      "price": 23.0,
-      "original_price": 30.99,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/boretti-brikettenstarter-r-20090",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1864398_0d13ae3d-b985-45b7-85f3-d361bcc299dd.jpg?v=1787645874",
-      "found_at": "2026-09-13T14:02:34.499041+00:00",
-      "price_history": [
-        {
-          "price": 32.0,
-          "original_price": null,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": null,
-          "scraped_at": "2026-08-27T10:00:22.484243+00:00"
-        },
-        {
-          "price": 32.0,
-          "original_price": null,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        },
-        {
-          "price": 30.0,
-          "original_price": 31.38,
+          "price": 74.47,
+          "original_price": 87.01,
           "scraped_at": "2026-08-29T10:00:32.026045+00:00"
         },
         {
-          "price": 29.0,
-          "original_price": 31.43,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+          "price": 65.75,
+          "original_price": 86.34,
+          "scraped_at": "2026-09-03T14:00:23.447942+00:00"
         },
         {
-          "price": 32.0,
-          "original_price": 33.72,
-          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+          "price": 64.26,
+          "original_price": 86.34,
+          "scraped_at": "2026-09-08T14:01:03.842319+00:00"
         },
         {
-          "price": 31.0,
-          "original_price": 33.57,
-          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": 31.43,
-          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
-        },
-        {
-          "price": 26.0,
-          "original_price": 29.23,
-          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 33.56,
-          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        },
-        {
-          "price": 27.0,
-          "original_price": 33.07,
-          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
-        },
-        {
-          "price": 25.0,
-          "original_price": 33.02,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 23.0,
-          "original_price": 30.99,
-          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+          "price": 64.63,
+          "original_price": 86.34,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
         }
       ],
-      "approved_at": "13-09-2026 15:06",
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     },
     {
-      "id": "45ff35a64238",
-      "title": "Lenovo Idea Tab Pro 2nd gen Black",
-      "price": 439.0,
-      "original_price": 519.08,
-      "discount_percent": 15,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-idea-tab-pro-2nd-gen-black-r-20472",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1816199989_cea7b508-74e0-4317-ac9b-b3a0152abc3c.jpg?v=1788945832",
-      "found_at": "2026-09-13T14:02:40.825419+00:00",
-      "approved_at": "13-09-2026 15:06",
-      "auto_approved": true
-    },
-    {
-      "id": "78ab123dea7c",
-      "title": "Blackvue DR970X-2CH LTE Plus 4K UHD Dashcam 64GB",
-      "price": 740.0,
-      "original_price": 842.0,
-      "discount_percent": 12,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/blackvue-dr970x-2ch-lte-plus-4k-uhd-dashcam-64gb-r-20422",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2070712.jpg?v=1788945742",
-      "found_at": "2026-09-13T14:02:34.498358+00:00",
+      "id": "f02f0a0550be",
+      "title": "Xiaomi Gaming Monitor G24i 2026 OM4FE-EU",
+      "price": 79.53,
+      "original_price": 105.68,
+      "discount_percent": 24,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FKC3CWS3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61SgsgW4dDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-14T06:36:48.873362+00:00",
       "price_history": [
         {
-          "price": 747.0,
-          "original_price": 849.0,
-          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+          "price": 100.06,
+          "original_price": null,
+          "scraped_at": "2026-08-17T14:00:37.676403+00:00"
         },
         {
-          "price": 740.0,
-          "original_price": 842.0,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        }
-      ],
-      "approved_at": "13-09-2026 15:06",
-      "auto_approved": true
-    },
-    {
-      "id": "a79b9c9851ae",
-      "title": "Philips Philips 27E1N1300AE/00",
-      "price": 123.0,
-      "original_price": 156.08,
-      "discount_percent": 21,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-philips-27e1n1300ae-00-r-20553",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018619.jpg?v=1789118320",
-      "found_at": "2026-09-13T14:02:43.621132+00:00",
-      "price_history": [
-        {
-          "price": 131.0,
-          "original_price": 156.35,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+          "price": 98.25,
+          "original_price": 107.12,
+          "scraped_at": "2026-09-03T06:01:00.223528+00:00"
         },
         {
-          "price": 123.0,
-          "original_price": 156.08,
-          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+          "price": 82.39,
+          "original_price": 107.12,
+          "scraped_at": "2026-09-08T06:01:03.837256+00:00"
+        },
+        {
+          "price": 79.53,
+          "original_price": 105.68,
+          "scraped_at": "2026-09-14T06:01:00.150543+00:00"
         }
       ],
-      "approved_at": "13-09-2026 15:06",
+      "approved_at": "14-09-2026 07:48",
       "auto_approved": true
     }
   ]
