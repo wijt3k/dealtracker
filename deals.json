@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T06:48:08.339466+00:00",
-  "total": 294,
+  "updated_at": "2026-09-15T10:36:17.197169+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -6171,6 +6171,43 @@
       "auto_approved": true
     },
     {
+      "id": "ef90c488f1d1",
+      "title": "Dell 27 Gaming Monitor - SE2726HG, Full HD (1920x1080), 240Hz, Fast IPS",
+      "price": 100.31,
+      "original_price": 154.95,
+      "discount_percent": 35,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GGRHTZQ5?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81fbPJo0puL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-15T10:24:58.952708+00:00",
+      "price_history": [
+        {
+          "price": 88.86,
+          "original_price": 116.0,
+          "scraped_at": "2026-07-08T18:00:37.935663+00:00"
+        },
+        {
+          "price": 101.57,
+          "original_price": 154.95,
+          "scraped_at": "2026-09-04T14:00:40.037266+00:00"
+        },
+        {
+          "price": 102.28,
+          "original_price": 154.95,
+          "scraped_at": "2026-09-09T14:00:54.449238+00:00"
+        },
+        {
+          "price": 100.31,
+          "original_price": 154.95,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 11:36",
+      "auto_approved": true
+    },
+    {
       "id": "30b6948ebe91",
       "title": "Lenco LS-600WA",
       "price": 299.0,
@@ -7237,6 +7274,43 @@
       "auto_approved": true
     },
     {
+      "id": "f43070886e6f",
+      "title": "Oral-B iO 3N Roze",
+      "price": 46.0,
+      "original_price": 70.47,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-3n-roze-r-20428",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1939164_c62f1771-1ff1-4496-bb4f-c9671b342344.jpg?v=1788850727",
+      "found_at": "2026-09-15T10:29:44.205706+00:00",
+      "price_history": [
+        {
+          "price": 66.0,
+          "original_price": 76.0,
+          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 63.77,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 65.54,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 70.47,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 11:36",
+      "auto_approved": true
+    },
+    {
       "id": "73549bcbf546",
       "title": "Refurbished iPhone 13 128GB Pink",
       "price": 261.8,
@@ -7700,6 +7774,60 @@
       "image": "https://m.media-amazon.com/images/I/81myZO2xd6L._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-09-14T14:10:54.870636+00:00",
       "approved_at": "14-09-2026 15:31",
+      "auto_approved": true
+    },
+    {
+      "id": "5f3a65c2a670",
+      "title": "AOC AOC Q27G4ZR",
+      "price": 148.0,
+      "original_price": 205.79,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/aoc-aoc-q27g4zr-r-20552",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2182329_7e20eeed-b081-463e-9596-6ede6e36b079.jpg?v=1789118287",
+      "found_at": "2026-09-15T06:41:30.244293+00:00",
+      "price_history": [
+        {
+          "price": 157.0,
+          "original_price": 204.54,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 148.0,
+          "original_price": 194.69,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 11:36",
+      "auto_approved": true
+    },
+    {
+      "id": "7c8dfc6508b4",
+      "title": "KOORUI E2412K 24 inch monitor, FHD 1920 x 1080 144Hz pc-monitor, HDMI 1.4, Eye Care scherm, 5ms GtG 5° tot 15° kantelbaar, VESA 100 x 100 mm",
+      "price": 76.24,
+      "original_price": 110.85,
+      "discount_percent": 31,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GFWH5NVH?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71ECTCS2LbL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-09-15T10:17:26.087425+00:00",
+      "price_history": [
+        {
+          "price": 77.59,
+          "original_price": 110.85,
+          "scraped_at": "2026-09-09T14:00:54.449238+00:00"
+        },
+        {
+          "price": 76.24,
+          "original_price": 110.85,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 11:36",
       "auto_approved": true
     },
     {
@@ -8533,6 +8661,48 @@
       "auto_approved": true
     },
     {
+      "id": "796a23380ffa",
+      "title": "Jura Cool Control 1L Zwart G2",
+      "price": 175.0,
+      "original_price": 235.17,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jura-cool-control-1l-zwart-g2-r-20238",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1434065_9890a7ca-fd96-4604-8ba9-f3d1b54c95e0.jpg?v=1788419066",
+      "found_at": "2026-09-15T10:29:40.629769+00:00",
+      "price_history": [
+        {
+          "price": 175.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-09-03T18:00:31.965299+00:00"
+        },
+        {
+          "price": 201.0,
+          "original_price": 237.16,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 241.46,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 236.01,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 235.17,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 11:36",
+      "auto_approved": true
+    },
+    {
       "id": "6bad3d827fd7",
       "title": "KODAK Printomatic Full-Color Instant Print Digitale Camera - Hoogwaardige Foto's op Zink 2x3\" Plakpapier - 5MP, Draagbaar, Creatief en Leuk Cadeau voor Verjaardag, Kerstmis, Vakantie - Blauw",
       "price": 52.11,
@@ -9124,30 +9294,92 @@
       "auto_approved": true
     },
     {
-      "id": "3ebfe65c5274",
-      "title": "Logitech G PRO X Wireless LIGHTSPEED Gaming Headset",
-      "price": 95.0,
-      "original_price": 129.07,
-      "discount_percent": 26,
-      "category": "audio",
+      "id": "8bb4476e513f",
+      "title": "Lenovo Chromebook IdeaPad 3 14M868 82XJ0034MB AZERTY",
+      "price": 231.0,
+      "original_price": 299.0,
+      "discount_percent": 22,
+      "category": "laptops",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-pro-x-wireless-lightspeed-gaming-headset-r-20533",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135200_d27b56a6-419d-4afc-86e0-4eae3c90d0c3.jpg?v=1789024691",
-      "found_at": "2026-09-13T10:05:05.880316+00:00",
+      "url": "https://stekkerstore.com/products/lenovo-chromebook-ideapad-3-14m868-82xj0034mb-azerty-r-20340",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2155191.jpg?v=1788419732",
+      "found_at": "2026-09-15T10:29:40.630638+00:00",
       "price_history": [
         {
-          "price": 96.0,
-          "original_price": 129.63,
+          "price": 263.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-09-03T18:00:31.965299+00:00"
+        },
+        {
+          "price": 247.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 244.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+        },
+        {
+          "price": 242.0,
+          "original_price": 299.0,
           "scraped_at": "2026-09-11T10:00:56.508002+00:00"
         },
         {
-          "price": 95.0,
-          "original_price": 128.53,
+          "price": 239.0,
+          "original_price": 299.0,
           "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 236.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        },
+        {
+          "price": 234.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 231.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
         }
       ],
-      "approved_at": "14-09-2026 19:24",
+      "approved_at": "15-09-2026 11:36",
+      "auto_approved": true
+    },
+    {
+      "id": "cf0bd7772063",
+      "title": "MSI PRO MP165DE E6 draagbare monitor 15,6 inch FHD, 1920 x 1080 IPS, 60 Hz, 4 ms, Eye Care, geïntegreerde luidspreker/mic, HDMI 2.0b, USB C (15WPD), Vesa-montage, zwart",
+      "price": 102.98,
+      "original_price": 139.64,
+      "discount_percent": 26,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0G6FZTDRV?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71OpOoFNipL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-15T10:25:27.126100+00:00",
+      "price_history": [
+        {
+          "price": 105.24,
+          "original_price": 139.64,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 101.82,
+          "original_price": 139.64,
+          "scraped_at": "2026-09-09T14:00:54.449238+00:00"
+        },
+        {
+          "price": 102.98,
+          "original_price": 139.64,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 11:36",
       "auto_approved": true
     }
   ]
