@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T14:24:13.895242+00:00",
-  "total": 293,
+  "updated_at": "2026-09-15T18:07:05.978183+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3eff984e26ce",
@@ -9355,6 +9355,328 @@
         }
       ],
       "approved_at": "15-09-2026 15:23",
+      "auto_approved": true
+    },
+    {
+      "id": "ef254d584070",
+      "title": "Jura E6 Dark Inox (EC)",
+      "price": 749.0,
+      "original_price": 869.76,
+      "discount_percent": 13,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jura-e6-dark-inox-ec-r-20361",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1830209_8ffa5ae3-bbb3-4e3a-96e9-b982fd077b3e.jpg?v=1788419942",
+      "found_at": "2026-09-15T18:03:11.371135+00:00",
+      "price_history": [
+        {
+          "price": 852.0,
+          "original_price": 927.0,
+          "scraped_at": "2026-09-03T18:00:31.965299+00:00"
+        },
+        {
+          "price": 873.0,
+          "original_price": 876.34,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 876.34,
+          "scraped_at": "2026-09-04T14:00:40.037266+00:00"
+        },
+        {
+          "price": 797.0,
+          "original_price": 920.77,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 749.0,
+          "original_price": 869.76,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "2bc0fdf696c0",
+      "title": "Viltrox EF-M2 II Autofocus Adapter 0,71x",
+      "price": 120.0,
+      "original_price": 158.04,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/viltrox-ef-m2-ii-autofocus-adapter-0-71x-r-20110",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1415011_ac1e84fe-8238-40aa-93dd-a043194f8437.jpg?v=1787646026",
+      "found_at": "2026-09-15T18:03:21.275583+00:00",
+      "price_history": [
+        {
+          "price": 144.0,
+          "original_price": 165.37,
+          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 169.18,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 159.97,
+          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
+        },
+        {
+          "price": 122.0,
+          "original_price": 169.26,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 158.04,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "ea36d3f89217",
+      "title": "Refurbished iPad 9 64GB WIFI+LTE 10.2\" Space Gray",
+      "price": 210.0,
+      "original_price": 267.0,
+      "discount_percent": 21,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-ipad-9-64gb-wifi-lte-10-2-space-gray-r-20473",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1632013_f3d3c12d-8f99-4814-bd14-35463569fe79.jpg?v=1788945855",
+      "found_at": "2026-09-15T18:03:17.756244+00:00",
+      "approved_at": "15-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "dc53940ca0a3",
+      "title": "Boretti Brikettenstarter",
+      "price": 23.0,
+      "original_price": 31.86,
+      "discount_percent": 27,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/boretti-brikettenstarter-r-20090",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1864398_0d13ae3d-b985-45b7-85f3-d361bcc299dd.jpg?v=1787645874",
+      "found_at": "2026-09-15T18:03:07.321718+00:00",
+      "price_history": [
+        {
+          "price": 28.0,
+          "original_price": null,
+          "scraped_at": "2026-08-27T10:00:22.484243+00:00"
+        },
+        {
+          "price": 32.0,
+          "original_price": null,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 30.0,
+          "original_price": 31.38,
+          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
+        },
+        {
+          "price": 29.0,
+          "original_price": 31.43,
+          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
+        },
+        {
+          "price": 32.0,
+          "original_price": 33.72,
+          "scraped_at": "2026-08-31T10:00:21.532114+00:00"
+        },
+        {
+          "price": 31.0,
+          "original_price": 33.57,
+          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
+        },
+        {
+          "price": 28.0,
+          "original_price": 31.43,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 26.0,
+          "original_price": 29.23,
+          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
+        },
+        {
+          "price": 29.0,
+          "original_price": 33.56,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 27.0,
+          "original_price": 33.07,
+          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+        },
+        {
+          "price": 25.0,
+          "original_price": 33.02,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 23.0,
+          "original_price": 30.99,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        },
+        {
+          "price": 25.0,
+          "original_price": 32.59,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 23.0,
+          "original_price": 31.86,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "92955be51841",
+      "title": "JBL Quantum 650 Wireless Zwart",
+      "price": 91.0,
+      "original_price": 121.22,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jbl-quantum-650-wireless-zwart-r-20278",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2218469.jpg?v=1788249292",
+      "found_at": "2026-09-15T18:03:11.370962+00:00",
+      "price_history": [
+        {
+          "price": 101.0,
+          "original_price": 134.38,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 140.09,
+          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
+        },
+        {
+          "price": 97.0,
+          "original_price": 111.69,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 111.99,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "7af465fbbb42",
+      "title": "Oral-B iO Series 8n Zwart met extra opzetborstel",
+      "price": 123.0,
+      "original_price": 160.56,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-series-8n-zwart-met-extra-opzetborstel-r-20263",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1796990_7812d7fb-97f4-438b-91b2-7b049499d132.jpg?v=1788249261",
+      "found_at": "2026-09-15T18:03:14.645016+00:00",
+      "price_history": [
+        {
+          "price": 135.0,
+          "original_price": 160.62,
+          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
+        },
+        {
+          "price": 136.0,
+          "original_price": 160.28,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 160.28,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 126.0,
+          "original_price": 159.44,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 160.56,
+          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 160.56,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "0eefa903118e",
+      "title": "Oral-B iO Ultimate Clean Wit (8 stuks)",
+      "price": 35.0,
+      "original_price": 47.4,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-ultimate-clean-wit-8-stuks-r-20324",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2157952_a7f8a390-57e1-4f06-a1f4-648c475aa405.jpg?v=1788419554",
+      "found_at": "2026-09-15T18:03:14.645113+00:00",
+      "price_history": [
+        {
+          "price": 60.0,
+          "original_price": 69.0,
+          "scraped_at": "2026-09-03T18:00:31.965299+00:00"
+        },
+        {
+          "price": 33.0,
+          "original_price": 43.77,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 36.0,
+          "original_price": 51.7,
+          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
+        },
+        {
+          "price": 37.0,
+          "original_price": 51.09,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 36.0,
+          "original_price": 53.2,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 37.0,
+          "original_price": 48.3,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 35.0,
+          "original_price": 45.91,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        }
+      ],
+      "approved_at": "15-09-2026 19:07",
       "auto_approved": true
     }
   ]
