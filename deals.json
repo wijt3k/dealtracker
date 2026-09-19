@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T14:39:42.091123+00:00",
-  "total": 300,
+  "updated_at": "2026-09-19T14:40:01.604082+00:00",
+  "total": 299,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -7801,48 +7801,6 @@
           "price": 510.0,
           "original_price": 617.0,
           "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        }
-      ],
-      "approved_at": "13-09-2026 07:06",
-      "auto_approved": true
-    },
-    {
-      "id": "d581aef16056",
-      "title": "Philips FC9334/09",
-      "price": 111.0,
-      "original_price": 150.05,
-      "discount_percent": 26,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-fc9334-09-r-20283",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1368745_cd881a69-7bff-42ad-8682-d5095cdf2167.jpg?v=1788249328",
-      "found_at": "2026-09-13T06:02:34.930134+00:00",
-      "price_history": [
-        {
-          "price": 127.0,
-          "original_price": 152.54,
-          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
-        },
-        {
-          "price": 117.0,
-          "original_price": 170.57,
-          "scraped_at": "2026-09-05T10:01:20.483257+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": 170.99,
-          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
-        },
-        {
-          "price": 123.0,
-          "original_price": 171.86,
-          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 172.97,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
         }
       ],
       "approved_at": "13-09-2026 07:06",
