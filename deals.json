@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-21T14:13:39.849791+00:00",
-  "total": 295,
+  "updated_at": "2026-09-21T18:07:08.990878+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -296,6 +296,21 @@
       "image": "https://m.media-amazon.com/images/I/61ZOY-pRKzL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-09-19T10:16:35.882322+00:00",
       "approved_at": "19-09-2026 11:26",
+      "auto_approved": true
+    },
+    {
+      "id": "5b3254a15d44",
+      "title": "Dreame Aqua 10 Ultra Roller Complete Black",
+      "price": 349.0,
+      "original_price": 729.5,
+      "discount_percent": 52,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-aqua-10-ultra-roller-complete-black-r-20565",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2220480_92baf1f4-34c6-40c1-8810-c86253340bad.jpg?v=1789741494",
+      "found_at": "2026-09-21T18:03:53.392197+00:00",
+      "approved_at": "21-09-2026 19:07",
       "auto_approved": true
     },
     {
@@ -5300,6 +5315,21 @@
       "auto_approved": true
     },
     {
+      "id": "97873f14dab4",
+      "title": "Refurbished iPhone 14 128GB Black - A1",
+      "price": 318.0,
+      "original_price": 410.0,
+      "discount_percent": 22,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-black-a1-r-20633",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950863_abe9c179-7570-486c-ba61-1afb2c91e6b6.jpg?v=1789741697",
+      "found_at": "2026-09-21T18:03:58.833661+00:00",
+      "approved_at": "21-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
       "id": "7f255672074c",
       "title": "Philips Hue Secure bedrade camera, 2K-videoresolutie huiscamera, huisbeveiliging met activeert meldingen, naadloze integratie met Philips Hue lampen, binnen en buiten beveiligingscamera, zwart",
       "price": 93.86,
@@ -8837,6 +8867,85 @@
         }
       ],
       "approved_at": "21-09-2026 15:13",
+      "auto_approved": true
+    },
+    {
+      "id": "c4b6a9d274df",
+      "title": "Oral-B iO 6N Zwart + extra iO Gentle Care opzetborstel",
+      "price": 105.0,
+      "original_price": 128.25,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-6n-zwart-extra-io-gentle-care-opzetborstel-r-20589",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2193627_9e98bbf0-af02-4f07-a36c-08572ab5913d.jpg?v=1789741578",
+      "found_at": "2026-09-21T18:03:56.341487+00:00",
+      "price_history": [
+        {
+          "price": 95.0,
+          "original_price": 121.5,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 127.75,
+          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 128.25,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        }
+      ],
+      "approved_at": "21-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "82ca8639ba32",
+      "title": "BlueBuilt Wireless USB Keyboard QWERTY",
+      "price": 24.0,
+      "original_price": 30.0,
+      "discount_percent": 20,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bluebuilt-wireless-usb-keyboard-qwerty-r-20514",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2164791.jpg?v=1789024516",
+      "found_at": "2026-09-21T18:03:50.446779+00:00",
+      "price_history": [
+        {
+          "price": 27.0,
+          "original_price": 30.0,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 25.0,
+          "original_price": 30.0,
+          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
+        },
+        {
+          "price": 24.0,
+          "original_price": 30.0,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        }
+      ],
+      "approved_at": "21-09-2026 19:07",
+      "auto_approved": true
+    },
+    {
+      "id": "e4946cdbe508",
+      "title": "Denon Home 150 zwart",
+      "price": 201.0,
+      "original_price": 238.64,
+      "discount_percent": 15,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/denon-home-150-zwart-r-20593",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1347727_775e18b9-5cbb-4808-98cd-6f3464af6861.jpg?v=1789741593",
+      "found_at": "2026-09-21T18:03:53.391903+00:00",
+      "approved_at": "21-09-2026 19:07",
       "auto_approved": true
     }
   ]
