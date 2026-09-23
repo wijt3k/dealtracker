@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T10:59:52.540607+00:00",
-  "total": 291,
+  "updated_at": "2026-09-23T14:39:17.938433+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -3741,6 +3741,33 @@
       "auto_approved": true
     },
     {
+      "id": "127ca757e149",
+      "title": "ASUS Business VA24DQFS Monitor zonder gereedschap, 24 inch, Full HD, 100 Hz, adaptieve synchronisatie, 1 ms reactietijd, HDMI, DisplayPort, VGA, ergonomisch design, montage zonder gereedschap",
+      "price": 93.61,
+      "original_price": 143.54,
+      "discount_percent": 34,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F1FZXTQ2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81mx7Yof5uL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-23T14:24:14.423977+00:00",
+      "price_history": [
+        {
+          "price": 93.64,
+          "original_price": 117.7,
+          "scraped_at": "2026-09-17T06:00:44.677928+00:00"
+        },
+        {
+          "price": 93.61,
+          "original_price": 143.54,
+          "scraped_at": "2026-09-23T14:01:11.013987+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
       "id": "b65fe998011f",
       "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
       "price": 71.0,
@@ -5983,6 +6010,63 @@
       "auto_approved": true
     },
     {
+      "id": "7ffb346426da",
+      "title": "Xiaomi Pad 7 8+128 Zwart + Pen",
+      "price": 374.13,
+      "original_price": 460.15,
+      "discount_percent": 18,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DTHY42FV?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51maBVoBXIL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-23T14:08:54.476889+00:00",
+      "price_history": [
+        {
+          "price": 333.14,
+          "original_price": null,
+          "scraped_at": "2026-07-07T10:00:29.152512+00:00"
+        },
+        {
+          "price": 326.47,
+          "original_price": 406.76,
+          "scraped_at": "2026-07-12T18:00:24.967745+00:00"
+        },
+        {
+          "price": 320.64,
+          "original_price": 406.35,
+          "scraped_at": "2026-07-18T06:00:21.037941+00:00"
+        },
+        {
+          "price": 315.63,
+          "original_price": null,
+          "scraped_at": "2026-07-23T10:00:23.237328+00:00"
+        },
+        {
+          "price": 317.54,
+          "original_price": null,
+          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
+        },
+        {
+          "price": 312.76,
+          "original_price": null,
+          "scraped_at": "2026-09-01T18:00:20.553307+00:00"
+        },
+        {
+          "price": 375.9,
+          "original_price": null,
+          "scraped_at": "2026-09-18T10:01:00.048649+00:00"
+        },
+        {
+          "price": 374.13,
+          "original_price": 460.15,
+          "scraped_at": "2026-09-23T14:01:11.013987+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
       "id": "7af465fbbb42",
       "title": "Oral-B iO Series 8n Zwart met extra opzetborstel",
       "price": 123.0,
@@ -6591,6 +6675,38 @@
         }
       ],
       "approved_at": "19-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
+      "id": "385db0e19ec8",
+      "title": "GIGABYTE GS27FC2 Gaming Monitor gebogen 27 inch FHD - 1920 x 1080, 240Hz, 1ms, 350 CD/m², HDR Ready, HDMI 2.0, Displayport 1.4",
+      "price": 94.0,
+      "original_price": 124.0,
+      "discount_percent": 24,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FPXJ2X6Q?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71eyaY6RpsL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-23T14:24:30.731698+00:00",
+      "price_history": [
+        {
+          "price": 111.74,
+          "original_price": 125.0,
+          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
+        },
+        {
+          "price": 109.51,
+          "original_price": 125.0,
+          "scraped_at": "2026-09-09T14:00:54.449238+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 124.0,
+          "scraped_at": "2026-09-23T14:01:11.013987+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
       "auto_approved": true
     },
     {
@@ -7520,6 +7636,21 @@
       "auto_approved": true
     },
     {
+      "id": "ecf8c15cd73e",
+      "title": "ASUS Vivobook 18 M1807HA Laptop | 18\" WUXGA 16:10 IPS Display | AMD Ryzen 7 260 | 16GB RAM | 1TB SSD | AMD Radeon 780M | Win11 Home | QWERTZ | Quiet Blue (AC-adapter apart verkrijgbaar)",
+      "price": 816.54,
+      "original_price": 920.04,
+      "discount_percent": 11,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DS5N6MWW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/616vzLQsfTL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-23T14:04:03.857480+00:00",
+      "approved_at": "23-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
       "id": "ec7398b0af8f",
       "title": "Lenovo IdeaPad Slim 5 15ARP10 83J3004QMH",
       "price": 699.0,
@@ -7723,6 +7854,63 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117876.jpg?v=1789741767",
       "found_at": "2026-09-20T10:08:19.943632+00:00",
       "approved_at": "20-09-2026 11:12",
+      "auto_approved": true
+    },
+    {
+      "id": "d8fc97eb6afb",
+      "title": "BlueBuilt Apple iPad Pro (2024) 11 inch Toetsenbord Hoes QWERTY",
+      "price": 153.0,
+      "original_price": 189.0,
+      "discount_percent": 19,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bluebuilt-apple-ipad-pro-2024-11-inch-toetsenbord-hoes-qwerty-r-20509",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2106726.jpg?v=1789024467",
+      "found_at": "2026-09-22T18:36:51.088038+00:00",
+      "price_history": [
+        {
+          "price": 173.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
+        },
+        {
+          "price": 161.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-18T10:01:00.048649+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 158.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
+        },
+        {
+          "price": 156.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        },
+        {
+          "price": 154.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 189.0,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
       "auto_approved": true
     },
     {
@@ -8346,6 +8534,139 @@
         }
       ],
       "approved_at": "22-09-2026 15:05",
+      "auto_approved": true
+    },
+    {
+      "id": "40075f68d56b",
+      "title": "BlueBuilt Apple iPad Air (2024) 13 inch Book Case Zwart",
+      "price": 45.0,
+      "original_price": 57.0,
+      "discount_percent": 21,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bluebuilt-apple-ipad-air-2024-13-inch-book-case-zwart-r-20521",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107448.jpg?v=1789024585",
+      "found_at": "2026-09-23T14:33:13.372317+00:00",
+      "price_history": [
+        {
+          "price": 50.0,
+          "original_price": 57.0,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 57.0,
+          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 57.0,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
+      "id": "8d4b3d833df8",
+      "title": "Wisberg S70 Ultimate Power",
+      "price": 181.0,
+      "original_price": 219.0,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wisberg-s70-ultimate-power-r-20586",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2242268_af821be3-c433-47b1-9402-4a5fae30872a.jpg?v=1789741563",
+      "found_at": "2026-09-23T14:33:31.371691+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 181.0,
+          "original_price": 219.0,
+          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
+      "id": "8bda7e5b1197",
+      "title": "Asus Vivobook 15 X1504VA-BQ3112W QWERTY",
+      "price": 647.0,
+      "original_price": 728.0,
+      "discount_percent": 11,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/asus-vivobook-15-x1504va-bq3112w-qwerty-r-20477",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2124740_8dd82896-f8ff-40fd-82e8-d472f755aed0.jpg?v=1788851276",
+      "found_at": "2026-09-23T14:33:13.371376+00:00",
+      "price_history": [
+        {
+          "price": 459.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
+        },
+        {
+          "price": 660.0,
+          "original_price": 708.5,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 669.0,
+          "original_price": 713.5,
+          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+        },
+        {
+          "price": 647.0,
+          "original_price": 728.0,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
+      "auto_approved": true
+    },
+    {
+      "id": "079b38caaa23",
+      "title": "Sony WH-1000XM4 Zilver",
+      "price": 218.0,
+      "original_price": 259.95,
+      "discount_percent": 16,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm4-zilver-r-20432",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1462476_3f4d77ec-0941-458e-8ff7-eae1cc656bba.jpg?v=1788850788",
+      "found_at": "2026-09-23T14:33:27.675244+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 259.95,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 231.0,
+          "original_price": 259.95,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 218.0,
+          "original_price": 259.95,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        }
+      ],
+      "approved_at": "23-09-2026 15:39",
       "auto_approved": true
     }
   ]
