@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-24T06:38:38.582526+00:00",
-  "total": 295,
+  "updated_at": "2026-09-24T10:48:48.416787+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -1876,6 +1876,38 @@
       "auto_approved": true
     },
     {
+      "id": "d5353546ea52",
+      "title": "Oral-B iO 2 Zwart en Roze Duo Pack",
+      "price": 51.0,
+      "original_price": 94.32,
+      "discount_percent": 45,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-2-zwart-en-roze-duo-pack-r-20616",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147071_48bdefb1-8c15-4f9f-90da-4a23f10b8f19.jpg?v=1789741664",
+      "found_at": "2026-09-24T10:43:10.940807+00:00",
+      "price_history": [
+        {
+          "price": 62.0,
+          "original_price": 76.74,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 69.41,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 94.32,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "f614007e1ac5",
       "title": "Lenovo Yoga Slim 7 OLED 14Q8X9 83ED002XMB AZERTY",
       "price": 1211.0,
@@ -3203,6 +3235,93 @@
       "auto_approved": true
     },
     {
+      "id": "358fb819e53d",
+      "title": "Refurbished iPhone SE (2022) 64GB Black",
+      "price": 116.0,
+      "original_price": 179.0,
+      "discount_percent": 35,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-se-2022-64gb-black-r-20334",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1942759_1892bd12-216e-4704-80e9-18cbb116cc7e.jpg?v=1788419671",
+      "found_at": "2026-09-24T10:43:14.591789+00:00",
+      "price_history": [
+        {
+          "price": 134.85,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 133.4,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 131.95,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
+        },
+        {
+          "price": 130.5,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 129.05,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        },
+        {
+          "price": 127.6,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-16T10:00:56.196933+00:00"
+        },
+        {
+          "price": 126.15,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
+        },
+        {
+          "price": 124.7,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-18T10:01:00.048649+00:00"
+        },
+        {
+          "price": 123.25,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 121.8,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
+        },
+        {
+          "price": 120.35,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        },
+        {
+          "price": 118.9,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        },
+        {
+          "price": 117.45,
+          "original_price": 135.0,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 179.0,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "e287cbef6380",
       "title": "Tefal Pro Express Eco GV9E21",
       "price": 172.0,
@@ -4527,6 +4646,48 @@
       "auto_approved": true
     },
     {
+      "id": "42c2f4e68e7d",
+      "title": "Apple iPad Air (2025) 13 inch 256GB Wifi Space Gray",
+      "price": 835.0,
+      "original_price": 984.49,
+      "discount_percent": 15,
+      "category": "tablets",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-13-inch-256gb-wifi-space-gray-r-20536",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145106.jpg?v=1789024714",
+      "found_at": "2026-09-24T10:43:04.392359+00:00",
+      "price_history": [
+        {
+          "price": 955.0,
+          "original_price": 1039.0,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 947.0,
+          "original_price": 1062.28,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 942.0,
+          "original_price": 1027.0,
+          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
+        },
+        {
+          "price": 947.0,
+          "original_price": 1029.99,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        },
+        {
+          "price": 835.0,
+          "original_price": 984.49,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "346906cbcff3",
       "title": "Insta360 X5 Essentials Bundle Zwart",
       "price": 541.0,
@@ -4873,6 +5034,48 @@
         }
       ],
       "approved_at": "12-09-2026 19:31",
+      "auto_approved": true
+    },
+    {
+      "id": "9c8bab9e7d78",
+      "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
+      "price": 99.0,
+      "original_price": 139.36,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-k860-ergonomisch-draadloos-toetsenbord-azerty-r-20524",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1565947_a332079f-dd67-450f-9342-03f4c7ab01d9.jpg?v=1789024610",
+      "found_at": "2026-09-24T10:43:10.938504+00:00",
+      "price_history": [
+        {
+          "price": 110.0,
+          "original_price": 121.84,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 109.64,
+          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 116.19,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 109.99,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 139.36,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
       "auto_approved": true
     },
     {
@@ -6088,6 +6291,33 @@
       "auto_approved": true
     },
     {
+      "id": "93cd6afc6b8d",
+      "title": "WMF Devil Koekenpannenset 24 + 28 cm",
+      "price": 61.0,
+      "original_price": 82.56,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-devil-koekenpannenset-24-28-cm-r-20780",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2234526.jpg?v=1790069449",
+      "found_at": "2026-09-24T10:43:18.538441+00:00",
+      "price_history": [
+        {
+          "price": 67.0,
+          "original_price": 73.0,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 82.56,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "f88be1770547",
       "title": "Philips Series 9000 15-in-1 MG9531/15",
       "price": 58.0,
@@ -6788,6 +7018,21 @@
       "auto_approved": true
     },
     {
+      "id": "cf21b214c0ca",
+      "title": "WMF Bueno Pro Broodrooster 0414130011",
+      "price": 43.0,
+      "original_price": 57.44,
+      "discount_percent": 25,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-bueno-pro-broodrooster-0414130011-r-20787",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2235797.jpg?v=1790070498",
+      "found_at": "2026-09-24T10:43:18.538343+00:00",
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "4d85c56ddd1c",
       "title": "Apple Magic Keyboard iPad Pro 11 inch (2024) QWERTZ Wit",
       "price": 293.0,
@@ -6832,6 +7077,33 @@
       "image": "https://m.media-amazon.com/images/I/51gVSHqdaDL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-09-24T06:15:35.551760+00:00",
       "approved_at": "24-09-2026 07:38",
+      "auto_approved": true
+    },
+    {
+      "id": "ed899a6cf4f4",
+      "title": "Razer Huntsman Mini Red Switch Gaming Keyboard QWERTZ",
+      "price": 64.0,
+      "original_price": 84.99,
+      "discount_percent": 24,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/razer-huntsman-mini-red-switch-gaming-keyboard-qwertz-r-20778",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2146151.jpg?v=1790069448",
+      "found_at": "2026-09-24T10:43:14.591382+00:00",
+      "price_history": [
+        {
+          "price": 63.0,
+          "original_price": 68.9,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 84.99,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
       "auto_approved": true
     },
     {
@@ -7246,6 +7518,21 @@
       "auto_approved": true
     },
     {
+      "id": "fd8a428c09d6",
+      "title": "WMF Lono Sandwich Maker 415150011",
+      "price": 60.0,
+      "original_price": 78.49,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-lono-sandwich-maker-415150011-r-20774",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/969905.jpg?v=1790069437",
+      "found_at": "2026-09-24T10:43:18.538532+00:00",
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "6dc10e536ffc",
       "title": "Refurbished iPhone 12 Black 64GB - A",
       "price": 159.2,
@@ -7477,6 +7764,43 @@
       "auto_approved": true
     },
     {
+      "id": "e9d5009530c0",
+      "title": "AOC 27G4ZR 27 inch FHD Monitor 260Hz Fast IPS Panel 0,3ms MPRT Adaptive Sync HDR10 G-Sync compatibel met hoogteverstelling (1920 x 1080, 2 x HDMI 2.0, DisplayPort) zwart",
+      "price": 101.91,
+      "original_price": 129.0,
+      "discount_percent": 21,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FR44R88G?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71TSCCvV0vL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-24T10:38:11.189438+00:00",
+      "price_history": [
+        {
+          "price": 96.39,
+          "original_price": 119.0,
+          "scraped_at": "2026-07-24T14:00:22.741477+00:00"
+        },
+        {
+          "price": 105.18,
+          "original_price": null,
+          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
+        },
+        {
+          "price": 101.33,
+          "original_price": 129.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 101.91,
+          "original_price": 129.0,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "c9f88e303091",
       "title": "Blackview Wave Mobiele Telefoon, Grijs",
       "price": 131.66,
@@ -7546,6 +7870,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1907781_5fecb1c4-77fb-4b02-962b-11df959fd3e4.jpg?v=1789741770",
       "found_at": "2026-09-20T10:08:29.376655+00:00",
       "approved_at": "20-09-2026 11:12",
+      "auto_approved": true
+    },
+    {
+      "id": "47001dedeafc",
+      "title": "Braun Series 3 BT3500",
+      "price": 30.0,
+      "original_price": 38.97,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-3-bt3500-r-20659",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2123863507_bd084cc6-e9da-4b28-acc8-2c4dbbc221cf.jpg?v=1789741769",
+      "found_at": "2026-09-24T10:43:04.394781+00:00",
+      "price_history": [
+        {
+          "price": 27.0,
+          "original_price": 31.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 30.0,
+          "original_price": 36.49,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
       "auto_approved": true
     },
     {
@@ -8007,6 +8358,58 @@
       "auto_approved": true
     },
     {
+      "id": "8ae0d30b01ca",
+      "title": "Ice-Watch - ICE smart TKS 2.0 Gold Orange grain - Gouden smartwatch voor dames met leren band - 025620 (1,41 inch / 32 mm) - Smartwatch, monitoring van fysieke activiteiten en gezondheid",
+      "price": 136.89,
+      "original_price": 169.0,
+      "discount_percent": 19,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0H5JSPJTD?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61mN+yDGDcL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-24T10:21:23.456460+00:00",
+      "price_history": [
+        {
+          "price": 146.02,
+          "original_price": 169.0,
+          "scraped_at": "2026-08-23T10:00:27.224969+00:00"
+        },
+        {
+          "price": 144.5,
+          "original_price": 169.0,
+          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
+        },
+        {
+          "price": 142.97,
+          "original_price": 169.0,
+          "scraped_at": "2026-09-02T14:00:35.958818+00:00"
+        },
+        {
+          "price": 141.45,
+          "original_price": 169.0,
+          "scraped_at": "2026-09-07T14:00:34.947576+00:00"
+        },
+        {
+          "price": 139.93,
+          "original_price": 169.0,
+          "scraped_at": "2026-09-13T18:00:43.146776+00:00"
+        },
+        {
+          "price": 138.41,
+          "original_price": 169.0,
+          "scraped_at": "2026-09-19T06:00:43.436822+00:00"
+        },
+        {
+          "price": 136.89,
+          "original_price": 169.0,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "24-09-2026 11:48",
+      "auto_approved": true
+    },
+    {
       "id": "e35839bdb09f",
       "title": "Oppo Digital A5 2020 64GB mobiele telefoon, Android 90 (Pie), Dual SIM, Wit",
       "price": 173.79,
@@ -8105,263 +8508,6 @@
         }
       ],
       "approved_at": "21-09-2026 12:02",
-      "auto_approved": true
-    },
-    {
-      "id": "fc2f7761d11d",
-      "title": "Hiseeu [5MP+2-weg audio] Outdoor Beveiligingscamera Waterdichte Home Security CCTV WiFi-bewaking Outdoor IP-camera met, nachtzicht, bewegingsdetectie, externe toegang en compatibel met IOS/Android/PC",
-      "price": 55.1,
-      "original_price": 70.26,
-      "discount_percent": 21,
-      "category": "camera",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B089XZ4NT6?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61YLhWut+aL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-20T18:42:30.015244+00:00",
-      "price_history": [
-        {
-          "price": 69.91,
-          "original_price": 70.62,
-          "scraped_at": "2026-08-30T14:00:29.750353+00:00"
-        },
-        {
-          "price": 66.21,
-          "original_price": 70.33,
-          "scraped_at": "2026-09-04T18:01:17.441713+00:00"
-        },
-        {
-          "price": 62.51,
-          "original_price": 70.48,
-          "scraped_at": "2026-09-10T06:00:37.746808+00:00"
-        },
-        {
-          "price": 58.81,
-          "original_price": 70.57,
-          "scraped_at": "2026-09-15T06:00:53.850442+00:00"
-        },
-        {
-          "price": 55.1,
-          "original_price": 70.26,
-          "scraped_at": "2026-09-20T18:00:59.350653+00:00"
-        }
-      ],
-      "approved_at": "20-09-2026 20:06",
-      "auto_approved": true
-    },
-    {
-      "id": "4efb565954b7",
-      "title": "XIAOMI Watch S5 46mm, SmartWatch voor mannen vrouwen, 21 dagen batterij",
-      "price": 123.16,
-      "original_price": 153.0,
-      "discount_percent": 19,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B08N64F336?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61Am115VZvL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-21T10:39:25.174648+00:00",
-      "price_history": [
-        {
-          "price": 142.26,
-          "original_price": 166.69,
-          "scraped_at": "2026-08-24T06:00:50.370947+00:00"
-        },
-        {
-          "price": 139.23,
-          "original_price": 159.23,
-          "scraped_at": "2026-08-29T10:00:32.026045+00:00"
-        },
-        {
-          "price": 123.67,
-          "original_price": 159.23,
-          "scraped_at": "2026-09-03T14:00:23.447942+00:00"
-        },
-        {
-          "price": 125.16,
-          "original_price": 153.95,
-          "scraped_at": "2026-09-15T06:00:53.850442+00:00"
-        },
-        {
-          "price": 123.16,
-          "original_price": 153.0,
-          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
-        }
-      ],
-      "approved_at": "21-09-2026 12:02",
-      "auto_approved": true
-    },
-    {
-      "id": "e296fd3b7bf6",
-      "title": "Logitech G 15 Lightsync RGB Mechanical Gaming Keyboard GL QWERTY",
-      "price": 162.0,
-      "original_price": 199.0,
-      "discount_percent": 18,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-15-lightsync-rgb-mechanical-gaming-keyboard-gl-qwerty-r-20517",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1916564.avif?v=1789025616",
-      "found_at": "2026-09-21T14:10:00.626605+00:00",
-      "price_history": [
-        {
-          "price": 183.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 172.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
-        },
-        {
-          "price": 170.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-18T10:01:00.048649+00:00"
-        },
-        {
-          "price": 168.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
-        },
-        {
-          "price": 166.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
-        },
-        {
-          "price": 164.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
-        },
-        {
-          "price": 162.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
-        }
-      ],
-      "approved_at": "22-09-2026 15:05",
-      "auto_approved": true
-    },
-    {
-      "id": "c4b6a9d274df",
-      "title": "Oral-B iO 6N Zwart + extra iO Gentle Care opzetborstel",
-      "price": 116.0,
-      "original_price": 143.58,
-      "discount_percent": 19,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/oral-b-io-6n-zwart-extra-io-gentle-care-opzetborstel-r-20589",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2193627_9e98bbf0-af02-4f07-a36c-08572ab5913d.jpg?v=1789741578",
-      "found_at": "2026-09-22T06:31:20.054989+00:00",
-      "price_history": [
-        {
-          "price": 95.0,
-          "original_price": 121.5,
-          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
-        },
-        {
-          "price": 104.0,
-          "original_price": 127.75,
-          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
-        },
-        {
-          "price": 105.0,
-          "original_price": 128.25,
-          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 143.58,
-          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
-        }
-      ],
-      "approved_at": "22-09-2026 15:05",
-      "auto_approved": true
-    },
-    {
-      "id": "40ac4e818f65",
-      "title": "BlueBuilt Apple iPad Pro (2024) 13 inch Toetsenbord Hoes AZERTY",
-      "price": 154.0,
-      "original_price": 189.0,
-      "discount_percent": 18,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bluebuilt-apple-ipad-pro-2024-13-inch-toetsenbord-hoes-azerty-r-20506",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107420.jpg?v=1789024449",
-      "found_at": "2026-09-21T14:09:54.955569+00:00",
-      "price_history": [
-        {
-          "price": 173.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 163.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
-        },
-        {
-          "price": 161.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-18T10:01:00.048649+00:00"
-        },
-        {
-          "price": 159.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
-        },
-        {
-          "price": 158.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": 189.0,
-          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
-        }
-      ],
-      "approved_at": "22-09-2026 15:05",
-      "auto_approved": true
-    },
-    {
-      "id": "40075f68d56b",
-      "title": "BlueBuilt Apple iPad Air (2024) 13 inch Book Case Zwart",
-      "price": 45.0,
-      "original_price": 57.0,
-      "discount_percent": 21,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bluebuilt-apple-ipad-air-2024-13-inch-book-case-zwart-r-20521",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107448.jpg?v=1789024585",
-      "found_at": "2026-09-23T14:33:13.372317+00:00",
-      "price_history": [
-        {
-          "price": 50.0,
-          "original_price": 57.0,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 57.0,
-          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
-        },
-        {
-          "price": 45.0,
-          "original_price": 57.0,
-          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
-        }
-      ],
-      "approved_at": "23-09-2026 15:39",
       "auto_approved": true
     }
   ]
