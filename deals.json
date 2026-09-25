@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T06:31:57.718375+00:00",
-  "total": 300,
+  "updated_at": "2026-09-25T06:32:18.503822+00:00",
+  "total": 291,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -219,21 +219,6 @@
         }
       ],
       "approved_at": "16-09-2026 11:39",
-      "auto_approved": true
-    },
-    {
-      "id": "79c0f511951e",
-      "title": "Samsung Galaxy Book4 Edge NP960XMA-KB1NL QWERTY",
-      "price": 1011.0,
-      "original_price": 1744.54,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-galaxy-book4-edge-np960xma-kb1nl-qwerty-r-20103",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2057761.jpg?v=1787645954",
-      "found_at": "2026-08-26T10:50:00.672491+00:00",
-      "approved_at": "26-08-2026 11:54",
       "auto_approved": true
     },
     {
@@ -1163,43 +1148,6 @@
       "auto_approved": true
     },
     {
-      "id": "090c7fd3db2e",
-      "title": "BaByliss BaByliss Super-X Metal Tondeuse E991E",
-      "price": 58.0,
-      "original_price": 111.6,
-      "discount_percent": 48,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/babyliss-babyliss-super-x-metal-tondeuse-e991e-r-19776",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1815329_8a39a147-a82e-4eed-a8ac-fe56b5dbfe1f.jpg?v=1787040254",
-      "found_at": "2026-08-28T18:31:10.370958+00:00",
-      "price_history": [
-        {
-          "price": 73.0,
-          "original_price": 102.17,
-          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
-        },
-        {
-          "price": 70.0,
-          "original_price": 100.0,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        },
-        {
-          "price": 66.0,
-          "original_price": 93.77,
-          "scraped_at": "2026-08-30T10:00:19.449193+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 102.76,
-          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
-        }
-      ],
-      "approved_at": "09-09-2026 07:47",
-      "auto_approved": true
-    },
-    {
       "id": "6c2a9b974884",
       "title": "BOSCH SMV6YCX02E PerfectDry Inbouwvaatwasser - Volledig geïntegreerd - 14 couverts - 44 dB(A) - Nisbreedte 60.8 cm",
       "price": 674.25,
@@ -2081,21 +2029,6 @@
       "auto_approved": true
     },
     {
-      "id": "a8299bb7e0d2",
-      "title": "Beats Draadloze Flex-oortjes – Apple W1-koptelefoonchip, magnetische oortjes, Class 1 Bluetooth, 12 uur luisteren - Blauw",
-      "price": 50.17,
-      "original_price": 89.95,
-      "discount_percent": 44,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B08Q3FG5BX?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61ORqF987ZL._AC_SX342_SY445_QL70_ML2_.jpg",
-      "found_at": "2026-09-21T06:06:16.595462+00:00",
-      "approved_at": "21-09-2026 07:28",
-      "auto_approved": true
-    },
-    {
       "id": "4c00db7fd9cd",
       "title": "SAMSUNG DW60BG730B00ET Waterjet Clean Inbouwvaatwasser - Volledig geïntegreerd - 13 couverts - 42 dB(A) - Nisbreedte 60.8 cm",
       "price": 544.5,
@@ -2535,53 +2468,6 @@
       "auto_approved": true
     },
     {
-      "id": "ba9c54dc1c85",
-      "title": "Philips Series 7000 17-in-1 MG7941/15",
-      "price": 42.0,
-      "original_price": 72.83,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-7000-17-in-1-mg7941-15-r-20163",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224806_34b1f9e1-4ade-4689-82a4-988461215552.jpg?v=1787748068",
-      "found_at": "2026-09-04T18:37:56.122742+00:00",
-      "price_history": [
-        {
-          "price": 51.0,
-          "original_price": 72.0,
-          "scraped_at": "2026-08-27T14:00:28.403469+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 75.63,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 75.1,
-          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
-        },
-        {
-          "price": 45.0,
-          "original_price": 73.89,
-          "scraped_at": "2026-09-03T10:00:20.550541+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 74.35,
-          "scraped_at": "2026-09-07T10:00:33.324067+00:00"
-        },
-        {
-          "price": 42.0,
-          "original_price": 72.83,
-          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        }
-      ],
-      "approved_at": "09-09-2026 15:38",
-      "auto_approved": true
-    },
-    {
       "id": "c8437155cc3d",
       "title": "Rowenta X-Force Flex 9.60 RH2078 Steelstofzuiger",
       "price": 169.0,
@@ -2787,21 +2673,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110013_50efdd53-9245-420f-a4e2-99c2dcb73dfc.jpg?v=1789741577",
       "found_at": "2026-09-19T10:20:35.378363+00:00",
       "approved_at": "19-09-2026 11:26",
-      "auto_approved": true
-    },
-    {
-      "id": "c1907d88bf89",
-      "title": "ETNA VW842N Inbouwvaatwasser - Volledig geïntegreerd - 14 couverts - 42 dB(A) - Nisbreedte 60 cm",
-      "price": 449.25,
-      "original_price": 599.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=342905",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a880621d6739_ASSET_MMS_160159570-500x500.png",
-      "found_at": "2026-08-20T06:39:05.098867+00:00",
-      "approved_at": "23-08-2026 15:38",
       "auto_approved": true
     },
     {
@@ -3878,33 +3749,6 @@
       "auto_approved": true
     },
     {
-      "id": "2fea608d368f",
-      "title": "Philips Shaver i9000 Prestige Ultra XP9402/31",
-      "price": 275.0,
-      "original_price": 367.6,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-ultra-xp9402-31-r-20044",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156221_dffdec34-a0d3-4958-ad21-d579abe7ae26.jpg?v=1787556747",
-      "found_at": "2026-09-16T06:57:19.025298+00:00",
-      "price_history": [
-        {
-          "price": 253.0,
-          "original_price": 275.0,
-          "scraped_at": "2026-08-24T18:00:34.628671+00:00"
-        },
-        {
-          "price": 275.0,
-          "original_price": 358.44,
-          "scraped_at": "2026-08-25T10:00:33.401717+00:00"
-        }
-      ],
-      "approved_at": "16-09-2026 08:03",
-      "auto_approved": true
-    },
-    {
       "id": "83e8c6b1c021",
       "title": "Rowenta X-Force Flex 12.60 RH98A8",
       "price": 179.0,
@@ -3947,43 +3791,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2156221_a47e3d50-5781-4e40-8212-8cf14f198454.jpg?v=1789741511",
       "found_at": "2026-09-19T10:20:38.718571+00:00",
       "approved_at": "19-09-2026 11:26",
-      "auto_approved": true
-    },
-    {
-      "id": "2efedc34c041",
-      "title": "Acer Aspire Go 15 AG15-72P-5037 QWERTY",
-      "price": 557.0,
-      "original_price": 689.0,
-      "discount_percent": 19,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-go-15-ag15-72p-5037-qwerty-r-20476",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2222523_9049a230-8529-418d-a993-86ed2de833e6.jpg?v=1788851264",
-      "found_at": "2026-09-16T10:32:39.513808+00:00",
-      "price_history": [
-        {
-          "price": 439.0,
-          "original_price": 499.0,
-          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
-        },
-        {
-          "price": 631.0,
-          "original_price": 703.5,
-          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        },
-        {
-          "price": 606.0,
-          "original_price": 689.0,
-          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
-        },
-        {
-          "price": 557.0,
-          "original_price": 689.0,
-          "scraped_at": "2026-09-16T10:00:56.196933+00:00"
-        }
-      ],
-      "approved_at": "16-09-2026 11:39",
       "auto_approved": true
     },
     {
@@ -5100,38 +4907,6 @@
       "auto_approved": true
     },
     {
-      "id": "50662afffca5",
-      "title": "Nilox NXMM272K112 Gaming Monitor, 68,6 cm (27 inch), 100 Hz",
-      "price": 105.33,
-      "original_price": 145.96,
-      "discount_percent": 27,
-      "category": "gaming",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D2J2Y2Z3?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71NyQlD7G0L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-09-21T06:16:20.019781+00:00",
-      "price_history": [
-        {
-          "price": 109.58,
-          "original_price": 145.96,
-          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
-        },
-        {
-          "price": 108.2,
-          "original_price": 145.96,
-          "scraped_at": "2026-09-09T14:00:54.449238+00:00"
-        },
-        {
-          "price": 105.33,
-          "original_price": 145.96,
-          "scraped_at": "2026-09-21T06:00:52.367286+00:00"
-        }
-      ],
-      "approved_at": "21-09-2026 07:28",
-      "auto_approved": true
-    },
-    {
       "id": "3e0145096b0d",
       "title": "Bosch AdvancedHedgeCut 36V-65-28 (Zonder accu)",
       "price": 160.0,
@@ -6052,73 +5827,6 @@
         }
       ],
       "approved_at": "24-09-2026 11:48",
-      "auto_approved": true
-    },
-    {
-      "id": "f88be1770547",
-      "title": "Philips Series 9000 15-in-1 MG9531/15",
-      "price": 58.0,
-      "original_price": 79.09,
-      "discount_percent": 26,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-9000-15-in-1-mg9531-15-r-20298",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224809_6d5c0905-1be8-49ff-b2aa-25f39c5902c6.jpg?v=1788419449",
-      "found_at": "2026-09-17T10:24:03.924240+00:00",
-      "price_history": [
-        {
-          "price": 65.0,
-          "original_price": 74.0,
-          "scraped_at": "2026-09-03T18:00:31.965299+00:00"
-        },
-        {
-          "price": 60.0,
-          "original_price": 76.68,
-          "scraped_at": "2026-09-04T10:00:24.398501+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 75.3,
-          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
-        },
-        {
-          "price": 57.0,
-          "original_price": 76.86,
-          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 76.35,
-          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 75.98,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        },
-        {
-          "price": 57.0,
-          "original_price": 74.04,
-          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 74.46,
-          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 76.05,
-          "scraped_at": "2026-09-16T10:00:56.196933+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 79.09,
-          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
-        }
-      ],
-      "approved_at": "17-09-2026 11:30",
       "auto_approved": true
     },
     {
