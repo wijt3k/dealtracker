@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T14:22:15.558419+00:00",
-  "total": 292,
+  "updated_at": "2026-09-25T18:24:20.685720+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -642,6 +642,21 @@
         }
       ],
       "approved_at": "08-09-2026 11:43",
+      "auto_approved": true
+    },
+    {
+      "id": "4dfcae19ccc5",
+      "title": "Microsoft Surface Laptop 7Gen. Copilot+ PC / C12/16/1TB W11 Pro Platin",
+      "price": 1411.96,
+      "original_price": 1797.41,
+      "discount_percent": 21,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DYJQ3DLZ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61ooLGzHTRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-25T18:03:13.367864+00:00",
+      "approved_at": "25-09-2026 19:24",
       "auto_approved": true
     },
     {
@@ -8334,6 +8349,238 @@
         }
       ],
       "approved_at": "25-09-2026 15:21",
+      "auto_approved": true
+    },
+    {
+      "id": "72d630bf1b74",
+      "title": "Samsung Tab S10 Ultra/S9 Ultra Keyboard Cover Black QWERTY",
+      "price": 159.0,
+      "original_price": 189.31,
+      "discount_percent": 16,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-tab-s10-ultra-s9-ultra-keyboard-cover-black-qwerty-r-20519",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2099197_520db6d4-3601-49bb-9555-8eb505e1c10e.jpg?v=1789024564",
+      "found_at": "2026-09-25T18:18:50.366806+00:00",
+      "price_history": [
+        {
+          "price": 229.0,
+          "original_price": 247.98,
+          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
+        },
+        {
+          "price": 248.0,
+          "original_price": null,
+          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": null,
+          "scraped_at": "2026-09-21T18:01:07.472463+00:00"
+        },
+        {
+          "price": 159.0,
+          "original_price": 175.03,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        }
+      ],
+      "approved_at": "25-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "ea518510ccfd",
+      "title": "Braun Series 3 AIO3540",
+      "price": 26.0,
+      "original_price": 32.46,
+      "discount_percent": 19,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-3-aio3540-r-20438",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1246980120.jpg?v=1788945783",
+      "found_at": "2026-09-25T18:18:41.136384+00:00",
+      "price_history": [
+        {
+          "price": 28.0,
+          "original_price": 30.65,
+          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
+        },
+        {
+          "price": 27.0,
+          "original_price": 31.52,
+          "scraped_at": "2026-09-16T10:00:56.196933+00:00"
+        },
+        {
+          "price": 25.0,
+          "original_price": 29.52,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        },
+        {
+          "price": 26.0,
+          "original_price": 32.19,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "25-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "08586a0d6a18",
+      "title": "Fujifilm XF 16mm f/2.8 R WR Zwart",
+      "price": 307.0,
+      "original_price": 356.6,
+      "discount_percent": 13,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/fujifilm-xf-16mm-f-2-8-r-wr-zwart-r-20764",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1383199.jpg?v=1790069425",
+      "found_at": "2026-09-25T18:18:43.955496+00:00",
+      "approved_at": "25-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "bbe95c3eba36",
+      "title": "BlueBuilt 24 inch Full HD 100Hz Monitor with USB-C",
+      "price": 133.0,
+      "original_price": 159.0,
+      "discount_percent": 16,
+      "category": "tv",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bluebuilt-24-inch-full-hd-100hz-monitor-with-usb-c-r-20577",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2148282_65ef4391-434e-4e82-83a6-0f7976a3c0c2.jpg?v=1789741535",
+      "found_at": "2026-09-25T18:18:41.135074+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
+        }
+      ],
+      "approved_at": "25-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "798d22e5a785",
+      "title": "Cullmann Nando 560M Balhoofd RB8.5",
+      "price": 77.0,
+      "original_price": 93.58,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/cullmann-nando-560m-balhoofd-rb8-5-r-20772",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2142812.jpg?v=1790069436",
+      "found_at": "2026-09-25T18:18:41.137396+00:00",
+      "price_history": [
+        {
+          "price": 78.0,
+          "original_price": 92.81,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 93.58,
+          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
+        }
+      ],
+      "approved_at": "25-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "f7bf32b516e2",
+      "title": "XIAOMI REDMI A7 Pro Smartphone 4+64GB Zwart 6.9 Display",
+      "price": 108.67,
+      "original_price": 129.9,
+      "discount_percent": 16,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GR5L84HJ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/616D9Qs6DJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-09-25T18:06:34.361764+00:00",
+      "price_history": [
+        {
+          "price": 117.37,
+          "original_price": 121.0,
+          "scraped_at": "2026-06-23T18:03:18.227867+00:00"
+        },
+        {
+          "price": 115.53,
+          "original_price": 129.9,
+          "scraped_at": "2026-09-17T14:00:31.441395+00:00"
+        },
+        {
+          "price": 108.67,
+          "original_price": 129.9,
+          "scraped_at": "2026-09-25T18:00:35.770026+00:00"
+        }
+      ],
+      "approved_at": "25-09-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "079b38caaa23",
+      "title": "Sony WH-1000XM4 Zilver",
+      "price": 202.0,
+      "original_price": 236.97,
+      "discount_percent": 14,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm4-zilver-r-20432",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1462476_3f4d77ec-0941-458e-8ff7-eae1cc656bba.jpg?v=1788850788",
+      "found_at": "2026-09-25T18:18:50.367776+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-09-08T18:00:39.578768+00:00"
+        },
+        {
+          "price": 239.0,
+          "original_price": 259.95,
+          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
+        },
+        {
+          "price": 231.0,
+          "original_price": 259.95,
+          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
+        },
+        {
+          "price": 218.0,
+          "original_price": 259.95,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 202.0,
+          "original_price": 236.96,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        }
+      ],
+      "approved_at": "25-09-2026 19:24",
       "auto_approved": true
     }
   ]
