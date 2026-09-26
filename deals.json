@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T06:48:24.822822+00:00",
-  "total": 300,
+  "updated_at": "2026-09-26T06:48:39.830932+00:00",
+  "total": 290,
   "deals": [
     {
       "id": "e0b066b618f7",
@@ -45,21 +45,6 @@
       "image": "https://m.media-amazon.com/images/I/61UmrswZnIL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-09-23T06:09:44.176639+00:00",
       "approved_at": "23-09-2026 08:05",
-      "auto_approved": true
-    },
-    {
-      "id": "1b9a14258dca",
-      "title": "Lenovo ThinkPad P14s G2 21A0008MGE W10P",
-      "price": 977.99,
-      "original_price": 2185.0,
-      "discount_percent": 55,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0B31ZTJMT?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/510oJtI8fQL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-09-22T06:07:24.145987+00:00",
-      "approved_at": "22-09-2026 07:36",
       "auto_approved": true
     },
     {
@@ -339,93 +324,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2104990_cc31fb8f-dfe8-4637-b2da-0e019dd1d8c3.jpg?v=1789741515",
       "found_at": "2026-09-19T10:20:38.720725+00:00",
       "approved_at": "19-09-2026 11:26",
-      "auto_approved": true
-    },
-    {
-      "id": "f8c68b8b1964",
-      "title": "HP Chromebook 14a-nf0001sf laptop 14 inch HD, laptop (Intel Celeron N100, 4 GB RAM, 128 GB flash, Intel Iris Xe, Chrome OS), laptop zwart, toetsenbord AZERTY",
-      "price": 159.38,
-      "original_price": 386.66,
-      "discount_percent": 58,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0CXZDCNMZ?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/7130KpHS2wL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-09-22T06:03:00.426212+00:00",
-      "price_history": [
-        {
-          "price": 196.38,
-          "original_price": null,
-          "scraped_at": "2026-07-05T14:00:30.879862+00:00"
-        },
-        {
-          "price": 191.53,
-          "original_price": null,
-          "scraped_at": "2026-07-10T18:00:59.903468+00:00"
-        },
-        {
-          "price": 184.27,
-          "original_price": null,
-          "scraped_at": "2026-07-16T06:00:22.525356+00:00"
-        },
-        {
-          "price": 177.0,
-          "original_price": null,
-          "scraped_at": "2026-07-21T10:00:34.490998+00:00"
-        },
-        {
-          "price": 162.47,
-          "original_price": null,
-          "scraped_at": "2026-07-26T14:00:24.960502+00:00"
-        },
-        {
-          "price": 155.2,
-          "original_price": null,
-          "scraped_at": "2026-08-01T06:00:52.147023+00:00"
-        },
-        {
-          "price": 147.94,
-          "original_price": null,
-          "scraped_at": "2026-08-06T10:00:35.408873+00:00"
-        },
-        {
-          "price": 137.28,
-          "original_price": null,
-          "scraped_at": "2026-08-11T14:00:59.142529+00:00"
-        },
-        {
-          "price": 133.25,
-          "original_price": null,
-          "scraped_at": "2026-08-21T18:00:45.714506+00:00"
-        },
-        {
-          "price": 149.95,
-          "original_price": null,
-          "scraped_at": "2026-08-27T06:00:46.151264+00:00"
-        },
-        {
-          "price": 133.58,
-          "original_price": null,
-          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
-        },
-        {
-          "price": 128.38,
-          "original_price": null,
-          "scraped_at": "2026-09-11T14:00:28.277700+00:00"
-        },
-        {
-          "price": 147.29,
-          "original_price": null,
-          "scraped_at": "2026-09-16T14:00:25.312289+00:00"
-        },
-        {
-          "price": 159.38,
-          "original_price": 386.66,
-          "scraped_at": "2026-09-22T06:00:52.779286+00:00"
-        }
-      ],
-      "approved_at": "22-09-2026 07:36",
       "auto_approved": true
     },
     {
@@ -2651,21 +2549,6 @@
       "auto_approved": true
     },
     {
-      "id": "5991edc9fda9",
-      "title": "Philips Hue OmniGlow LED strip 10 meter",
-      "price": 222.0,
-      "original_price": 323.25,
-      "discount_percent": 31,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-omniglow-led-strip-10-meter-r-20592",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2227359.jpg?v=1789741590",
-      "found_at": "2026-09-19T10:20:35.379691+00:00",
-      "approved_at": "19-09-2026 11:26",
-      "auto_approved": true
-    },
-    {
       "id": "35721a2cc2a2",
       "title": "Wisberg S75 Aqua Complete",
       "price": 129.0,
@@ -3737,53 +3620,6 @@
       "auto_approved": true
     },
     {
-      "id": "7ef423469b42",
-      "title": "Razer BlackShark V3 Pro for PlayStation - Draadloze actieve ruisonderdrukking Esports-headset ANC - TriForce 50 mm drivers - HyperSpeed 2,4 GHz - THX Spatial Audio - PS5/PC | Wit",
-      "price": 158.32,
-      "original_price": 220.0,
-      "discount_percent": 28,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F8SG1365?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71Vai7B1o4L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-22T06:16:20.789912+00:00",
-      "price_history": [
-        {
-          "price": 153.76,
-          "original_price": 199.99,
-          "scraped_at": "2026-07-16T10:00:19.388757+00:00"
-        },
-        {
-          "price": 162.9,
-          "original_price": 220.0,
-          "scraped_at": "2026-08-18T06:00:36.664804+00:00"
-        },
-        {
-          "price": 160.87,
-          "original_price": 197.23,
-          "scraped_at": "2026-08-23T06:00:37.342923+00:00"
-        },
-        {
-          "price": 155.85,
-          "original_price": 197.23,
-          "scraped_at": "2026-08-28T10:00:21.755344+00:00"
-        },
-        {
-          "price": 153.79,
-          "original_price": 220.0,
-          "scraped_at": "2026-09-08T06:01:03.837256+00:00"
-        },
-        {
-          "price": 158.32,
-          "original_price": 220.0,
-          "scraped_at": "2026-09-22T06:00:52.779286+00:00"
-        }
-      ],
-      "approved_at": "22-09-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "e5349b377d47",
       "title": "HP Omen 16 Gaming Laptop, AMD Ryzen 9 8940HX, RTX 5060, 16GB RAM, 1TB SSD",
       "price": 1257.16,
@@ -4376,21 +4212,6 @@
       "auto_approved": true
     },
     {
-      "id": "97873f14dab4",
-      "title": "Refurbished iPhone 14 128GB Black - A1",
-      "price": 318.0,
-      "original_price": 410.0,
-      "discount_percent": 22,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-black-a1-r-20633",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950863_abe9c179-7570-486c-ba61-1afb2c91e6b6.jpg?v=1789741697",
-      "found_at": "2026-09-21T18:03:58.833661+00:00",
-      "approved_at": "21-09-2026 19:07",
-      "auto_approved": true
-    },
-    {
       "id": "d0e6f2a3abf1",
       "title": "Dyson Airwrap I.D. Curly + Coily (Red Velvet/Gold)",
       "price": 368.0,
@@ -4415,21 +4236,6 @@
         }
       ],
       "approved_at": "12-09-2026 19:31",
-      "auto_approved": true
-    },
-    {
-      "id": "28269e516e4e",
-      "title": "Motorola moto g55 5G Forrest Grey",
-      "price": 114.0,
-      "original_price": 159.0,
-      "discount_percent": 28,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/motorola-moto-g55-5g-forrest-grey-r-20619",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2090353_df28d945-f164-4b2d-b2ea-fc04eadafb8c.jpg?v=1789741670",
-      "found_at": "2026-09-19T10:20:35.376148+00:00",
-      "approved_at": "19-09-2026 11:26",
       "auto_approved": true
     },
     {
@@ -4961,21 +4767,6 @@
         }
       ],
       "approved_at": "15-09-2026 11:36",
-      "auto_approved": true
-    },
-    {
-      "id": "7246c44e4b8b",
-      "title": "Bowers & Wilkins Px7 S3 Draadloze Over-Ear Hoofdtelefoon, Geavanceerde Ruisonderdrukking, 24-bit DSP, aptX Lossless, 30 Uur Afspelen, 8 Microfoons, Snelladen - Canvas Wit",
-      "price": 227.43,
-      "original_price": 294.0,
-      "discount_percent": 22,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F459PXR8?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61m1HRXWM8L._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-09-22T06:16:38.171284+00:00",
-      "approved_at": "22-09-2026 07:36",
       "auto_approved": true
     },
     {
@@ -5812,21 +5603,6 @@
         }
       ],
       "approved_at": "20-09-2026 11:12",
-      "auto_approved": true
-    },
-    {
-      "id": "ccb3bcf3f4d5",
-      "title": "PanzerGlass Ultra-Wide Fit Samsung Galaxy S24 Ultra Screenprotector Glas Zwart",
-      "price": 22.0,
-      "original_price": 30.15,
-      "discount_percent": 27,
-      "category": "smartphones",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/panzerglass-ultra-wide-fit-samsung-galaxy-s24-ultra-screenprotector-glas-zwart-r-20371",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2006123.jpg?v=1788264109",
-      "found_at": "2026-09-18T18:20:22.357576+00:00",
-      "approved_at": "20-09-2026 07:06",
       "auto_approved": true
     },
     {
@@ -7187,21 +6963,6 @@
       "auto_approved": true
     },
     {
-      "id": "efcebf34ce56",
-      "title": "HiFiMAN ANANDA-NANO Open Back Stealth Magneten Planar Hi-Fi Hoofdtelefoon voor Audiofielen, Thuis en Studio, Zilver",
-      "price": 270.72,
-      "original_price": 329.0,
-      "discount_percent": 17,
-      "category": "smartphones",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0C5SNQ47V?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61sPzg1X-1L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-22T06:17:14.618960+00:00",
-      "approved_at": "22-09-2026 07:36",
-      "auto_approved": true
-    },
-    {
       "id": "e9d5009530c0",
       "title": "AOC 27G4ZR 27 inch FHD Monitor 260Hz Fast IPS Panel 0,3ms MPRT Adaptive Sync HDR10 G-Sync compatibel met hoogteverstelling (1920 x 1080, 2 x HDMI 2.0, DisplayPort) zwart",
       "price": 101.91,
@@ -7627,33 +7388,6 @@
         }
       ],
       "approved_at": "23-09-2026 15:39",
-      "auto_approved": true
-    },
-    {
-      "id": "50056a77920d",
-      "title": "Razer BlackShark V3 X HyperSpeed - Draadloze E-Sports Headset - Ultra licht 270g - TriForce 50mm driver - Afneembare microfoon - Surround sound - HyperSpeed 2,4Ghz & Bluetooth - PC/Mac | Zwart",
-      "price": 74.13,
-      "original_price": 94.99,
-      "discount_percent": 21,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0F93SY4BH?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71pDWCIirLL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-22T06:15:29.759716+00:00",
-      "price_history": [
-        {
-          "price": 71.34,
-          "original_price": 94.99,
-          "scraped_at": "2026-09-16T06:00:24.429739+00:00"
-        },
-        {
-          "price": 74.13,
-          "original_price": 94.99,
-          "scraped_at": "2026-09-22T06:00:52.779286+00:00"
-        }
-      ],
-      "approved_at": "22-09-2026 07:36",
       "auto_approved": true
     },
     {
