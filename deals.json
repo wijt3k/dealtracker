@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-28T10:48:45.476577+00:00",
-  "total": 300,
+  "updated_at": "2026-09-28T10:49:01.204568+00:00",
+  "total": 295,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -1902,38 +1902,6 @@
       "auto_approved": true
     },
     {
-      "id": "b9e531d13cdf",
-      "title": "Philips HR1855/70 Viva",
-      "price": 76.0,
-      "original_price": 125.84,
-      "discount_percent": 39,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hr1855-70-viva-r-20142",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1364181_35f487f5-5629-4a51-b4cf-c25495bda9c2.jpg?v=1787646328",
-      "found_at": "2026-09-05T18:16:37.374483+00:00",
-      "price_history": [
-        {
-          "price": 86.0,
-          "original_price": 123.97,
-          "scraped_at": "2026-08-26T10:00:17.349343+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": 125.0,
-          "scraped_at": "2026-09-01T10:00:16.625213+00:00"
-        },
-        {
-          "price": 76.0,
-          "original_price": 119.94,
-          "scraped_at": "2026-09-06T10:00:32.390046+00:00"
-        }
-      ],
-      "approved_at": "09-09-2026 07:47",
-      "auto_approved": true
-    },
-    {
       "id": "6dd164e77bbd",
       "title": "HPE Aruba Networking AP‑615‑RW Dual Radio",
       "price": 370.0,
@@ -2660,43 +2628,6 @@
       "auto_approved": true
     },
     {
-      "id": "bdccfdd38ffc",
-      "title": "Shokz OpenFit Zwart",
-      "price": 111.0,
-      "original_price": 165.45,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/shokz-openfit-zwart-r-20248",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1935097_705be98e-1428-43ac-823e-20f9c6d5eaa0.jpg?v=1788249194",
-      "found_at": "2026-09-12T14:15:16.880718+00:00",
-      "price_history": [
-        {
-          "price": 115.0,
-          "original_price": 159.05,
-          "scraped_at": "2026-09-02T10:00:32.225466+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 159.18,
-          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
-        },
-        {
-          "price": 148.0,
-          "original_price": 172.64,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 111.0,
-          "original_price": 165.45,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        }
-      ],
-      "approved_at": "12-09-2026 15:20",
-      "auto_approved": true
-    },
-    {
       "id": "4820321f43c1",
       "title": "Krups EA8118",
       "price": 214.0,
@@ -3314,48 +3245,6 @@
       "auto_approved": true
     },
     {
-      "id": "42c2f4e68e7d",
-      "title": "Apple iPad Air (2025) 13 inch 256GB Wifi Space Gray",
-      "price": 835.0,
-      "original_price": 984.49,
-      "discount_percent": 15,
-      "category": "tablets",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/apple-ipad-air-2025-13-inch-256gb-wifi-space-gray-r-20536",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2145106.jpg?v=1789024714",
-      "found_at": "2026-09-24T10:43:04.392359+00:00",
-      "price_history": [
-        {
-          "price": 955.0,
-          "original_price": 1039.0,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 947.0,
-          "original_price": 1062.28,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        },
-        {
-          "price": 942.0,
-          "original_price": 1027.0,
-          "scraped_at": "2026-09-17T10:00:50.848419+00:00"
-        },
-        {
-          "price": 947.0,
-          "original_price": 1029.99,
-          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
-        },
-        {
-          "price": 835.0,
-          "original_price": 984.49,
-          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
-        }
-      ],
-      "approved_at": "24-09-2026 11:48",
-      "auto_approved": true
-    },
-    {
       "id": "bf08dd873593",
       "title": "Phillips 3000 series XW3193/11",
       "price": 127.0,
@@ -3943,63 +3832,6 @@
         }
       ],
       "approved_at": "14-09-2026 19:24",
-      "auto_approved": true
-    },
-    {
-      "id": "8bb4476e513f",
-      "title": "Lenovo Chromebook IdeaPad 3 14M868 82XJ0034MB AZERTY",
-      "price": 231.0,
-      "original_price": 299.0,
-      "discount_percent": 22,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-chromebook-ideapad-3-14m868-82xj0034mb-azerty-r-20340",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2155191.jpg?v=1788419732",
-      "found_at": "2026-09-15T10:29:40.630638+00:00",
-      "price_history": [
-        {
-          "price": 263.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-03T18:00:31.965299+00:00"
-        },
-        {
-          "price": 247.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-09T10:00:53.833829+00:00"
-        },
-        {
-          "price": 244.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-10T10:00:55.980008+00:00"
-        },
-        {
-          "price": 242.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-11T10:00:56.508002+00:00"
-        },
-        {
-          "price": 239.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
-        },
-        {
-          "price": 236.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-13T10:00:28.009357+00:00"
-        },
-        {
-          "price": 234.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-14T10:00:51.253246+00:00"
-        },
-        {
-          "price": 231.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-09-15T10:00:53.032012+00:00"
-        }
-      ],
-      "approved_at": "15-09-2026 11:36",
       "auto_approved": true
     },
     {
@@ -5426,43 +5258,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2195285.jpg?v=1789741739",
       "found_at": "2026-09-20T10:08:25.621416+00:00",
       "approved_at": "20-09-2026 11:12",
-      "auto_approved": true
-    },
-    {
-      "id": "e9d5009530c0",
-      "title": "AOC 27G4ZR 27 inch FHD Monitor 260Hz Fast IPS Panel 0,3ms MPRT Adaptive Sync HDR10 G-Sync compatibel met hoogteverstelling (1920 x 1080, 2 x HDMI 2.0, DisplayPort) zwart",
-      "price": 101.91,
-      "original_price": 129.0,
-      "discount_percent": 21,
-      "category": "tv",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FR44R88G?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71TSCCvV0vL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-09-24T10:38:11.189438+00:00",
-      "price_history": [
-        {
-          "price": 96.39,
-          "original_price": 119.0,
-          "scraped_at": "2026-07-24T14:00:22.741477+00:00"
-        },
-        {
-          "price": 105.18,
-          "original_price": null,
-          "scraped_at": "2026-09-08T10:01:11.550718+00:00"
-        },
-        {
-          "price": 101.33,
-          "original_price": 129.0,
-          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
-        },
-        {
-          "price": 101.91,
-          "original_price": 129.0,
-          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
-        }
-      ],
-      "approved_at": "24-09-2026 11:48",
       "auto_approved": true
     },
     {
