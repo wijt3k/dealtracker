@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T14:37:18.445405+00:00",
-  "total": 298,
+  "updated_at": "2026-10-03T18:46:44.452538+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -3152,6 +3152,21 @@
       "image": "https://m.media-amazon.com/images/I/71b0mKVv51L._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-10-01T18:25:50.376615+00:00",
       "approved_at": "01-10-2026 20:04",
+      "auto_approved": true
+    },
+    {
+      "id": "09dc06c9eac0",
+      "title": "Samsung Galaxy Tab S3 T820 Tablet PC, 24,6 cm (9,7 inch) Wifi-tablet. 9.7 inch - WiFi zwart",
+      "price": 502.36,
+      "original_price": 683.92,
+      "discount_percent": 26,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B06XBTJDLG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51Il7mBR83L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-03T18:07:10.526792+00:00",
+      "approved_at": "03-10-2026 19:46",
       "auto_approved": true
     },
     {
@@ -6465,6 +6480,63 @@
       "auto_approved": true
     },
     {
+      "id": "2e18c898bcfa",
+      "title": "XIAOMI Horloge S5 46mm, SmartWatch voor mannen vrouwen, 21 dagen batterij",
+      "price": 116.59,
+      "original_price": 163.99,
+      "discount_percent": 28,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08N65WJVL?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61jumvfHwHL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-03T18:15:06.132266+00:00",
+      "price_history": [
+        {
+          "price": 145.25,
+          "original_price": 163.99,
+          "scraped_at": "2026-08-25T14:00:26.291530+00:00"
+        },
+        {
+          "price": 143.64,
+          "original_price": 163.99,
+          "scraped_at": "2026-08-30T18:00:23.326210+00:00"
+        },
+        {
+          "price": 137.68,
+          "original_price": 163.99,
+          "scraped_at": "2026-09-04T18:01:17.441713+00:00"
+        },
+        {
+          "price": 136.14,
+          "original_price": 161.59,
+          "scraped_at": "2026-09-10T06:00:37.746808+00:00"
+        },
+        {
+          "price": 135.48,
+          "original_price": 161.99,
+          "scraped_at": "2026-09-18T10:01:00.048649+00:00"
+        },
+        {
+          "price": 139.66,
+          "original_price": 163.99,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 135.25,
+          "original_price": 163.99,
+          "scraped_at": "2026-09-28T14:00:33.927494+00:00"
+        },
+        {
+          "price": 116.59,
+          "original_price": 163.99,
+          "scraped_at": "2026-10-03T18:00:50.411781+00:00"
+        }
+      ],
+      "approved_at": "03-10-2026 19:46",
+      "auto_approved": true
+    },
+    {
       "id": "5d4164dcbcb8",
       "title": "Napoleon Premium houtskool kettle, Ø47cm",
       "price": 120.0,
@@ -7064,6 +7136,53 @@
       "auto_approved": true
     },
     {
+      "id": "1dedbf7929fb",
+      "title": "27 Inch Computer Monitor, PC Gaming Monitors 144Hz, 5ms, FHD 1080p, Eye-Care Screen, Lowblue, 99% sRGB, VESA 75x75mm, HDMI 2.0 & DP 1.2",
+      "price": 73.56,
+      "original_price": 99.99,
+      "discount_percent": 26,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GQB9SYHC?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61oRsZD0QRL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-03T18:30:18.533441+00:00",
+      "price_history": [
+        {
+          "price": 93.51,
+          "original_price": 1149.0,
+          "scraped_at": "2026-07-16T14:00:20.702075+00:00"
+        },
+        {
+          "price": 92.35,
+          "original_price": 115.45,
+          "scraped_at": "2026-07-21T18:00:41.441484+00:00"
+        },
+        {
+          "price": 91.18,
+          "original_price": 115.45,
+          "scraped_at": "2026-07-27T06:00:56.604825+00:00"
+        },
+        {
+          "price": 80.85,
+          "original_price": 109.99,
+          "scraped_at": "2026-09-02T18:00:29.622547+00:00"
+        },
+        {
+          "price": 79.64,
+          "original_price": 99.99,
+          "scraped_at": "2026-09-08T06:01:03.837256+00:00"
+        },
+        {
+          "price": 73.56,
+          "original_price": 99.99,
+          "scraped_at": "2026-10-03T18:00:50.411781+00:00"
+        }
+      ],
+      "approved_at": "03-10-2026 19:46",
+      "auto_approved": true
+    },
+    {
       "id": "5d33d2480642",
       "title": "Mova H10",
       "price": 43.0,
@@ -7364,21 +7483,6 @@
           "scraped_at": "2026-10-01T10:01:08.298582+00:00"
         }
       ],
-      "approved_at": "03-10-2026 15:36",
-      "auto_approved": true
-    },
-    {
-      "id": "55b2e7c7124e",
-      "title": "Sony WF-1000XM5 Zwart",
-      "price": 162.0,
-      "original_price": 206.39,
-      "discount_percent": 21,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wf-1000xm5-zwart-r-20724",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1945467_948ab133-6559-482f-95d0-16fbef2f191b.jpg?v=1790584269",
-      "found_at": "2026-10-03T14:31:36.553117+00:00",
       "approved_at": "03-10-2026 15:36",
       "auto_approved": true
     }
