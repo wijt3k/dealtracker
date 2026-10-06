@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T14:43:51.045552+00:00",
-  "total": 295,
+  "updated_at": "2026-10-06T18:28:31.710976+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -2074,6 +2074,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2065021_2bea9abe-194e-4057-8b10-0b925898c622.jpg?v=1790840351",
       "found_at": "2026-10-01T14:16:13.805517+00:00",
       "approved_at": "01-10-2026 15:19",
+      "auto_approved": true
+    },
+    {
+      "id": "99309c11db93",
+      "title": "ASUS TUF Gaming A18 FA808UM Laptop, 18\" WUXGA 144hz/3ms 16:10 IPS-display, AMD Ryzen 7 260, NVIDIA RTX 5060, 16 GB RAM, 1 TB SSD, Win11 Home, QWERTZ, Jaeger Gray, 3 maanden GamePass",
+      "price": 1340.52,
+      "original_price": 1618.62,
+      "discount_percent": 17,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FJXWJ7TK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Hh0q3RpJL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-06T18:03:03.928359+00:00",
+      "approved_at": "06-10-2026 19:28",
       "auto_approved": true
     },
     {
@@ -5644,6 +5659,58 @@
       "auto_approved": true
     },
     {
+      "id": "bbe95c3eba36",
+      "title": "BlueBuilt 24 inch Full HD 100Hz Monitor with USB-C",
+      "price": 116.0,
+      "original_price": 159.0,
+      "discount_percent": 27,
+      "category": "tv",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bluebuilt-24-inch-full-hd-100hz-monitor-with-usb-c-r-20577",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2148282_65ef4391-434e-4e82-83a6-0f7976a3c0c2.jpg?v=1789741535",
+      "found_at": "2026-10-04T10:08:16.804121+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 119.0,
+          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 149.0,
+          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
+        },
+        {
+          "price": 139.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
+        },
+        {
+          "price": 125.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
+        },
+        {
+          "price": 116.0,
+          "original_price": 159.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "aa7c34489d1a",
       "title": "Oppo Reno14 256GB Luminous Green",
       "price": 491.0,
@@ -6374,6 +6441,43 @@
       "auto_approved": true
     },
     {
+      "id": "f330a3c21bdf",
+      "title": "Huawei Watch Fit 4 Zwart",
+      "price": 95.74,
+      "original_price": 129.0,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/huawei-watch-fit-4-zwart-r-20798",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2174853.jpg?v=1790069491",
+      "found_at": "2026-10-04T14:46:26.854251+00:00",
+      "price_history": [
+        {
+          "price": 113.18,
+          "original_price": 129.0,
+          "scraped_at": "2026-09-29T14:00:46.206544+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 129.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 97.47,
+          "original_price": 129.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 95.74,
+          "original_price": 129.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "b6b9c543b149",
       "title": "Samsung Galaxy Book3 Pro NP940XFG-KA1BE AZERTY",
       "price": 1839.0,
@@ -6901,6 +7005,48 @@
       "auto_approved": true
     },
     {
+      "id": "55fc00eb72e2",
+      "title": "GoPro Ultra Wide Lens Mod (HERO13 Black) - Officieel GoPro-accessoire)",
+      "price": 82.08,
+      "original_price": 109.0,
+      "discount_percent": 24,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DCLL5DV4?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61frZUaW0-L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-06T18:15:13.335133+00:00",
+      "price_history": [
+        {
+          "price": 88.58,
+          "original_price": 109.99,
+          "scraped_at": "2026-02-24T11:35:29.777124+00:00"
+        },
+        {
+          "price": 90.41,
+          "original_price": 116.97,
+          "scraped_at": "2026-03-05T07:00:19.632753+00:00"
+        },
+        {
+          "price": 88.42,
+          "original_price": 109.99,
+          "scraped_at": "2026-09-12T10:00:50.409116+00:00"
+        },
+        {
+          "price": 82.87,
+          "original_price": 109.0,
+          "scraped_at": "2026-10-01T06:01:00.073517+00:00"
+        },
+        {
+          "price": 82.08,
+          "original_price": 109.0,
+          "scraped_at": "2026-10-06T18:00:34.929005+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 19:28",
+      "auto_approved": true
+    },
+    {
       "id": "0d4fe3127c6f",
       "title": "Viture Beast XR Glasses",
       "price": 505.0,
@@ -7150,6 +7296,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092552_97039365-7ba1-417e-aa85-ba0cfe07fa9e.jpg?v=1791185838",
       "found_at": "2026-10-05T18:19:26.946662+00:00",
       "approved_at": "05-10-2026 19:24",
+      "auto_approved": true
+    },
+    {
+      "id": "52c8d5ab8171",
+      "title": "Refurbished iPhone 12 mini 64GB Black",
+      "price": 156.24,
+      "original_price": 199.0,
+      "discount_percent": 21,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-12-mini-64gb-black-r-20704",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1841934_b6fdd521-ef0a-4f4e-9fc2-ea24724b944d.jpg?v=1790584199",
+      "found_at": "2026-10-06T06:22:39.870432+00:00",
+      "price_history": [
+        {
+          "price": 168.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-09-29T14:00:46.206544+00:00"
+        },
+        {
+          "price": 157.92,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 156.24,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 19:28",
       "auto_approved": true
     },
     {
