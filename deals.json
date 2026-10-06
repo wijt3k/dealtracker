@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T06:28:27.569839+00:00",
-  "total": 293,
+  "updated_at": "2026-10-06T10:30:59.373302+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -189,6 +189,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/cfa3681e61bf24d0b538334da901fafd.jpg?v=1788264119",
       "found_at": "2026-09-18T10:35:22.911671+00:00",
       "approved_at": "18-09-2026 11:41",
+      "auto_approved": true
+    },
+    {
+      "id": "376a03f6daa2",
+      "title": "HP Chromebook 14a-nf0000sf Laptop 14 inch FHD IPS, laptop (Intel Core i3-N305, 8 GB RAM, 256 GB UFS, Intel UHD Graphics, Chrome OS), laptop zilver, AZERTY-toetsenbord",
+      "price": 223.92,
+      "original_price": 460.21,
+      "discount_percent": 51,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CXZB5XHG?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71wdaDacuML._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-06T10:02:48.930131+00:00",
+      "approved_at": "06-10-2026 11:30",
       "auto_approved": true
     },
     {
@@ -433,6 +448,33 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6a883e2669793_ASSET_MMS_143470328-500x500.png",
       "found_at": "2026-08-20T14:16:01.018408+00:00",
       "approved_at": "23-08-2026 15:38",
+      "auto_approved": true
+    },
+    {
+      "id": "8727077bd149",
+      "title": "Apple iPhone 15 128GB Zwart",
+      "price": 507.0,
+      "original_price": 799.0,
+      "discount_percent": 36,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-15-128gb-zwart-r-20998",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_b54cb1dd-8a0b-4c28-9774-0291065b9a40.jpg?v=1791185811",
+      "found_at": "2026-10-06T10:25:42.120446+00:00",
+      "price_history": [
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 507.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
       "auto_approved": true
     },
     {
@@ -1831,6 +1873,60 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107556_ce41f73b-e76a-4f52-9b27-5df37c2a4a9a.jpg?v=1790674486",
       "found_at": "2026-09-29T18:21:32.719980+00:00",
       "approved_at": "29-09-2026 19:27",
+      "auto_approved": true
+    },
+    {
+      "id": "8d4553ff79da",
+      "title": "MSI Claw A8 BZ2EM-048NL",
+      "price": 808.0,
+      "original_price": 1059.0,
+      "discount_percent": 23,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-claw-a8-bz2em-048nl-r-20932",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2199491.jpg?v=1791185727",
+      "found_at": "2026-10-06T10:25:51.757091+00:00",
+      "price_history": [
+        {
+          "price": 974.0,
+          "original_price": 1059.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 808.0,
+          "original_price": 1059.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
+      "auto_approved": true
+    },
+    {
+      "id": "ec5160c0c3ed",
+      "title": "Thrustmaster TM Racing Klem",
+      "price": 57.0,
+      "original_price": 113.0,
+      "discount_percent": 49,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/thrustmaster-tm-racing-klem-r-20901",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1379946_2956505a-aab9-4d2a-a9f6-076fd3a0948e.jpg?v=1791185694",
+      "found_at": "2026-10-06T10:26:01.740021+00:00",
+      "price_history": [
+        {
+          "price": 103.0,
+          "original_price": 113.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 113.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
       "auto_approved": true
     },
     {
@@ -3658,6 +3754,33 @@
       "auto_approved": true
     },
     {
+      "id": "b79f9a97a3d1",
+      "title": "Braun Series 3 300BT Grijs",
+      "price": 48.0,
+      "original_price": 79.0,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-3-300bt-grijs-r-21035",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/186946806.jpg?v=1791185835",
+      "found_at": "2026-10-06T10:25:45.779275+00:00",
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "9adbe55b009f",
       "title": "SAMSUNG Galaxy A34 5G SM-A346B/DSN 16.8 cm (6.6) Hybrid Dual SIM Android 13 USB Type-C 6 GB 128 GB 5000 mAh Zilver",
       "price": 198.58,
@@ -4330,6 +4453,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127909_6b50365b-4c63-43f4-83f0-25bccfd42e0d.jpg?v=1790584105",
       "found_at": "2026-09-29T10:55:58.042610+00:00",
       "approved_at": "29-09-2026 12:01",
+      "auto_approved": true
+    },
+    {
+      "id": "83c2c0203116",
+      "title": "Dreame Accessory Kit RAK64",
+      "price": 95.0,
+      "original_price": 140.0,
+      "discount_percent": 32,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dreame-accessory-kit-rak64-r-20852",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2219947.jpg?v=1791185696",
+      "found_at": "2026-10-06T10:25:45.781300+00:00",
+      "price_history": [
+        {
+          "price": 123.0,
+          "original_price": 140.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 140.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
       "auto_approved": true
     },
     {
@@ -5947,6 +6097,33 @@
       "auto_approved": true
     },
     {
+      "id": "cb02f11eb8eb",
+      "title": "Logitech G Pro X Superlight Draadloze Gaming Muis Zwart",
+      "price": 98.0,
+      "original_price": 134.0,
+      "discount_percent": 26,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-draadloze-gaming-muis-zwart-r-20984",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1506618_b943f82d-8a87-4eed-b2b3-7c0a684ae7c1.jpg?v=1791185760",
+      "found_at": "2026-10-06T10:25:51.755154+00:00",
+      "price_history": [
+        {
+          "price": 123.0,
+          "original_price": 134.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 134.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "f20d564acaaa",
       "title": "DeLonghi  Essenza Mini EN85.W",
       "price": 49.0,
@@ -6079,6 +6256,48 @@
         }
       ],
       "approved_at": "03-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
+      "id": "53b23651781f",
+      "title": "SteelSeries Apex 3 TKL Gaming Lavendel AZERTY",
+      "price": 37.0,
+      "original_price": 51.47,
+      "discount_percent": 28,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/steelseries-apex-3-tkl-gaming-lavendel-azerty-r-20777",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2209309.jpg?v=1790069449",
+      "found_at": "2026-10-06T10:26:01.738951+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 61.39,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 51.44,
+          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
+        },
+        {
+          "price": 42.0,
+          "original_price": 51.45,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 51.47,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 37.0,
+          "original_price": 51.47,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
       "auto_approved": true
     },
     {
@@ -6656,6 +6875,33 @@
       "auto_approved": true
     },
     {
+      "id": "0d4fe3127c6f",
+      "title": "Viture Beast XR Glasses",
+      "price": 505.0,
+      "original_price": 599.0,
+      "discount_percent": 15,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/viture-beast-xr-glasses-r-20976",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1711150304.jpg?v=1791185726",
+      "found_at": "2026-10-06T10:26:01.740518+00:00",
+      "price_history": [
+        {
+          "price": 551.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 505.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "82bf4fd5aff0",
       "title": "HP Pavilion x360 14-ek2033ng QWERTZ",
       "price": 506.0,
@@ -7015,6 +7261,73 @@
       "auto_approved": true
     },
     {
+      "id": "1a5e00472871",
+      "title": "Jura Kopjesverwarmer Wit",
+      "price": 98.0,
+      "original_price": 126.96,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/jura-kopjesverwarmer-wit-r-20769",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2250676.jpg?v=1790070488",
+      "found_at": "2026-10-06T10:25:51.753694+00:00",
+      "price_history": [
+        {
+          "price": 109.0,
+          "original_price": 125.45,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 125.38,
+          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
+        },
+        {
+          "price": 110.0,
+          "original_price": 125.59,
+          "scraped_at": "2026-09-26T10:00:55.063076+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 125.83,
+          "scraped_at": "2026-09-27T10:00:53.448688+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 125.58,
+          "scraped_at": "2026-09-28T10:00:30.207143+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 125.68,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 126.53,
+          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
+        },
+        {
+          "price": 109.0,
+          "original_price": 126.75,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 102.0,
+          "original_price": 126.96,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 126.96,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "85c1a03a3eb2",
       "title": "Apple Magic Keyboard iPad Air 13 inch (2026/2025/2024) AZERTY Zwart",
       "price": 307.0,
@@ -7202,6 +7515,38 @@
       "auto_approved": true
     },
     {
+      "id": "bcdd75aaab4e",
+      "title": "Refurbished iPhone 14 128GB Black",
+      "price": 293.88,
+      "original_price": 355.0,
+      "discount_percent": 17,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-black-r-20618",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950867_2dde55de-7867-4abe-a34f-e8e572f5a49d.jpg?v=1790584025",
+      "found_at": "2026-10-06T10:25:58.279037+00:00",
+      "price_history": [
+        {
+          "price": 316.0,
+          "original_price": 355.0,
+          "scraped_at": "2026-09-29T14:00:46.206544+00:00"
+        },
+        {
+          "price": 297.04,
+          "original_price": 355.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 293.88,
+          "original_price": 355.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        }
+      ],
+      "approved_at": "06-10-2026 11:30",
+      "auto_approved": true
+    },
+    {
       "id": "5ac1ccce0140",
       "title": "MSI Katana A17 AI B8VF-866 QWERTZ",
       "price": 1471.0,
@@ -7344,139 +7689,6 @@
           "price": 97.0,
           "original_price": 123.11,
           "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        }
-      ],
-      "approved_at": "06-10-2026 07:27",
-      "auto_approved": true
-    },
-    {
-      "id": "58ef3d15e314",
-      "title": "Philips Series 3000 9-in-1 MG3945/15",
-      "price": 30.0,
-      "original_price": 39.15,
-      "discount_percent": 23,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-3000-9-in-1-mg3945-15-r-20695",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2224796.jpg?v=1790584162",
-      "found_at": "2026-10-05T06:16:37.890040+00:00",
-      "price_history": [
-        {
-          "price": 32.0,
-          "original_price": 40.33,
-          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 39.83,
-          "scraped_at": "2026-10-01T10:01:08.298582+00:00"
-        },
-        {
-          "price": 30.0,
-          "original_price": 39.15,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        }
-      ],
-      "approved_at": "06-10-2026 07:27",
-      "auto_approved": true
-    },
-    {
-      "id": "67d9dbf1aa3c",
-      "title": "Gardena Vuilwaterpomp 20000 Basic",
-      "price": 56.0,
-      "original_price": 72.42,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/gardena-vuilwaterpomp-20000-basic-r-20949",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129252.jpg?v=1790840561",
-      "found_at": "2026-10-05T10:20:35.440150+00:00",
-      "price_history": [
-        {
-          "price": 61.0,
-          "original_price": 70.0,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 56.0,
-          "original_price": 70.0,
-          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
-        }
-      ],
-      "approved_at": "06-10-2026 07:27",
-      "auto_approved": true
-    },
-    {
-      "id": "5d8035b3b4d7",
-      "title": "Jura Cool Control 0.6L Wit (EB)",
-      "price": 159.0,
-      "original_price": 196.52,
-      "discount_percent": 19,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/jura-cool-control-0-6l-wit-eb-r-20768",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/923729143.jpg?v=1790070489",
-      "found_at": "2026-10-05T18:19:21.132129+00:00",
-      "price_history": [
-        {
-          "price": 173.0,
-          "original_price": 193.15,
-          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
-        },
-        {
-          "price": 170.0,
-          "original_price": 194.72,
-          "scraped_at": "2026-09-28T10:00:30.207143+00:00"
-        },
-        {
-          "price": 164.0,
-          "original_price": 194.66,
-          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
-        },
-        {
-          "price": 168.0,
-          "original_price": 195.59,
-          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
-        },
-        {
-          "price": 177.0,
-          "original_price": 198.77,
-          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
-        },
-        {
-          "price": 159.0,
-          "original_price": 196.52,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        }
-      ],
-      "approved_at": "06-10-2026 07:27",
-      "auto_approved": true
-    },
-    {
-      "id": "52e1665e789f",
-      "title": "Neomounts by Newstar D960D Monitorarm Zwart",
-      "price": 115.0,
-      "original_price": 144.72,
-      "discount_percent": 20,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/neomounts-by-newstar-d960d-monitorarm-zwart-r-20954",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215531.jpg?v=1790840576",
-      "found_at": "2026-10-05T18:19:24.347210+00:00",
-      "price_history": [
-        {
-          "price": 132.0,
-          "original_price": 144.0,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 115.0,
-          "original_price": 144.0,
-          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
         }
       ],
       "approved_at": "06-10-2026 07:27",
