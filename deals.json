@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T14:37:01.950534+00:00",
-  "total": 298,
+  "updated_at": "2026-10-08T18:22:37.824350+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -45,6 +45,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/ff5a1700d1f16411d9621986b72ebb7eeb7f623d_p400.webp?v=1788264121",
       "found_at": "2026-09-18T10:35:31.727526+00:00",
       "approved_at": "18-09-2026 11:41",
+      "auto_approved": true
+    },
+    {
+      "id": "ba0d148bd4e6",
+      "title": "Blaupunkt Bluebot Xtreme",
+      "price": 165.0,
+      "original_price": 449.0,
+      "discount_percent": 63,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/blaupunkt-bluebot-xtreme-r-21016",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1641434_a3e3b38f-f74a-496c-809b-f39e30cec636.jpg?v=1791270989",
+      "found_at": "2026-10-08T18:17:00.114531+00:00",
+      "approved_at": "08-10-2026 19:22",
       "auto_approved": true
     },
     {
@@ -701,6 +716,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132153_793e7901-ab16-4309-9d9b-2b822cab95fa.jpg?v=1791271149",
       "found_at": "2026-10-07T10:32:16.412568+00:00",
       "approved_at": "07-10-2026 11:38",
+      "auto_approved": true
+    },
+    {
+      "id": "e61e59cddabe",
+      "title": "ASUS TUF Gaming A16 FA608UP-QT006 Gaming-laptop, 40,6 cm (16 inch), WQXGA 165 Hz, AMD Ryzen 7 260, 32 GB RAM, 1 TB SSD, NVIDIA RTX 5070 8 GB, zonder besturingssysteem, grijs Jager, Spaans",
+      "price": 1389.01,
+      "original_price": 1766.15,
+      "discount_percent": 21,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F9PHFBD2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71lCc4jdOAL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-08T18:05:55.180676+00:00",
+      "approved_at": "08-10-2026 19:22",
       "auto_approved": true
     },
     {
