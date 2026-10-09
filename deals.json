@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T10:28:55.836957+00:00",
-  "total": 291,
+  "updated_at": "2026-10-09T14:17:31.051859+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -129,6 +129,21 @@
         }
       ],
       "approved_at": "29-09-2026 15:31",
+      "auto_approved": true
+    },
+    {
+      "id": "67e88e88b1b9",
+      "title": "HUAWEI WATCH 5 42mm Smartwatche, Multi-sensing X-TAP Technologie, Zuurstofsaturatiemeting via je vingertop, Voor Android en iOS, Verlengde garantie van 6 maanden, Groen",
+      "price": 197.53,
+      "original_price": 496.21,
+      "discount_percent": 60,
+      "category": "wearables",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F29Y1S5Y?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71dW6YUSA2L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-09T14:09:13.981690+00:00",
+      "approved_at": "09-10-2026 15:17",
       "auto_approved": true
     },
     {
@@ -1104,6 +1119,21 @@
         }
       ],
       "approved_at": "07-10-2026 08:02",
+      "auto_approved": true
+    },
+    {
+      "id": "37db07daabd3",
+      "title": "Motorola Moto g75 5G Smartphone (6,78 inch FHD+ Display, 50 MP Camera, 8/256 GB, 5000 mAh, Android 14) Charcoal Gray, incl. Beschermhoes [Exclusief bij Amazon]",
+      "price": 153.96,
+      "original_price": 287.5,
+      "discount_percent": 46,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DK1SJK4M?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51QJNEWSw4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-09T14:03:41.173890+00:00",
+      "approved_at": "09-10-2026 15:17",
       "auto_approved": true
     },
     {
@@ -4755,6 +4785,43 @@
       "auto_approved": true
     },
     {
+      "id": "cf21b214c0ca",
+      "title": "WMF Bueno Pro Broodrooster 0414130011",
+      "price": 36.0,
+      "original_price": 57.35,
+      "discount_percent": 37,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-bueno-pro-broodrooster-0414130011-r-20787",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2235797.jpg?v=1790070498",
+      "found_at": "2026-10-09T10:23:58.539616+00:00",
+      "price_history": [
+        {
+          "price": 43.0,
+          "original_price": 46.9,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 57.44,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 39.0,
+          "original_price": 51.52,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 36.0,
+          "original_price": 56.1,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "aa698feb9fa6",
       "title": "Weber Original Kettle 57 cm Zwart",
       "price": 119.0,
@@ -6291,6 +6358,38 @@
       "auto_approved": true
     },
     {
+      "id": "c0e74f746631",
+      "title": "Dyson V12 Detect Slim Absolute",
+      "price": 473.0,
+      "original_price": 587.89,
+      "discount_percent": 19,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v12-detect-slim-absolute-r-21110",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985260_1c9496ab-2aee-4652-bced-7443c98d3c81.jpg?v=1791271223",
+      "found_at": "2026-10-09T14:12:24.454607+00:00",
+      "price_history": [
+        {
+          "price": 350.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 327.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 473.0,
+          "original_price": 482.33,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
+      "auto_approved": true
+    },
+    {
       "id": "5d4164dcbcb8",
       "title": "Napoleon Premium houtskool kettle, Ø47cm",
       "price": 120.0,
@@ -7193,6 +7292,206 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2071995_8988b9ab-a41e-4ff6-aba1-792ac6f24b06.jpg?v=1791271136",
       "found_at": "2026-10-09T06:59:52.262570+00:00",
       "approved_at": "09-10-2026 08:04",
+      "auto_approved": true
+    },
+    {
+      "id": "583a6712d41b",
+      "title": "HP OmniBook 7 17-dc0970nd QWERTY",
+      "price": 1076.0,
+      "original_price": 1223.0,
+      "discount_percent": 12,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omnibook-7-17-dc0970nd-qwerty-r-21047",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241261.jpg?v=1791271087",
+      "found_at": "2026-10-09T14:12:28.046330+00:00",
+      "price_history": [
+        {
+          "price": 1055.0,
+          "original_price": 1199.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 1097.0,
+          "original_price": 1199.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 1076.0,
+          "original_price": 1223.0,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "8249ac82f128",
+      "title": "HP Pavilion 16-af0055ng QWERTZ",
+      "price": 676.0,
+      "original_price": 799.0,
+      "discount_percent": 15,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-pavilion-16-af0055ng-qwertz-r-20908",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135726.jpg?v=1790840456",
+      "found_at": "2026-10-09T14:12:28.046669+00:00",
+      "price_history": [
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 676.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 690.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 683.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 676.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "7213b6d3a649",
+      "title": "HP laptop 15-fd1075ng QWERTZ",
+      "price": 676.0,
+      "original_price": 799.0,
+      "discount_percent": 15,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-laptop-15-fd1075ng-qwertz-r-20921",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2073838_73fd1b4c-289b-4b2b-981d-6a5371d3df72.jpg?v=1790840495",
+      "found_at": "2026-10-09T14:12:28.046077+00:00",
+      "price_history": [
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 676.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 690.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 683.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 676.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "dc92e1a9427c",
+      "title": "DJI Osmo Pocket 4 Creator Combo",
+      "price": 514.0,
+      "original_price": 619.54,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dji-osmo-pocket-4-creator-combo-r-20985",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/299755621_131978ca-9be0-42f9-8f2b-adaf52fe32c8.jpg?v=1791185761",
+      "found_at": "2026-10-09T14:12:24.452639+00:00",
+      "price_history": [
+        {
+          "price": 565.0,
+          "original_price": 615.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 529.0,
+          "original_price": 615.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 513.0,
+          "original_price": 622.38,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 514.0,
+          "original_price": 621.65,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
+      "auto_approved": true
+    },
+    {
+      "id": "b8f382804616",
+      "title": "Samsung FHD 32T5300 (2023)",
+      "price": 263.0,
+      "original_price": 335.67,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-fhd-32t5300-2023-r-20887",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1900601_416905d0-269a-4cb7-92dd-cbbc78097f2f.jpg?v=1790840412",
+      "found_at": "2026-10-09T14:12:39.484140+00:00",
+      "price_history": [
+        {
+          "price": 288.0,
+          "original_price": 328.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 289.0,
+          "original_price": 328.0,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 273.0,
+          "original_price": 335.67,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 263.0,
+          "original_price": 335.67,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        }
+      ],
+      "approved_at": "09-10-2026 15:17",
       "auto_approved": true
     }
   ]
