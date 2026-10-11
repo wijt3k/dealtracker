@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T14:26:41.730585+00:00",
-  "total": 294,
+  "updated_at": "2026-10-11T18:38:21.081211+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -447,6 +447,48 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2212735_4a5b9035-29f5-42d4-8254-afce3ee5858b.jpg?v=1791552356",
       "found_at": "2026-10-10T10:18:33.091725+00:00",
       "approved_at": "10-10-2026 11:23",
+      "auto_approved": true
+    },
+    {
+      "id": "c4ef39aea31d",
+      "title": "Dyson OnTrac™ draadloze koptelefoon met actieve ruisonderdrukking en een accu met een gebruiksduur tot 55 uur (CNC Koper)",
+      "price": 234.52,
+      "original_price": 499.0,
+      "discount_percent": 53,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D7WZV5LV?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61zm1wme7gL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-11T18:11:32.015013+00:00",
+      "price_history": [
+        {
+          "price": 232.77,
+          "original_price": 299.0,
+          "scraped_at": "2026-07-15T14:00:21.602638+00:00"
+        },
+        {
+          "price": 188.63,
+          "original_price": 999.0,
+          "scraped_at": "2026-07-21T18:00:41.441484+00:00"
+        },
+        {
+          "price": 177.2,
+          "original_price": 199.0,
+          "scraped_at": "2026-07-29T06:00:54.020153+00:00"
+        },
+        {
+          "price": 182.65,
+          "original_price": 199.0,
+          "scraped_at": "2026-08-03T14:00:50.128262+00:00"
+        },
+        {
+          "price": 234.52,
+          "original_price": 499.0,
+          "scraped_at": "2026-10-11T18:00:51.982625+00:00"
+        }
+      ],
+      "approved_at": "11-10-2026 19:38",
       "auto_approved": true
     },
     {
@@ -2734,6 +2776,33 @@
         }
       ],
       "approved_at": "02-10-2026 15:28",
+      "auto_approved": true
+    },
+    {
+      "id": "a56dabb7a0d2",
+      "title": "Apple iPhone SE 3 64GB Midnight (Zwart)",
+      "price": 250.0,
+      "original_price": 399.0,
+      "discount_percent": 37,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-se-3-64gb-midnight-zwart-r-21062",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1712238_5ae3c836-a4b8-49a3-9a40-a402f72a254b.jpg?v=1791552021",
+      "found_at": "2026-10-11T18:31:36.787044+00:00",
+      "price_history": [
+        {
+          "price": 351.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 250.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-10-11T18:00:51.982625+00:00"
+        }
+      ],
+      "approved_at": "11-10-2026 19:38",
       "auto_approved": true
     },
     {
@@ -7438,6 +7507,21 @@
       "auto_approved": true
     },
     {
+      "id": "750e8b3fcae9",
+      "title": "Sony WF-1000XM5 Roze",
+      "price": 147.0,
+      "original_price": 203.43,
+      "discount_percent": 27,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wf-1000xm5-roze-r-21006",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2096273.jpg?v=1791551960",
+      "found_at": "2026-10-11T18:32:04.117436+00:00",
+      "approved_at": "11-10-2026 19:38",
+      "auto_approved": true
+    },
+    {
       "id": "8ea2c126cf76",
       "title": "HP laptop 15-fc0072ng QWERTZ",
       "price": 620.0,
@@ -7668,6 +7752,80 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2231451.jpg?v=1791551991",
       "found_at": "2026-10-11T14:21:50.686571+00:00",
       "approved_at": "11-10-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "7799238ec55e",
+      "title": "Polar VANTAGE M3 BEIGE/GOLD S-L",
+      "price": 290.0,
+      "original_price": 375.08,
+      "discount_percent": 22,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/polar-vantage-m3-beige-gold-s-l-r-20687",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2115071.jpg?v=1790584133",
+      "found_at": "2026-10-11T18:32:00.296841+00:00",
+      "price_history": [
+        {
+          "price": 275.0,
+          "original_price": 307.69,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 290.0,
+          "original_price": 317.69,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        }
+      ],
+      "approved_at": "11-10-2026 19:38",
+      "auto_approved": true
+    },
+    {
+      "id": "80ff255925b5",
+      "title": "Garmin Venu 4 (45mm), GPS, Wi-Fi, Black w/ Slate + Black, WW",
+      "price": 371.0,
+      "original_price": 469.56,
+      "discount_percent": 20,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-venu-4-45mm-gps-wi-fi-black-w-slate-black-ww-r-21005",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2216842_c1f1ebcc-07e0-47d1-96f3-a8ee2fb02518.jpg?v=1791551960",
+      "found_at": "2026-10-11T18:31:46.278654+00:00",
+      "approved_at": "11-10-2026 19:38",
+      "auto_approved": true
+    },
+    {
+      "id": "17d079c7b460",
+      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP1238",
+      "price": 49.0,
+      "original_price": 70.98,
+      "discount_percent": 30,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp1238-r-21094",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127909_87bdf8bc-8f2c-4f37-a923-fda19b4ffcfb.jpg?v=1791271163",
+      "found_at": "2026-10-11T18:31:50.124012+00:00",
+      "price_history": [
+        {
+          "price": 49.0,
+          "original_price": 70.69,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 70.69,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 70.98,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        }
+      ],
+      "approved_at": "11-10-2026 19:38",
       "auto_approved": true
     }
   ]
