@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T14:32:34.601118+00:00",
-  "total": 297,
+  "updated_at": "2026-10-13T18:33:14.107926+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c10bac454005",
@@ -8450,6 +8450,172 @@
         }
       ],
       "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
+      "id": "87987dcaee45",
+      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP1238",
+      "price": 42.0,
+      "original_price": 71.77,
+      "discount_percent": 41,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp1238-r-20859",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127909_9c4bc2a1-4efc-42d2-8acd-b3d3a952e616.jpg?v=1790674528",
+      "found_at": "2026-10-13T10:40:54.782082+00:00",
+      "price_history": [
+        {
+          "price": 48.0,
+          "original_price": 74.0,
+          "scraped_at": "2026-09-29T18:00:53.483688+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 68.27,
+          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 71.67,
+          "scraped_at": "2026-10-01T10:01:08.298582+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 71.67,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 71.67,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 70.54,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 70.69,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 42.0,
+          "original_price": 70.98,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 71.54,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 42.0,
+          "original_price": 71.44,
+          "scraped_at": "2026-10-12T18:00:24.994214+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "80e25d695d8b",
+      "title": "Magimix Nespresso CitiZ & Milk M196 Zwart",
+      "price": 128.0,
+      "original_price": 199.0,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-milk-m196-zwart-r-20674",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843740_85fef445-694a-4e44-b1d9-e00ed2fcb74b.jpg?v=1790584115",
+      "found_at": "2026-10-13T14:25:50.012427+00:00",
+      "price_history": [
+        {
+          "price": 129.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 140.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 138.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 137.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 132.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "0984078d9fc8",
+      "title": "Blaupunkt Bluebot Xtreme",
+      "price": 101.0,
+      "original_price": 159.99,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/blaupunkt-bluebot-xtreme-r-21135",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1641434_53e491ae-99a5-42ec-98d0-940a2a9e7814.jpg?v=1791552178",
+      "found_at": "2026-10-13T18:27:10.099483+00:00",
+      "price_history": [
+        {
+          "price": 147.0,
+          "original_price": 166.66,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 166.66,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 19:33",
       "auto_approved": true
     }
   ]
