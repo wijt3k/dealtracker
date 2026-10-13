@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T06:25:42.210036+00:00",
-  "total": 282,
+  "updated_at": "2026-10-13T10:46:10.000254+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c10bac454005",
@@ -15,6 +15,21 @@
       "image": "https://m.media-amazon.com/images/I/71btossKxtL._AC_SX300_SY300_QL70_ML2_.jpg",
       "found_at": "2026-10-12T10:05:16.270681+00:00",
       "approved_at": "12-10-2026 12:04",
+      "auto_approved": true
+    },
+    {
+      "id": "59cf8ed5d32b",
+      "title": "realme GT 6T 5G Smartphone 8+ 256GB, Chipset Snapdragon 7+ Gen 3, Super Display met 6000 Nit bij 120 Hz, Supervooc-lading met 120 W, massieve batterij met 5500 mAh, Razor Green",
+      "price": 539.72,
+      "original_price": 1283.0,
+      "discount_percent": 57,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0D2L42BX9?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71JGPHigEYL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-13T10:18:17.531054+00:00",
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     },
     {
@@ -3580,6 +3595,38 @@
       "auto_approved": true
     },
     {
+      "id": "fbced8555deb",
+      "title": "Razer Huntsman V2 Analog Gaming Toetsenbord AZERTY",
+      "price": 130.0,
+      "original_price": 247.79,
+      "discount_percent": 47,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/razer-huntsman-v2-analog-gaming-toetsenbord-azerty-r-20909",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1576691_08f66922-20e1-4e1d-aa6a-7c4564c0f373.jpg?v=1791551881",
+      "found_at": "2026-10-13T10:41:00.597538+00:00",
+      "price_history": [
+        {
+          "price": 130.0,
+          "original_price": 161.24,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 132.0,
+          "original_price": 161.24,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 247.79,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "ac5073808e28",
       "title": "Microsoft® Surface Pro 13\" - Project BS - 1 LCD xPS SC DE/FR/IT/UK Platinum",
       "price": 1274.89,
@@ -3766,6 +3813,73 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1978985_4c43c315-7ac1-46e6-8773-4279852595d9.jpg?v=1790674457",
       "found_at": "2026-09-29T18:21:25.032530+00:00",
       "approved_at": "29-09-2026 19:27",
+      "auto_approved": true
+    },
+    {
+      "id": "c9bffe3a13ce",
+      "title": "soundcore AeroFit 2 AI Open-Ear Koptelefoon, 2x Bas, 35 Uur",
+      "price": 72.0,
+      "original_price": 149.99,
+      "discount_percent": 51,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0F9XWWXNW?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/51ETvSlcUAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-13T10:22:19.801248+00:00",
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
+      "id": "42b33ef9ef73",
+      "title": "Razer Huntsman V2 Analog Gaming Toetsenbord AZERTY",
+      "price": 133.0,
+      "original_price": 247.79,
+      "discount_percent": 46,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/razer-huntsman-v2-analog-gaming-toetsenbord-azerty-r-20962",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1576691_bda0abd5-24e4-454d-a375-f17ce0cd688d.jpg?v=1790840593",
+      "found_at": "2026-10-13T10:41:00.597463+00:00",
+      "price_history": [
+        {
+          "price": 248.0,
+          "original_price": 270.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 229.0,
+          "original_price": 270.0,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 146.0,
+          "original_price": 242.24,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 240.0,
+          "original_price": 242.24,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 144.0,
+          "original_price": 242.24,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 136.0,
+          "original_price": 161.24,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 133.0,
+          "original_price": 247.79,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     },
     {
@@ -5329,6 +5443,68 @@
       "auto_approved": true
     },
     {
+      "id": "5a2b654f28f5",
+      "title": "Samsung Galaxy A16 4GB+128GB [Internationale versie] (grijs)",
+      "price": 115.64,
+      "original_price": 209.99,
+      "discount_percent": 44,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DM1R9X2P?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61lzvL4tAqL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-13T10:14:06.491490+00:00",
+      "price_history": [
+        {
+          "price": 121.72,
+          "original_price": 134.99,
+          "scraped_at": "2026-04-15T18:00:29.680390+00:00"
+        },
+        {
+          "price": 121.14,
+          "original_price": 132.19,
+          "scraped_at": "2026-05-20T10:00:24.993500+00:00"
+        },
+        {
+          "price": 125.48,
+          "original_price": null,
+          "scraped_at": "2026-06-16T14:01:35.774221+00:00"
+        },
+        {
+          "price": 128.09,
+          "original_price": 143.14,
+          "scraped_at": "2026-07-02T06:00:52.759256+00:00"
+        },
+        {
+          "price": 127.65,
+          "original_price": null,
+          "scraped_at": "2026-08-19T06:00:55.272252+00:00"
+        },
+        {
+          "price": 128.55,
+          "original_price": null,
+          "scraped_at": "2026-09-10T06:00:37.746808+00:00"
+        },
+        {
+          "price": 129.44,
+          "original_price": null,
+          "scraped_at": "2026-09-16T06:00:24.429739+00:00"
+        },
+        {
+          "price": 134.32,
+          "original_price": 181.85,
+          "scraped_at": "2026-10-07T06:00:53.990414+00:00"
+        },
+        {
+          "price": 115.64,
+          "original_price": 209.99,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "8d4553ff79da",
       "title": "MSI Claw A8 BZ2EM-048NL",
       "price": 808.0,
@@ -5706,6 +5882,21 @@
       "auto_approved": true
     },
     {
+      "id": "0cc8f454fbff",
+      "title": "Doro 8100 Plus 4G Smartphone voor senioren, ontgrendeld, waterdicht, met drievoudige camera, 6,1 inch scherm, GPS, gezichtsherkenning, laadstation en hoes (zwart)",
+      "price": 155.01,
+      "original_price": 263.3,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B09PFCNQHF?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/811zFNf9pDL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-13T10:16:42.096060+00:00",
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "bfa198961612",
       "title": "SIEMENS HL9S5E040U - Fornuis - Inductie 3-fasen (Perilex) - breedte 60 cm",
       "price": 674.25,
@@ -5898,6 +6089,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2019502_baba75cb-2df4-428b-ac52-d22cd53ca89e.jpg?v=1790584057",
       "found_at": "2026-09-29T10:56:04.343807+00:00",
       "approved_at": "29-09-2026 12:01",
+      "auto_approved": true
+    },
+    {
+      "id": "7151a29ce943",
+      "title": "Skullcandy Aviator 900 ANC Wireless Over-Ear Bluetooth Headphones, THX Spatial Audio with Head Tracking, Adaptive Noise Cancelling, Up to 60 Hours Battery, Microphone for iPhone Android - True Black",
+      "price": 112.09,
+      "original_price": 199.29,
+      "discount_percent": 43,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FJ44ZNKT?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71XD9i25NoL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-13T10:24:05.467764+00:00",
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     },
     {
@@ -6528,6 +6734,73 @@
       "auto_approved": true
     },
     {
+      "id": "14fe02496541",
+      "title": "SMEG KLF03WHEU Wit",
+      "price": 87.0,
+      "original_price": 156.31,
+      "discount_percent": 44,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/smeg-klf03wheu-wit-r-20914",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1367082.jpg?v=1790840467",
+      "found_at": "2026-10-13T10:41:03.899135+00:00",
+      "price_history": [
+        {
+          "price": 121.0,
+          "original_price": 169.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 169.0,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 105.0,
+          "original_price": 152.77,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 96.0,
+          "original_price": 152.77,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 155.26,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 150.47,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 93.0,
+          "original_price": 156.57,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 156.57,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 95.0,
+          "original_price": 152.02,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 87.0,
+          "original_price": 156.31,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "93cd6afc6b8d",
       "title": "WMF Devil Koekenpannenset 24 + 28 cm",
       "price": 51.0,
@@ -6919,6 +7192,68 @@
       "auto_approved": true
     },
     {
+      "id": "eb5902f28379",
+      "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
+      "price": 91.0,
+      "original_price": 160.98,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-k860-ergonomisch-draadloos-toetsenbord-azerty-r-20968",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1565947_0f7cd41b-75be-414c-aed7-ec98f5a9869a.jpg?v=1790840607",
+      "found_at": "2026-10-13T10:40:54.783465+00:00",
+      "price_history": [
+        {
+          "price": 96.0,
+          "original_price": 105.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 105.0,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 130.0,
+          "original_price": 157.93,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 99.99,
+          "scraped_at": "2026-10-06T14:00:49.395019+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 99.99,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 124.0,
+          "original_price": null,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 145.63,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 104.5,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 91.0,
+          "original_price": 96.33,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "339daf26aba2",
       "title": "Lenovo Yoga Slim 714IMH9 83CV0055MB AZERTY",
       "price": 1153.0,
@@ -6993,6 +7328,53 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092760_95868404-4c23-4de0-b705-262ad7b274c0.jpg?v=1791551867",
       "found_at": "2026-10-10T14:27:22.882114+00:00",
       "approved_at": "12-10-2026 15:29",
+      "auto_approved": true
+    },
+    {
+      "id": "fe61b59bdd80",
+      "title": "Solis of Switzerland SOLIS Citrus Juicer (Type 8453)",
+      "price": 38.0,
+      "original_price": 71.39,
+      "discount_percent": 46,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/solis-of-switzerland-solis-citrus-juicer-type-8453-r-20734",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1439398_c6779e9f-7cc3-4d25-a391-be056b272128.jpg?v=1790584306",
+      "found_at": "2026-10-13T10:41:03.899247+00:00",
+      "price_history": [
+        {
+          "price": 45.0,
+          "original_price": 74.19,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 72.56,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 72.56,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 70.1,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 70.84,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 38.0,
+          "original_price": 71.39,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     },
     {
@@ -7231,6 +7613,33 @@
       "auto_approved": true
     },
     {
+      "id": "ded14277a6cc",
+      "title": "HP Pavilion 15-eg2980nd QWERTY",
+      "price": 675.0,
+      "original_price": 876.0,
+      "discount_percent": 22,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-pavilion-15-eg2980nd-qwerty-r-21091",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1941129.jpg?v=1791271143",
+      "found_at": "2026-10-13T10:40:51.021482+00:00",
+      "price_history": [
+        {
+          "price": 718.0,
+          "original_price": 876.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 675.0,
+          "original_price": 876.0,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "e0b4aa385fd4",
       "title": "MSI MAG 244F - LED-Monitor - Gaming - 61 cm (24\") (23.8\" sichtbar) - 1920 x 1080 Full HD (1080p) @ 200 Hz - Fast IPS (9S6-3BC41H-001)",
       "price": 79.65,
@@ -7320,6 +7729,43 @@
       "auto_approved": true
     },
     {
+      "id": "c0e74f746631",
+      "title": "Dyson V12 Detect Slim Absolute",
+      "price": 454.0,
+      "original_price": 617.75,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-v12-detect-slim-absolute-r-21110",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1985260_1c9496ab-2aee-4652-bced-7443c98d3c81.jpg?v=1791271223",
+      "found_at": "2026-10-13T10:40:48.221941+00:00",
+      "price_history": [
+        {
+          "price": 350.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 327.0,
+          "original_price": 439.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 473.0,
+          "original_price": 482.33,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 454.0,
+          "original_price": 617.75,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "52690188105d",
       "title": "Viture Luma Pro XR Glasses",
       "price": 335.0,
@@ -7344,6 +7790,33 @@
         }
       ],
       "approved_at": "12-10-2026 19:25",
+      "auto_approved": true
+    },
+    {
+      "id": "715cf468e83a",
+      "title": "Sony WH-1000XM5 Zwart",
+      "price": 184.0,
+      "original_price": 283.06,
+      "discount_percent": 34,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-1000xm5-zwart-r-21177",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1755757_ea465544-baab-42c9-89d1-b700da685523.jpg?v=1791552321",
+      "found_at": "2026-10-13T10:41:03.899385+00:00",
+      "price_history": [
+        {
+          "price": 190.0,
+          "original_price": 271.46,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 184.0,
+          "original_price": 282.79,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     },
     {
@@ -7624,6 +8097,53 @@
       "auto_approved": true
     },
     {
+      "id": "59541ef7aa54",
+      "title": "Miele Duoflex HX1 Terra Red",
+      "price": 217.0,
+      "original_price": 321.29,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-duoflex-hx1-terra-red-r-19797",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2022067_1ad70302-5ace-4e0e-9e01-0bc2e8da68c5.jpg?v=1786710046",
+      "found_at": "2026-10-13T10:40:57.879800+00:00",
+      "price_history": [
+        {
+          "price": 205.0,
+          "original_price": null,
+          "scraped_at": "2026-10-02T14:00:58.152610+00:00"
+        },
+        {
+          "price": 220.0,
+          "original_price": 300.6,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 211.0,
+          "original_price": 300.6,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 213.0,
+          "original_price": 305.67,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 233.0,
+          "original_price": 305.67,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 217.0,
+          "original_price": 321.29,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "208552bddd82",
       "title": "Bose QuietComfort Headphones Zwart",
       "price": 147.0,
@@ -7733,6 +8253,85 @@
       "auto_approved": true
     },
     {
+      "id": "010ea2013bf6",
+      "title": "Garmin Forerunner 165 Music Grijs/Wit",
+      "price": 185.0,
+      "original_price": 277.6,
+      "discount_percent": 33,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/garmin-forerunner-165-music-grijs-wit-r-20632",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2131624.jpg?v=1790584042",
+      "found_at": "2026-10-13T10:40:48.223605+00:00",
+      "price_history": [
+        {
+          "price": 170.0,
+          "original_price": 261.51,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 195.0,
+          "original_price": 261.98,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 269.57,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 193.0,
+          "original_price": 269.57,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 185.0,
+          "original_price": 267.14,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
+      "id": "583a6712d41b",
+      "title": "HP OmniBook 7 17-dc0970nd QWERTY",
+      "price": 1011.0,
+      "original_price": 1223.0,
+      "discount_percent": 17,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omnibook-7-17-dc0970nd-qwerty-r-21047",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241261.jpg?v=1791271087",
+      "found_at": "2026-10-13T10:40:51.021195+00:00",
+      "price_history": [
+        {
+          "price": 1055.0,
+          "original_price": 1199.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 1097.0,
+          "original_price": 1199.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 1076.0,
+          "original_price": 1223.0,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 1011.0,
+          "original_price": 1223.0,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
+      "auto_approved": true
+    },
+    {
       "id": "5d2a5e9092d6",
       "title": "AVM FRITZ!Box 6670 Cable Edition International",
       "price": 228.0,
@@ -7772,6 +8371,43 @@
         }
       ],
       "approved_at": "13-10-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "e7d6048a08c3",
+      "title": "DeLonghi  Magnifica EVO ECAM290.81.TB",
+      "price": 327.0,
+      "original_price": 455.08,
+      "discount_percent": 28,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-magnifica-evo-ecam290-81-tb-r-21111",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1796929_281b2f87-d419-429b-b786-04293556f46b.jpg?v=1791271226",
+      "found_at": "2026-10-13T10:40:45.408740+00:00",
+      "price_history": [
+        {
+          "price": 351.0,
+          "original_price": 459.98,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 331.0,
+          "original_price": 459.98,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 339.0,
+          "original_price": 455.92,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 327.0,
+          "original_price": 455.08,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     },
     {
@@ -7839,6 +8475,78 @@
         }
       ],
       "approved_at": "13-10-2026 07:25",
+      "auto_approved": true
+    },
+    {
+      "id": "80e25d695d8b",
+      "title": "Magimix Nespresso CitiZ & Milk M196 Zwart",
+      "price": 128.0,
+      "original_price": 199.0,
+      "discount_percent": 35,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-milk-m196-zwart-r-20674",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843740_85fef445-694a-4e44-b1d9-e00ed2fcb74b.jpg?v=1790584115",
+      "found_at": "2026-10-13T10:40:54.783893+00:00",
+      "price_history": [
+        {
+          "price": 129.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 90.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 140.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 138.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 137.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 134.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 132.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 131.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 199.0,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        }
+      ],
+      "approved_at": "13-10-2026 11:46",
       "auto_approved": true
     }
   ]
