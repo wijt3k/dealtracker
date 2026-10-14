@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T06:26:30.601577+00:00",
-  "total": 298,
+  "updated_at": "2026-10-14T11:04:43.314803+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c10bac454005",
@@ -7348,6 +7348,43 @@
       "auto_approved": true
     },
     {
+      "id": "b61e371665fc",
+      "title": "AlphaTheta DDJ-GRV6",
+      "price": 606.0,
+      "original_price": 804.21,
+      "discount_percent": 24,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/alphatheta-ddj-grv6-r-21022",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2114428.jpg?v=1791271020",
+      "found_at": "2026-10-14T10:58:54.088050+00:00",
+      "price_history": [
+        {
+          "price": 747.0,
+          "original_price": 803.55,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 704.0,
+          "original_price": 803.55,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 679.0,
+          "original_price": 804.21,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 606.0,
+          "original_price": 804.21,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        }
+      ],
+      "approved_at": "14-10-2026 12:04",
+      "auto_approved": true
+    },
+    {
       "id": "ce2c8b04db2d",
       "title": "Polar VANTAGE V3 BLK/BLK S-L",
       "price": 372.0,
@@ -7424,6 +7461,53 @@
         }
       ],
       "approved_at": "12-10-2026 15:29",
+      "auto_approved": true
+    },
+    {
+      "id": "3653ec3b4bf0",
+      "title": "PocketBook InkPad Eo DACH-Version",
+      "price": 401.0,
+      "original_price": 562.63,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/pocketbook-inkpad-eo-dach-version-r-20779",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2056826.jpg?v=1790069449",
+      "found_at": "2026-10-14T10:59:14.444759+00:00",
+      "price_history": [
+        {
+          "price": 519.0,
+          "original_price": 576.54,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 502.0,
+          "original_price": 576.99,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 474.0,
+          "original_price": 563.98,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 440.0,
+          "original_price": 567.03,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 519.0,
+          "original_price": 562.63,
+          "scraped_at": "2026-10-13T14:00:34.846834+00:00"
+        },
+        {
+          "price": 401.0,
+          "original_price": 562.63,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        }
+      ],
+      "approved_at": "14-10-2026 12:04",
       "auto_approved": true
     },
     {
@@ -7580,6 +7664,33 @@
         }
       ],
       "approved_at": "12-10-2026 15:29",
+      "auto_approved": true
+    },
+    {
+      "id": "6ca644d7ec45",
+      "title": "Siemens EQ300 TF301E19",
+      "price": 296.0,
+      "original_price": 431.28,
+      "discount_percent": 31,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/siemens-eq300-tf301e19-r-21257",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2109346_c2bbd6c4-a5b3-42cf-93b3-29ca0603fdd7.jpg?v=1791803241",
+      "found_at": "2026-10-14T10:59:17.944369+00:00",
+      "price_history": [
+        {
+          "price": 324.0,
+          "original_price": 431.28,
+          "scraped_at": "2026-10-13T14:00:34.846834+00:00"
+        },
+        {
+          "price": 296.0,
+          "original_price": 431.28,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        }
+      ],
+      "approved_at": "14-10-2026 12:04",
       "auto_approved": true
     },
     {
@@ -8544,33 +8655,6 @@
           "price": 128.0,
           "original_price": 199.0,
           "scraped_at": "2026-10-13T10:00:23.536093+00:00"
-        }
-      ],
-      "approved_at": "13-10-2026 19:33",
-      "auto_approved": true
-    },
-    {
-      "id": "0984078d9fc8",
-      "title": "Blaupunkt Bluebot Xtreme",
-      "price": 101.0,
-      "original_price": 159.99,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/blaupunkt-bluebot-xtreme-r-21135",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1641434_53e491ae-99a5-42ec-98d0-940a2a9e7814.jpg?v=1791552178",
-      "found_at": "2026-10-13T18:27:10.099483+00:00",
-      "price_history": [
-        {
-          "price": 147.0,
-          "original_price": 166.66,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 101.0,
-          "original_price": 166.66,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
         }
       ],
       "approved_at": "13-10-2026 19:33",
