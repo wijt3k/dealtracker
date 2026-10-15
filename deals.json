@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T14:43:16.596530+00:00",
-  "total": 299,
+  "updated_at": "2026-10-15T18:28:23.111287+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c10bac454005",
@@ -9023,6 +9023,43 @@
         }
       ],
       "approved_at": "13-10-2026 19:33",
+      "auto_approved": true
+    },
+    {
+      "id": "791d2676b633",
+      "title": "Oral-B iO 2 Zwart en Roze Duo Pack",
+      "price": 59.0,
+      "original_price": 97.64,
+      "discount_percent": 39,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-2-zwart-en-roze-duo-pack-r-21031",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2147071_68da75d6-e34b-42e1-abbf-cbfc7d2eb416.jpg?v=1791551989",
+      "found_at": "2026-10-15T14:38:03.155882+00:00",
+      "price_history": [
+        {
+          "price": 64.0,
+          "original_price": 94.17,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 93.84,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 98.86,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 96.05,
+          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
+        }
+      ],
+      "approved_at": "15-10-2026 19:28",
       "auto_approved": true
     },
     {
