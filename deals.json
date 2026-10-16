@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-10-16T10:31:51.848080+00:00",
-  "total": 300,
+  "updated_at": "2026-10-16T10:31:54.578010+00:00",
+  "total": 294,
   "deals": [
-    {
-      "id": "c10bac454005",
-      "title": "HP EliteBook 845 G11 AMD Ryzen 5 8540U 35,56 cm 14 inch WUXGA 16GB 512GB/SSD LTE W11P 1J War (DE)",
-      "price": 693.9,
-      "original_price": 2072.55,
-      "discount_percent": 66,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0D5CYVBS9?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71btossKxtL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-10-12T10:05:16.270681+00:00",
-      "approved_at": "12-10-2026 12:04",
-      "auto_approved": true
-    },
     {
       "id": "59cf8ed5d32b",
       "title": "realme GT 6T 5G Smartphone 8+ 256GB, Chipset Snapdragon 7+ Gen 3, Super Display met 6000 Nit bij 120 Hz, Supervooc-lading met 120 W, massieve batterij met 5500 mAh, Razor Green",
@@ -2161,73 +2146,6 @@
       "auto_approved": true
     },
     {
-      "id": "6b26e6fb1cc0",
-      "title": "Bosch MCM3501M Foodprocessor",
-      "price": 48.0,
-      "original_price": 119.45,
-      "discount_percent": 59,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bosch-mcm3501m-foodprocessor-r-20643",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1365866_52f21acd-ac1e-4b02-9e1b-180dd000a376.jpg?v=1789741720",
-      "found_at": "2026-10-04T18:32:41.772445+00:00",
-      "price_history": [
-        {
-          "price": 66.0,
-          "original_price": 111.95,
-          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
-        },
-        {
-          "price": 64.0,
-          "original_price": 111.61,
-          "scraped_at": "2026-09-20T10:00:58.793502+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 110.44,
-          "scraped_at": "2026-09-21T10:00:47.425638+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 111.73,
-          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
-        },
-        {
-          "price": 54.0,
-          "original_price": 108.0,
-          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
-        },
-        {
-          "price": 62.0,
-          "original_price": 100.92,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 57.0,
-          "original_price": 111.88,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 61.0,
-          "original_price": 109.28,
-          "scraped_at": "2026-10-06T14:00:49.395019+00:00"
-        },
-        {
-          "price": 65.0,
-          "original_price": 113.7,
-          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 113.84,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        }
-      ],
-      "approved_at": "12-10-2026 12:04",
-      "auto_approved": true
-    },
-    {
       "id": "fe8673af312c",
       "title": "Jura D4 Piano Black",
       "price": 480.0,
@@ -2411,63 +2329,6 @@
           "price": 1252.0,
           "original_price": 1599.0,
           "scraped_at": "2026-10-12T10:00:20.170459+00:00"
-        }
-      ],
-      "approved_at": "12-10-2026 12:04",
-      "auto_approved": true
-    },
-    {
-      "id": "038bf105d66d",
-      "title": "Philips Series 8000 BRL159/00",
-      "price": 29.0,
-      "original_price": 75.3,
-      "discount_percent": 61,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-series-8000-brl159-00-r-20599",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2228877.jpg?v=1789741619",
-      "found_at": "2026-10-08T06:31:38.736889+00:00",
-      "price_history": [
-        {
-          "price": 65.0,
-          "original_price": 76.12,
-          "scraped_at": "2026-09-19T10:01:17.816168+00:00"
-        },
-        {
-          "price": 43.0,
-          "original_price": 71.01,
-          "scraped_at": "2026-09-22T10:00:50.730931+00:00"
-        },
-        {
-          "price": 42.0,
-          "original_price": 72.33,
-          "scraped_at": "2026-09-25T10:01:02.923984+00:00"
-        },
-        {
-          "price": 59.0,
-          "original_price": 74.24,
-          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 73.48,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 46.0,
-          "original_price": 74.39,
-          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
-        },
-        {
-          "price": 48.0,
-          "original_price": 74.39,
-          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 74.87,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
         }
       ],
       "approved_at": "12-10-2026 12:04",
@@ -2951,21 +2812,6 @@
       "auto_approved": true
     },
     {
-      "id": "a101edd12ff3",
-      "title": "Apple Watch Band - Milanees bandje - 49 mm - Naturel - Small",
-      "price": 97.85,
-      "original_price": 199.0,
-      "discount_percent": 50,
-      "category": "wearables",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0FQFT2XYY?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/71+4uUOUb1L._AC_SX342_SY445_QL70_ML2_.jpg",
-      "found_at": "2026-10-12T10:39:28.108647+00:00",
-      "approved_at": "12-10-2026 12:04",
-      "auto_approved": true
-    },
-    {
       "id": "1e1f5e1f24a6",
       "title": "SAMSUNG DW60DG790I00U1 Waterjet Clean Inbouw vaatwasser - Volledig Geïntegreerd - 12 couverts - 43 dB(A) - Nisbreedte 60 cm",
       "price": 861.75,
@@ -3100,21 +2946,6 @@
       "auto_approved": true
     },
     {
-      "id": "ac5073808e28",
-      "title": "Microsoft® Surface Pro 13\" - Project BS - 1 LCD xPS SC DE/FR/IT/UK Platinum",
-      "price": 1274.89,
-      "original_price": 1595.0,
-      "discount_percent": 20,
-      "category": "laptops",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0GWF2CNHK?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61em-pngNHL._AC_SX300_SY300_QL70_ML2_.jpg",
-      "found_at": "2026-10-12T10:14:43.491085+00:00",
-      "approved_at": "12-10-2026 12:04",
-      "auto_approved": true
-    },
-    {
       "id": "1f21d3ae69c8",
       "title": "LG  GSLC41PYPE -  Amerikaanse koelkast - breedte 91.4 cm - hoogte 179 cm - inhoud 641 l - NoFrost",
       "price": 846.75,
@@ -3154,21 +2985,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2192035.jpg?v=1790069490",
       "found_at": "2026-09-29T14:25:36.945999+00:00",
       "approved_at": "29-09-2026 15:31",
-      "auto_approved": true
-    },
-    {
-      "id": "f79b5de92854",
-      "title": "Bose QuietComfort draadloze noise cancelling oordopjes, Lifestyle Bluetooth oordopjes met actieve noise cancelling, Batterijduur tot 8,5 uur, Schemerblauw - Limited-edition",
-      "price": 101.21,
-      "original_price": 199.95,
-      "discount_percent": 49,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DZHQHDWR?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/611URF0P63L._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-10-12T10:31:49.975037+00:00",
-      "approved_at": "12-10-2026 12:04",
       "auto_approved": true
     },
     {
