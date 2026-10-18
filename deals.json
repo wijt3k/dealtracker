@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T10:23:03.886497+00:00",
-  "total": 300,
+  "updated_at": "2026-10-18T10:23:06.658683+00:00",
+  "total": 299,
   "deals": [
     {
       "id": "97798bfe2b00",
@@ -3840,33 +3840,6 @@
         }
       ],
       "approved_at": "05-10-2026 15:47",
-      "auto_approved": true
-    },
-    {
-      "id": "e96b5e2c4911",
-      "title": "BOSCH WGB266A7NL - 11kg - 1600 rpm - 74 dB - automatisch doseren (i-DOS)",
-      "price": 925.5,
-      "original_price": 1234.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/index.php?route=product%2Fproduct&product_id=347463",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6ace416f952fe_ASSET_MMS_165858106-500x500.png",
-      "found_at": "2026-10-13T14:24:31.381655+00:00",
-      "price_history": [
-        {
-          "price": 923.25,
-          "original_price": 1231.0,
-          "scraped_at": "2026-10-13T14:00:34.846834+00:00"
-        },
-        {
-          "price": 925.5,
-          "original_price": 1234.0,
-          "scraped_at": "2026-10-13T18:00:44.935433+00:00"
-        }
-      ],
-      "approved_at": "17-10-2026 15:51",
       "auto_approved": true
     },
     {
