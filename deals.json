@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T15:03:54.364093+00:00",
-  "total": 297,
+  "updated_at": "2026-10-19T18:23:41.313264+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "fe86d4ebadf3",
@@ -10936,6 +10936,51 @@
         }
       ],
       "approved_at": "19-10-2026 16:03",
+      "auto_approved": true
+    },
+    {
+      "id": "53e263f36707",
+      "title": "Philips Hue Flux LED strip voor buiten 10 m",
+      "price": 150.3,
+      "original_price": 245.27,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hue-flux-led-strip-voor-buiten-10-m-r-21349",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1672740696.jpg?v=1792138112",
+      "found_at": "2026-10-19T18:18:52.354016+00:00",
+      "approved_at": "19-10-2026 19:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0e42be854238",
+      "title": "Braun Series 9 PRO+ 9615S Grafiet",
+      "price": 214.2,
+      "original_price": 331.14,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-9-pro-9615s-grafiet-r-21286",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2206027_17326a54-c624-4a17-af3a-28bf9e147a30.jpg?v=1792153324",
+      "found_at": "2026-10-19T18:18:37.085052+00:00",
+      "approved_at": "19-10-2026 19:23",
+      "auto_approved": true
+    },
+    {
+      "id": "57af8450837d",
+      "title": "Apple HomePod (2023) Wit",
+      "price": 279.9,
+      "original_price": 416.92,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-homepod-2023-wit-r-21316",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1874290_d159b77a-7518-4c88-92ec-4a2d5e4a7369.jpg?v=1792153398",
+      "found_at": "2026-10-19T18:18:34.199150+00:00",
+      "approved_at": "19-10-2026 19:23",
       "auto_approved": true
     }
   ]
