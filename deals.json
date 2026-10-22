@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T14:25:56.379923+00:00",
-  "total": 296,
+  "updated_at": "2026-10-22T18:37:32.598155+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "fe86d4ebadf3",
@@ -194,6 +194,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/520538307_8e1866b4-0774-4ffa-ad8b-46a7fd87f805.jpg?v=1792137996",
       "found_at": "2026-10-19T06:32:39.537590+00:00",
       "approved_at": "19-10-2026 07:37",
+      "auto_approved": true
+    },
+    {
+      "id": "fc93f9173353",
+      "title": "Dell 15 laptop - Intel i5 1334U, 16 GB DDR5, 512 GB SSD",
+      "price": 606.39,
+      "original_price": 1100.65,
+      "discount_percent": 44,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GHZ5GYP4?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71y623JB1-L._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-22T18:04:39.792974+00:00",
+      "approved_at": "22-10-2026 19:37",
       "auto_approved": true
     },
     {
@@ -3704,6 +3719,53 @@
         }
       ],
       "approved_at": "17-10-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "1aeb2e6921e5",
+      "title": "Dometic TCX 21",
+      "price": 111.6,
+      "original_price": 220.4,
+      "discount_percent": 49,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dometic-tcx-21-r-21104",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1407143.jpg?v=1791271201",
+      "found_at": "2026-10-18T14:22:12.010019+00:00",
+      "price_history": [
+        {
+          "price": 165.0,
+          "original_price": 221.87,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 156.0,
+          "original_price": 221.87,
+          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
+        },
+        {
+          "price": 150.0,
+          "original_price": 194.62,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 217.33,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 126.9,
+          "original_price": 217.22,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 111.6,
+          "original_price": 220.4,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 19:37",
       "auto_approved": true
     },
     {
@@ -11001,6 +11063,100 @@
         }
       ],
       "approved_at": "22-10-2026 15:25",
+      "auto_approved": true
+    },
+    {
+      "id": "d555b619238e",
+      "title": "DeLonghi CitiZ Platinum EN220.T",
+      "price": 99.9,
+      "original_price": 176.07,
+      "discount_percent": 43,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-citiz-platinum-en220-t-r-21108",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2152213.jpg?v=1791271218",
+      "found_at": "2026-10-18T14:22:08.889210+00:00",
+      "price_history": [
+        {
+          "price": 123.0,
+          "original_price": 173.31,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 119.0,
+          "original_price": 161.9,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 107.1,
+          "original_price": 174.36,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 99.9,
+          "original_price": 176.07,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 19:37",
+      "auto_approved": true
+    },
+    {
+      "id": "c15f8142794d",
+      "title": "Refurbished iPhone 14 128GB Purple",
+      "price": 258.72,
+      "original_price": 395.0,
+      "discount_percent": 34,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-purple-r-21168",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1812794_955d32b8-cf1b-4975-8e83-063dbaba95df.jpg?v=1791552286",
+      "found_at": "2026-10-22T18:32:47.298296+00:00",
+      "price_history": [
+        {
+          "price": 323.0,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-10T14:00:33.664816+00:00"
+        },
+        {
+          "price": 290.7,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 273.26,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 270.35,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 267.44,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 264.54,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        },
+        {
+          "price": 261.63,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 258.72,
+          "original_price": 395.0,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 19:37",
       "auto_approved": true
     }
   ]
