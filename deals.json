@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T06:42:57.382506+00:00",
-  "total": 296,
+  "updated_at": "2026-10-22T10:29:15.339749+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "fe86d4ebadf3",
@@ -1952,6 +1952,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2080735.jpg?v=1792483000",
       "found_at": "2026-10-21T10:27:45.800017+00:00",
       "approved_at": "21-10-2026 11:32",
+      "auto_approved": true
+    },
+    {
+      "id": "7034b2842a6c",
+      "title": "eufy SoloCam E30, Camera Beveiliging, 360° PTZ, 2K, Zonne-Energie",
+      "price": 88.74,
+      "original_price": 210.93,
+      "discount_percent": 57,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DK5FH9L8?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61HofWeMkfL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-10-22T10:17:01.148122+00:00",
+      "price_history": [
+        {
+          "price": 92.65,
+          "original_price": 101.97,
+          "scraped_at": "2026-08-13T10:00:25.887743+00:00"
+        },
+        {
+          "price": 91.58,
+          "original_price": 109.0,
+          "scraped_at": "2026-08-18T14:00:25.797925+00:00"
+        },
+        {
+          "price": 88.74,
+          "original_price": 210.93,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 11:29",
       "auto_approved": true
     },
     {
@@ -4216,6 +4248,83 @@
       "auto_approved": true
     },
     {
+      "id": "08358fa6a8ea",
+      "title": "Bose QuietComfort Headphones Zwart",
+      "price": 118.8,
+      "original_price": 226.57,
+      "discount_percent": 47,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-headphones-zwart-r-21129",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969950_2374498e-3d83-4451-8640-bc0166e787e3.jpg?v=1791552151",
+      "found_at": "2026-10-22T10:24:40.179560+00:00",
+      "price_history": [
+        {
+          "price": 163.0,
+          "original_price": 228.2,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 187.0,
+          "original_price": 228.2,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 228.2,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 227.98,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 186.0,
+          "original_price": 227.98,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        },
+        {
+          "price": 175.0,
+          "original_price": 227.98,
+          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
+        },
+        {
+          "price": 157.5,
+          "original_price": 227.98,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 126.9,
+          "original_price": 227.98,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 153.9,
+          "original_price": 225.77,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 225.77,
+          "scraped_at": "2026-10-19T06:00:32.541569+00:00"
+        },
+        {
+          "price": 126.9,
+          "original_price": 225.77,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 118.8,
+          "original_price": 225.17,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 11:29",
+      "auto_approved": true
+    },
+    {
       "id": "42b33ef9ef73",
       "title": "Razer Huntsman V2 Analog Gaming Toetsenbord AZERTY",
       "price": 133.0,
@@ -5940,6 +6049,58 @@
         }
       ],
       "approved_at": "16-10-2026 15:26",
+      "auto_approved": true
+    },
+    {
+      "id": "2aac41c2ce16",
+      "title": "Gardena Vuilwaterpomp 20000 Aquasensor",
+      "price": 83.7,
+      "original_price": 162.27,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/gardena-vuilwaterpomp-20000-aquasensor-r-21015",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1551217_c66b4689-794f-46ba-9a46-b92878d908c0.jpg?v=1791270989",
+      "found_at": "2026-10-22T10:24:47.975551+00:00",
+      "price_history": [
+        {
+          "price": 119.0,
+          "original_price": 143.25,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 115.0,
+          "original_price": 151.79,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 103.5,
+          "original_price": 143.7,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 98.1,
+          "original_price": 163.24,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 99.9,
+          "original_price": 142.85,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 98.1,
+          "original_price": 163.69,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 83.7,
+          "original_price": 162.27,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 11:29",
       "auto_approved": true
     },
     {
@@ -8693,6 +8854,63 @@
       "auto_approved": true
     },
     {
+      "id": "b7c6238a8f42",
+      "title": "Philips 24M2N3200S/00",
+      "price": 102.6,
+      "original_price": 184.35,
+      "discount_percent": 44,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-24m2n3200s-00-r-21090",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2071995_8988b9ab-a41e-4ff6-aba1-792ac6f24b06.jpg?v=1791271136",
+      "found_at": "2026-10-22T10:24:58.584824+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 171.23,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 128.0,
+          "original_price": 178.61,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 126.0,
+          "original_price": 162.41,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 121.0,
+          "original_price": 161.08,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 108.9,
+          "original_price": 159.14,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 102.6,
+          "original_price": 159.14,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 101.7,
+          "original_price": 170.39,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 102.6,
+          "original_price": 184.35,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 11:29",
+      "auto_approved": true
+    },
+    {
       "id": "e8a5075432d1",
       "title": "Braun Series 7 AIO7540",
       "price": 36.0,
@@ -8918,6 +9136,83 @@
         }
       ],
       "approved_at": "10-10-2026 15:33",
+      "auto_approved": true
+    },
+    {
+      "id": "f98dc185e2c2",
+      "title": "WMF PermaDur Advance Koekenpan 24 cm",
+      "price": 52.2,
+      "original_price": 101.52,
+      "discount_percent": 48,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/wmf-permadur-advance-koekenpan-24-cm-r-20786",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2234554.jpg?v=1790069470",
+      "found_at": "2026-10-22T10:25:05.139028+00:00",
+      "price_history": [
+        {
+          "price": 54.0,
+          "original_price": 59.0,
+          "scraped_at": "2026-09-23T10:00:36.963852+00:00"
+        },
+        {
+          "price": 82.0,
+          "original_price": 91.81,
+          "scraped_at": "2026-09-24T10:00:25.618462+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 91.81,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 88.0,
+          "original_price": 108.0,
+          "scraped_at": "2026-10-01T10:01:08.298582+00:00"
+        },
+        {
+          "price": 80.0,
+          "original_price": 108.0,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 75.0,
+          "original_price": 85.65,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": null,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 119.0,
+          "original_price": null,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": null,
+          "scraped_at": "2026-10-13T14:00:34.846834+00:00"
+        },
+        {
+          "price": 126.9,
+          "original_price": null,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 79.2,
+          "original_price": 99.87,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 52.2,
+          "original_price": 101.52,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 11:29",
       "auto_approved": true
     },
     {
@@ -9833,6 +10128,21 @@
       "auto_approved": true
     },
     {
+      "id": "0e42be854238",
+      "title": "Braun Series 9 PRO+ 9615S Grafiet",
+      "price": 214.2,
+      "original_price": 340.91,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-9-pro-9615s-grafiet-r-21286",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2206027_17326a54-c624-4a17-af3a-28bf9e147a30.jpg?v=1792153324",
+      "found_at": "2026-10-22T10:24:40.180741+00:00",
+      "approved_at": "22-10-2026 11:29",
+      "auto_approved": true
+    },
+    {
       "id": "724227ea020a",
       "title": "Dreame X60 Pro Ultra Complete Grey",
       "price": 1187.1,
@@ -10128,6 +10438,53 @@
         }
       ],
       "approved_at": "21-10-2026 15:29",
+      "auto_approved": true
+    },
+    {
+      "id": "b3eb46edd3a0",
+      "title": "Razer DeathAdder V4 Pro Gaming Muis",
+      "price": 90.9,
+      "original_price": 162.34,
+      "discount_percent": 44,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/razer-deathadder-v4-pro-gaming-muis-r-20963",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2231147.jpg?v=1791551927",
+      "found_at": "2026-10-22T10:24:58.588511+00:00",
+      "price_history": [
+        {
+          "price": 117.0,
+          "original_price": 152.67,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 161.02,
+          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
+        },
+        {
+          "price": 101.7,
+          "original_price": 161.02,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 161.02,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 101.7,
+          "original_price": 156.55,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 90.9,
+          "original_price": 147.88,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        }
+      ],
+      "approved_at": "22-10-2026 11:29",
       "auto_approved": true
     },
     {
@@ -10549,140 +10906,6 @@
         }
       ],
       "approved_at": "18-10-2026 11:23",
-      "auto_approved": true
-    },
-    {
-      "id": "629cf020b567",
-      "title": "Philips Shaver i9000 Prestige Ultra XP9404/46",
-      "price": 274.5,
-      "original_price": 417.29,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-shaver-i9000-prestige-ultra-xp9404-46-r-21138",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2175722_51e336b2-93ec-4703-9395-b0a78905b03f.jpg?v=1791552191",
-      "found_at": "2026-10-18T10:18:51.840733+00:00",
-      "price_history": [
-        {
-          "price": 315.0,
-          "original_price": 384.06,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 305.0,
-          "original_price": 395.84,
-          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
-        },
-        {
-          "price": 274.5,
-          "original_price": 395.84,
-          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
-        }
-      ],
-      "approved_at": "18-10-2026 11:23",
-      "auto_approved": true
-    },
-    {
-      "id": "01e3d52da835",
-      "title": "Acer Aspire 3 A315-35-P7VV QWERTZ",
-      "price": 290.7,
-      "original_price": 439.0,
-      "discount_percent": 33,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-3-a315-35-p7vv-qwertz-r-20920",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/images_e2d150c5-9684-4f8f-9c07-7ba60ceec164.jpg?v=1790840830",
-      "found_at": "2026-10-19T18:18:34.198031+00:00",
-      "price_history": [
-        {
-          "price": 371.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
-        },
-        {
-          "price": 367.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 363.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
-        },
-        {
-          "price": 359.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
-        },
-        {
-          "price": 355.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
-        },
-        {
-          "price": 351.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
-        },
-        {
-          "price": 347.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
-        },
-        {
-          "price": 343.0,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
-        },
-        {
-          "price": 308.7,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
-        },
-        {
-          "price": 305.1,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
-        },
-        {
-          "price": 301.5,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
-        },
-        {
-          "price": 297.9,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
-        },
-        {
-          "price": 294.3,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
-        },
-        {
-          "price": 290.7,
-          "original_price": 439.0,
-          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
-        }
-      ],
-      "approved_at": "21-10-2026 15:29",
-      "auto_approved": true
-    },
-    {
-      "id": "2d30ba34a5d2",
-      "title": "Sony WH-CH720N Roze",
-      "price": 47.7,
-      "original_price": 90.91,
-      "discount_percent": 47,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wh-ch720n-roze-r-21310",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2153755.jpg?v=1792153383",
-      "found_at": "2026-10-19T18:18:58.293378+00:00",
-      "approved_at": "21-10-2026 19:30",
       "auto_approved": true
     }
   ]
