@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T14:29:09.580341+00:00",
-  "total": 299,
+  "updated_at": "2026-10-23T18:18:40.456262+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "fe86d4ebadf3",
@@ -179,6 +179,21 @@
         }
       ],
       "approved_at": "18-10-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "1184b9edbc18",
+      "title": "MSI Katana 17 Gaming-laptop, 17,3 inch Full HD 144 Hz, Intel Core i7-13620H, NVIDIA GeForce RTX 4060, 16GB RAM, 1TB SSD, Windows 11 Home, incl. 1 maand GamePass, QWERTZ toetsenbord, zwart, B13VFK-269",
+      "price": 1081.63,
+      "original_price": 2040.0,
+      "discount_percent": 46,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BV9BZ9VB?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81ru7TLAlqL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-23T18:02:45.111075+00:00",
+      "approved_at": "23-10-2026 19:18",
       "auto_approved": true
     },
     {
@@ -2289,6 +2304,58 @@
       "auto_approved": true
     },
     {
+      "id": "3977145e9fe1",
+      "title": "Braun MultiQuick 7 MQ7035X",
+      "price": 35.1,
+      "original_price": 97.18,
+      "discount_percent": 63,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-multiquick-7-mq7035x-r-20684",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1391269_3a4dcd8f-9a9e-4cb5-aafc-d2a1ebd3ff7f.jpg?v=1790584128",
+      "found_at": "2026-10-17T10:20:17.662784+00:00",
+      "price_history": [
+        {
+          "price": 56.0,
+          "original_price": 91.63,
+          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 91.9,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 61.0,
+          "original_price": 85.94,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 89.37,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 91.73,
+          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
+        },
+        {
+          "price": 47.7,
+          "original_price": 92.83,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 35.1,
+          "original_price": 97.18,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 19:18",
+      "auto_approved": true
+    },
+    {
       "id": "cf8ca4a7d788",
       "title": "Asus TUF Gaming 16 FX610JH-TU007W AZERTY",
       "price": 954.9,
@@ -3627,6 +3694,33 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6ad88d69b4d09_ASSET_MMS_143470328-500x500.png",
       "found_at": "2026-10-23T10:20:03.362362+00:00",
       "approved_at": "23-10-2026 11:24",
+      "auto_approved": true
+    },
+    {
+      "id": "341410fe8db2",
+      "title": "Turtle Beach Stealth 700 GEN3 Xbox - Zwart",
+      "price": 90.9,
+      "original_price": 193.31,
+      "discount_percent": 52,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/turtle-beach-stealth-700-gen3-xbox-zwart-r-21407",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/images_5d32c520-dec2-4cf3-865d-3a96decb818c.jpg?v=1792483134",
+      "found_at": "2026-10-21T14:24:42.434884+00:00",
+      "price_history": [
+        {
+          "price": 94.5,
+          "original_price": 169.0,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 90.9,
+          "original_price": 193.31,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 19:18",
       "auto_approved": true
     },
     {
@@ -6587,6 +6681,43 @@
         }
       ],
       "approved_at": "23-10-2026 15:29",
+      "auto_approved": true
+    },
+    {
+      "id": "40023aaab9bd",
+      "title": "Bosch Multitalent 8 MC812M865",
+      "price": 153.9,
+      "original_price": 270.57,
+      "discount_percent": 43,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bosch-multitalent-8-mc812m865-r-21360",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1379480_89b419a7-2a22-4042-bff7-6eaf183c8492.jpg?v=1792483002",
+      "found_at": "2026-10-21T18:25:43.023147+00:00",
+      "price_history": [
+        {
+          "price": 170.1,
+          "original_price": 244.0,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 159.3,
+          "original_price": 282.79,
+          "scraped_at": "2026-10-22T06:00:27.982609+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 283.49,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        },
+        {
+          "price": 153.9,
+          "original_price": 270.57,
+          "scraped_at": "2026-10-23T14:00:14.989412+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 19:18",
       "auto_approved": true
     },
     {
@@ -10751,147 +10882,6 @@
         }
       ],
       "approved_at": "16-10-2026 19:45",
-      "auto_approved": true
-    },
-    {
-      "id": "7cee1e75dec4",
-      "title": "Miele Triflex HX2 Sprinter Cashmere Grijs",
-      "price": 503.1,
-      "original_price": 699.0,
-      "discount_percent": 28,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/miele-triflex-hx2-sprinter-cashmere-grijs-r-21150",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1752635.jpg?v=1791552240",
-      "found_at": "2026-10-16T14:22:10.003732+00:00",
-      "price_history": [
-        {
-          "price": 615.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 580.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
-        },
-        {
-          "price": 559.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
-        },
-        {
-          "price": 503.1,
-          "original_price": 699.0,
-          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
-        }
-      ],
-      "approved_at": "16-10-2026 15:26",
-      "auto_approved": true
-    },
-    {
-      "id": "9b6814bd6b3a",
-      "title": "Philips Snoerloze Steelstofzuiger 5000 Series XC5141/01",
-      "price": 171.0,
-      "original_price": 284.24,
-      "discount_percent": 39,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-snoerloze-steelstofzuiger-5000-series-xc5141-01-r-20803",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2034201_f732566d-1725-4110-b8a1-322265da4aba.jpg?v=1790674410",
-      "found_at": "2026-10-12T14:24:23.491422+00:00",
-      "price_history": [
-        {
-          "price": 161.0,
-          "original_price": 249.0,
-          "scraped_at": "2026-09-29T18:00:53.483688+00:00"
-        },
-        {
-          "price": 155.0,
-          "original_price": 276.15,
-          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
-        },
-        {
-          "price": 144.0,
-          "original_price": 276.15,
-          "scraped_at": "2026-09-30T14:01:01.133658+00:00"
-        },
-        {
-          "price": 167.0,
-          "original_price": 267.0,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 160.0,
-          "original_price": 263.23,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 184.0,
-          "original_price": 263.23,
-          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
-        },
-        {
-          "price": 186.0,
-          "original_price": 285.52,
-          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
-        },
-        {
-          "price": 162.0,
-          "original_price": 277.4,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 171.0,
-          "original_price": 277.4,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
-        }
-      ],
-      "approved_at": "12-10-2026 15:29",
-      "auto_approved": true
-    },
-    {
-      "id": "4ba4e7291f5c",
-      "title": "Bose QuietComfort Ultra Earbuds Donkerblauw",
-      "price": 173.7,
-      "original_price": 286.74,
-      "discount_percent": 39,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-earbuds-donkerblauw-r-21008",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2089386_56e0599a-ba9f-4c83-9feb-1bbcc30d2da3.jpg?v=1791551967",
-      "found_at": "2026-10-21T10:27:34.715258+00:00",
-      "price_history": [
-        {
-          "price": 183.0,
-          "original_price": 209.22,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 177.0,
-          "original_price": 211.27,
-          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
-        },
-        {
-          "price": 159.3,
-          "original_price": 211.27,
-          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
-        },
-        {
-          "price": 183.6,
-          "original_price": 211.27,
-          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
-        },
-        {
-          "price": 173.7,
-          "original_price": 286.74,
-          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
-        }
-      ],
-      "approved_at": "21-10-2026 11:32",
       "auto_approved": true
     }
   ]
