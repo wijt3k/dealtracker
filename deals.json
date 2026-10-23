@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T18:37:54.214247+00:00",
-  "total": 295,
+  "updated_at": "2026-10-23T06:57:26.727577+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "fe86d4ebadf3",
@@ -10964,6 +10964,181 @@
         }
       ],
       "approved_at": "22-10-2026 19:37",
+      "auto_approved": true
+    },
+    {
+      "id": "b13d9bcd321f",
+      "title": "Philips Snoerloze Steelstofzuiger 5000 Series XC5141/01",
+      "price": 167.4,
+      "original_price": 272.55,
+      "discount_percent": 38,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-snoerloze-steelstofzuiger-5000-series-xc5141-01-r-21265",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2034201_09bb817c-dc5a-461b-8730-e05184fbb522.jpg?v=1792138052",
+      "found_at": "2026-10-23T06:52:53.877572+00:00",
+      "price_history": [
+        {
+          "price": 174.6,
+          "original_price": 283.72,
+          "scraped_at": "2026-10-19T06:00:32.541569+00:00"
+        },
+        {
+          "price": 180.0,
+          "original_price": 289.0,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 168.3,
+          "original_price": 289.0,
+          "scraped_at": "2026-10-20T06:00:31.997583+00:00"
+        },
+        {
+          "price": 174.6,
+          "original_price": 289.0,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        },
+        {
+          "price": 167.4,
+          "original_price": 272.55,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 07:57",
+      "auto_approved": true
+    },
+    {
+      "id": "32ee162847dd",
+      "title": "Canon Pixma TS8750 Zwart",
+      "price": 116.1,
+      "original_price": 198.2,
+      "discount_percent": 41,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/canon-pixma-ts8750-zwart-r-21220",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2016530_037e5cd6-6958-442f-971a-e00735a0fa58.jpg?v=1792137996",
+      "found_at": "2026-10-23T06:52:36.277205+00:00",
+      "price_history": [
+        {
+          "price": 128.7,
+          "original_price": 200.19,
+          "scraped_at": "2026-10-19T06:00:32.541569+00:00"
+        },
+        {
+          "price": 120.6,
+          "original_price": 200.61,
+          "scraped_at": "2026-10-20T06:00:31.997583+00:00"
+        },
+        {
+          "price": 116.1,
+          "original_price": 198.2,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 07:57",
+      "auto_approved": true
+    },
+    {
+      "id": "c409026678f1",
+      "title": "Viture Beast XR Glasses",
+      "price": 431.1,
+      "original_price": 607.12,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/viture-beast-xr-glasses-r-20864",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1711150304_29b7cedd-fda5-4587-a691-a7233502f501.jpg?v=1791551818",
+      "found_at": "2026-10-23T06:53:00.776222+00:00",
+      "price_history": [
+        {
+          "price": 527.0,
+          "original_price": 617.47,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 509.0,
+          "original_price": 622.55,
+          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
+        },
+        {
+          "price": 458.1,
+          "original_price": 622.55,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 431.1,
+          "original_price": 608.66,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 07:57",
+      "auto_approved": true
+    },
+    {
+      "id": "23727d120ec9",
+      "title": "Nikon Coolpix P950",
+      "price": 633.6,
+      "original_price": 838.35,
+      "discount_percent": 24,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nikon-coolpix-p950-r-21275",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1410369_a26fa7e6-b7b4-43f0-a09b-e9f45c93562e.jpg?v=1792153320",
+      "found_at": "2026-10-23T06:52:50.062640+00:00",
+      "price_history": [
+        {
+          "price": 646.2,
+          "original_price": 827.19,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 655.2,
+          "original_price": 827.54,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 656.1,
+          "original_price": 838.35,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        },
+        {
+          "price": 633.6,
+          "original_price": 838.35,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 07:57",
+      "auto_approved": true
+    },
+    {
+      "id": "587fb049d9b7",
+      "title": "Tefal Freezi 16-in-1 Ice Cream & Frozen Drink Maker IG801A",
+      "price": 198.9,
+      "original_price": 312.52,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-freezi-16-in-1-ice-cream-frozen-drink-maker-ig801a-r-21247",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/263105111_6767f377-6fa2-422c-8674-1e66fa18f222.jpg?v=1792482864",
+      "found_at": "2026-10-23T06:52:57.348165+00:00",
+      "price_history": [
+        {
+          "price": 212.4,
+          "original_price": 300.0,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 198.9,
+          "original_price": 288.0,
+          "scraped_at": "2026-10-22T06:00:27.982609+00:00"
+        }
+      ],
+      "approved_at": "23-10-2026 07:57",
       "auto_approved": true
     }
   ]
