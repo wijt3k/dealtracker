@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T10:32:25.506959+00:00",
-  "total": 300,
+  "updated_at": "2026-10-24T10:32:56.730018+00:00",
+  "total": 296,
   "deals": [
     {
       "id": "fe86d4ebadf3",
@@ -4698,43 +4698,6 @@
       "auto_approved": true
     },
     {
-      "id": "1562d299cbcf",
-      "title": "Severin KG 2399",
-      "price": 44.0,
-      "original_price": 97.12,
-      "discount_percent": 54,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/severin-kg-2399-r-20753",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2155048.jpg?v=1790584370",
-      "found_at": "2026-09-29T14:25:43.742658+00:00",
-      "price_history": [
-        {
-          "price": 47.0,
-          "original_price": 76.69,
-          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
-        },
-        {
-          "price": 54.0,
-          "original_price": 83.58,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 47.0,
-          "original_price": 97.21,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 70.6,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        }
-      ],
-      "approved_at": "12-10-2026 12:04",
-      "auto_approved": true
-    },
-    {
       "id": "5d33b4b24d5f",
       "title": "Ram Mounts Desktop Dock with USB-C Power Delivery",
       "price": 52.2,
@@ -4844,93 +4807,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2216860.jpg?v=1792153382",
       "found_at": "2026-10-19T10:25:02.698129+00:00",
       "approved_at": "19-10-2026 11:30",
-      "auto_approved": true
-    },
-    {
-      "id": "7cdec9f84b9d",
-      "title": "Magimix Nespresso CitiZ M196 CN Zwart",
-      "price": 67.5,
-      "original_price": 140.38,
-      "discount_percent": 51,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/magimix-nespresso-citiz-m196-cn-zwart-r-20635",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1843717_493ac343-9b10-4bf4-9d31-6415b01e2ecd.jpg?v=1789741704",
-      "found_at": "2026-10-13T10:40:54.783979+00:00",
-      "price_history": [
-        {
-          "price": 79.0,
-          "original_price": 138.33,
-          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
-        },
-        {
-          "price": 91.0,
-          "original_price": 137.23,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 83.0,
-          "original_price": 139.37,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 81.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
-        },
-        {
-          "price": 93.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
-        },
-        {
-          "price": 92.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
-        },
-        {
-          "price": 89.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 87.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
-        },
-        {
-          "price": 82.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
-        },
-        {
-          "price": 80.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
-        },
-        {
-          "price": 78.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
-        },
-        {
-          "price": 75.0,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
-        },
-        {
-          "price": 67.5,
-          "original_price": 140.38,
-          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
-        }
-      ],
-      "approved_at": "16-10-2026 19:45",
       "auto_approved": true
     },
     {
@@ -7649,68 +7525,6 @@
         }
       ],
       "approved_at": "21-10-2026 19:30",
-      "auto_approved": true
-    },
-    {
-      "id": "5ac1ccce0140",
-      "title": "MSI Katana A17 AI B8VF-866 QWERTZ",
-      "price": 1309.0,
-      "original_price": 1599.0,
-      "discount_percent": 18,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-katana-a17-ai-b8vf-866-qwertz-r-20907",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2149029_e69ead6d-40e6-473f-a1bf-330f76364eef.jpg?v=1790840456",
-      "found_at": "2026-10-07T14:18:21.699080+00:00",
-      "price_history": [
-        {
-          "price": 1471.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
-        },
-        {
-          "price": 1353.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 1471.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
-        },
-        {
-          "price": 1382.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
-        },
-        {
-          "price": 1368.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-08T10:00:53.096682+00:00"
-        },
-        {
-          "price": 1353.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
-        },
-        {
-          "price": 1338.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 1323.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
-        },
-        {
-          "price": 1309.0,
-          "original_price": 1599.0,
-          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
-        }
-      ],
-      "approved_at": "12-10-2026 12:04",
       "auto_approved": true
     },
     {
@@ -10444,21 +10258,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095790_57e45836-2ed4-44f3-b51a-6f8275eb68ec.jpg?v=1792137998",
       "found_at": "2026-10-19T06:32:27.988120+00:00",
       "approved_at": "19-10-2026 07:37",
-      "auto_approved": true
-    },
-    {
-      "id": "58b6c5a454ba",
-      "title": "DeLonghi  La Specialista Opera EC9555.M",
-      "price": 505.0,
-      "original_price": 702.0,
-      "discount_percent": 28,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/delonghi-la-specialista-opera-ec9555-m-r-20837",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/310677.avif?v=1790674793",
-      "found_at": "2026-09-29T18:21:21.391618+00:00",
-      "approved_at": "29-09-2026 19:27",
       "auto_approved": true
     },
     {
