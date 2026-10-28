@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T07:45:33.623219+00:00",
-  "total": 298,
+  "updated_at": "2026-10-28T11:39:31.526472+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "42a4597a4aed",
@@ -1048,6 +1048,78 @@
         }
       ],
       "approved_at": "10-10-2026 15:33",
+      "auto_approved": true
+    },
+    {
+      "id": "4ba8e168f260",
+      "title": "Philips 3300 EP3341/50",
+      "price": 201.96,
+      "original_price": 491.04,
+      "discount_percent": 58,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-3300-ep3341-50-r-21213",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1955232_df83ff05-46cd-409a-926f-ab268b7a803e.jpg?v=1792137964",
+      "found_at": "2026-10-27T15:24:45.138668+00:00",
+      "price_history": [
+        {
+          "price": 338.4,
+          "original_price": 482.31,
+          "scraped_at": "2026-10-19T06:00:32.541569+00:00"
+        },
+        {
+          "price": 317.7,
+          "original_price": 492.58,
+          "scraped_at": "2026-10-20T06:00:31.997583+00:00"
+        },
+        {
+          "price": 328.5,
+          "original_price": 492.58,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        },
+        {
+          "price": 320.4,
+          "original_price": 492.36,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 334.8,
+          "original_price": 493.21,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        },
+        {
+          "price": 322.2,
+          "original_price": 493.21,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        },
+        {
+          "price": 310.5,
+          "original_price": 491.02,
+          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
+        },
+        {
+          "price": 172.5,
+          "original_price": 491.02,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 345.0,
+          "original_price": 491.02,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 322.0,
+          "original_price": 491.04,
+          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
+        },
+        {
+          "price": 201.96,
+          "original_price": 491.04,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        }
+      ],
+      "approved_at": "28-10-2026 12:39",
       "auto_approved": true
     },
     {
@@ -2143,6 +2215,73 @@
         }
       ],
       "approved_at": "26-10-2026 16:41",
+      "auto_approved": true
+    },
+    {
+      "id": "7f8c913c38c6",
+      "title": "Weber Original Kettle 57 cm Zwart",
+      "price": 59.6,
+      "original_price": 193.9,
+      "discount_percent": 69,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/weber-original-kettle-57-cm-zwart-r-21088",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2243186_8c86be6f-0c5a-421b-bed6-b3c9d144d00a.jpg?v=1791271120",
+      "found_at": "2026-10-27T15:24:51.563630+00:00",
+      "price_history": [
+        {
+          "price": 120.0,
+          "original_price": 161.0,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 126.0,
+          "original_price": 187.79,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 129.0,
+          "original_price": 187.79,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 188.89,
+          "scraped_at": "2026-10-13T10:00:23.536093+00:00"
+        },
+        {
+          "price": 110.7,
+          "original_price": 188.89,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 102.6,
+          "original_price": 188.89,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 93.6,
+          "original_price": 193.9,
+          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 193.9,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 193.9,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 59.6,
+          "original_price": 193.9,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        }
+      ],
+      "approved_at": "28-10-2026 12:39",
       "auto_approved": true
     },
     {
@@ -4396,6 +4535,93 @@
       "auto_approved": true
     },
     {
+      "id": "8674aedb6e30",
+      "title": "HP Pavilion x360 14-ek2033ng QWERTZ",
+      "price": 347.0,
+      "original_price": 599.0,
+      "discount_percent": 42,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-pavilion-x360-14-ek2033ng-qwertz-r-20904",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076585.jpg?v=1790840439",
+      "found_at": "2026-10-16T18:40:22.083052+00:00",
+      "price_history": [
+        {
+          "price": 453.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
+        },
+        {
+          "price": 448.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
+        },
+        {
+          "price": 403.2,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 397.8,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 393.3,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-18T10:00:20.300303+00:00"
+        },
+        {
+          "price": 388.8,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 383.4,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        },
+        {
+          "price": 378.9,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 369.9,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        },
+        {
+          "price": 341.1,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
+        },
+        {
+          "price": 331.2,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-26T11:01:11.716962+00:00"
+        },
+        {
+          "price": 368.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 358.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-27T11:00:28.628969+00:00"
+        },
+        {
+          "price": 347.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-10-28T11:00:17.715325+00:00"
+        }
+      ],
+      "approved_at": "28-10-2026 12:39",
+      "auto_approved": true
+    },
+    {
       "id": "43c1932803b2",
       "title": "HP 22fw (21,5 inch Full HD IPS) Monitor (AMD FreeSync, HDMI, VGA, 1920 X 1080, 60Hz, 5ms Reactietijd), Wit/Zilver",
       "price": 112.84,
@@ -4887,6 +5113,43 @@
         }
       ],
       "approved_at": "27-10-2026 08:51",
+      "auto_approved": true
+    },
+    {
+      "id": "62d45018fe4d",
+      "title": "Apple iPhone 16 128GB Ultramarine",
+      "price": 618.24,
+      "original_price": 923.41,
+      "discount_percent": 33,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-16-128gb-ultramarine-r-21064",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2093922_22487dd8-a5a0-4fa8-920a-aeb412fb889a.jpg?v=1791552034",
+      "found_at": "2026-10-26T11:21:59.519086+00:00",
+      "price_history": [
+        {
+          "price": 675.0,
+          "original_price": 943.37,
+          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
+        },
+        {
+          "price": 736.0,
+          "original_price": 943.37,
+          "scraped_at": "2026-10-11T18:00:51.982625+00:00"
+        },
+        {
+          "price": 662.4,
+          "original_price": 938.33,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 618.24,
+          "original_price": 923.41,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        }
+      ],
+      "approved_at": "28-10-2026 12:39",
       "auto_approved": true
     },
     {
@@ -11411,6 +11674,93 @@
       "auto_approved": true
     },
     {
+      "id": "abfd83deb48c",
+      "title": "DeLonghi Essenza Mini EN85.W",
+      "price": 39.0,
+      "original_price": 84.0,
+      "discount_percent": 53,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/delonghi-essenza-mini-en85-w-r-20683",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135303_97ba8bfe-12ab-450e-ba10-0a623dbbd0d4.jpg?v=1790584128",
+      "found_at": "2026-10-27T15:24:32.368053+00:00",
+      "price_history": [
+        {
+          "price": 53.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
+        },
+        {
+          "price": 46.8,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 45.9,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 44.1,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        },
+        {
+          "price": 42.3,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 41.4,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        },
+        {
+          "price": 40.5,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-23T14:00:14.989412+00:00"
+        },
+        {
+          "price": 37.8,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
+        },
+        {
+          "price": 36.9,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-26T11:01:11.716962+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-27T11:00:28.628969+00:00"
+        },
+        {
+          "price": 39.0,
+          "original_price": 84.0,
+          "scraped_at": "2026-10-28T11:00:17.715325+00:00"
+        }
+      ],
+      "approved_at": "28-10-2026 12:39",
+      "auto_approved": true
+    },
+    {
       "id": "01e3d52da835",
       "title": "Acer Aspire 3 A315-35-P7VV QWERTZ",
       "price": 274.0,
@@ -12343,113 +12693,6 @@
         }
       ],
       "approved_at": "26-10-2026 08:32",
-      "auto_approved": true
-    },
-    {
-      "id": "63ff2895c2e2",
-      "title": "DJI RC Pro 2 Pro controller Grijs",
-      "price": 749.25,
-      "original_price": 999.0,
-      "discount_percent": 25,
-      "category": "gaming",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/nl/index.php?route=product%2Fproduct&product_id=348889",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6ad60059404ba_ASSET_MMS_153704345-500x500.png",
-      "found_at": "2026-10-23T10:21:05.821933+00:00",
-      "approved_at": "23-10-2026 11:24",
-      "auto_approved": true
-    },
-    {
-      "id": "0a4c3bbda174",
-      "title": "DREAME X50 Ultra Complete - Robotstofzuiger - Met Dweilfunctie - Wit",
-      "price": 749.25,
-      "original_price": 999.0,
-      "discount_percent": 25,
-      "category": "huishouden",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/nl/index.php?route=product%2Fproduct&product_id=349406",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6ad62aa97e67c_ASSET_MMS_148728976-500x500.png",
-      "found_at": "2026-10-23T10:20:19.889327+00:00",
-      "approved_at": "23-10-2026 11:24",
-      "auto_approved": true
-    },
-    {
-      "id": "af7a64852e47",
-      "title": "HyperX Cloud III Wireless Gaming Headset - Zwart/Rood(PC, PS5, PS4)",
-      "price": 104.0,
-      "original_price": 196.13,
-      "discount_percent": 46,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hyperx-cloud-iii-wireless-gaming-headset-zwart-rood-pc-ps5-ps4-r-20964",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1960432_521e4200-9b27-4563-a4df-dd31398bc202.jpg?v=1791551931",
-      "found_at": "2026-10-26T11:22:09.409833+00:00",
-      "price_history": [
-        {
-          "price": 134.0,
-          "original_price": 161.84,
-          "scraped_at": "2026-10-10T10:00:29.720263+00:00"
-        },
-        {
-          "price": 138.0,
-          "original_price": 161.84,
-          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
-        },
-        {
-          "price": 149.0,
-          "original_price": 160.38,
-          "scraped_at": "2026-10-12T18:00:24.994214+00:00"
-        },
-        {
-          "price": 138.0,
-          "original_price": 160.63,
-          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
-        },
-        {
-          "price": 149.0,
-          "original_price": 155.64,
-          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
-        },
-        {
-          "price": 134.1,
-          "original_price": 155.64,
-          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
-        },
-        {
-          "price": 119.7,
-          "original_price": 158.71,
-          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
-        },
-        {
-          "price": 118.8,
-          "original_price": 158.71,
-          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
-        },
-        {
-          "price": 111.6,
-          "original_price": 155.87,
-          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
-        },
-        {
-          "price": 93.6,
-          "original_price": 170.34,
-          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
-        },
-        {
-          "price": 52.0,
-          "original_price": 196.13,
-          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
-        },
-        {
-          "price": 104.0,
-          "original_price": 196.13,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        }
-      ],
-      "approved_at": "26-10-2026 20:23",
       "auto_approved": true
     }
   ]
