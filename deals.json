@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T11:27:05.286166+00:00",
-  "total": 293,
+  "updated_at": "2026-10-30T15:23:21.129877+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "414900421690",
@@ -104,6 +104,43 @@
         }
       ],
       "approved_at": "26-10-2026 16:41",
+      "auto_approved": true
+    },
+    {
+      "id": "354baf7aaa2b",
+      "title": "acer Aspire 17 (A17-51M-503B) laptop, 17\" FHD IPS Display, Intel Core i5-1334U, 16 GB RAM, 512 GB SSD, Intel Iris Xe Graphics, Windows 11, QWERTZ toetsenbord, grijs",
+      "price": 477.74,
+      "original_price": 1104.71,
+      "discount_percent": 56,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0BV6S7P86?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71YgWbOTTKL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-30T15:03:12.189681+00:00",
+      "price_history": [
+        {
+          "price": 559.83,
+          "original_price": null,
+          "scraped_at": "2026-06-04T18:00:44.773899+00:00"
+        },
+        {
+          "price": 522.56,
+          "original_price": null,
+          "scraped_at": "2026-07-22T14:00:37.544148+00:00"
+        },
+        {
+          "price": 558.55,
+          "original_price": 54130.0,
+          "scraped_at": "2026-09-09T06:01:00.816145+00:00"
+        },
+        {
+          "price": 477.74,
+          "original_price": 1104.71,
+          "scraped_at": "2026-10-30T15:00:41.255003+00:00"
+        }
+      ],
+      "approved_at": "30-10-2026 16:23",
       "auto_approved": true
     },
     {
@@ -327,6 +364,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/210146076.jpg?v=1792745453",
       "found_at": "2026-10-26T11:22:19.700011+00:00",
       "approved_at": "26-10-2026 12:28",
+      "auto_approved": true
+    },
+    {
+      "id": "fb8114227592",
+      "title": "HP Omen 16-wf1072ng Intel Core i7-14700HX 40,89 cm 16,1 inch FHD 16GB 1TB SSD RTX 4060 8GB W11H Shadow Black",
+      "price": 895.85,
+      "original_price": 1617.87,
+      "discount_percent": 44,
+      "category": "gaming",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0DBM25F7R?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/719C4gD4RqL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-30T15:04:28.398220+00:00",
+      "approved_at": "30-10-2026 16:23",
       "auto_approved": true
     },
     {
@@ -3157,6 +3209,78 @@
         }
       ],
       "approved_at": "28-10-2026 08:45",
+      "auto_approved": true
+    },
+    {
+      "id": "2823290bfc6f",
+      "title": "House of Marley Stir It Up BT Zwart",
+      "price": 83.0,
+      "original_price": 239.98,
+      "discount_percent": 65,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/house-of-marley-stir-it-up-bt-zwart-r-20851",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1952518_9f55dd79-10e5-415e-8007-09f66db56dce.jpg?v=1790840374",
+      "found_at": "2026-10-18T06:22:55.278643+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 194.0,
+          "scraped_at": "2026-10-01T14:00:34.520995+00:00"
+        },
+        {
+          "price": 195.0,
+          "original_price": null,
+          "scraped_at": "2026-10-02T10:00:37.377925+00:00"
+        },
+        {
+          "price": 184.0,
+          "original_price": 224.14,
+          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
+        },
+        {
+          "price": 176.0,
+          "original_price": 248.35,
+          "scraped_at": "2026-10-07T10:00:56.628747+00:00"
+        },
+        {
+          "price": 164.0,
+          "original_price": 242.7,
+          "scraped_at": "2026-10-12T10:00:20.170459+00:00"
+        },
+        {
+          "price": 147.6,
+          "original_price": 247.39,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 247.39,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 96.3,
+          "original_price": 250.15,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        },
+        {
+          "price": 74.7,
+          "original_price": 249.49,
+          "scraped_at": "2026-10-26T11:01:11.716962+00:00"
+        },
+        {
+          "price": 41.5,
+          "original_price": 249.49,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 83.0,
+          "original_price": 249.49,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        }
+      ],
+      "approved_at": "30-10-2026 16:23",
       "auto_approved": true
     },
     {
@@ -13138,6 +13262,199 @@
         }
       ],
       "approved_at": "17-10-2026 07:27",
+      "auto_approved": true
+    },
+    {
+      "id": "5c82580789c5",
+      "title": "Asus Vivobook 15 X1504VA-BQ3112W QWERTY",
+      "price": 502.0,
+      "original_price": 718.0,
+      "discount_percent": 30,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/asus-vivobook-15-x1504va-bq3112w-qwerty-r-21231",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2124740_8e002a43-bf86-40f0-ba46-8315bcf22351.jpg?v=1792153307",
+      "found_at": "2026-10-30T15:19:11.587009+00:00",
+      "price_history": [
+        {
+          "price": 504.0,
+          "original_price": 718.0,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 484.2,
+          "original_price": 708.33,
+          "scraped_at": "2026-10-22T18:00:33.674077+00:00"
+        },
+        {
+          "price": 269.0,
+          "original_price": 718.0,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 538.0,
+          "original_price": 718.0,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 502.0,
+          "original_price": 718.0,
+          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
+        }
+      ],
+      "approved_at": "30-10-2026 16:23",
+      "auto_approved": true
+    },
+    {
+      "id": "0700d2376ced",
+      "title": "Bose QuietComfort Ultra Headphones Zwart",
+      "price": 196.0,
+      "original_price": 330.17,
+      "discount_percent": 40,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bose-quietcomfort-ultra-headphones-zwart-r-21478",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969999_0ac7c80e-34b6-40cf-b9b6-ed98e09e6033.jpg?v=1793109771",
+      "found_at": "2026-10-30T15:19:15.007742+00:00",
+      "price_history": [
+        {
+          "price": 245.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        },
+        {
+          "price": 196.0,
+          "original_price": 330.29,
+          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
+        }
+      ],
+      "approved_at": "30-10-2026 16:23",
+      "auto_approved": true
+    },
+    {
+      "id": "2d30ba34a5d2",
+      "title": "Sony WH-CH720N Roze",
+      "price": 47.0,
+      "original_price": 97.47,
+      "discount_percent": 51,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/sony-wh-ch720n-roze-r-21310",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2153755.jpg?v=1792153383",
+      "found_at": "2026-10-30T15:19:29.841931+00:00",
+      "price_history": [
+        {
+          "price": 47.7,
+          "original_price": 89.74,
+          "scraped_at": "2026-10-19T10:00:26.909287+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 92.08,
+          "scraped_at": "2026-10-22T14:00:22.069112+00:00"
+        },
+        {
+          "price": 25.0,
+          "original_price": 92.54,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 92.54,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 90.71,
+          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
+        }
+      ],
+      "approved_at": "30-10-2026 16:23",
+      "auto_approved": true
+    },
+    {
+      "id": "b79f9a97a3d1",
+      "title": "Braun Series 3 300BT Grijs",
+      "price": 34.0,
+      "original_price": 72.29,
+      "discount_percent": 52,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-series-3-300bt-grijs-r-21035",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/186946806.jpg?v=1791185835",
+      "found_at": "2026-10-30T15:19:15.008551+00:00",
+      "price_history": [
+        {
+          "price": 72.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-10-05T18:00:58.224590+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 79.0,
+          "scraped_at": "2026-10-06T10:00:50.375796+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 71.19,
+          "scraped_at": "2026-10-11T10:00:42.731293+00:00"
+        },
+        {
+          "price": 40.0,
+          "original_price": 64.4,
+          "scraped_at": "2026-10-15T10:00:51.402552+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 68.37,
+          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
+        },
+        {
+          "price": 39.6,
+          "original_price": 68.37,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 40.5,
+          "original_price": 69.05,
+          "scraped_at": "2026-10-20T10:00:21.860703+00:00"
+        },
+        {
+          "price": 37.8,
+          "original_price": 68.93,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 36.9,
+          "original_price": 63.11,
+          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
+        },
+        {
+          "price": 33.3,
+          "original_price": 69.4,
+          "scraped_at": "2026-10-26T11:01:11.716962+00:00"
+        },
+        {
+          "price": 37.0,
+          "original_price": 69.4,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 41.0,
+          "original_price": 71.03,
+          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
+        },
+        {
+          "price": 34.0,
+          "original_price": 72.29,
+          "scraped_at": "2026-10-30T07:01:08.177435+00:00"
+        }
+      ],
+      "approved_at": "30-10-2026 16:23",
       "auto_approved": true
     }
   ]
