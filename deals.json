@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T19:26:11.392656+00:00",
-  "total": 297,
+  "updated_at": "2026-11-05T07:28:25.859955+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "880bc6c31e45",
@@ -2348,6 +2348,58 @@
         }
       ],
       "approved_at": "28-10-2026 20:20",
+      "auto_approved": true
+    },
+    {
+      "id": "217a1d6b449a",
+      "title": "Aqara 2K WiFi Camera E1 Voor Binnen, 360° Pan/Tilt, HomeKit Secure Video",
+      "price": 55.78,
+      "original_price": 163.12,
+      "discount_percent": 65,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0CCHQ38D2?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/6134T2Cs0hL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-10-25T07:13:21.502311+00:00",
+      "price_history": [
+        {
+          "price": 55.06,
+          "original_price": 59.99,
+          "scraped_at": "2026-03-30T14:00:25.437872+00:00"
+        },
+        {
+          "price": 55.93,
+          "original_price": 69.99,
+          "scraped_at": "2026-08-14T10:00:42.792730+00:00"
+        },
+        {
+          "price": 55.08,
+          "original_price": 59.49,
+          "scraped_at": "2026-08-19T10:00:57.707989+00:00"
+        },
+        {
+          "price": 55.36,
+          "original_price": 202.01,
+          "scraped_at": "2026-10-10T06:01:04.522427+00:00"
+        },
+        {
+          "price": 55.08,
+          "original_price": 69.99,
+          "scraped_at": "2026-10-19T14:00:23.124784+00:00"
+        },
+        {
+          "price": 53.83,
+          "original_price": 202.01,
+          "scraped_at": "2026-10-25T07:00:39.480672+00:00"
+        },
+        {
+          "price": 55.78,
+          "original_price": 163.12,
+          "scraped_at": "2026-11-05T07:00:27.989476+00:00"
+        }
+      ],
+      "approved_at": "05-11-2026 08:28",
       "auto_approved": true
     },
     {
@@ -5066,6 +5118,21 @@
         }
       ],
       "approved_at": "29-10-2026 08:40",
+      "auto_approved": true
+    },
+    {
+      "id": "6fbb0807beb0",
+      "title": "Blackview Xplore 1 Pro 5G Imagerie Thermique (Lepton3.5) Smartphone Incassable, 20000mAh 36Go+256Go/2To TF Téléphone Portable Incassable, Dimensity 7050, 6,78\" 2,4K 120Hz 64MP+50MP, IP69K/OTG/NFC/GPS",
+      "price": 288.08,
+      "original_price": 489.9,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FVXN3CMQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Nu2bvc8WL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-05T07:11:10.642788+00:00",
+      "approved_at": "05-11-2026 08:28",
       "auto_approved": true
     },
     {
@@ -11334,6 +11401,48 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2024244_e57b286e-0430-4698-a1bd-b0dee4b86556.jpg?v=1793365272",
       "found_at": "2026-11-04T15:28:57.667280+00:00",
       "approved_at": "04-11-2026 16:32",
+      "auto_approved": true
+    },
+    {
+      "id": "04aaab0fd1c1",
+      "title": "Dell Pro 27 verstelbare standaard monitor - E2726HS",
+      "price": 104.8,
+      "original_price": 136.46,
+      "discount_percent": 23,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GHPK9XY3?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61N2L1eBQnL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-11-05T07:19:41.652112+00:00",
+      "price_history": [
+        {
+          "price": 115.16,
+          "original_price": 136.46,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 112.57,
+          "original_price": 136.46,
+          "scraped_at": "2026-10-15T06:00:27.396754+00:00"
+        },
+        {
+          "price": 109.98,
+          "original_price": 135.89,
+          "scraped_at": "2026-10-25T15:02:10.681597+00:00"
+        },
+        {
+          "price": 107.4,
+          "original_price": 136.46,
+          "scraped_at": "2026-10-30T19:00:35.151193+00:00"
+        },
+        {
+          "price": 104.8,
+          "original_price": 136.46,
+          "scraped_at": "2026-11-05T07:00:27.989476+00:00"
+        }
+      ],
+      "approved_at": "05-11-2026 08:28",
       "auto_approved": true
     }
   ]
