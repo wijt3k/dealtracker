@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T07:32:44.999059+00:00",
-  "total": 298,
+  "updated_at": "2026-11-14T11:32:28.869587+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3a8fd1710b42",
@@ -1333,6 +1333,38 @@
       "auto_approved": true
     },
     {
+      "id": "5e03ce3fa56f",
+      "title": "WHOOP 5.0 SuperKnit Luxe Band Beige",
+      "price": 69.0,
+      "original_price": 156.65,
+      "discount_percent": 55,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/whoop-5-0-superknit-luxe-band-beige-r-21643",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/851337383.jpg?v=1793109984",
+      "found_at": "2026-11-14T11:29:33.949954+00:00",
+      "price_history": [
+        {
+          "price": 81.0,
+          "original_price": 89.0,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        },
+        {
+          "price": 79.0,
+          "original_price": 95.55,
+          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
+        },
+        {
+          "price": 69.0,
+          "original_price": 95.45,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "9dc1effaa317",
       "title": "MIELE TWH 780 WP - Warmtepompdroger - 9 kg - 62 dB - Energielabel C",
       "price": 936.75,
@@ -2591,6 +2623,21 @@
         }
       ],
       "approved_at": "13-11-2026 12:20",
+      "auto_approved": true
+    },
+    {
+      "id": "1f6a5d91d219",
+      "title": "KODAK Mini Shot 2 retro kerstcadeau, 4 stuks, 2-in-1 instant camera en fotoprinter (5,3 x 8,6 cm) + 8 vellen, wit",
+      "price": 66.84,
+      "original_price": 129.99,
+      "discount_percent": 48,
+      "category": "camera",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B084MKGMSQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71Glc2vk05L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-14T11:25:16.979452+00:00",
+      "approved_at": "14-11-2026 12:32",
       "auto_approved": true
     },
     {
@@ -5404,6 +5451,33 @@
       "auto_approved": true
     },
     {
+      "id": "01e12a04ebb3",
+      "title": "TCL Q75H 5.1.2",
+      "price": 275.0,
+      "original_price": 395.49,
+      "discount_percent": 30,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tcl-q75h-5-1-2-r-21755",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2065366_d16c139f-3a60-4e74-b643-8f7758c467a1.jpg?v=1793697244",
+      "found_at": "2026-11-14T11:29:30.927367+00:00",
+      "price_history": [
+        {
+          "price": 310.0,
+          "original_price": 391.92,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 275.0,
+          "original_price": 395.49,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "6b80b59b56f9",
       "title": "MSI Modern 15 F13MG-039 QWERTZ",
       "price": 360.0,
@@ -5613,6 +5687,38 @@
       "auto_approved": true
     },
     {
+      "id": "679f95dcbd6c",
+      "title": "LG UltraGear 27GR93U-B",
+      "price": 441.0,
+      "original_price": 588.65,
+      "discount_percent": 25,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lg-ultragear-27gr93u-b-r-21814",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1964543_d566a852-1473-4114-85db-7c155363b4bd.jpg?v=1793697332",
+      "found_at": "2026-11-14T11:29:20.269913+00:00",
+      "price_history": [
+        {
+          "price": 427.0,
+          "original_price": 515.0,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 470.0,
+          "original_price": 588.65,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 441.0,
+          "original_price": 588.65,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "56b13aca1b39",
       "title": "Nintendo Switch (2019 Upgrade) Rood/Blauw",
       "price": 193.0,
@@ -5693,6 +5799,43 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1683990.jpg?v=1794297863",
       "found_at": "2026-11-13T11:16:07.615860+00:00",
       "approved_at": "13-11-2026 16:26",
+      "auto_approved": true
+    },
+    {
+      "id": "72ddbca36f2b",
+      "title": "Samako Aqualis S1",
+      "price": 194.0,
+      "original_price": 285.32,
+      "discount_percent": 32,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samako-aqualis-s1-r-21695",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1020x1200.jpg?v=1793110103",
+      "found_at": "2026-11-14T11:29:27.075137+00:00",
+      "price_history": [
+        {
+          "price": 367.0,
+          "original_price": 399.0,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        },
+        {
+          "price": 275.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
+        },
+        {
+          "price": 266.0,
+          "original_price": 299.0,
+          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
+        },
+        {
+          "price": 194.0,
+          "original_price": 249.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
       "auto_approved": true
     },
     {
@@ -5908,6 +6051,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076351_415251cc-16ee-4102-b8ee-6a8418983b7f.jpg?v=1794211822",
       "found_at": "2026-11-13T11:16:17.731083+00:00",
       "approved_at": "13-11-2026 16:26",
+      "auto_approved": true
+    },
+    {
+      "id": "28164e059493",
+      "title": "HP 24-cr0006ng Shell White QWERTZ",
+      "price": 615.0,
+      "original_price": 779.0,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-24-cr0006ng-shell-white-r-21823",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117458.jpg?v=1793697355",
+      "found_at": "2026-11-14T11:29:13.687919+00:00",
+      "price_history": [
+        {
+          "price": 729.0,
+          "original_price": 854.3,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 693.0,
+          "original_price": 779.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 615.0,
+          "original_price": 779.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
       "auto_approved": true
     },
     {
@@ -6205,6 +6380,33 @@
       "auto_approved": true
     },
     {
+      "id": "bfa1a5743235",
+      "title": "Tefal Renew Black Keramische Koekenpan 28 cm",
+      "price": 31.0,
+      "original_price": 50.28,
+      "discount_percent": 38,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-renew-black-keramische-koekenpan-28-cm-r-21824",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2160409_9428055f-c237-4617-839a-323f7027d567.jpg?v=1793697355",
+      "found_at": "2026-11-14T11:29:30.927809+00:00",
+      "price_history": [
+        {
+          "price": 33.0,
+          "original_price": 50.04,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 31.0,
+          "original_price": 50.28,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "dd4d3c7f3cf6",
       "title": "Miele Triflex HX2 Cat & Dog Obsidiaanzwart",
       "price": 438.0,
@@ -6309,6 +6511,38 @@
       "auto_approved": true
     },
     {
+      "id": "cc92e1bcc316",
+      "title": "Logitech Signature Slim K950, draadloos toetsenbord AZERTY",
+      "price": 58.0,
+      "original_price": 90.52,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-signature-slim-k950-draadloos-toetsenbord-azerty-r-21845",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2032462_da753cdc-77ad-4c89-8976-edac3765e311.jpg?v=1793697437",
+      "found_at": "2026-11-14T11:29:20.271009+00:00",
+      "price_history": [
+        {
+          "price": 73.0,
+          "original_price": 91.34,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 87.61,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 90.52,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "ab04bfd325fe",
       "title": "Tefal Hard Titanium Pro Hapjespan 28 cm",
       "price": 58.0,
@@ -6375,6 +6609,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1362901_3d92c782-ae9b-4588-a0ba-7b1e9efb6b3a.jpg?v=1793959038",
       "found_at": "2026-11-13T11:16:24.031382+00:00",
       "approved_at": "13-11-2026 16:26",
+      "auto_approved": true
+    },
+    {
+      "id": "25803555ed27",
+      "title": "Miele Boost CX1 Blue Pulse",
+      "price": 180.0,
+      "original_price": 254.38,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/miele-boost-cx1-blue-pulse-r-21949",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2203776_6869c2ae-9aa9-4957-8b3b-c619154103c7.jpg?v=1793959123",
+      "found_at": "2026-11-14T11:29:20.271707+00:00",
+      "approved_at": "14-11-2026 12:32",
       "auto_approved": true
     },
     {
@@ -6603,6 +6852,83 @@
       "auto_approved": true
     },
     {
+      "id": "a71efe8672d8",
+      "title": "SPC WUUM One - Kindersmartphone + muziekspeler, veilige chat, GPS, kinderbeveiliging SPC Circles, Android 4G mobiele telefoon met 13 MP camera, videogesprekken, 64 GB, blauw",
+      "price": 116.34,
+      "original_price": 169.9,
+      "discount_percent": 31,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0H34HNXFZ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/514sE6RpuxL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-14T11:13:05.434321+00:00",
+      "price_history": [
+        {
+          "price": 163.58,
+          "original_price": null,
+          "scraped_at": "2026-09-11T14:00:28.277700+00:00"
+        },
+        {
+          "price": 158.67,
+          "original_price": 163.58,
+          "scraped_at": "2026-09-17T06:00:44.677928+00:00"
+        },
+        {
+          "price": 134.14,
+          "original_price": 163.58,
+          "scraped_at": "2026-09-23T06:01:06.979137+00:00"
+        },
+        {
+          "price": 134.1,
+          "original_price": 169.9,
+          "scraped_at": "2026-09-28T14:00:33.927494+00:00"
+        },
+        {
+          "price": 130.63,
+          "original_price": null,
+          "scraped_at": "2026-10-04T06:00:40.210764+00:00"
+        },
+        {
+          "price": 128.89,
+          "original_price": 169.9,
+          "scraped_at": "2026-10-09T10:00:31.010603+00:00"
+        },
+        {
+          "price": 126.8,
+          "original_price": 169.9,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        },
+        {
+          "price": 124.71,
+          "original_price": 169.9,
+          "scraped_at": "2026-10-19T14:00:23.124784+00:00"
+        },
+        {
+          "price": 122.61,
+          "original_price": 169.9,
+          "scraped_at": "2026-10-24T18:00:25.786484+00:00"
+        },
+        {
+          "price": 120.52,
+          "original_price": 169.9,
+          "scraped_at": "2026-10-30T07:01:08.177435+00:00"
+        },
+        {
+          "price": 118.43,
+          "original_price": 169.9,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 116.34,
+          "original_price": 169.9,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "1cb2cd735918",
       "title": "Bauknecht RBHBS 83 LL IX",
       "price": 258.0,
@@ -6632,6 +6958,38 @@
         }
       ],
       "approved_at": "13-11-2026 16:26",
+      "auto_approved": true
+    },
+    {
+      "id": "73f4a981340f",
+      "title": "Acer Aspire 15 A15-51M-55AY QWERTZ",
+      "price": 606.0,
+      "original_price": 749.0,
+      "discount_percent": 19,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-aspire-15-a15-51m-55ay-qwertz-r-21915",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2122314_f29103e1-0755-491b-b8a0-a4b07c35126f.jpg?v=1793958981",
+      "found_at": "2026-11-14T11:29:06.564027+00:00",
+      "price_history": [
+        {
+          "price": 619.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
+        },
+        {
+          "price": 612.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+        },
+        {
+          "price": 606.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
       "auto_approved": true
     },
     {
@@ -6746,6 +7104,38 @@
       "auto_approved": true
     },
     {
+      "id": "f409d293628d",
+      "title": "HP Series 7 Pro 724pf - 8X530AA",
+      "price": 153.0,
+      "original_price": 217.76,
+      "discount_percent": 29,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-series-7-pro-724pf-8x530aa-r-21832",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215533.jpg?v=1793697387",
+      "found_at": "2026-11-14T11:29:17.161340+00:00",
+      "price_history": [
+        {
+          "price": 170.0,
+          "original_price": 225.11,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 172.0,
+          "original_price": 218.15,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 153.0,
+          "original_price": 217.76,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        }
+      ],
+      "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
       "id": "9baf47778f31",
       "title": "Braun ThermoScan 3 IRT3030WE",
       "price": 21.0,
@@ -6773,258 +7163,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1372284_896acf9e-acdf-444d-ab7b-7dfcb634b98c.jpg?v=1794298017",
       "found_at": "2026-11-13T11:16:17.733131+00:00",
       "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "3da08d37bd6d",
-      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP1238",
-      "price": 51.0,
-      "original_price": 77.62,
-      "discount_percent": 34,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp1238-r-21987",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127909_1e90a730-95e9-4668-a4b4-cdffbea64f1c.jpg?v=1794297821",
-      "found_at": "2026-11-13T11:16:11.129460+00:00",
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "2df66e83bad0",
-      "title": "HP OmniStudio X 27-cs0975nd QWERTY",
-      "price": 1601.0,
-      "original_price": 1799.0,
-      "discount_percent": 11,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-omnistudio-x-27-cs0975nd-r-21744",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2108795.jpg?v=1793697200",
-      "found_at": "2026-11-13T11:16:11.126278+00:00",
-      "price_history": [
-        {
-          "price": 1363.0,
-          "original_price": 1549.0,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 1601.0,
-          "original_price": 1799.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "f3f4f0c85b43",
-      "title": "HP OmniBook X 14-fe0100nb Ai PC AZERTY",
-      "price": 839.0,
-      "original_price": 999.0,
-      "discount_percent": 16,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-omnibook-x-14-fe0100nb-ai-pc-azerty-r-21756",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2059240_74d0a10f-6a82-4515-a8b2-cef97b11a3e5.jpg?v=1793365167",
-      "found_at": "2026-11-13T11:16:11.126155+00:00",
-      "price_history": [
-        {
-          "price": 919.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 839.0,
-          "original_price": 999.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "46e0a99846c9",
-      "title": "Dreame A2 1200",
-      "price": 653.0,
-      "original_price": 797.75,
-      "discount_percent": 18,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-a2-1200-r-22040",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1493739563_be5bf58a-561f-476e-b47c-d2f059d312be.jpg?v=1794297866",
-      "found_at": "2026-11-13T11:16:04.401480+00:00",
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "a3e792989b80",
-      "title": "Philips Hue White & Color E27 10.5W Losse lamp",
-      "price": 43.0,
-      "original_price": 65.43,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-white-color-e27-10-5w-losse-lamp-r-21778",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1634236_3bc42e31-6129-4137-82ef-5572cd706d8a.jpg?v=1793365238",
-      "found_at": "2026-11-14T07:28:36.494333+00:00",
-      "price_history": [
-        {
-          "price": 47.0,
-          "original_price": 62.43,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 43.0,
-          "original_price": 65.43,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 08:32",
-      "auto_approved": true
-    },
-    {
-      "id": "2139fe1446a5",
-      "title": "SteelSeries Apex Pro Gaming Toetsenbord AZERTY",
-      "price": 117.0,
-      "original_price": 169.0,
-      "discount_percent": 30,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/steelseries-apex-pro-gaming-toetsenbord-azerty-r-21961",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1389136_0ac248bd-4a6c-48cc-9494-74b84af9e73a.jpg?v=1793959178",
-      "found_at": "2026-11-14T07:28:42.150742+00:00",
-      "price_history": [
-        {
-          "price": 119.0,
-          "original_price": 169.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 117.0,
-          "original_price": 169.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 08:32",
-      "auto_approved": true
-    },
-    {
-      "id": "1a480074015f",
-      "title": "Logitech G PRO X Superlight 2 DEX Lightspeed Wit",
-      "price": 94.0,
-      "original_price": 138.04,
-      "discount_percent": 31,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-2-dex-lightspeed-wit-r-21635",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095958_a0305f9e-1798-4949-8c52-72ec793797c3.jpg?v=1793109955",
-      "found_at": "2026-11-14T07:28:33.273185+00:00",
-      "price_history": [
-        {
-          "price": 135.0,
-          "original_price": 147.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": 152.55,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 151.41,
-          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 148.88,
-          "scraped_at": "2026-11-01T15:00:30.633333+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 148.09,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 123.0,
-          "original_price": 150.09,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 94.0,
-          "original_price": 138.04,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 08:32",
-      "auto_approved": true
-    },
-    {
-      "id": "7830bbfa2b86",
-      "title": "Philips 24E1N1300AE/00",
-      "price": 95.0,
-      "original_price": 137.74,
-      "discount_percent": 31,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-21862",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_6a83ee95-6424-4863-bddb-b93e49dc9c31.jpg?v=1793958853",
-      "found_at": "2026-11-14T07:28:36.493323+00:00",
-      "approved_at": "14-11-2026 08:32",
-      "auto_approved": true
-    },
-    {
-      "id": "c0721d1aa012",
-      "title": "HP Pavilion x360 14-ek2033ng QWERTZ",
-      "price": 474.0,
-      "original_price": 599.0,
-      "discount_percent": 20,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-pavilion-x360-14-ek2033ng-qwertz-r-21843",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076585_3900f7b9-b9d2-4af1-b8f5-45f94217a85f.jpg?v=1793697429",
-      "found_at": "2026-11-14T07:28:30.863558+00:00",
-      "price_history": [
-        {
-          "price": 527.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 479.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 474.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 08:32",
-      "auto_approved": true
-    },
-    {
-      "id": "2d349955e011",
-      "title": "Garmin Vivoactive 5 Cream Gold/Ivory",
-      "price": 157.0,
-      "original_price": 220.82,
-      "discount_percent": 28,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-vivoactive-5-cream-gold-ivory-r-22063",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1972630_5f234f62-8c68-4d72-89ef-70e462e05dc7.jpg?v=1794297955",
-      "found_at": "2026-11-14T07:28:27.736379+00:00",
-      "approved_at": "14-11-2026 08:32",
       "auto_approved": true
     }
   ]
