@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T11:27:36.916124+00:00",
-  "total": 296,
+  "updated_at": "2026-11-18T15:27:10.090841+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3052c3675c22",
@@ -279,6 +279,43 @@
         }
       ],
       "approved_at": "15-11-2026 20:28",
+      "auto_approved": true
+    },
+    {
+      "id": "65f46a1b81da",
+      "title": "Nikon Z5 Body",
+      "price": 694.0,
+      "original_price": 1064.21,
+      "discount_percent": 34,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/nikon-z5-body-r-21760",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1483151_7d8d2d55-d581-4603-95e4-deee5ec88fc3.jpg?v=1793365183",
+      "found_at": "2026-11-15T11:24:06.131831+00:00",
+      "price_history": [
+        {
+          "price": 1130.0,
+          "original_price": 1168.77,
+          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
+        },
+        {
+          "price": 1007.0,
+          "original_price": 1105.34,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 935.0,
+          "original_price": 1103.76,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
+        },
+        {
+          "price": 694.0,
+          "original_price": 1064.21,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -611,6 +648,21 @@
       "auto_approved": true
     },
     {
+      "id": "e54e3fe0b62b",
+      "title": "Refurbished iPhone 16 Pro 256GB Natural Titanium",
+      "price": 772.0,
+      "original_price": 1097.0,
+      "discount_percent": 29,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-16-pro-256gb-natural-titanium-r-22150",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092448_f883678d-a45d-4faf-9efb-706adea98c0e.jpg?v=1794906872",
+      "found_at": "2026-11-18T15:22:51.774050+00:00",
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "356446171abf",
       "title": "WMF Fusiontec Mineral Pro Pannenset 4-delig Eucalyptus Haze",
       "price": 209.0,
@@ -809,6 +861,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2196515_bc42e673-583a-4084-b2cb-b122def79386.jpg?v=1794297881",
       "found_at": "2026-11-13T07:32:46.202330+00:00",
       "approved_at": "13-11-2026 08:37",
+      "auto_approved": true
+    },
+    {
+      "id": "4b65c3e3c11b",
+      "title": "Apple iPhone 17e 256GB Roze",
+      "price": 578.0,
+      "original_price": 861.6,
+      "discount_percent": 32,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-iphone-17e-256gb-roze-r-22081",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/705804380_f283e72a-d65d-4f58-a796-c31198a68e59.jpg?v=1794906624",
+      "found_at": "2026-11-18T15:22:29.202654+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -1351,6 +1418,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2056358_e4af8d04-de37-43e7-bbd4-f3aa06731076.jpg?v=1794907165",
       "found_at": "2026-11-18T07:39:55.679961+00:00",
       "approved_at": "18-11-2026 08:44",
+      "auto_approved": true
+    },
+    {
+      "id": "631feb42ce7e",
+      "title": "Refurbished iPhone 16 Pro 128GB Black Titanium",
+      "price": 689.0,
+      "original_price": 951.0,
+      "discount_percent": 27,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-16-pro-128gb-black-titanium-r-22157",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2092466_edba3cf9-b85c-4149-92b1-e95931397632.jpg?v=1794906891",
+      "found_at": "2026-11-18T15:22:51.773993+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -2084,6 +2166,21 @@
         }
       ],
       "approved_at": "13-11-2026 08:37",
+      "auto_approved": true
+    },
+    {
+      "id": "95aee16fa533",
+      "title": "Refurbished iPhone 15 Pro 128GB Black Titanium",
+      "price": 574.0,
+      "original_price": 787.0,
+      "discount_percent": 27,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-pro-128gb-black-titanium-r-22153",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969096_c5af9ae7-ec4b-41f1-a148-847366b03150.jpg?v=1794906878",
+      "found_at": "2026-11-18T15:22:51.773774+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -2936,6 +3033,38 @@
       "auto_approved": true
     },
     {
+      "id": "f3f4f0c85b43",
+      "title": "HP OmniBook X 14-fe0100nb Ai PC AZERTY",
+      "price": 779.0,
+      "original_price": 999.0,
+      "discount_percent": 22,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omnibook-x-14-fe0100nb-ai-pc-azerty-r-21756",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2059240_74d0a10f-6a82-4515-a8b2-cef97b11a3e5.jpg?v=1793365167",
+      "found_at": "2026-11-18T07:39:40.488065+00:00",
+      "price_history": [
+        {
+          "price": 919.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
+        },
+        {
+          "price": 839.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 779.0,
+          "original_price": 999.0,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "a8d6c89c004e",
       "title": "HP OmniBook X 14-fe0100nb Ai PC AZERTY",
       "price": 779.0,
@@ -3464,6 +3593,21 @@
         }
       ],
       "approved_at": "16-11-2026 16:41",
+      "auto_approved": true
+    },
+    {
+      "id": "6084e4dcb949",
+      "title": "Refurbished iPhone 15 Pro 256GB Blue Titanium",
+      "price": 679.0,
+      "original_price": 883.0,
+      "discount_percent": 23,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-pro-256gb-blue-titanium-r-22141",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969197_95e0485a-4fbc-42c2-a265-c0ec38aa12b5.jpg?v=1794906835",
+      "found_at": "2026-11-18T15:22:51.773832+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -5215,6 +5359,58 @@
       "auto_approved": true
     },
     {
+      "id": "08fd296c80a2",
+      "title": "HP Pavilion 16-af0055ng QWERTZ",
+      "price": 624.0,
+      "original_price": 799.0,
+      "discount_percent": 21,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-pavilion-16-af0055ng-qwertz-r-21844",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2135726_4a808d01-8f8f-4208-9927-a8b7863fbf86.jpg?v=1793697431",
+      "found_at": "2026-11-15T07:31:36.299168+00:00",
+      "price_history": [
+        {
+          "price": 735.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 668.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 661.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+        },
+        {
+          "price": 654.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 646.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 632.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 624.0,
+          "original_price": 799.0,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "4e5733323382",
       "title": "Alecto DVM200M",
       "price": 89.0,
@@ -5264,6 +5460,21 @@
         }
       ],
       "approved_at": "14-11-2026 12:32",
+      "auto_approved": true
+    },
+    {
+      "id": "8b497a850e47",
+      "title": "Refurbished iPhone 14 128GB Purple",
+      "price": 339.0,
+      "original_price": 467.0,
+      "discount_percent": 27,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-purple-r-22148",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1812794_b094f580-a8a3-4ff9-a11c-82537120cf74.jpg?v=1794906857",
+      "found_at": "2026-11-18T15:22:51.773329+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -5564,6 +5775,33 @@
       "auto_approved": true
     },
     {
+      "id": "25201db764a9",
+      "title": "Tefal Easy Fry & Grill Dual EY905B XXL",
+      "price": 94.0,
+      "original_price": 147.04,
+      "discount_percent": 36,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-easy-fry-grill-dual-ey905b-xxl-r-22097",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1967160.jpg?v=1794906684",
+      "found_at": "2026-11-18T11:22:38.922595+00:00",
+      "price_history": [
+        {
+          "price": 100.0,
+          "original_price": 147.04,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 94.0,
+          "original_price": 147.04,
+          "scraped_at": "2026-11-18T15:00:16.313437+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "d70633a893f8",
       "title": "Miele Guard L1 Comfort",
       "price": 319.0,
@@ -5729,6 +5967,21 @@
         }
       ],
       "approved_at": "18-11-2026 08:44",
+      "auto_approved": true
+    },
+    {
+      "id": "23e777ea3afd",
+      "title": "Refurbished iPhone 15 128GB Pink",
+      "price": 425.0,
+      "original_price": 565.0,
+      "discount_percent": 24,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-128gb-pink-r-22159",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968942_c9e44dc1-8c0d-409b-b255-872889dedb1d.jpg?v=1794906900",
+      "found_at": "2026-11-18T15:22:51.773549+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -6007,6 +6260,33 @@
       "auto_approved": true
     },
     {
+      "id": "50148e5df4d8",
+      "title": "Ninja Blender 1000W",
+      "price": 107.0,
+      "original_price": 163.75,
+      "discount_percent": 34,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/ninja-blender-1000w-r-22128",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1547141_ec08c389-f768-4b86-85ad-1ca482261f69.jpg?v=1794906788",
+      "found_at": "2026-11-18T15:22:45.958631+00:00",
+      "price_history": [
+        {
+          "price": 113.0,
+          "original_price": 163.75,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 107.0,
+          "original_price": 163.75,
+          "scraped_at": "2026-11-18T15:00:16.313437+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "8f9369dc7912",
       "title": "Krups EA8110",
       "price": 290.0,
@@ -6058,6 +6338,33 @@
         }
       ],
       "approved_at": "13-11-2026 16:26",
+      "auto_approved": true
+    },
+    {
+      "id": "c71b6361f8ff",
+      "title": "Philips PowerPro Expert FC9745/09",
+      "price": 126.0,
+      "original_price": 188.15,
+      "discount_percent": 33,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-powerpro-expert-fc9745-09-r-22080",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1372284_896acf9e-acdf-444d-ab7b-7dfcb634b98c.jpg?v=1794298017",
+      "found_at": "2026-11-14T07:28:36.494423+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 187.73,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 126.0,
+          "original_price": 188.15,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -6165,6 +6472,38 @@
       "auto_approved": true
     },
     {
+      "id": "bb4bf8a8a10d",
+      "title": "Lenovo IdeaPad Slim 5 14Q8X9 83HL0015GE QWERTZ",
+      "price": 695.0,
+      "original_price": 859.0,
+      "discount_percent": 19,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideapad-slim-5-14q8x9-83hl0015ge-qwertz-r-21914",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101392.jpg?v=1793958979",
+      "found_at": "2026-11-18T15:22:42.328267+00:00",
+      "price_history": [
+        {
+          "price": 742.0,
+          "original_price": 859.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 734.0,
+          "original_price": 859.0,
+          "scraped_at": "2026-11-14T07:00:35.741106+00:00"
+        },
+        {
+          "price": 695.0,
+          "original_price": 859.0,
+          "scraped_at": "2026-11-18T15:00:16.313437+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "cb68fec0459d",
       "title": "Lenovo IdeaPad Slim 5 14Q8X9 83HL0015GE QWERTZ",
       "price": 695.0,
@@ -6209,6 +6548,21 @@
         }
       ],
       "approved_at": "18-11-2026 12:27",
+      "auto_approved": true
+    },
+    {
+      "id": "44762162df70",
+      "title": "Refurbished iPhone 15 256GB Black",
+      "price": 600.0,
+      "original_price": 756.0,
+      "discount_percent": 20,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-15-256gb-black-r-22154",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1968911_7ff2b701-33a9-4860-82d0-f52a024512bd.jpg?v=1794906887",
+      "found_at": "2026-11-18T15:22:51.773658+00:00",
+      "approved_at": "18-11-2026 16:27",
       "auto_approved": true
     },
     {
@@ -6924,6 +7278,21 @@
       "auto_approved": true
     },
     {
+      "id": "0690be067981",
+      "title": "Refurbished iPhone 14 128GB Black",
+      "price": 304.0,
+      "original_price": 410.0,
+      "discount_percent": 25,
+      "category": "smartphones",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/refurbished-iphone-14-128gb-black-r-22143",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1950863_3f04144c-c797-4aef-acf8-e182cde108a5.jpg?v=1794906843",
+      "found_at": "2026-11-18T15:22:51.773218+00:00",
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "e80fc8997000",
       "title": "Samsung MC28H5015AK/EF",
       "price": 157.0,
@@ -7347,6 +7716,58 @@
       "auto_approved": true
     },
     {
+      "id": "027318cc7dba",
+      "title": "MSI MPG 274URFDE QD",
+      "price": 461.0,
+      "original_price": 590.0,
+      "discount_percent": 21,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-mpg-274urfde-qd-r-21749",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2151589_39a5b4a5-1fd8-41ad-9dfe-b603af84ce95.jpg?v=1793697224",
+      "found_at": "2026-11-18T11:22:29.413747+00:00",
+      "price_history": [
+        {
+          "price": 542.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 493.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 488.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+        },
+        {
+          "price": 483.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 477.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 466.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 461.0,
+          "original_price": 590.0,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        }
+      ],
+      "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
       "id": "1cb2cd735918",
       "title": "Bauknecht RBHBS 83 LL IX",
       "price": 258.0,
@@ -7376,396 +7797,6 @@
         }
       ],
       "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "f7a0c210b9d1",
-      "title": "Acer Aspire 17 A17-51M-50PD QWERTZ",
-      "price": 606.0,
-      "original_price": 749.0,
-      "discount_percent": 19,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-17-a17-51m-50pd-qwertz-r-21916",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2175408.jpg?v=1793958983",
-      "found_at": "2026-11-18T11:22:14.163908+00:00",
-      "price_history": [
-        {
-          "price": 647.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
-        },
-        {
-          "price": 640.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 633.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 627.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 613.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 606.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
-        }
-      ],
-      "approved_at": "18-11-2026 12:27",
-      "auto_approved": true
-    },
-    {
-      "id": "73f4a981340f",
-      "title": "Acer Aspire 15 A15-51M-55AY QWERTZ",
-      "price": 606.0,
-      "original_price": 749.0,
-      "discount_percent": 19,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-15-a15-51m-55ay-qwertz-r-21915",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2122314_f29103e1-0755-491b-b8a0-a4b07c35126f.jpg?v=1793958981",
-      "found_at": "2026-11-14T11:29:06.564027+00:00",
-      "price_history": [
-        {
-          "price": 619.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
-        },
-        {
-          "price": 612.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 606.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 12:32",
-      "auto_approved": true
-    },
-    {
-      "id": "2139fe1446a5",
-      "title": "SteelSeries Apex Pro Gaming Toetsenbord AZERTY",
-      "price": 116.0,
-      "original_price": 169.0,
-      "discount_percent": 31,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/steelseries-apex-pro-gaming-toetsenbord-azerty-r-21961",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1389136_0ac248bd-4a6c-48cc-9494-74b84af9e73a.jpg?v=1793959178",
-      "found_at": "2026-11-14T11:29:30.926937+00:00",
-      "price_history": [
-        {
-          "price": 119.0,
-          "original_price": 169.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 117.0,
-          "original_price": 169.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 169.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 16:20",
-      "auto_approved": true
-    },
-    {
-      "id": "5f0d41d43192",
-      "title": "Philips 3000-serie Airfryer NA342/00",
-      "price": 93.0,
-      "original_price": 138.43,
-      "discount_percent": 32,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-3000-serie-airfryer-na342-00-r-21978",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107386_f824c12f-0d48-4226-8afc-875f1f54b7ff.jpg?v=1794297817",
-      "found_at": "2026-11-18T07:39:46.165273+00:00",
-      "price_history": [
-        {
-          "price": 96.0,
-          "original_price": 136.62,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 93.0,
-          "original_price": 138.43,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        }
-      ],
-      "approved_at": "18-11-2026 12:27",
-      "auto_approved": true
-    },
-    {
-      "id": "4cf4b430a68f",
-      "title": "Vogels  Comfort 3425",
-      "price": 94.0,
-      "original_price": 139.27,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/vogels-comfort-3425-r-22236",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1653953.jpg?v=1794907180",
-      "found_at": "2026-11-18T07:39:55.682159+00:00",
-      "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "e65e6ce8ff64",
-      "title": "Bourgini Multiplate Elements",
-      "price": 40.0,
-      "original_price": 62.49,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bourgini-multiplate-elements-r-21692",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2212457.jpg?v=1793110092",
-      "found_at": "2026-11-13T11:16:04.398850+00:00",
-      "price_history": [
-        {
-          "price": 45.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 64.35,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 52.0,
-          "original_price": 64.99,
-          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
-        },
-        {
-          "price": 53.0,
-          "original_price": 64.99,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 40.0,
-          "original_price": 62.49,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "a3e792989b80",
-      "title": "Philips Hue White & Color E27 10.5W Losse lamp",
-      "price": 40.0,
-      "original_price": 62.37,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-white-color-e27-10-5w-losse-lamp-r-21778",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1634236_3bc42e31-6129-4137-82ef-5572cd706d8a.jpg?v=1793365238",
-      "found_at": "2026-11-15T07:31:46.449677+00:00",
-      "price_history": [
-        {
-          "price": 47.0,
-          "original_price": 62.43,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 43.0,
-          "original_price": 65.43,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 40.0,
-          "original_price": 62.37,
-          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
-        }
-      ],
-      "approved_at": "15-11-2026 08:35",
-      "auto_approved": true
-    },
-    {
-      "id": "e07fc1dab70d",
-      "title": "HP Pavilion x360 14-ek2033ng QWERTZ",
-      "price": 473.0,
-      "original_price": 599.0,
-      "discount_percent": 21,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-pavilion-x360-14-ek2033ng-qwertz-r-21766",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076585_7613eba4-d06c-4186-ba73-9e2547ac437b.jpg?v=1793365199",
-      "found_at": "2026-11-13T11:16:11.126386+00:00",
-      "price_history": [
-        {
-          "price": 551.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 479.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 473.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "2d349955e011",
-      "title": "Garmin Vivoactive 5 Cream Gold/Ivory",
-      "price": 159.0,
-      "original_price": 224.74,
-      "discount_percent": 29,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/garmin-vivoactive-5-cream-gold-ivory-r-22063",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1972630_5f234f62-8c68-4d72-89ef-70e462e05dc7.jpg?v=1794297955",
-      "found_at": "2026-11-15T07:31:36.296930+00:00",
-      "price_history": [
-        {
-          "price": 157.0,
-          "original_price": 220.82,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 165.0,
-          "original_price": 221.91,
-          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
-        },
-        {
-          "price": 159.0,
-          "original_price": 224.74,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        }
-      ],
-      "approved_at": "18-11-2026 12:27",
-      "auto_approved": true
-    },
-    {
-      "id": "cea6f5844f9d",
-      "title": "DeLonghi Dedica Arte EC885.GY Grijs",
-      "price": 154.0,
-      "original_price": 219.0,
-      "discount_percent": 29,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/delonghi-dedica-arte-ec885-gy-grijs-r-21553",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1837546_4e2023ec-d636-4247-9028-5f68b7d2eb7e.jpg?v=1793364936",
-      "found_at": "2026-11-13T11:16:04.400279+00:00",
-      "price_history": [
-        {
-          "price": 179.0,
-          "original_price": 219.0,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 174.0,
-          "original_price": 219.0,
-          "scraped_at": "2026-11-05T15:00:17.269686+00:00"
-        },
-        {
-          "price": 156.0,
-          "original_price": 219.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 154.0,
-          "original_price": 219.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "f409d293628d",
-      "title": "HP Series 7 Pro 724pf - 8X530AA",
-      "price": 153.0,
-      "original_price": 217.76,
-      "discount_percent": 29,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-series-7-pro-724pf-8x530aa-r-21832",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2215533.jpg?v=1793697387",
-      "found_at": "2026-11-14T11:29:17.161340+00:00",
-      "price_history": [
-        {
-          "price": 170.0,
-          "original_price": 225.11,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 172.0,
-          "original_price": 218.15,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 153.0,
-          "original_price": 217.76,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 12:32",
-      "auto_approved": true
-    },
-    {
-      "id": "9baf47778f31",
-      "title": "Braun ThermoScan 3 IRT3030WE",
-      "price": 21.0,
-      "original_price": 33.23,
-      "discount_percent": 36,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/braun-thermoscan-3-irt3030we-r-22016",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1733262324.jpg?v=1794211905",
-      "found_at": "2026-11-13T11:16:04.399364+00:00",
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "3da08d37bd6d",
-      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP1238",
-      "price": 51.0,
-      "original_price": 78.1,
-      "discount_percent": 34,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp1238-r-21987",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2127909_1e90a730-95e9-4668-a4b4-cdffbea64f1c.jpg?v=1794297821",
-      "found_at": "2026-11-14T07:28:30.866594+00:00",
-      "approved_at": "14-11-2026 16:20",
       "auto_approved": true
     }
   ]
