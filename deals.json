@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T15:28:36.887034+00:00",
-  "total": 300,
+  "updated_at": "2026-11-19T15:28:39.979085+00:00",
+  "total": 269,
   "deals": [
     {
       "id": "3052c3675c22",
@@ -443,21 +443,6 @@
       "auto_approved": true
     },
     {
-      "id": "db9cdfd85472",
-      "title": "Dreame X50 Black",
-      "price": 443.0,
-      "original_price": 748.15,
-      "discount_percent": 40,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-x50-black-r-21921",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132153_ddcdcc91-ae83-4353-b1e2-930e1ed9cbf7.jpg?v=1793959010",
-      "found_at": "2026-11-13T07:32:33.146805+00:00",
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
       "id": "9ed385748052",
       "title": "Dreame H12 Pro",
       "price": 143.0,
@@ -591,53 +576,6 @@
       "image": "https://m.media-amazon.com/images/I/61453TTOfBL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-11-19T07:08:24.220470+00:00",
       "approved_at": "19-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "f15a49e17339",
-      "title": "Miele Triflex HX2 Sprinter Cashmere Grijs",
-      "price": 426.0,
-      "original_price": 699.0,
-      "discount_percent": 39,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/miele-triflex-hx2-sprinter-cashmere-grijs-r-21680",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1752635_baf77ee0-d37e-4b91-a37e-abd5a3e54417.jpg?v=1793110056",
-      "found_at": "2026-11-13T07:32:39.214926+00:00",
-      "price_history": [
-        {
-          "price": 615.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 580.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 581.0,
-          "original_price": 699.5,
-          "scraped_at": "2026-10-31T07:01:36.980537+00:00"
-        },
-        {
-          "price": 560.0,
-          "original_price": 700.0,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 559.0,
-          "original_price": 699.5,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 426.0,
-          "original_price": 699.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
@@ -869,48 +807,6 @@
       "auto_approved": true
     },
     {
-      "id": "acb8d143f35d",
-      "title": "Bose Soundlink Plus Blauw",
-      "price": 134.0,
-      "original_price": 278.04,
-      "discount_percent": 51,
-      "category": "audio",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/bose-soundlink-plus-blauw-r-21421",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2187084.jpg?v=1793003813",
-      "found_at": "2026-11-13T07:32:29.682400+00:00",
-      "price_history": [
-        {
-          "price": 163.0,
-          "original_price": 199.0,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        },
-        {
-          "price": 205.0,
-          "original_price": 267.86,
-          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
-        },
-        {
-          "price": 198.0,
-          "original_price": 267.86,
-          "scraped_at": "2026-11-01T15:00:30.633333+00:00"
-        },
-        {
-          "price": 197.0,
-          "original_price": 262.42,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 134.0,
-          "original_price": 278.04,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
       "id": "a100b9131b11",
       "title": "Philips LatteGo 5500 EP5547/90",
       "price": 415.0,
@@ -938,21 +834,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1054824305_135c7911-f384-4e00-aad8-41e521aef425.jpg?v=1794907099",
       "found_at": "2026-11-18T07:39:37.042622+00:00",
       "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "83911c0ec055",
-      "title": "Roborock Qrevo CurvX White",
-      "price": 629.0,
-      "original_price": 920.95,
-      "discount_percent": 31,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/roborock-qrevo-curvx-white-r-22042",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2196515_bc42e673-583a-4084-b2cb-b122def79386.jpg?v=1794297881",
-      "found_at": "2026-11-13T07:32:46.202330+00:00",
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
@@ -1338,53 +1219,6 @@
       "auto_approved": true
     },
     {
-      "id": "7f2d3db1a158",
-      "title": "Tefal Renew ON C42719 Keramische Wokpan 28 cm",
-      "price": 22.0,
-      "original_price": 58.29,
-      "discount_percent": 62,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-renew-on-c42719-keramische-wokpan-28-cm-r-21840",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1807007.jpg?v=1793697416",
-      "found_at": "2026-11-13T07:32:52.433201+00:00",
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
-      "id": "5e03ce3fa56f",
-      "title": "WHOOP 5.0 SuperKnit Luxe Band Beige",
-      "price": 69.0,
-      "original_price": 156.65,
-      "discount_percent": 55,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/whoop-5-0-superknit-luxe-band-beige-r-21643",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/851337383.jpg?v=1793109984",
-      "found_at": "2026-11-14T11:29:33.949954+00:00",
-      "price_history": [
-        {
-          "price": 81.0,
-          "original_price": 89.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 79.0,
-          "original_price": 95.55,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 95.45,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 12:32",
-      "auto_approved": true
-    },
-    {
       "id": "fefa176e194a",
       "title": "WMF Fusiontec Mineral Pro Pannenset 4-delig Eucalyptus Haze",
       "price": 226.0,
@@ -1484,21 +1318,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2169764_5f3207b8-3b0b-4594-8fbf-5cc08dc05662.jpg?v=1794906687",
       "found_at": "2026-11-18T07:39:52.488921+00:00",
       "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "83a1c86cfa2e",
-      "title": "HP VICTUS 16-r0009nd QWERTY",
-      "price": 1076.0,
-      "original_price": 1396.0,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-victus-16-r0009nd-qwerty-r-21934",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2068722.jpg?v=1793959070",
-      "found_at": "2026-11-13T07:32:35.973641+00:00",
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
@@ -1723,43 +1542,6 @@
         }
       ],
       "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "4c7a14000c0b",
-      "title": "Google Pixelwatch 45 mm Zwart - Zwart",
-      "price": 275.0,
-      "original_price": 449.87,
-      "discount_percent": 38,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/google-pixelwatch-45-mm-zwart-zwart-r-21569",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2207000.jpg?v=1793109831",
-      "found_at": "2026-11-13T07:32:33.149249+00:00",
-      "price_history": [
-        {
-          "price": 378.0,
-          "original_price": 430.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 366.0,
-          "original_price": 431.08,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 354.0,
-          "original_price": 455.79,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 275.0,
-          "original_price": 449.87,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
@@ -2188,33 +1970,6 @@
       "auto_approved": true
     },
     {
-      "id": "da484feeca2d",
-      "title": "MSI MPG 321URXDE QD-OLED",
-      "price": 831.0,
-      "original_price": 1090.09,
-      "discount_percent": 23,
-      "category": "tv",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-mpg-321urxde-qd-oled-r-21599",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2085533_29773d58-9e53-46aa-8538-46ead0edfee9.jpg?v=1793364969",
-      "found_at": "2026-11-13T07:32:42.912196+00:00",
-      "price_history": [
-        {
-          "price": 861.0,
-          "original_price": 1063.44,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 831.0,
-          "original_price": 1090.09,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
       "id": "2ca92fbda96c",
       "title": "Logitech G 02 HERO High Performance Gaming Mouse",
       "price": 22.0,
@@ -2226,21 +1981,6 @@
       "url": "https://stekkerstore.com/products/logitech-g-02-hero-high-performance-gaming-mouse-r-22018",
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1379276.jpg?v=1794211910",
       "found_at": "2026-11-13T07:32:39.212521+00:00",
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
-      "id": "aec8fe2d2ade",
-      "title": "DeLonghi  ECAM 21.117.B Magnifica S",
-      "price": 189.0,
-      "original_price": 319.0,
-      "discount_percent": 40,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/delonghi-ecam-21-117-b-magnifica-s-r-22076",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1652957_d254b9ad-e27f-4ffd-84fe-85b452ac6804.jpg?v=1794298002",
-      "found_at": "2026-11-13T07:32:29.684360+00:00",
       "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
@@ -2275,43 +2015,6 @@
       "auto_approved": true
     },
     {
-      "id": "6fa45ac22e0c",
-      "title": "Logitech VC Brio Webcam",
-      "price": 95.0,
-      "original_price": 176.53,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-vc-brio-webcam-r-21434",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1369842_d0f7edb8-b89a-40af-8d1a-801c1d5b21b8.jpg?v=1793003827",
-      "found_at": "2026-11-13T07:32:39.213461+00:00",
-      "price_history": [
-        {
-          "price": 139.0,
-          "original_price": 159.0,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": 190.03,
-          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
-        },
-        {
-          "price": 123.0,
-          "original_price": 192.07,
-          "scraped_at": "2026-11-01T15:00:30.633333+00:00"
-        },
-        {
-          "price": 95.0,
-          "original_price": 176.53,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
       "id": "e12f1437e849",
       "title": "LG RT10X8B - Warmtepompdroger - 10kg - 62 dB - Energielabel C",
       "price": 711.75,
@@ -2324,33 +2027,6 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6af55e9350205_ASSET_MMS_168999898-500x500.png",
       "found_at": "2026-11-12T07:32:44.595770+00:00",
       "approved_at": "13-11-2026 12:20",
-      "auto_approved": true
-    },
-    {
-      "id": "5d8e057327ae",
-      "title": "Philips 2200 EP2224/10",
-      "price": 164.0,
-      "original_price": 278.9,
-      "discount_percent": 41,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-2200-ep2224-10-r-21723",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1525294_dae4c8e0-a1c6-4302-91f6-4b45d6cf68cd.jpg?v=1793365104",
-      "found_at": "2026-11-13T07:32:42.913722+00:00",
-      "price_history": [
-        {
-          "price": 217.0,
-          "original_price": 304.51,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 164.0,
-          "original_price": 278.9,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
@@ -3181,48 +2857,6 @@
       "auto_approved": true
     },
     {
-      "id": "5195d4920b28",
-      "title": "Philips Hue White & Color E27 10.5W Losse lamp",
-      "price": 34.0,
-      "original_price": 65.43,
-      "discount_percent": 48,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-white-color-e27-10-5w-losse-lamp-r-21642",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1634236.jpg?v=1793109983",
-      "found_at": "2026-11-13T07:32:42.914827+00:00",
-      "price_history": [
-        {
-          "price": 51.0,
-          "original_price": 59.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 49.0,
-          "original_price": 66.5,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 45.0,
-          "original_price": 59.9,
-          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 62.43,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 34.0,
-          "original_price": 65.43,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
       "id": "bf023bc037bc",
       "title": "Polar Pacer Pro Grijs/Zwart S-L",
       "price": 171.0,
@@ -3347,100 +2981,6 @@
       "auto_approved": true
     },
     {
-      "id": "d9faf43f1c33",
-      "title": "Polar LOOP GEN2 BLK/BLK S-L",
-      "price": 85.0,
-      "original_price": 149.3,
-      "discount_percent": 43,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/polar-loop-gen2-blk-blk-s-l-r-21653",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2217244_5b1086f1-a98a-46ce-b00d-6b8d4b254f68.jpg?v=1793110013",
-      "found_at": "2026-11-13T11:16:17.734253+00:00",
-      "price_history": [
-        {
-          "price": 143.0,
-          "original_price": 163.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 131.0,
-          "original_price": 161.51,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 136.0,
-          "original_price": 160.85,
-          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
-        },
-        {
-          "price": 109.0,
-          "original_price": 156.99,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": 149.3,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 12:20",
-      "auto_approved": true
-    },
-    {
-      "id": "1a480074015f",
-      "title": "Logitech G PRO X Superlight 2 DEX Lightspeed Wit",
-      "price": 94.0,
-      "original_price": 164.08,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-pro-x-superlight-2-dex-lightspeed-wit-r-21635",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095958_a0305f9e-1798-4949-8c52-72ec793797c3.jpg?v=1793109955",
-      "found_at": "2026-11-14T11:29:20.270427+00:00",
-      "price_history": [
-        {
-          "price": 135.0,
-          "original_price": 147.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 127.0,
-          "original_price": 152.55,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 116.0,
-          "original_price": 151.41,
-          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 148.88,
-          "scraped_at": "2026-11-01T15:00:30.633333+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 148.09,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 123.0,
-          "original_price": 150.09,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 94.0,
-          "original_price": 138.04,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "14-11-2026 16:20",
-      "auto_approved": true
-    },
-    {
       "id": "f3f4f0c85b43",
       "title": "HP OmniBook X 14-fe0100nb Ai PC AZERTY",
       "price": 779.0,
@@ -3537,58 +3077,6 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6af5ce6795643_ASSET_MMS_181332122-500x500.png",
       "found_at": "2026-11-12T15:51:41.601013+00:00",
       "approved_at": "13-11-2026 12:20",
-      "auto_approved": true
-    },
-    {
-      "id": "05b0db70a8b4",
-      "title": "Sony LinkBuds Fit Zwart",
-      "price": 80.0,
-      "original_price": 141.38,
-      "discount_percent": 43,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-linkbuds-fit-zwart-r-20728",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101231_bab2f82d-5daf-4adc-a17a-b06fa96a626e.jpg?v=1790584283",
-      "found_at": "2026-11-13T07:32:49.482056+00:00",
-      "price_history": [
-        {
-          "price": 129.0,
-          "original_price": 142.71,
-          "scraped_at": "2026-09-29T10:00:27.645752+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 150.86,
-          "scraped_at": "2026-09-30T10:00:28.638202+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": 151.67,
-          "scraped_at": "2026-10-01T10:01:08.298582+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 139.5,
-          "scraped_at": "2026-10-05T14:00:25.734384+00:00"
-        },
-        {
-          "price": 118.0,
-          "original_price": 136.11,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 141.57,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 80.0,
-          "original_price": 141.38,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
@@ -3691,21 +3179,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2113036_e6d1029b-19c5-447d-bcf9-c22f8eb0a827.jpg?v=1794297944",
       "found_at": "2026-11-12T11:19:25.467709+00:00",
       "approved_at": "12-11-2026 12:24",
-      "auto_approved": true
-    },
-    {
-      "id": "3a3b6fc50c71",
-      "title": "LG RT90X8YB - Warmtepompdroger - 9 kg - 62 dB - Energielabel B",
-      "price": 582.75,
-      "original_price": 777.0,
-      "discount_percent": 25,
-      "category": "elektronica",
-      "source": "MediaMarkt Outlet",
-      "condition": "Outlet",
-      "url": "https://outlet.mediamarkt.nl/nl/index.php?route=product%2Fproduct&product_id=353755",
-      "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6af6d54785378_ASSET_MMS_176497619-500x500.png",
-      "found_at": "2026-11-13T11:14:51.200038+00:00",
-      "approved_at": "13-11-2026 12:20",
       "auto_approved": true
     },
     {
@@ -4202,38 +3675,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2117400_b1cdd61b-4172-4074-8080-674ec68d449e.jpg?v=1794211837",
       "found_at": "2026-11-13T07:32:46.201635+00:00",
       "approved_at": "13-11-2026 08:37",
-      "auto_approved": true
-    },
-    {
-      "id": "e7d79ce80f0d",
-      "title": "Lenovo IdeaPad 5 2-in-1 14IRH9 83KX006FMH QWERTY",
-      "price": 604.0,
-      "original_price": 799.0,
-      "discount_percent": 24,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/lenovo-ideapad-5-2-in-1-14irh9-83kx006fmh-qwerty-r-21708",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2189149_f45aac9c-59e0-48d8-90cd-d03099935a51.jpg?v=1793365045",
-      "found_at": "2026-11-13T11:16:11.130001+00:00",
-      "price_history": [
-        {
-          "price": 703.0,
-          "original_price": 799.0,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 611.0,
-          "original_price": 799.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 604.0,
-          "original_price": 799.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
       "auto_approved": true
     },
     {
@@ -4797,43 +4238,6 @@
       "auto_approved": true
     },
     {
-      "id": "9f13ee0dc9c0",
-      "title": "Tefal Subito CM5S1D",
-      "price": 24.0,
-      "original_price": 44.48,
-      "discount_percent": 46,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-subito-cm5s1d-r-21611",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2189823.jpg?v=1793109886",
-      "found_at": "2026-11-13T11:16:27.406071+00:00",
-      "price_history": [
-        {
-          "price": 28.0,
-          "original_price": 38.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 43.41,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": 43.85,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 24.0,
-          "original_price": 44.48,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
       "id": "9658ac6eec38",
       "title": "Siemens TP516DX3",
       "price": 439.0,
@@ -4952,33 +4356,6 @@
         }
       ],
       "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "3c7aed186778",
-      "title": "Panasonic SD-YR2550SXE",
-      "price": 146.0,
-      "original_price": 231.83,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/panasonic-sd-yr2550sxe-r-21736",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1587326_e67eb668-23a0-4ece-806f-a9d519c3abfe.jpg?v=1793365152",
-      "found_at": "2026-11-13T11:16:17.731649+00:00",
-      "price_history": [
-        {
-          "price": 169.0,
-          "original_price": 237.15,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 146.0,
-          "original_price": 231.83,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
       "auto_approved": true
     },
     {
@@ -5503,33 +4880,6 @@
       "auto_approved": true
     },
     {
-      "id": "c2c11f8d09cf",
-      "title": "Philips Airfryer XXL NA352/00",
-      "price": 87.0,
-      "original_price": 142.78,
-      "discount_percent": 39,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-airfryer-xxl-na352-00-r-21696",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1997725_697ccf43-6387-4146-bf01-0e80e1b355d3.jpg?v=1793365016",
-      "found_at": "2026-11-13T11:16:17.732338+00:00",
-      "price_history": [
-        {
-          "price": 107.0,
-          "original_price": 156.19,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 87.0,
-          "original_price": 142.78,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
       "id": "049253fd4ac6",
       "title": "Duux Whisper Flex 2 White",
       "price": 118.0,
@@ -5781,21 +5131,6 @@
       "url": "https://stekkerstore.com/products/dreame-l40-ultra-ae-r-22079",
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2178337_7f945da1-9820-4f7d-ada7-2d987ebc1ed6.jpg?v=1794298013",
       "found_at": "2026-11-13T11:16:04.401697+00:00",
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "9663d3779d81",
-      "title": "Anker Nano Power Bank 10.000 mAh met Snelladen Zwart",
-      "price": 33.0,
-      "original_price": 57.87,
-      "discount_percent": 42,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/anker-nano-power-bank-10-000-mah-met-snelladen-zwart-r-21971",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2115607.jpg?v=1794211836",
-      "found_at": "2026-11-12T19:19:12.264460+00:00",
       "approved_at": "13-11-2026 16:26",
       "auto_approved": true
     },
@@ -6065,58 +5400,6 @@
         }
       ],
       "approved_at": "14-11-2026 12:32",
-      "auto_approved": true
-    },
-    {
-      "id": "56b13aca1b39",
-      "title": "Nintendo Switch (2019 Upgrade) Rood/Blauw",
-      "price": 193.0,
-      "original_price": 288.04,
-      "discount_percent": 32,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/nintendo-switch-2019-upgrade-rood-blauw-r-21554",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1389518_2f127e34-3b83-4722-a709-8c6b47bee8d1.jpg?v=1793003931",
-      "found_at": "2026-11-13T11:16:17.730881+00:00",
-      "price_history": [
-        {
-          "price": 245.0,
-          "original_price": 299.0,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        },
-        {
-          "price": 232.0,
-          "original_price": 294.59,
-          "scraped_at": "2026-10-27T07:00:21.313881+00:00"
-        },
-        {
-          "price": 221.0,
-          "original_price": 293.8,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 232.0,
-          "original_price": 293.34,
-          "scraped_at": "2026-10-30T07:01:08.177435+00:00"
-        },
-        {
-          "price": 221.0,
-          "original_price": 292.55,
-          "scraped_at": "2026-10-31T07:01:36.980537+00:00"
-        },
-        {
-          "price": 224.0,
-          "original_price": 293.34,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 193.0,
-          "original_price": 288.04,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
       "auto_approved": true
     },
     {
@@ -6400,33 +5683,6 @@
       "auto_approved": true
     },
     {
-      "id": "86465052bbcd",
-      "title": "Ecovacs T50 Omni Gen 3",
-      "price": 239.0,
-      "original_price": 342.74,
-      "discount_percent": 30,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/ecovacs-t50-omni-gen-3-r-21926",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/625556880_6f158bdb-2022-4c2e-87a1-7acb9025a879.jpg?v=1793959038",
-      "found_at": "2026-11-14T07:28:27.735541+00:00",
-      "price_history": [
-        {
-          "price": 255.0,
-          "original_price": 352.05,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 239.0,
-          "original_price": 342.62,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 16:28",
-      "auto_approved": true
-    },
-    {
       "id": "e66e201c26dd",
       "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
       "price": 85.0,
@@ -6533,38 +5789,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1793760.jpg?v=1793697378",
       "found_at": "2026-11-13T11:16:27.407212+00:00",
       "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "6f477d73b1aa",
-      "title": "Sony LinkBuds Fit Zwart",
-      "price": 85.0,
-      "original_price": 134.94,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-linkbuds-fit-zwart-r-21782",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101231_f3c03e61-675f-4b8a-9db7-884b95e43699.jpg?v=1793365256",
-      "found_at": "2026-11-15T11:24:13.195201+00:00",
-      "price_history": [
-        {
-          "price": 115.0,
-          "original_price": 141.65,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 103.0,
-          "original_price": 148.8,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 85.0,
-          "original_price": 134.94,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        }
-      ],
-      "approved_at": "15-11-2026 12:27",
       "auto_approved": true
     },
     {
@@ -6924,21 +6148,6 @@
       "auto_approved": true
     },
     {
-      "id": "db330dc50314",
-      "title": "Trust GXT 278 Notebook Cooling Standaard",
-      "price": 20.0,
-      "original_price": 34.0,
-      "discount_percent": 41,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/trust-gxt-278-notebook-cooling-standaard-r-21973",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1373534.jpg?v=1793959182",
-      "found_at": "2026-11-13T11:16:27.406476+00:00",
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
       "id": "baa5f2ce5eec",
       "title": "Sony WH-1000XM5 draadloze over-ear hoofdtelefoon met ruisonderdrukking, Bluetooth, heldere gesprekskwaliteit, hoge resolutie, batterijduur tot 30 uur, snel opladen, Alexa & Google Assistant, iOS en",
       "price": 164.2,
@@ -7117,38 +6326,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2227216.jpg?v=1794907210",
       "found_at": "2026-11-18T07:39:33.919064+00:00",
       "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "7528a0b48fd0",
-      "title": "JBL TOUR ONE M2 Zwart",
-      "price": 114.0,
-      "original_price": 174.0,
-      "discount_percent": 34,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/jbl-tour-one-m2-zwart-r-21784",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1863827_6d7bb9da-e3e8-433c-8be9-f28d57c7c86a.jpg?v=1793365265",
-      "found_at": "2026-11-15T07:31:40.211341+00:00",
-      "price_history": [
-        {
-          "price": 155.0,
-          "original_price": 177.67,
-          "scraped_at": "2026-11-02T07:00:56.549076+00:00"
-        },
-        {
-          "price": 141.0,
-          "original_price": 177.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 114.0,
-          "original_price": 174.0,
-          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
-        }
-      ],
-      "approved_at": "15-11-2026 08:35",
       "auto_approved": true
     },
     {
@@ -7441,33 +6618,6 @@
       "auto_approved": true
     },
     {
-      "id": "338c6da4b4c4",
-      "title": "Philips 5000 Series Dual Basket NA555/00",
-      "price": 143.0,
-      "original_price": 213.23,
-      "discount_percent": 32,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-5000-series-dual-basket-na555-00-r-21735",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2129339_ac4fc5f2-2be6-4f40-805d-bb1ac95e8735.jpg?v=1793365150",
-      "found_at": "2026-11-13T11:16:17.732255+00:00",
-      "price_history": [
-        {
-          "price": 178.0,
-          "original_price": 229.98,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 143.0,
-          "original_price": 213.23,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
       "id": "c71b6361f8ff",
       "title": "Philips PowerPro Expert FC9745/09",
       "price": 126.0,
@@ -7544,43 +6694,6 @@
         }
       ],
       "approved_at": "18-11-2026 12:27",
-      "auto_approved": true
-    },
-    {
-      "id": "3384e6c652e9",
-      "title": "Samsung Jet 85 Pro",
-      "price": 273.0,
-      "original_price": 379.0,
-      "discount_percent": 27,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-jet-85-pro-r-21540",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1959527_328c9b3c-9a94-46cb-8f75-eb3bb25429d4.jpg?v=1793003903",
-      "found_at": "2026-11-13T11:16:24.031126+00:00",
-      "price_history": [
-        {
-          "price": 333.0,
-          "original_price": 379.0,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        },
-        {
-          "price": 310.0,
-          "original_price": 379.0,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 276.0,
-          "original_price": 379.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 273.0,
-          "original_price": 379.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
       "auto_approved": true
     },
     {
@@ -7965,38 +7078,6 @@
       "auto_approved": true
     },
     {
-      "id": "c845088864ee",
-      "title": "Samsung Odyssey G7 LS27DG702EUXEN",
-      "price": 262.0,
-      "original_price": 363.6,
-      "discount_percent": 27,
-      "category": "tv",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/samsung-odyssey-g7-ls27dg702euxen-r-21857",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2130971_39d0d705-7b94-48a2-b6eb-aeeba0f3669f.jpg?v=1793958824",
-      "found_at": "2026-11-14T07:28:42.148365+00:00",
-      "price_history": [
-        {
-          "price": 266.0,
-          "original_price": 361.76,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 259.0,
-          "original_price": 359.99,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 262.0,
-          "original_price": 363.6,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 12:22",
-      "auto_approved": true
-    },
-    {
       "id": "dd4d3c7f3cf6",
       "title": "Miele Triflex HX2 Cat & Dog Obsidiaanzwart",
       "price": 438.0,
@@ -8008,53 +7089,6 @@
       "url": "https://stekkerstore.com/products/miele-triflex-hx2-cat-dog-obsidiaanzwart-r-21859",
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1752633_739df6f2-81c4-4dc6-b9bf-b3b1839d16ee.jpg?v=1793958839",
       "found_at": "2026-11-13T11:16:14.438347+00:00",
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "73513871d449",
-      "title": "Sony Wolverine PS5",
-      "price": 44.0,
-      "original_price": 70.21,
-      "discount_percent": 37,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/sony-wolverine-ps5-r-21677",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2234071_70b0d434-c447-4676-a7ab-0294a2099a0a.jpg?v=1793110049",
-      "found_at": "2026-11-13T11:16:24.033780+00:00",
-      "price_history": [
-        {
-          "price": 69.0,
-          "original_price": 75.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 57.0,
-          "original_price": 69.62,
-          "scraped_at": "2026-10-28T07:00:42.729088+00:00"
-        },
-        {
-          "price": 56.0,
-          "original_price": 72.69,
-          "scraped_at": "2026-10-29T07:01:04.315793+00:00"
-        },
-        {
-          "price": 55.0,
-          "original_price": 70.98,
-          "scraped_at": "2026-10-30T07:01:08.177435+00:00"
-        },
-        {
-          "price": 52.0,
-          "original_price": 68.81,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 44.0,
-          "original_price": 70.21,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
       "approved_at": "13-11-2026 16:26",
       "auto_approved": true
     },
