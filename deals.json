@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T19:33:06.220998+00:00",
-  "total": 298,
+  "updated_at": "2026-11-22T07:40:56.584274+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "3052c3675c22",
@@ -222,6 +222,38 @@
       "auto_approved": true
     },
     {
+      "id": "5fb263bc0a37",
+      "title": "Roborock Saros Z70 R&D Silver",
+      "price": 1085.0,
+      "original_price": 1514.27,
+      "discount_percent": 28,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/roborock-saros-z70-r-d-silver-r-21872",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2177960.jpg?v=1793958897",
+      "found_at": "2026-11-22T07:36:48.724939+00:00",
+      "price_history": [
+        {
+          "price": 1423.0,
+          "original_price": 1514.27,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 1334.0,
+          "original_price": 1514.27,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 1085.0,
+          "original_price": 1514.27,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
+      "auto_approved": true
+    },
+    {
       "id": "023e4392903c",
       "title": "HP laptop 15-fd1053ng QWERTZ",
       "price": 247.0,
@@ -405,6 +437,33 @@
       "image": "https://outlet.mediamarkt.nl/image/cache/catalog/product/6af6d2154e152_ASSET_MMS_181437664-500x500.png",
       "found_at": "2026-11-13T11:14:51.220043+00:00",
       "approved_at": "13-11-2026 12:20",
+      "auto_approved": true
+    },
+    {
+      "id": "40338b7036d4",
+      "title": "Microsoft Surface Laptop, 13,8 inch, Snapdragon X Plus, 16 GB RAM",
+      "price": 1218.38,
+      "original_price": 1633.12,
+      "discount_percent": 25,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GWFQ8MP5?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61tOswTR+hL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-11-22T07:06:23.551053+00:00",
+      "price_history": [
+        {
+          "price": 1241.65,
+          "original_price": null,
+          "scraped_at": "2026-11-16T19:01:20.417158+00:00"
+        },
+        {
+          "price": 1218.38,
+          "original_price": 1633.12,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
       "auto_approved": true
     },
     {
@@ -1820,6 +1879,38 @@
       "auto_approved": true
     },
     {
+      "id": "3d7ab9b51ad8",
+      "title": "TABWEE 12 inh Tablet, 48 GB + 256 GB, 10000 mAh",
+      "price": 171.53,
+      "original_price": 299.99,
+      "discount_percent": 42,
+      "category": "tablets",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0H1V7X3L1?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/716GJSBTrgL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-22T07:10:00.996642+00:00",
+      "price_history": [
+        {
+          "price": 217.31,
+          "original_price": 299.99,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 209.52,
+          "original_price": 299.99,
+          "scraped_at": "2026-11-11T07:00:30.969892+00:00"
+        },
+        {
+          "price": 171.53,
+          "original_price": 299.99,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
+      "auto_approved": true
+    },
+    {
       "id": "c308f9d32e1b",
       "title": "Lenovo IdeaPad 5 2-in-1 16AKP10 QWERTZ",
       "price": 1396.0,
@@ -1859,6 +1950,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095853_bd708cd1-1fa5-42a4-be60-2ed1a92f891e.jpg?v=1794907054",
       "found_at": "2026-11-18T07:39:43.799800+00:00",
       "approved_at": "18-11-2026 08:44",
+      "auto_approved": true
+    },
+    {
+      "id": "0698c2a3517b",
+      "title": "HP OmniBook 3 Laptop, 17,3 inch FHD, AMD Ryzen 5 7520U, 8 GB RAM",
+      "price": 535.86,
+      "original_price": 759.27,
+      "discount_percent": 29,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0H36V23GK?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71IIKFKFQTL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "found_at": "2026-11-22T07:03:45.140517+00:00",
+      "price_history": [
+        {
+          "price": 548.48,
+          "original_price": null,
+          "scraped_at": "2026-11-16T19:01:20.417158+00:00"
+        },
+        {
+          "price": 535.86,
+          "original_price": 759.27,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
       "auto_approved": true
     },
     {
@@ -2600,6 +2718,38 @@
       "auto_approved": true
     },
     {
+      "id": "5df1510a42b7",
+      "title": "Acer Chromebook Spin 314 CP314-2HN-C8RG QWERTY",
+      "price": 297.0,
+      "original_price": 450.11,
+      "discount_percent": 34,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-chromebook-spin-314-cp314-2hn-c8rg-qwerty-r-21977",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2180595_7aa84469-fc86-4903-a84e-6b42efd5ace2.jpg?v=1793959191",
+      "found_at": "2026-11-22T07:36:29.256970+00:00",
+      "price_history": [
+        {
+          "price": 382.0,
+          "original_price": 450.11,
+          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
+        },
+        {
+          "price": 360.0,
+          "original_price": 450.11,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 297.0,
+          "original_price": 450.11,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
+      "auto_approved": true
+    },
+    {
       "id": "a4d62908fb43",
       "title": "Tefal Renew Black Keramische Wokpan 28 cm",
       "price": 32.0,
@@ -2936,6 +3086,48 @@
         }
       ],
       "approved_at": "20-11-2026 12:33",
+      "auto_approved": true
+    },
+    {
+      "id": "600611904ced",
+      "title": "Dyson Airwrap Complete Long Volumise Strawberry Bronze/Blush",
+      "price": 279.0,
+      "original_price": 424.14,
+      "discount_percent": 34,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/dyson-airwrap-complete-long-volumise-strawberry-bronze-blush-r-21944",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2101115_3dd8d52f-a557-43af-b58c-3716ea76ba01.jpg?v=1793959099",
+      "found_at": "2026-11-22T07:36:31.594045+00:00",
+      "price_history": [
+        {
+          "price": 357.0,
+          "original_price": 421.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 358.0,
+          "original_price": 422.27,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 338.0,
+          "original_price": 423.23,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 339.0,
+          "original_price": 424.14,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 279.0,
+          "original_price": 424.14,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
       "auto_approved": true
     },
     {
@@ -4106,6 +4298,38 @@
         }
       ],
       "approved_at": "20-11-2026 12:33",
+      "auto_approved": true
+    },
+    {
+      "id": "ed1b80e0ef25",
+      "title": "Canon PIXMA TS705a",
+      "price": 51.0,
+      "original_price": 91.53,
+      "discount_percent": 44,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/canon-pixma-ts705a-r-21863",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1381907.jpg?v=1793958852",
+      "found_at": "2026-11-22T07:36:31.592250+00:00",
+      "price_history": [
+        {
+          "price": 67.0,
+          "original_price": 91.68,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 63.0,
+          "original_price": 91.68,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 91.53,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
       "auto_approved": true
     },
     {
@@ -7090,6 +7314,43 @@
       "auto_approved": true
     },
     {
+      "id": "3bfba3914433",
+      "title": "Krups NESCAFÉ Dolce Gusto Mini Me KP123H",
+      "price": 49.0,
+      "original_price": 79.14,
+      "discount_percent": 38,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/krups-nescafe-dolce-gusto-mini-me-kp123h-r-22007",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1971395_99f86006-cd3c-4065-81be-42fe8ad042d8.jpg?v=1794297852",
+      "found_at": "2026-11-22T07:36:37.971839+00:00",
+      "price_history": [
+        {
+          "price": 54.0,
+          "original_price": 78.41,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 74.94,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 74.92,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 74.77,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
+      "auto_approved": true
+    },
+    {
       "id": "19375e5b4a34",
       "title": "GreenPan Wafelijzer Zwart CC006812-001",
       "price": 155.0,
@@ -7255,6 +7516,43 @@
         }
       ],
       "approved_at": "18-11-2026 20:35",
+      "auto_approved": true
+    },
+    {
+      "id": "0a3fade3b7ab",
+      "title": "Samsung Galaxy Buds4 Wit",
+      "price": 92.0,
+      "original_price": 142.34,
+      "discount_percent": 35,
+      "category": "audio",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-galaxy-buds4-wit-r-21984",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/290965603_61031993-e95d-4133-bcd7-0d81b1f975af.jpg?v=1793959207",
+      "found_at": "2026-11-22T07:36:48.725665+00:00",
+      "price_history": [
+        {
+          "price": 107.0,
+          "original_price": 144.41,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 112.0,
+          "original_price": 141.31,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 99.0,
+          "original_price": 142.78,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 92.0,
+          "original_price": 142.34,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
       "auto_approved": true
     },
     {
@@ -7955,6 +8253,33 @@
       "auto_approved": true
     },
     {
+      "id": "eee37cb8b843",
+      "title": "Apple Watch SE (2025) 40mm Starlight Sportband S/M",
+      "price": 178.0,
+      "original_price": 257.28,
+      "discount_percent": 30,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-se-2025-40mm-starlight-sportband-s-m-r-22221",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213536_c7ad1e77-666a-4092-85ee-605fb8c416ef.jpg?v=1794907121",
+      "found_at": "2026-11-22T07:36:29.258368+00:00",
+      "price_history": [
+        {
+          "price": 194.0,
+          "original_price": 273.07,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 178.0,
+          "original_price": 257.28,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 08:40",
+      "auto_approved": true
+    },
+    {
       "id": "bfa1a5743235",
       "title": "Tefal Renew Black Keramische Koekenpan 28 cm",
       "price": 31.0,
@@ -8447,347 +8772,6 @@
         }
       ],
       "approved_at": "19-11-2026 20:26",
-      "auto_approved": true
-    },
-    {
-      "id": "027318cc7dba",
-      "title": "MSI MPG 274URFDE QD",
-      "price": 455.0,
-      "original_price": 590.0,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-mpg-274urfde-qd-r-21749",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2151589_39a5b4a5-1fd8-41ad-9dfe-b603af84ce95.jpg?v=1793697224",
-      "found_at": "2026-11-19T19:22:18.360967+00:00",
-      "price_history": [
-        {
-          "price": 542.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 493.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 488.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 483.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 477.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 466.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 461.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
-        },
-        {
-          "price": 455.0,
-          "original_price": 590.0,
-          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 20:26",
-      "auto_approved": true
-    },
-    {
-      "id": "f7a0c210b9d1",
-      "title": "Acer Aspire 17 A17-51M-50PD QWERTZ",
-      "price": 599.0,
-      "original_price": 749.0,
-      "discount_percent": 20,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-17-a17-51m-50pd-qwertz-r-21916",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2175408.jpg?v=1793958983",
-      "found_at": "2026-11-19T19:22:03.189800+00:00",
-      "price_history": [
-        {
-          "price": 647.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
-        },
-        {
-          "price": 640.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 633.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 627.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 613.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 606.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
-        },
-        {
-          "price": 599.0,
-          "original_price": 749.0,
-          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 20:26",
-      "auto_approved": true
-    },
-    {
-      "id": "fe864265eeb6",
-      "title": "JBL Tune Flex 2, Wireless Noise Cancelling Bluetooth Earbuds, Blauwgroen",
-      "price": 50.55,
-      "original_price": 79.95,
-      "discount_percent": 36,
-      "category": "audio",
-      "source": "Amazon RetourDeals",
-      "condition": "Retour",
-      "url": "https://www.amazon.nl/dp/B0DK3V92CB?tag=dealtracke0e6-21",
-      "image": "https://m.media-amazon.com/images/I/61+BNb6YYfL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "found_at": "2026-11-21T07:04:58.086557+00:00",
-      "price_history": [
-        {
-          "price": 53.96,
-          "original_price": 71.17,
-          "scraped_at": "2026-05-19T14:00:33.190065+00:00"
-        },
-        {
-          "price": 54.83,
-          "original_price": 79.95,
-          "scraped_at": "2026-10-27T15:00:33.390032+00:00"
-        },
-        {
-          "price": 50.55,
-          "original_price": 79.95,
-          "scraped_at": "2026-11-21T07:00:27.766321+00:00"
-        }
-      ],
-      "approved_at": "21-11-2026 08:24",
-      "auto_approved": true
-    },
-    {
-      "id": "49ba66da580f",
-      "title": "Philips Hue Gradient Lightstrip uitbreiding",
-      "price": 36.0,
-      "original_price": 57.86,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hue-gradient-lightstrip-uitbreiding-r-21774",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1636386_ec4923b8-866b-41ac-a080-3658f43262bb.jpg?v=1793365224",
-      "found_at": "2026-11-19T19:22:20.964547+00:00",
-      "price_history": [
-        {
-          "price": 46.0,
-          "original_price": 58.99,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 42.0,
-          "original_price": 57.5,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 41.0,
-          "original_price": 57.75,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 38.0,
-          "original_price": 57.75,
-          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
-        },
-        {
-          "price": 36.0,
-          "original_price": 57.86,
-          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 20:26",
-      "auto_approved": true
-    },
-    {
-      "id": "a44ece1b5cd9",
-      "title": "HTC VIVE AI Bril 99HAUU016-00 Zwart",
-      "price": 451.0,
-      "original_price": 584.7,
-      "discount_percent": 22,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/htc-vive-ai-bril-99hauu016-00-zwart-r-21969",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/47108910.jpg?v=1793959179",
-      "found_at": "2026-11-19T19:22:11.765055+00:00",
-      "price_history": [
-        {
-          "price": 473.0,
-          "original_price": 574.22,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 479.0,
-          "original_price": 577.72,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 451.0,
-          "original_price": 584.63,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 20:26",
-      "auto_approved": true
-    },
-    {
-      "id": "3576a82bf3d8",
-      "title": "Dyson Airwrap Long Multistyler Nikkel/Koper",
-      "price": 356.0,
-      "original_price": 471.0,
-      "discount_percent": 24,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dyson-airwrap-long-multistyler-nikkel-koper-r-21943",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1980076_3adee2d2-1719-433f-9e15-98cb1dbbb98f.jpg?v=1793959094",
-      "found_at": "2026-11-20T07:45:00.357867+00:00",
-      "price_history": [
-        {
-          "price": 389.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 385.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 381.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 377.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 368.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 364.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
-        },
-        {
-          "price": 360.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
-        },
-        {
-          "price": 356.0,
-          "original_price": 471.0,
-          "scraped_at": "2026-11-20T11:00:21.190400+00:00"
-        }
-      ],
-      "approved_at": "20-11-2026 16:39",
-      "auto_approved": true
-    },
-    {
-      "id": "7068e9d5ec31",
-      "title": "Tefal Unlimited Koekenpan 28 cm",
-      "price": 28.0,
-      "original_price": 44.95,
-      "discount_percent": 37,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-unlimited-koekenpan-28-cm-r-21691",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1559205.jpg?v=1793365014",
-      "found_at": "2026-11-19T19:22:29.259555+00:00",
-      "price_history": [
-        {
-          "price": 80.0,
-          "original_price": 116.6,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 88.0,
-          "original_price": null,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 44.95,
-          "scraped_at": "2026-11-14T07:00:35.741106+00:00"
-        },
-        {
-          "price": 28.0,
-          "original_price": 44.95,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        }
-      ],
-      "approved_at": "19-11-2026 20:26",
-      "auto_approved": true
-    },
-    {
-      "id": "30a5e6d38ed2",
-      "title": "Tefal Ultimate Pure FV9847",
-      "price": 58.0,
-      "original_price": 89.51,
-      "discount_percent": 35,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/tefal-ultimate-pure-fv9847-r-21988",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2084254.jpg?v=1794297831",
-      "found_at": "2026-11-21T11:24:56.588173+00:00",
-      "price_history": [
-        {
-          "price": 64.0,
-          "original_price": 90.96,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 62.0,
-          "original_price": 90.04,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 58.0,
-          "original_price": 89.51,
-          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
-        }
-      ],
-      "approved_at": "21-11-2026 12:29",
       "auto_approved": true
     }
   ]
