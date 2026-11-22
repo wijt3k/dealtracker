@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T15:17:38.351350+00:00",
-  "total": 299,
+  "updated_at": "2026-11-22T19:18:58.346409+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "c725d156c2bd",
@@ -9089,6 +9089,38 @@
         }
       ],
       "approved_at": "22-11-2026 16:17",
+      "auto_approved": true
+    },
+    {
+      "id": "30a5e6d38ed2",
+      "title": "Tefal Ultimate Pure FV9847",
+      "price": 58.0,
+      "original_price": 89.51,
+      "discount_percent": 35,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/tefal-ultimate-pure-fv9847-r-21988",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2084254.jpg?v=1794297831",
+      "found_at": "2026-11-22T19:15:15.125405+00:00",
+      "price_history": [
+        {
+          "price": 64.0,
+          "original_price": 90.96,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 62.0,
+          "original_price": 90.04,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 89.51,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        }
+      ],
+      "approved_at": "22-11-2026 20:18",
       "auto_approved": true
     }
   ]
