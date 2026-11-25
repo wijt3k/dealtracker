@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T07:29:25.775818+00:00",
-  "total": 296,
+  "updated_at": "2026-11-25T11:52:01.773740+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "179f82374d12",
@@ -2699,6 +2699,33 @@
       "auto_approved": true
     },
     {
+      "id": "62f4814d2fd9",
+      "title": "BK Enjoy Koekenpannenset 20 + 28 cm + Hapjespan 28 cm zwart",
+      "price": 55.0,
+      "original_price": 125.69,
+      "discount_percent": 56,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/bk-enjoy-koekenpannenset-20-28-cm-hapjespan-28-cm-zwart-r-22135",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2121916.jpg?v=1794906812",
+      "found_at": "2026-11-25T11:46:57.875414+00:00",
+      "price_history": [
+        {
+          "price": 57.0,
+          "original_price": 91.95,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 55.0,
+          "original_price": 91.95,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
+      "auto_approved": true
+    },
+    {
       "id": "ec5bfcf1f649",
       "title": "Lenovo Yoga Book 9 83FF002WMH QWERTY",
       "price": 2124.0,
@@ -2875,6 +2902,48 @@
       "auto_approved": true
     },
     {
+      "id": "6e7e189266cf",
+      "title": "Polar Pacer Pro Grijs/Zwart S-L",
+      "price": 141.0,
+      "original_price": 268.37,
+      "discount_percent": 47,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/polar-pacer-pro-grijs-zwart-s-l-r-22006",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1734790_416c6e83-19df-4870-8261-9361ae0aabfe.jpg?v=1794211880",
+      "found_at": "2026-11-25T11:47:13.902860+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 276.99,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 177.0,
+          "original_price": 274.92,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 167.0,
+          "original_price": 284.76,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 171.0,
+          "original_price": 263.1,
+          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 268.37,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
+      "auto_approved": true
+    },
+    {
       "id": "ac291bed2f64",
       "title": "Meta Quest Link cable",
       "price": 45.0,
@@ -2924,6 +2993,48 @@
         }
       ],
       "approved_at": "24-11-2026 12:34",
+      "auto_approved": true
+    },
+    {
+      "id": "37202a125d5d",
+      "title": "Withings ScanWatch 2 42mm Black",
+      "price": 184.0,
+      "original_price": 330.89,
+      "discount_percent": 44,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/withings-scanwatch-2-42mm-black-r-21993",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1982015_d72c9ed4-4eeb-4b3c-9799-0c99fd62e702.jpg?v=1794211851",
+      "found_at": "2026-11-25T11:47:20.249111+00:00",
+      "price_history": [
+        {
+          "price": 295.0,
+          "original_price": 351.76,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 273.0,
+          "original_price": 355.61,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 237.0,
+          "original_price": 341.76,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 223.0,
+          "original_price": 326.92,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 184.0,
+          "original_price": 330.89,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -3178,6 +3289,33 @@
       "auto_approved": true
     },
     {
+      "id": "d709e60b79a8",
+      "title": "ASUSK ASUS ZenScreen MB14AC | 14 inch draagbare USB-monitor | Full HD 1920x1080, Hybrid Type-C, autorot, licht ontwerp, smartcase, statiefsokkel | IPS-paneel, 16:9, ontspiegeld, zilver",
+      "price": 95.98,
+      "original_price": 188.46,
+      "discount_percent": 49,
+      "category": "tv",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B08CML5B2V?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71l9LCjKnAL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-25T11:41:14.343630+00:00",
+      "price_history": [
+        {
+          "price": 111.16,
+          "original_price": 158.39,
+          "scraped_at": "2026-03-31T10:00:27.414029+00:00"
+        },
+        {
+          "price": 95.98,
+          "original_price": 188.46,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
+      "auto_approved": true
+    },
+    {
       "id": "ddfc0440a69b",
       "title": "Apple Watch Series 11 46mm Grijs Sportband M/L",
       "price": 256.0,
@@ -3232,6 +3370,33 @@
       "image": "https://m.media-amazon.com/images/I/7180vw41lzL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-11-23T07:12:39.752402+00:00",
       "approved_at": "23-11-2026 09:01",
+      "auto_approved": true
+    },
+    {
+      "id": "ab58e948328a",
+      "title": "Roborock Saros 20 Sonic Complete Black",
+      "price": 721.0,
+      "original_price": 982.16,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/roborock-saros-20-sonic-complete-black-r-22418",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/520538307_3055ee7c-12bd-45a3-9ec0-feca803c63c8.jpg?v=1795511304",
+      "found_at": "2026-11-25T11:47:13.905081+00:00",
+      "price_history": [
+        {
+          "price": 861.0,
+          "original_price": 979.0,
+          "scraped_at": "2026-11-24T15:00:19.842626+00:00"
+        },
+        {
+          "price": 721.0,
+          "original_price": 982.16,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -3552,6 +3717,33 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2109346_24202ad3-8967-47ec-9fcf-f678d604624a.jpg?v=1794906670",
       "found_at": "2026-11-18T07:39:52.490680+00:00",
       "approved_at": "18-11-2026 08:44",
+      "auto_approved": true
+    },
+    {
+      "id": "fc36a7e8e277",
+      "title": "Samsung MC32DG7646KKE1",
+      "price": 192.0,
+      "original_price": 328.32,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-mc32dg7646kke1-r-22417",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2045545_6ce9d397-428e-4fb4-b53a-71677bdad22d.jpg?v=1795511300",
+      "found_at": "2026-11-25T11:47:16.959748+00:00",
+      "price_history": [
+        {
+          "price": 296.0,
+          "original_price": 395.0,
+          "scraped_at": "2026-11-24T15:00:19.842626+00:00"
+        },
+        {
+          "price": 192.0,
+          "original_price": 328.32,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -4895,6 +5087,38 @@
       "auto_approved": true
     },
     {
+      "id": "732e91b118c5",
+      "title": "Samsung HW-B750F Zwart",
+      "price": 146.0,
+      "original_price": 248.72,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-hw-b750f-zwart-r-22322",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2169900_7af5f08c-f5b1-41c4-bd3e-df1938145369.jpg?v=1795429229",
+      "found_at": "2026-11-25T11:47:16.959145+00:00",
+      "price_history": [
+        {
+          "price": 229.0,
+          "original_price": 280.0,
+          "scraped_at": "2026-11-23T19:00:24.674520+00:00"
+        },
+        {
+          "price": 183.0,
+          "original_price": 257.57,
+          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
+        },
+        {
+          "price": 146.0,
+          "original_price": 248.72,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
+      "auto_approved": true
+    },
+    {
       "id": "59159bb438ff",
       "title": "Ecovacs DEEBOT T90 MAX Pro OMNI",
       "price": 349.0,
@@ -5758,6 +5982,63 @@
         }
       ],
       "approved_at": "20-11-2026 12:33",
+      "auto_approved": true
+    },
+    {
+      "id": "e14055259ffd",
+      "title": "Apple Watch Series 11 42mm Roségoud Sportband S/M",
+      "price": 276.0,
+      "original_price": 422.29,
+      "discount_percent": 34,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-series-11-42mm-rosegoud-sportband-s-m-r-21910",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213356_13aba6d4-b89a-4a41-891b-061d2d68f862.jpg?v=1793958955",
+      "found_at": "2026-11-25T11:46:54.500712+00:00",
+      "price_history": [
+        {
+          "price": 386.0,
+          "original_price": 440.66,
+          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
+        },
+        {
+          "price": 383.0,
+          "original_price": 438.55,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 439.66,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 323.0,
+          "original_price": 439.65,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 370.0,
+          "original_price": 446.81,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 356.0,
+          "original_price": 418.99,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 335.0,
+          "original_price": 422.75,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 276.0,
+          "original_price": 422.29,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -7097,6 +7378,93 @@
       "auto_approved": true
     },
     {
+      "id": "c766b7e70b6b",
+      "title": "Insta360 Flow 2 Pro Standard Bundle Stone Grey",
+      "price": 111.0,
+      "original_price": 189.11,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/insta360-flow-2-pro-standard-bundle-stone-grey-r-21055",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2132236.jpg?v=1791551997",
+      "found_at": "2026-11-25T11:47:04.332809+00:00",
+      "price_history": [
+        {
+          "price": 131.0,
+          "original_price": 181.8,
+          "scraped_at": "2026-10-14T10:00:32.291148+00:00"
+        },
+        {
+          "price": 126.0,
+          "original_price": 193.83,
+          "scraped_at": "2026-10-16T10:00:27.724844+00:00"
+        },
+        {
+          "price": 113.4,
+          "original_price": 193.83,
+          "scraped_at": "2026-10-16T14:00:18.204426+00:00"
+        },
+        {
+          "price": 129.6,
+          "original_price": 193.83,
+          "scraped_at": "2026-10-17T10:00:21.317258+00:00"
+        },
+        {
+          "price": 122.4,
+          "original_price": 198.84,
+          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
+        },
+        {
+          "price": 134.1,
+          "original_price": 199.84,
+          "scraped_at": "2026-10-22T10:00:18.855214+00:00"
+        },
+        {
+          "price": 110.7,
+          "original_price": 204.02,
+          "scraped_at": "2026-10-26T07:01:15.632419+00:00"
+        },
+        {
+          "price": 61.5,
+          "original_price": 203.92,
+          "scraped_at": "2026-10-26T15:00:29.967587+00:00"
+        },
+        {
+          "price": 123.0,
+          "original_price": 203.92,
+          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
+        },
+        {
+          "price": 163.0,
+          "original_price": 196.84,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 158.0,
+          "original_price": 196.54,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
+        },
+        {
+          "price": 143.0,
+          "original_price": 189.53,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 187.22,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 111.0,
+          "original_price": 189.11,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
+      "auto_approved": true
+    },
+    {
       "id": "f3f4f0c85b43",
       "title": "HP OmniBook X 14-fe0100nb Ai PC AZERTY",
       "price": 779.0,
@@ -7270,6 +7638,93 @@
       "image": "https://m.media-amazon.com/images/I/71N84ULSCiL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-11-21T11:21:10.838879+00:00",
       "approved_at": "21-11-2026 12:29",
+      "auto_approved": true
+    },
+    {
+      "id": "90cf777871ad",
+      "title": "Pierre Waterkoker PWK7000 Glas met instelbare temperatuur",
+      "price": 43.0,
+      "original_price": 80.0,
+      "discount_percent": 46,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/pierre-waterkoker-pwk7000-glas-met-instelbare-temperatuur-r-21608",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/206841274.jpg?v=1793109874",
+      "found_at": "2026-11-25T11:47:13.902432+00:00",
+      "price_history": [
+        {
+          "price": 70.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
+        },
+        {
+          "price": 66.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
+        },
+        {
+          "price": 59.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 58.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+        },
+        {
+          "price": 57.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 54.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 53.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        },
+        {
+          "price": 52.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-20T11:00:21.190400+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        },
+        {
+          "price": 47.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-22T11:00:12.649837+00:00"
+        },
+        {
+          "price": 46.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
+        },
+        {
+          "price": 43.0,
+          "original_price": 80.0,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -7502,6 +7957,63 @@
         }
       ],
       "approved_at": "23-11-2026 20:29",
+      "auto_approved": true
+    },
+    {
+      "id": "22c21342195a",
+      "title": "Apple Watch Ultra 3 Cellular 49mm Zwart Ocean Band",
+      "price": 551.0,
+      "original_price": 742.95,
+      "discount_percent": 25,
+      "category": "wearables",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/apple-watch-ultra-3-cellular-49mm-zwart-ocean-band-r-21911",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2213203_81f69825-d7ee-4257-897d-773b65854576.jpg?v=1793958966",
+      "found_at": "2026-11-25T11:46:54.501566+00:00",
+      "price_history": [
+        {
+          "price": 677.0,
+          "original_price": 774.81,
+          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
+        },
+        {
+          "price": 703.0,
+          "original_price": 808.43,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 677.0,
+          "original_price": 788.6,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 654.0,
+          "original_price": 786.29,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 636.0,
+          "original_price": 778.35,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 659.0,
+          "original_price": 778.35,
+          "scraped_at": "2026-11-19T15:00:23.896748+00:00"
+        },
+        {
+          "price": 571.0,
+          "original_price": 713.96,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 551.0,
+          "original_price": 742.95,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -7870,6 +8382,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1969197_95e0485a-4fbc-42c2-a265-c0ec38aa12b5.jpg?v=1794906835",
       "found_at": "2026-11-18T15:22:51.773832+00:00",
       "approved_at": "18-11-2026 16:27",
+      "auto_approved": true
+    },
+    {
+      "id": "097b9c909b08",
+      "title": "Braun Silk-épil 9 Flex 9-481 3D Goud",
+      "price": 114.0,
+      "original_price": 190.29,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/braun-silk-epil-9-flex-9-481-3d-goud-r-22085",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1547852120.jpg?v=1794906638",
+      "found_at": "2026-11-25T11:46:57.876645+00:00",
+      "price_history": [
+        {
+          "price": 139.0,
+          "original_price": 206.5,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 135.0,
+          "original_price": 203.74,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 114.0,
+          "original_price": 190.29,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
       "auto_approved": true
     },
     {
@@ -8274,6 +8818,43 @@
       "auto_approved": true
     },
     {
+      "id": "f3b8212c10a6",
+      "title": "Lenovo IdeaPad Slim 5 16IMH9 83DC003PGE QWERTZ",
+      "price": 977.0,
+      "original_price": 1207.0,
+      "discount_percent": 19,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/lenovo-ideapad-slim-5-16imh9-83dc003pge-qwertz-r-22125",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2077269_efe251a2-f713-4bed-86f7-4e53438ea1c9.jpg?v=1794906774",
+      "found_at": "2026-11-25T11:47:07.653540+00:00",
+      "price_history": [
+        {
+          "price": 1062.0,
+          "original_price": 1207.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 998.0,
+          "original_price": 1207.0,
+          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
+        },
+        {
+          "price": 987.0,
+          "original_price": 1207.0,
+          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
+        },
+        {
+          "price": 977.0,
+          "original_price": 1207.0,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 12:52",
+      "auto_approved": true
+    },
+    {
       "id": "c78ae5bef26a",
       "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
       "price": 77.0,
@@ -8343,358 +8924,6 @@
         }
       ],
       "approved_at": "18-11-2026 08:44",
-      "auto_approved": true
-    },
-    {
-      "id": "bbca245b8f6b",
-      "title": "Polar LOOP GEN2 COP/BRN S-L",
-      "price": 77.0,
-      "original_price": 133.15,
-      "discount_percent": 42,
-      "category": "wearables",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/polar-loop-gen2-cop-brn-s-l-r-21768",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2217243.jpg?v=1793365210",
-      "found_at": "2026-11-20T07:45:14.243737+00:00",
-      "price_history": [
-        {
-          "price": 118.0,
-          "original_price": 154.57,
-          "scraped_at": "2026-11-03T07:01:00.219070+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 145.89,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 100.0,
-          "original_price": 145.36,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 77.0,
-          "original_price": 133.15,
-          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
-        }
-      ],
-      "approved_at": "20-11-2026 12:33",
-      "auto_approved": true
-    },
-    {
-      "id": "ed1b80e0ef25",
-      "title": "Canon PIXMA TS705a",
-      "price": 51.0,
-      "original_price": 91.53,
-      "discount_percent": 44,
-      "category": "camera",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/canon-pixma-ts705a-r-21863",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1381907.jpg?v=1793958852",
-      "found_at": "2026-11-22T07:36:31.592250+00:00",
-      "price_history": [
-        {
-          "price": 67.0,
-          "original_price": 91.68,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 63.0,
-          "original_price": 91.68,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 51.0,
-          "original_price": 91.53,
-          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
-        }
-      ],
-      "approved_at": "22-11-2026 08:40",
-      "auto_approved": true
-    },
-    {
-      "id": "dfa84693ac12",
-      "title": "Acer Aspire 5 A514-56P-73S2 QWERTY",
-      "price": 638.0,
-      "original_price": 836.0,
-      "discount_percent": 23,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/acer-aspire-5-a514-56p-73s2-qwerty-r-21631",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1946954_c6b80efe-42cc-4379-a242-fa9194e2c501.jpg?v=1793109940",
-      "found_at": "2026-11-12T19:19:12.263930+00:00",
-      "price_history": [
-        {
-          "price": 769.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-10-27T19:00:14.442171+00:00"
-        },
-        {
-          "price": 722.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-11-02T11:01:03.814799+00:00"
-        },
-        {
-          "price": 715.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-11-03T11:00:35.730297+00:00"
-        },
-        {
-          "price": 707.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-11-04T11:00:25.136494+00:00"
-        },
-        {
-          "price": 699.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-11-05T15:00:17.269686+00:00"
-        },
-        {
-          "price": 646.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
-        },
-        {
-          "price": 638.0,
-          "original_price": 836.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 16:26",
-      "auto_approved": true
-    },
-    {
-      "id": "99db87fe6e50",
-      "title": "HP Pavilion x360 14-ek2033ng QWERTZ",
-      "price": 432.0,
-      "original_price": 599.0,
-      "discount_percent": 27,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-pavilion-x360-14-ek2033ng-qwertz-r-21854",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076585_504656ae-35c5-482d-9e7b-aa3de11bb0b3.jpg?v=1793958823",
-      "found_at": "2026-11-25T07:24:03.463740+00:00",
-      "price_history": [
-        {
-          "price": 495.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 490.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
-        },
-        {
-          "price": 484.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 479.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 469.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 463.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
-        },
-        {
-          "price": 458.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
-        },
-        {
-          "price": 453.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-20T11:00:21.190400+00:00"
-        },
-        {
-          "price": 448.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
-        },
-        {
-          "price": 442.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-22T11:00:12.649837+00:00"
-        },
-        {
-          "price": 437.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
-        },
-        {
-          "price": 432.0,
-          "original_price": 599.0,
-          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
-        }
-      ],
-      "approved_at": "25-11-2026 08:29",
-      "auto_approved": true
-    },
-    {
-      "id": "0b9bdc4a771d",
-      "title": "Logitech G 15 TKL Gaming Toetsenbord QWERTZ",
-      "price": 49.0,
-      "original_price": 88.14,
-      "discount_percent": 44,
-      "category": "gaming",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-g-15-tkl-gaming-toetsenbord-qwertz-r-21847",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095742.jpg?v=1793697444",
-      "found_at": "2026-11-25T07:24:08.644265+00:00",
-      "price_history": [
-        {
-          "price": 76.0,
-          "original_price": 88.12,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 73.0,
-          "original_price": 87.56,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 69.0,
-          "original_price": 87.56,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 64.0,
-          "original_price": 88.14,
-          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
-        },
-        {
-          "price": 49.0,
-          "original_price": 88.14,
-          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
-        }
-      ],
-      "approved_at": "25-11-2026 08:29",
-      "auto_approved": true
-    },
-    {
-      "id": "80aee20d5f5f",
-      "title": "MSI Prestige 16 AI Evo B1MG-022NL QWERTY",
-      "price": 1061.0,
-      "original_price": 1295.0,
-      "discount_percent": 18,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/msi-prestige-16-ai-evo-b1mg-022nl-qwerty-r-22210",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1998376.jpg?v=1795429120",
-      "found_at": "2026-11-25T07:24:08.646416+00:00",
-      "approved_at": "25-11-2026 08:29",
-      "auto_approved": true
-    },
-    {
-      "id": "e2e3a5f07ef8",
-      "title": "HP OmniBook 7 17-dc0975nb AZERTY",
-      "price": 1065.0,
-      "original_price": 1299.0,
-      "discount_percent": 18,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-omnibook-7-17-dc0975nb-azerty-r-22410",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241498_ca636848-35ac-4d55-a9b3-d439e6d14293.jpg?v=1795429395",
-      "found_at": "2026-11-25T07:24:00.146137+00:00",
-      "approved_at": "25-11-2026 08:29",
-      "auto_approved": true
-    },
-    {
-      "id": "1c11a502eea7",
-      "title": "Philips HD7900/01",
-      "price": 102.0,
-      "original_price": 171.0,
-      "discount_percent": 40,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-hd7900-01-r-22452",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1967266_ee0399dd-1a8b-4022-a8b2-3a1bf8986649.jpg?v=1795511370",
-      "found_at": "2026-11-25T07:24:12.696845+00:00",
-      "approved_at": "25-11-2026 08:29",
-      "auto_approved": true
-    },
-    {
-      "id": "6a1b1f60f23e",
-      "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
-      "price": 78.0,
-      "original_price": 132.73,
-      "discount_percent": 41,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/logitech-k860-ergonomisch-draadloos-toetsenbord-azerty-r-21849",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1565947_d4a66148-63dd-4c4b-82b5-76cd7fc6fa19.jpg?v=1793697451",
-      "found_at": "2026-11-25T07:24:08.644761+00:00",
-      "price_history": [
-        {
-          "price": 117.0,
-          "original_price": 128.54,
-          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": 139.33,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 135.43,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 113.0,
-          "original_price": 139.68,
-          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
-        },
-        {
-          "price": 108.0,
-          "original_price": 134.26,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 100.0,
-          "original_price": 133.7,
-          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
-        },
-        {
-          "price": 101.0,
-          "original_price": 137.08,
-          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
-        },
-        {
-          "price": 100.0,
-          "original_price": 136.14,
-          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
-        },
-        {
-          "price": 104.0,
-          "original_price": 135.65,
-          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
-        },
-        {
-          "price": 78.0,
-          "original_price": 132.73,
-          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
-        }
-      ],
-      "approved_at": "25-11-2026 08:29",
       "auto_approved": true
     }
   ]
