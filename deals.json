@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-24T19:39:59.849473+00:00",
-  "total": 291,
+  "updated_at": "2026-11-25T07:29:00.166117+00:00",
+  "total": 300,
   "deals": [
+    {
+      "id": "179f82374d12",
+      "title": "Xiaomi Redmi Note 15 Pro, Smartphone 12+512 GB, 6500 mAh Batterij, 200 MP Camera, IP65, 6,77\" FHD+ AMOLED Display, Black, 2 Jaar Garantie, Oplader niet inbegrepen",
+      "price": 399.9,
+      "original_price": 1283.0,
+      "discount_percent": 68,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0FX9TZGKM?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/61cvlhenNjL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-25T07:06:33.545880+00:00",
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
     {
       "id": "0f6046571084",
       "title": "Google Pixel 8a – Ontgrendelde Android-smartphone met geavanceerde Pixel Camera, 24-uurs batterij en krachtige beveiliging – Obsidian, 256 GB",
@@ -316,6 +331,21 @@
       "auto_approved": true
     },
     {
+      "id": "7342a0543142",
+      "title": "Lenovo Chromebook, laptop, MediaTek, 8 GB RAM, 128 GB UFS 2.2",
+      "price": 227.81,
+      "original_price": 504.23,
+      "discount_percent": 54,
+      "category": "laptops",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0GMQM42XQ?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/71AHEb5avbL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-25T07:01:46.550252+00:00",
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
+    {
       "id": "232a5d5395bb",
       "title": "JBL Bar 300 M2 Zwart",
       "price": 171.5,
@@ -596,6 +626,93 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176401_18a51e03-c884-4522-9e46-860a21731eb6.jpg?v=1794906790",
       "found_at": "2026-11-18T07:39:37.044010+00:00",
       "approved_at": "18-11-2026 08:44",
+      "auto_approved": true
+    },
+    {
+      "id": "14a2e6b94429",
+      "title": "Acer Aspire 15 A15-51M-55AY QWERTZ",
+      "price": 441.0,
+      "original_price": 749.0,
+      "discount_percent": 41,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/acer-aspire-15-a15-51m-55ay-qwertz-r-21623",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2122314_d7b5ed58-328d-4d71-a672-5aa152603a85.jpg?v=1793109910",
+      "found_at": "2026-11-25T07:23:54.333838+00:00",
+      "price_history": [
+        {
+          "price": 633.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-04T11:00:25.136494+00:00"
+        },
+        {
+          "price": 627.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-05T15:00:17.269686+00:00"
+        },
+        {
+          "price": 578.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-12T11:00:18.867039+00:00"
+        },
+        {
+          "price": 571.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+        },
+        {
+          "price": 565.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 558.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 537.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 523.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        },
+        {
+          "price": 509.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
+        },
+        {
+          "price": 496.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-20T11:00:21.190400+00:00"
+        },
+        {
+          "price": 482.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        },
+        {
+          "price": 468.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-22T11:00:12.649837+00:00"
+        },
+        {
+          "price": 454.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
+        },
+        {
+          "price": 441.0,
+          "original_price": 749.0,
+          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 08:29",
       "auto_approved": true
     },
     {
@@ -8488,6 +8605,237 @@
         }
       ],
       "approved_at": "13-11-2026 16:26",
+      "auto_approved": true
+    },
+    {
+      "id": "99db87fe6e50",
+      "title": "HP Pavilion x360 14-ek2033ng QWERTZ",
+      "price": 432.0,
+      "original_price": 599.0,
+      "discount_percent": 27,
+      "category": "laptops",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-pavilion-x360-14-ek2033ng-qwertz-r-21854",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2076585_504656ae-35c5-482d-9e7b-aa3de11bb0b3.jpg?v=1793958823",
+      "found_at": "2026-11-25T07:24:03.463740+00:00",
+      "price_history": [
+        {
+          "price": 495.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 490.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+        },
+        {
+          "price": 484.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 479.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
+        },
+        {
+          "price": 469.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 463.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        },
+        {
+          "price": 458.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
+        },
+        {
+          "price": 453.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-20T11:00:21.190400+00:00"
+        },
+        {
+          "price": 448.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        },
+        {
+          "price": 442.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-22T11:00:12.649837+00:00"
+        },
+        {
+          "price": 437.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
+        },
+        {
+          "price": 432.0,
+          "original_price": 599.0,
+          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
+    {
+      "id": "0b9bdc4a771d",
+      "title": "Logitech G 15 TKL Gaming Toetsenbord QWERTZ",
+      "price": 49.0,
+      "original_price": 88.14,
+      "discount_percent": 44,
+      "category": "gaming",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-g-15-tkl-gaming-toetsenbord-qwertz-r-21847",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2095742.jpg?v=1793697444",
+      "found_at": "2026-11-25T07:24:08.644265+00:00",
+      "price_history": [
+        {
+          "price": 76.0,
+          "original_price": 88.12,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 73.0,
+          "original_price": 87.56,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 69.0,
+          "original_price": 87.56,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 64.0,
+          "original_price": 88.14,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 88.14,
+          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
+    {
+      "id": "80aee20d5f5f",
+      "title": "MSI Prestige 16 AI Evo B1MG-022NL QWERTY",
+      "price": 1061.0,
+      "original_price": 1295.0,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/msi-prestige-16-ai-evo-b1mg-022nl-qwerty-r-22210",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1998376.jpg?v=1795429120",
+      "found_at": "2026-11-25T07:24:08.646416+00:00",
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
+    {
+      "id": "e2e3a5f07ef8",
+      "title": "HP OmniBook 7 17-dc0975nb AZERTY",
+      "price": 1065.0,
+      "original_price": 1299.0,
+      "discount_percent": 18,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/hp-omnibook-7-17-dc0975nb-azerty-r-22410",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2241498_ca636848-35ac-4d55-a9b3-d439e6d14293.jpg?v=1795429395",
+      "found_at": "2026-11-25T07:24:00.146137+00:00",
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
+    {
+      "id": "1c11a502eea7",
+      "title": "Philips HD7900/01",
+      "price": 102.0,
+      "original_price": 171.0,
+      "discount_percent": 40,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-hd7900-01-r-22452",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1967266_ee0399dd-1a8b-4022-a8b2-3a1bf8986649.jpg?v=1795511370",
+      "found_at": "2026-11-25T07:24:12.696845+00:00",
+      "approved_at": "25-11-2026 08:29",
+      "auto_approved": true
+    },
+    {
+      "id": "6a1b1f60f23e",
+      "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
+      "price": 78.0,
+      "original_price": 132.73,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-k860-ergonomisch-draadloos-toetsenbord-azerty-r-21849",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1565947_d4a66148-63dd-4c4b-82b5-76cd7fc6fa19.jpg?v=1793697451",
+      "found_at": "2026-11-25T07:24:08.644761+00:00",
+      "price_history": [
+        {
+          "price": 117.0,
+          "original_price": 128.54,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 139.33,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 135.43,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 139.68,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 134.26,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 133.7,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 137.08,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 136.14,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 135.65,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 132.73,
+          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
+        }
+      ],
+      "approved_at": "25-11-2026 08:29",
       "auto_approved": true
     }
   ]
