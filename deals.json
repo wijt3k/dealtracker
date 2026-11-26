@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T19:40:28.930042+00:00",
-  "total": 300,
+  "updated_at": "2026-11-26T19:41:04.783500+00:00",
+  "total": 296,
   "deals": [
     {
       "id": "179f82374d12",
@@ -614,21 +614,6 @@
         }
       ],
       "approved_at": "24-11-2026 12:34",
-      "auto_approved": true
-    },
-    {
-      "id": "6ab15b0bdaae",
-      "title": "Ecovacs Deebot T80 OMNI Black",
-      "price": 479.0,
-      "original_price": 799.0,
-      "discount_percent": 40,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/ecovacs-deebot-t80-omni-black-r-22129",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2176401_18a51e03-c884-4522-9e46-860a21731eb6.jpg?v=1794906790",
-      "found_at": "2026-11-18T07:39:37.044010+00:00",
-      "approved_at": "18-11-2026 08:44",
       "auto_approved": true
     },
     {
@@ -2640,33 +2625,6 @@
       "auto_approved": true
     },
     {
-      "id": "110b8857d653",
-      "title": "Dreame H12 Pro FlexLite",
-      "price": 120.0,
-      "original_price": 236.33,
-      "discount_percent": 49,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/dreame-h12-pro-flexlite-r-22245",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2227216.jpg?v=1794907210",
-      "found_at": "2026-11-18T11:22:17.368362+00:00",
-      "price_history": [
-        {
-          "price": 160.0,
-          "original_price": 236.33,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 120.0,
-          "original_price": 236.33,
-          "scraped_at": "2026-11-18T19:00:18.636868+00:00"
-        }
-      ],
-      "approved_at": "23-11-2026 20:29",
-      "auto_approved": true
-    },
-    {
       "id": "3f2671744ced",
       "title": "AEG AP81A25COM 8000 ULTIMATE",
       "price": 274.0,
@@ -4354,38 +4312,6 @@
       "auto_approved": true
     },
     {
-      "id": "7830bbfa2b86",
-      "title": "Philips 24E1N1300AE/00",
-      "price": 72.0,
-      "original_price": 137.5,
-      "discount_percent": 47,
-      "category": "elektronica",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/philips-24e1n1300ae-00-r-21862",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2018548_6a83ee95-6424-4863-bddb-b93e49dc9c31.jpg?v=1793958853",
-      "found_at": "2026-11-19T11:18:24.876739+00:00",
-      "price_history": [
-        {
-          "price": 95.0,
-          "original_price": 137.74,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 89.0,
-          "original_price": 129.09,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 72.0,
-          "original_price": 137.5,
-          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
-        }
-      ],
-      "approved_at": "23-11-2026 20:29",
-      "auto_approved": true
-    },
-    {
       "id": "af007f58e535",
       "title": "HP OfficeJet Pro 9132e All-in-One Printer",
       "price": 169.0,
@@ -5460,88 +5386,6 @@
       "image": "https://m.media-amazon.com/images/I/51qJvTLI5LL._AC_SY300_SX300_QL70_ML2_.jpg",
       "found_at": "2026-11-24T15:11:00.901623+00:00",
       "approved_at": "24-11-2026 16:23",
-      "auto_approved": true
-    },
-    {
-      "id": "259ecf52f97b",
-      "title": "HP Laptop n250 15-fd0028ng QWERTZ",
-      "price": 259.0,
-      "original_price": 399.0,
-      "discount_percent": 35,
-      "category": "laptops",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/hp-laptop-n250-15-fd0028ng-qwertz-r-21404",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/141855526.jpg?v=1792483065",
-      "found_at": "2026-11-13T07:32:33.150368+00:00",
-      "price_history": [
-        {
-          "price": 315.9,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-21T10:00:25.523196+00:00"
-        },
-        {
-          "price": 299.7,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-26T11:01:11.716962+00:00"
-        },
-        {
-          "price": 333.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-26T19:00:11.736947+00:00"
-        },
-        {
-          "price": 330.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-27T11:00:28.628969+00:00"
-        },
-        {
-          "price": 326.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-28T11:00:17.715325+00:00"
-        },
-        {
-          "price": 323.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-29T11:00:25.512181+00:00"
-        },
-        {
-          "price": 319.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-30T11:00:45.228268+00:00"
-        },
-        {
-          "price": 316.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-10-31T11:00:57.443036+00:00"
-        },
-        {
-          "price": 312.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-11-01T15:00:30.633333+00:00"
-        },
-        {
-          "price": 308.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-11-02T15:00:30.683949+00:00"
-        },
-        {
-          "price": 305.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-11-03T11:00:35.730297+00:00"
-        },
-        {
-          "price": 301.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-11-04T15:00:13.516487+00:00"
-        },
-        {
-          "price": 259.0,
-          "original_price": 399.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        }
-      ],
-      "approved_at": "13-11-2026 08:37",
       "auto_approved": true
     },
     {
