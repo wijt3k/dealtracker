@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T19:53:35.234460+00:00",
-  "total": 297,
+  "updated_at": "2026-11-26T07:27:24.541453+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "179f82374d12",
@@ -9087,6 +9087,167 @@
         }
       ],
       "approved_at": "25-11-2026 20:53",
+      "auto_approved": true
+    },
+    {
+      "id": "7fe73886843d",
+      "title": "Philips Baristina Espressoapparaat BAR300/60 - Zwart",
+      "price": 203.0,
+      "original_price": 312.25,
+      "discount_percent": 34,
+      "category": "huishouden",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-baristina-espressoapparaat-bar300-60-zwart-r-22239",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2050906_4ebdb5fd-632a-4c6b-bc93-142a984ed73a.jpg?v=1794907192",
+      "found_at": "2026-11-26T07:21:58.735629+00:00",
+      "price_history": [
+        {
+          "price": 210.0,
+          "original_price": 314.28,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        },
+        {
+          "price": 254.0,
+          "original_price": 326.49,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 203.0,
+          "original_price": 312.25,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "26-11-2026 08:27",
+      "auto_approved": true
+    },
+    {
+      "id": "e2920cb74ab8",
+      "title": "Oral-B iO 9n Onyx Zwart Speciale Editie",
+      "price": 141.0,
+      "original_price": 226.47,
+      "discount_percent": 37,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/oral-b-io-9n-onyx-zwart-speciale-editie-r-22022",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1799004_e211643b-319b-44df-b529-a86554a36cc9.jpg?v=1794211925",
+      "found_at": "2026-11-26T07:21:58.734270+00:00",
+      "price_history": [
+        {
+          "price": 183.0,
+          "original_price": 229.3,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 188.0,
+          "original_price": 228.6,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 182.0,
+          "original_price": 228.6,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
+        },
+        {
+          "price": 177.0,
+          "original_price": 222.97,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 167.0,
+          "original_price": 221.33,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 199.0,
+          "original_price": 234.66,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        },
+        {
+          "price": 167.0,
+          "original_price": 221.33,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 141.0,
+          "original_price": 226.47,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "26-11-2026 08:27",
+      "auto_approved": true
+    },
+    {
+      "id": "6a1b1f60f23e",
+      "title": "Logitech K860 Ergonomisch Draadloos Toetsenbord AZERTY",
+      "price": 77.0,
+      "original_price": 131.24,
+      "discount_percent": 41,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/logitech-k860-ergonomisch-draadloos-toetsenbord-azerty-r-21849",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1565947_d4a66148-63dd-4c4b-82b5-76cd7fc6fa19.jpg?v=1793697451",
+      "found_at": "2026-11-26T07:21:55.588473+00:00",
+      "price_history": [
+        {
+          "price": 117.0,
+          "original_price": 128.54,
+          "scraped_at": "2026-11-04T07:00:36.917735+00:00"
+        },
+        {
+          "price": 120.0,
+          "original_price": 139.33,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 135.43,
+          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
+        },
+        {
+          "price": 113.0,
+          "original_price": 139.68,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
+        },
+        {
+          "price": 108.0,
+          "original_price": 134.26,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 133.7,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 101.0,
+          "original_price": 137.08,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        },
+        {
+          "price": 100.0,
+          "original_price": 136.14,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        },
+        {
+          "price": 104.0,
+          "original_price": 135.65,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 78.0,
+          "original_price": 132.73,
+          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
+        },
+        {
+          "price": 77.0,
+          "original_price": 131.24,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        }
+      ],
+      "approved_at": "26-11-2026 08:27",
       "auto_approved": true
     }
   ]
