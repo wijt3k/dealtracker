@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T07:34:43.884696+00:00",
-  "total": 295,
+  "updated_at": "2026-11-27T11:41:14.058671+00:00",
+  "total": 300,
   "deals": [
     {
       "id": "179f82374d12",
@@ -107,6 +107,38 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2223159.jpg?v=1794906944",
       "found_at": "2026-11-18T07:39:55.680502+00:00",
       "approved_at": "18-11-2026 08:44",
+      "auto_approved": true
+    },
+    {
+      "id": "6df3cf6024d1",
+      "title": "Optoma UHD35STX",
+      "price": 737.0,
+      "original_price": 1279.25,
+      "discount_percent": 42,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/optoma-uhd35stx-r-22092",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2036677.jpg?v=1794906655",
+      "found_at": "2026-11-27T11:36:42.161568+00:00",
+      "price_history": [
+        {
+          "price": 1473.0,
+          "original_price": 1587.0,
+          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+        },
+        {
+          "price": 1423.0,
+          "original_price": 1587.0,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 737.0,
+          "original_price": 1279.25,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
+        }
+      ],
+      "approved_at": "27-11-2026 12:41",
       "auto_approved": true
     },
     {
@@ -2114,6 +2146,43 @@
       "auto_approved": true
     },
     {
+      "id": "30cf5193dcc9",
+      "title": "Unold Nudelmaschine Nora",
+      "price": 50.0,
+      "original_price": 122.92,
+      "discount_percent": 59,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/unold-nudelmaschine-nora-r-21860",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2223100_020dab02-d1c9-47bc-b7b4-07ee622622f6.jpg?v=1793958839",
+      "found_at": "2026-11-27T11:36:51.479363+00:00",
+      "price_history": [
+        {
+          "price": 104.0,
+          "original_price": 115.82,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 98.0,
+          "original_price": 115.48,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 119.84,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 122.92,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
+        }
+      ],
+      "approved_at": "27-11-2026 12:41",
+      "auto_approved": true
+    },
+    {
       "id": "18b8ce22246c",
       "title": "Philips Avent Videobabyfoon HD Camera – veilige bewaking zonder wifi",
       "price": 102.08,
@@ -3256,6 +3325,68 @@
       "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1797614_482db392-12c3-4d0f-817f-ddcc205ba9f9.jpg?v=1794211821",
       "found_at": "2026-11-13T07:32:42.913479+00:00",
       "approved_at": "13-11-2026 08:37",
+      "auto_approved": true
+    },
+    {
+      "id": "6e9e05722743",
+      "title": "Canon PIXMA TR4756i",
+      "price": 32.0,
+      "original_price": 72.15,
+      "discount_percent": 55,
+      "category": "camera",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/canon-pixma-tr4756i-r-21864",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2110225.jpg?v=1793958853",
+      "found_at": "2026-11-27T11:36:31.356874+00:00",
+      "price_history": [
+        {
+          "price": 52.0,
+          "original_price": 70.46,
+          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
+        },
+        {
+          "price": 48.0,
+          "original_price": 72.49,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 72.57,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
+        },
+        {
+          "price": 51.0,
+          "original_price": 73.28,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
+        },
+        {
+          "price": 49.0,
+          "original_price": 73.16,
+          "scraped_at": "2026-11-21T11:00:14.564510+00:00"
+        },
+        {
+          "price": 50.0,
+          "original_price": 74.13,
+          "scraped_at": "2026-11-22T07:00:52.104870+00:00"
+        },
+        {
+          "price": 45.0,
+          "original_price": 73.65,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 44.0,
+          "original_price": 72.1,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        },
+        {
+          "price": 32.0,
+          "original_price": 72.15,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
+        }
+      ],
+      "approved_at": "27-11-2026 12:41",
       "auto_approved": true
     },
     {
@@ -8365,6 +8496,21 @@
       "auto_approved": true
     },
     {
+      "id": "f1c0d6765177",
+      "title": "NEEWER X12 aluminiumteleprompter met RT-110-afstandsbediening (Bluetooth via NEEWER Teleprompter App) en draagtas, compatibel met iPad, iOS/Android-tablets, smartphones en DSLR's (zwart)",
+      "price": 84.06,
+      "original_price": 144.39,
+      "discount_percent": 41,
+      "category": "smartphones",
+      "source": "Amazon RetourDeals",
+      "condition": "Retour",
+      "url": "https://www.amazon.nl/dp/B0B5D7MMDN?tag=dealtracke0e6-21",
+      "image": "https://m.media-amazon.com/images/I/81I86tCFatL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "found_at": "2026-11-27T11:25:37.389679+00:00",
+      "approved_at": "27-11-2026 12:41",
+      "auto_approved": true
+    },
+    {
       "id": "9b7635793054",
       "title": "Polar Pacer Pro Grijs/Zwart S-L",
       "price": 171.0,
@@ -9241,179 +9387,191 @@
       "auto_approved": true
     },
     {
-      "id": "607f0af8a96e",
-      "title": "Pierre Broodrooster XXL PT7000",
-      "price": 29.0,
-      "original_price": 49.0,
-      "discount_percent": 40,
-      "category": "huishouden",
-      "source": "Stekkerstore",
-      "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/pierre-broodrooster-xxl-pt7000-r-21959",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/8084993.jpg?v=1793959171",
-      "found_at": "2026-11-27T07:29:38.613834+00:00",
-      "price_history": [
-        {
-          "price": 34.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-11-13T07:00:25.683994+00:00"
-        },
-        {
-          "price": 33.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 32.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
-        },
-        {
-          "price": 31.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
-        },
-        {
-          "price": 30.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-11-22T11:00:12.649837+00:00"
-        },
-        {
-          "price": 29.0,
-          "original_price": 49.0,
-          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
-        }
-      ],
-      "approved_at": "27-11-2026 08:34",
-      "auto_approved": true
-    },
-    {
-      "id": "5a7e0177c5c8",
-      "title": "Huawei Watch Fit 4 Pro Blauw + Huawei Freebuds SE 2 Wit",
-      "price": 185.0,
-      "original_price": 272.0,
-      "discount_percent": 31,
+      "id": "95a5c28b0204",
+      "title": "Philips TAB6100",
+      "price": 158.0,
+      "original_price": 237.68,
+      "discount_percent": 33,
       "category": "elektronica",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/huawei-watch-fit-4-pro-blauw-huawei-freebuds-sw-2-wit-r-21806",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2174856.jpg?v=1793697304",
-      "found_at": "2026-11-27T07:29:28.279464+00:00",
+      "url": "https://stekkerstore.com/products/philips-tab6100-r-21873",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2211542.jpg?v=1794297789",
+      "found_at": "2026-11-27T11:36:45.309493+00:00",
       "price_history": [
         {
-          "price": 227.0,
-          "original_price": 272.0,
+          "price": 167.0,
+          "original_price": 227.48,
           "scraped_at": "2026-11-13T07:00:25.683994+00:00"
         },
         {
-          "price": 225.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-13T11:00:19.586525+00:00"
+          "price": 166.0,
+          "original_price": 227.32,
+          "scraped_at": "2026-11-15T07:00:23.184352+00:00"
         },
         {
-          "price": 222.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-14T11:00:18.126086+00:00"
-        },
-        {
-          "price": 220.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-15T11:00:28.179457+00:00"
-        },
-        {
-          "price": 215.0,
-          "original_price": 272.0,
+          "price": 203.0,
+          "original_price": 229.46,
           "scraped_at": "2026-11-18T07:01:34.035239+00:00"
         },
         {
-          "price": 212.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-18T11:00:16.465833+00:00"
+          "price": 197.0,
+          "original_price": 226.28,
+          "scraped_at": "2026-11-19T07:00:30.369880+00:00"
         },
         {
-          "price": 210.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-19T11:00:20.103724+00:00"
+          "price": 203.0,
+          "original_price": 228.17,
+          "scraped_at": "2026-11-20T07:00:36.808407+00:00"
         },
         {
-          "price": 207.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-20T11:00:21.190400+00:00"
-        },
-        {
-          "price": 205.0,
-          "original_price": 272.0,
+          "price": 180.0,
+          "original_price": 229.25,
           "scraped_at": "2026-11-21T11:00:14.564510+00:00"
         },
         {
-          "price": 202.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-22T11:00:12.649837+00:00"
+          "price": 171.0,
+          "original_price": 224.87,
+          "scraped_at": "2026-11-24T07:00:36.248209+00:00"
         },
         {
-          "price": 200.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
-        },
-        {
-          "price": 195.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
-        },
-        {
-          "price": 190.0,
-          "original_price": 272.0,
-          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
-        },
-        {
-          "price": 185.0,
-          "original_price": 272.0,
+          "price": 168.0,
+          "original_price": 236.72,
           "scraped_at": "2026-11-26T11:00:34.812007+00:00"
+        },
+        {
+          "price": 158.0,
+          "original_price": 237.68,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
         }
       ],
-      "approved_at": "27-11-2026 08:34",
+      "approved_at": "27-11-2026 12:41",
       "auto_approved": true
     },
     {
-      "id": "9ab5317d442a",
-      "title": "iPhone 16e 128GB Wit Refurbished",
-      "price": 438.62,
-      "original_price": 578.0,
-      "discount_percent": 24,
-      "category": "smartphones",
+      "id": "bd35ef85bdb6",
+      "title": "Philips 3000-serie Airfryer NA342/00",
+      "price": 81.0,
+      "original_price": 130.42,
+      "discount_percent": 37,
+      "category": "huishouden",
       "source": "Stekkerstore",
       "condition": "Outlet",
-      "url": "https://stekkerstore.com/products/refurbished-iphone-16e-128gb-wit-r-22140",
-      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2141666_d017680a-b9b7-4d77-9062-ab9210483db7.jpg?v=1794906828",
-      "found_at": "2026-11-27T07:29:31.923355+00:00",
+      "url": "https://stekkerstore.com/products/philips-3000-serie-airfryer-na342-00-r-22181",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/2107386_0d29cf97-5165-4f7d-8a84-251c5002fd9c.jpg?v=1794906974",
+      "found_at": "2026-11-27T11:36:45.308309+00:00",
       "price_history": [
         {
-          "price": 482.0,
-          "original_price": 578.0,
-          "scraped_at": "2026-11-18T15:00:16.313437+00:00"
+          "price": 92.0,
+          "original_price": 138.43,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
         },
         {
-          "price": 453.08,
-          "original_price": 578.0,
+          "price": 88.0,
+          "original_price": 141.72,
+          "scraped_at": "2026-11-23T07:00:29.381991+00:00"
+        },
+        {
+          "price": 81.0,
+          "original_price": 130.42,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
+        }
+      ],
+      "approved_at": "27-11-2026 12:41",
+      "auto_approved": true
+    },
+    {
+      "id": "b97b37fd59fe",
+      "title": "Samsung Jet 95 Complete",
+      "price": 368.0,
+      "original_price": 499.0,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/samsung-jet-95-complete-r-22231",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1956533_f437118d-8954-4765-9fc3-5eb8a8aa8bd0.jpg?v=1794907162",
+      "found_at": "2026-11-27T11:36:48.308472+00:00",
+      "price_history": [
+        {
+          "price": 409.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 384.0,
+          "original_price": 499.0,
           "scraped_at": "2026-11-23T11:00:18.577506+00:00"
         },
         {
-          "price": 448.26,
-          "original_price": 578.0,
+          "price": 380.0,
+          "original_price": 499.0,
           "scraped_at": "2026-11-24T11:00:23.871963+00:00"
         },
         {
-          "price": 443.44,
-          "original_price": 578.0,
+          "price": 376.0,
+          "original_price": 499.0,
           "scraped_at": "2026-11-25T11:00:11.612751+00:00"
         },
         {
-          "price": 438.62,
-          "original_price": 578.0,
+          "price": 372.0,
+          "original_price": 499.0,
           "scraped_at": "2026-11-26T11:00:34.812007+00:00"
+        },
+        {
+          "price": 368.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
         }
       ],
-      "approved_at": "27-11-2026 08:34",
+      "approved_at": "27-11-2026 12:41",
+      "auto_approved": true
+    },
+    {
+      "id": "81468e55e35a",
+      "title": "Philips Aqua Plus series 8000 XC8349/01",
+      "price": 368.0,
+      "original_price": 499.0,
+      "discount_percent": 26,
+      "category": "elektronica",
+      "source": "Stekkerstore",
+      "condition": "Outlet",
+      "url": "https://stekkerstore.com/products/philips-aqua-plus-series-8000-xc8349-01-r-22241",
+      "image": "https://cdn.shopify.com/s/files/1/0719/8208/8458/files/1597215_f1b5b732-1b1d-44be-953c-5ab45ea40bd7.jpg?v=1794907196",
+      "found_at": "2026-11-27T11:36:45.308601+00:00",
+      "price_history": [
+        {
+          "price": 409.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-18T07:01:34.035239+00:00"
+        },
+        {
+          "price": 384.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-23T11:00:18.577506+00:00"
+        },
+        {
+          "price": 380.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-24T11:00:23.871963+00:00"
+        },
+        {
+          "price": 376.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-25T11:00:11.612751+00:00"
+        },
+        {
+          "price": 372.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-26T11:00:34.812007+00:00"
+        },
+        {
+          "price": 368.0,
+          "original_price": 499.0,
+          "scraped_at": "2026-11-27T11:00:19.270227+00:00"
+        }
+      ],
+      "approved_at": "27-11-2026 12:41",
       "auto_approved": true
     }
   ]
